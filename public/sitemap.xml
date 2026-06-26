@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- TODO: set MASTER_REMIX.BRAND_URL so <loc> values are absolute -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>/</loc>
     <changefreq>weekly</changefreq>
@@ -20,11 +20,19 @@
     <loc>/areas-we-serve/region-one</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1601704598796-d00260db4977?auto=format&fit=crop&w=1920&q=80</image:loc>
+      <image:caption>Reference hero — city skyline across a river with foothills and mountains beyond</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>/areas-we-serve/region-two</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/1/14/Rockies_in_the_morning.jpg</image:loc>
+      <image:caption>Reference hero — Rocky Mountains at dawn with foothills landscape</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>/areas-we-serve/region-one/community-a</loc>
