@@ -197,3 +197,87 @@ export const buildGraph = (nodes: Array<Record<string, unknown>>) => ({
 /** Convenience: serialize a graph for `<script>` body insertion. */
 export const stringifyGraph = (nodes: Array<Record<string, unknown>>): string =>
   JSON.stringify(buildGraph(nodes));
+
+// ── Geo nodes ─────────────────────────────────────────────────────────────
+
+export const placeNode = (args: {
+  path: string;
+  name: string;
+  geo?: { lat: number; lng: number };
+  containedInPlace?: { name: string };
+}) => ({
+  "@type": "Place",
+  "@id": `${abs(args.path)}#place`,
+  name: args.name,
+  ...(args.geo
+    ? { geo: { "@type": "GeoCoordinates", latitude: args.geo.lat, longitude: args.geo.lng } }
+    : {}),
+  ...(args.containedInPlace
+    ? { containedInPlace: { "@type": "AdministrativeArea", name: args.containedInPlace.name } }
+    : {}),
+});
+
+export const administrativeAreaNode = (args: {
+  path: string;
+  name: string;
+  containsPlace?: Array<{ name: string; path?: string }>;
+}) => ({
+  "@type": "AdministrativeArea",
+  "@id": `${abs(args.path)}#area`,
+  name: args.name,
+  ...(args.containsPlace && args.containsPlace.length
+    ? {
+        containsPlace: args.containsPlace.map((p) => ({
+          "@type": "Place",
+          name: p.name,
+          ...(p.path ? { url: abs(p.path) } : {}),
+        })),
+      }
+    : {}),
+});
+
+// ── Blog / E-E-A-T nodes ──────────────────────────────────────────────────
+
+export const blogNode = (args: {
+  path: string;
+  name: string;
+  description: string;
+}) => ({
+  "@type": "Blog",
+  "@id": `${abs(args.path)}#blog`,
+  name: args.name,
+  description: args.description,
+  url: abs(args.path),
+  publisher: { "@id": ORG_ID },
+  isPartOf: { "@id": SITE_ID },
+  inLanguage: "en",
+});
+
+export const personNode = (args: {
+  name: string;
+  role?: string;
+  url?: string;
+  image?: string;
+  sameAs?: string[];
+}) => ({
+  "@type": "Person",
+  "@id": `${args.url ?? `#person-${args.name.replace(/\s+/g, "-").toLowerCase()}`}`,
+  name: args.name,
+  ...(args.role ? { jobTitle: args.role } : {}),
+  ...(args.url ? { url: args.url } : {}),
+  ...(args.image ? { image: args.image } : {}),
+  ...(args.sameAs && args.sameAs.length ? { sameAs: args.sameAs } : {}),
+});
+
+export const aggregateRatingNode = (args: {
+  path: string;
+  ratingValue: number;
+  reviewCount: number;
+}) => ({
+  "@type": "AggregateRating",
+  "@id": `${abs(args.path)}#rating`,
+  ratingValue: args.ratingValue,
+  reviewCount: args.reviewCount,
+  bestRating: 5,
+  worstRating: 1,
+});

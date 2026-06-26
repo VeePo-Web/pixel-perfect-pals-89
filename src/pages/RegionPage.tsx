@@ -18,8 +18,17 @@ import { getRegion, getRegionCommunities, REGIONS } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";
 import { setPageMeta } from "@/lib/seo";
-import { itemListNode } from "@/lib/seoGraph";
+import {
+  itemListNode,
+  administrativeAreaNode,
+  webPageNode,
+  breadcrumbNode,
+  serviceNode,
+  stringifyGraph,
+} from "@/lib/seoGraph";
 import { hubRegistry } from "@/lib/hubRegistry";
+import { getPostsAboutRegion } from "@/lib/blogData";
+import GuidesForLocation from "@/components/blog/GuidesForLocation";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
 
 interface RegionPageProps {
@@ -34,7 +43,6 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
   const s  = MASTER_REMIX.SERVICE;
   const sc = MASTER_REMIX.SERVICE_CATEGORY;
   const bn = MASTER_REMIX.BRAND_NAME;
-  const BASE_URL = MASTER_REMIX.BRAND_URL;
 
   useEffect(() => {
     if (!region) return;
@@ -49,50 +57,58 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
       path: `/areas-we-serve/${regionSlug}`,
     });
 
-    const schemas = [
-      {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home",           item: BASE_URL },
-          { "@type": "ListItem", position: 2, name: "Areas We Serve", item: `${BASE_URL}/areas-we-serve` },
-          { "@type": "ListItem", position: 3, name: region.name,      item: `${BASE_URL}/areas-we-serve/${regionSlug}` },
-        ],
-      },
-      {
-        "@context": "https://schema.org",
-        "@type": "Service",
+    const path = `/areas-we-serve/${regionSlug}`;
+    const trail = [
+      { name: "Home", path: "/" },
+      { name: "Areas We Serve", path: "/areas-we-serve" },
+      { name: region.name, path },
+    ];
+    const graphJson = stringifyGraph([
+      webPageNode({
+        path,
+        name: `${sc} in ${region.name}`,
+        description: `${bn} serves ${communities.length} communities in ${region.name}.`,
+        breadcrumb: trail,
+      }),
+      breadcrumbNode(trail),
+      administrativeAreaNode({
+        path,
+        name: region.name,
+        containsPlace: communities.map((c) => ({
+          name: c.name,
+          path: `/areas-we-serve/${c.region}/${c.slug}`,
+        })),
+      }),
+      serviceNode({
+        path,
         name: `${sc} in ${region.name}`,
         serviceType: sc,
-        provider: { "@type": "LocalBusiness", name: bn },
+        brandName: bn,
         areaServed: {
-          "@type": "AdministrativeArea",
           name: region.name,
-          containsPlace: communities.slice(0, 10).map((c) => ({ "@type": "Place", name: c.name })),
+          type: "AdministrativeArea",
+          containsPlace: communities.slice(0, 10).map((c) => c.name),
         },
-      },
-      {
-        "@context": "https://schema.org",
-        ...itemListNode({
-          path: `/areas-we-serve/${regionSlug}`,
-          name: `Communities in ${region.name}`,
-          items: communities.map((c) => ({
-            name: c.name,
-            path: `/areas-we-serve/${c.region}/${c.slug}`,
-          })),
-        }),
-      },
-    ];
+      }),
+      itemListNode({
+        path,
+        name: `Communities in ${region.name}`,
+        items: communities.map((c) => ({
+          name: c.name,
+          path: `/areas-we-serve/${c.region}/${c.slug}`,
+        })),
+      }),
+    ]);
 
-    const cleanup = () => { document.querySelectorAll('[data-region-schema="true"]').forEach((el) => el.remove()); };
+    const cleanup = () => {
+      document.querySelectorAll('[data-region-schema="true"]').forEach((el) => el.remove());
+    };
     cleanup();
-    schemas.forEach((schema) => {
-      const script = document.createElement("script");
-      script.type = "application/ld+json";
-      script.setAttribute("data-region-schema", "true");
-      script.textContent = JSON.stringify(schema);
-      document.head.appendChild(script);
-    });
+    const el = document.createElement("script");
+    el.type = "application/ld+json";
+    el.setAttribute("data-region-schema", "true");
+    el.textContent = graphJson;
+    document.head.appendChild(el);
     return cleanup;
   }, [region, regionSlug, communities, s, sc, bn]);
 
@@ -118,6 +134,7 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
 
   const adjacentRegions = REGIONS.filter((r) => region.adjacentRegions.includes(r.slug));
   const linkedHubs = hubRegistry.filter((h) => h.linkedRegions?.includes(regionSlug));
+  const fieldNotes = getPostsAboutRegion(regionSlug);
   const tier1 = communities.filter((c) => c.tier === 1);
   const tier2 = communities.filter((c) => c.tier === 2);
   const tier3 = communities.filter((c) => c.tier === 3);
@@ -320,6 +337,9 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           </div>
         </SectionFrame>
       )}
+
+      {/* ── Editorial posts geo-bound to this region ── */}
+      <GuidesForLocation locationName={region.name} posts={fieldNotes} />
 
       {/* ── CTA ── */}
       <SectionFrame tone="forest" size="lg" grain>

@@ -25,9 +25,11 @@ import { useParams, Link } from "react-router-dom";
 import { ArrowLeft, ArrowRight, MapPin, ChevronDown } from "lucide-react";
 import TemplateLayout from "@/components/template/TemplateLayout";
 import SectionFrame from "@/components/template/SectionFrame";
-import GoogleMapEmbed from "@/components/areas/GoogleMapEmbed";
+import GoogleMap from "@/components/areas/GoogleMap";
 import NearbyAreasWidget from "@/components/areas/NearbyAreasWidget";
 import AreasSEOSchema from "@/components/areas/AreasSEOSchema";
+import GuidesForLocation from "@/components/blog/GuidesForLocation";
+import { getPostsAboutCommunity } from "@/lib/blogData";
 import { getCommunity, getRegion, getCommunity as gc, resolveCommunityHeroImage } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";
@@ -101,6 +103,7 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
 
   /* Dynamic FAQs — never reference a specific trade in stored community data */
   const faqs: FAQ[] = community ? buildFAQs(community, s, bn) : [];
+  const guides = community ? getPostsAboutCommunity(community.slug) : [];
 
   useEffect(() => {
     if (!community || !region) return;
@@ -342,7 +345,7 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
           <h2 className="font-display text-display-sm text-charcoal mb-5">
             Where We Work in {community.name}
           </h2>
-          <GoogleMapEmbed
+          <GoogleMap
             lat={community.coordinates.lat}
             lng={community.coordinates.lng}
             title={community.name}
@@ -447,6 +450,9 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
           Pulls nearestCommunities[] from communities.ts for PageRank flow.
       ══════════════════════════════════════════════════════════════════════ */}
       <NearbyAreasWidget currentSlug={community.slug} communityName={community.name} />
+
+      {/* ── Editorial posts geo-bound to this community (Victorious-SEO bridge) ── */}
+      <GuidesForLocation locationName={community.name} posts={guides} />
 
       {/* ══════════════════════════════════════════════════════════════════════
           SECTION 7 — COMMUNITY-SPECIFIC CTA

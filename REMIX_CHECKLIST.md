@@ -60,6 +60,38 @@ sitemap edits.
 - Per-route Helmet metadata: title, description, canonical, og:*.
 - Sitewide `Organization` + `WebSite` JSON-LD in `index.html`.
 - Bi-directional Areas ↔ Blog topical linking via `Hub.linkedRegions`.
+- `Place` / `AdministrativeArea` graph nodes for every region with
+  `containsPlace` edges to every served community.
+- Cross-surface "Guides for {Region}" / "Guides for {Community}" rails
+  rendered automatically when a `BlogPost.about` declares geo binding.
+- "Serving {Community}" trust card rendered on every geo-bound post.
+- Sitemap entries carry `<lastmod>` for posts; auto-regenerated on
+  `dev` and `build`.
+- Google Maps JS API used when
+  `VITE_LOVABLE_CONNECTOR_GOOGLE_MAPS_BROWSER_KEY` is present;
+  keyless iframe fallback otherwise (no broken map in preview).
+
+## Programmatic variance contract (anti-doorway)
+
+Use `pickVariant(slug, [...])` from `src/lib/contentVariance.ts` to
+rotate intro / FAQ phrasing across many community or hub pages from
+one template. Same slug always returns the same variant — stable for
+caching and link integrity, varied enough to avoid doorway-page
+flags when you ship 100+ locations.
+
+```ts
+import { pickVariant, fill } from "@/lib/contentVariance";
+
+const intros = [
+  "{brand} has served {community} for {years} years.",
+  "Homeowners across {community} call {brand} for {service}.",
+  "{community} sits at the heart of where {brand} works.",
+];
+
+const copy = fill(pickVariant(community.slug, intros), {
+  brand: BRAND_NAME, community: community.name, years: 12, service: SERVICE,
+});
+```
 
 ## What requires a real domain
 

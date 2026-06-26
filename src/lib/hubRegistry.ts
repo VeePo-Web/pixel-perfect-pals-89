@@ -26,6 +26,11 @@ export interface Hub {
    * list the regions where the work happens. Empty = sitewide.
    */
   linkedRegions?: string[];
+  /**
+   * Community slugs this hub speaks to directly. Renders a "Guides for
+   * {Community}" rail on each matching community page. Empty = none.
+   */
+  linkedCommunities?: string[];
 }
 
 export interface HubGovernanceData {
@@ -79,6 +84,7 @@ export const EXAMPLE_HUB: Hub = {
   servicePages: ["/areas-we-serve"],
   relatedHubs: [],
   linkedRegions: [],
+  linkedCommunities: [],
 };
 
 export const getHubById = (hubId: string): Hub | undefined =>
