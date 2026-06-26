@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "preflight": "bun run scripts/preflight.ts",
-    "prebuild": "bun run scripts/preflight.ts --strict",
+    "predev": "npx tsx scripts/generate-sitemap.ts",
+    "prebuild": "npx tsx scripts/generate-sitemap.ts && bun run scripts/preflight.ts --strict",
     "build": "vite build",
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
