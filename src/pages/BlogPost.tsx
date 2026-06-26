@@ -25,7 +25,8 @@ interface BlogPostProps {
 }
 
 const BlogPost = ({ onBookClick }: BlogPostProps) => {
-  const { slug } = useParams<{ slug: string }>();
+  const params = useParams<{ slug?: string; hubSlug?: string }>();
+  const slug = params.slug || params.hubSlug;
   const post = slug ? getPostBySlug(slug) : undefined;
 
   useEffect(() => {
