@@ -2,16 +2,10 @@ import { Link, useLocation } from "react-router-dom";
 import PrefetchLink from "./PrefetchLink";
 import { useEffect, useState } from "react";
 import { Menu, X } from "lucide-react";
-import { MasterLogo } from "@/master";
-import { TEMPLATE_COPY } from "@/config/template/template-copy";
+import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { SloganHeartbeat } from "@/components/template/bespoke";
-import type { BookingClickHandler } from "@/config/drywall-booking";
 
-interface Props {
-  onBookClick?: BookingClickHandler;
-}
-
-const TemplateNavigation = ({ onBookClick }: Props) => {
+const TemplateNavigation = () => {
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const { pathname } = useLocation();
@@ -62,8 +56,12 @@ const TemplateNavigation = ({ onBookClick }: Props) => {
       </div>
 
       <div className="container mx-auto flex h-20 items-center justify-between px-6">
-        <Link to="/" aria-label={`${TEMPLATE_COPY.brand?.tagline ?? "Home"} — home`} className="inline-flex items-center">
-          <MasterLogo slot="nav" />
+        <Link
+          to="/"
+          aria-label={`${MASTER_REMIX.BRAND_NAME} — home`}
+          className="inline-flex items-center font-display text-[1.05rem] font-medium uppercase tracking-[0.18em] text-charcoal"
+        >
+          {MASTER_REMIX.BRAND_NAME}
         </Link>
 
         <nav className="hidden items-center gap-1 lg:flex" aria-label="Primary">
@@ -85,13 +83,12 @@ const TemplateNavigation = ({ onBookClick }: Props) => {
         </nav>
 
         <div className="hidden lg:block">
-          <button
-            type="button"
-            onClick={() => onBookClick?.({ source: "Nav → Book Now" })}
-            className="cta-forest inline-flex rounded-sm bg-forest px-5 py-2.5 text-sm font-medium text-primary-foreground transition-colors hover:bg-forest-deep"
+          <Link
+            to="/areas-we-serve"
+            className="inline-flex rounded-sm bg-charcoal px-5 py-2.5 text-sm font-medium tracking-[0.08em] text-bone transition-colors hover:bg-graphite"
           >
-            Book Now
-          </button>
+            {MASTER_REMIX.CTA_PRIMARY}
+          </Link>
         </div>
 
         <button
@@ -123,13 +120,13 @@ const TemplateNavigation = ({ onBookClick }: Props) => {
               </li>
             ))}
             <li className="bg-bone p-6">
-              <button
-                type="button"
-                onClick={() => { setOpen(false); onBookClick?.({ source: "Mobile nav → Book Now" }); }}
-                className="cta-forest w-full rounded-sm bg-forest px-5 py-3 text-sm font-medium text-primary-foreground"
+              <Link
+                to="/areas-we-serve"
+                onClick={() => setOpen(false)}
+                className="block w-full rounded-sm bg-charcoal px-5 py-3 text-center text-sm font-medium tracking-[0.08em] text-bone"
               >
-                Book Now
-              </button>
+                {MASTER_REMIX.CTA_PRIMARY}
+              </Link>
             </li>
           </ul>
         </div>
