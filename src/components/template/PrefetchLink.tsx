@@ -6,18 +6,7 @@ type Prefetcher = () => Promise<unknown>;
 // Map of route path -> dynamic import factory. Centralised so nav/footer
 // can warm any route's chunk without each link knowing the import path.
 const ROUTE_PREFETCHERS: Record<string, Prefetcher> = {
-  "/": () => import("@/pages/template/Home"),
-  "/brand-story": () => import("@/pages/template/BrandStory"),
-  "/why-we-love": () => import("@/pages/template/WhyWeLoveService"),
-  "/services": () => import("@/pages/template/Services"),
   "/areas-we-serve": () => import("@/pages/AreasHub"),
-  "/pricing": () => import("@/pages/template/Pricing"),
-  "/gallery": () => import("@/pages/template/Gallery"),
-  "/reviews": () => import("@/pages/template/Reviews"),
-  "/about": () => import("@/pages/template/About"),
-  "/contact": () => import("@/pages/template/Contact"),
-  "/privacy": () => import("@/pages/template/Privacy"),
-  "/terms": () => import("@/pages/template/Terms"),
 };
 
 const warmed = new Set<string>();
