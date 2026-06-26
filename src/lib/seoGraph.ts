@@ -281,3 +281,23 @@ export const aggregateRatingNode = (args: {
   bestRating: 5,
   worstRating: 1,
 });
+
+/**
+ * Offer node — declares availability of a free estimate. Attach to a
+ * Service node via `makesOffer`. Price-free by design; remixes can add
+ * `priceSpecification` if they advertise fixed pricing.
+ */
+export const offerNode = (args: {
+  path: string;
+  name: string;
+  description?: string;
+}) => ({
+  "@type": "Offer",
+  "@id": `${abs(args.path)}#offer`,
+  name: args.name,
+  ...(args.description ? { description: args.description } : {}),
+  availability: "https://schema.org/InStock",
+  price: "0",
+  priceCurrency: "USD",
+  url: abs(args.path),
+});
