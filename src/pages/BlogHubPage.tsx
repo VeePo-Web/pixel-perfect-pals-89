@@ -75,7 +75,7 @@ const BlogHubPage = ({ onBookClick }: BlogHubPageProps) => {
         </script>
       </Helmet>
 
-      <TemplateNavigation onBookClick={onBookClick} />
+      <TemplateNavigation />
 
       <main id="main" className="pt-24">
         <section className="border-b border-seam">
@@ -150,7 +150,7 @@ const BlogHubPage = ({ onBookClick }: BlogHubPageProps) => {
         )}
       </main>
 
-      <TemplateFooter onBookClick={onBookClick} />
+      <TemplateFooter />
     </div>
   );
 };

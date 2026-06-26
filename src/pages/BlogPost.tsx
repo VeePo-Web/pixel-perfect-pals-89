@@ -63,7 +63,7 @@ const BlogPost = ({ onBookClick }: Props) => {
 
       <BlogPostingSchema post={post} hub={hub} />
 
-      <TemplateNavigation onBookClick={onBookClick} />
+      <TemplateNavigation />
 
       <main id="main" className="pt-24">
         <article className="container mx-auto max-w-3xl px-6 py-16">
@@ -179,7 +179,7 @@ const BlogPost = ({ onBookClick }: Props) => {
         </article>
       </main>
 
-      <TemplateFooter onBookClick={onBookClick} />
+      <TemplateFooter />
     </div>
   );
 };
