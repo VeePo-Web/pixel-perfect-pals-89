@@ -54,7 +54,7 @@ const BlogPost = ({ onBookClick }: BlogPostProps) => {
               <BlogContent content={post.content} />
 
               <MidPostCTA
-                title={`Ready to talk to ${MASTER_REMIX.BRAND_NAME}?`}
+                headline={`Ready to talk to ${MASTER_REMIX.BRAND_NAME}?`}
                 body={MASTER_REMIX.SERVICE_REGION_TAGLINE}
                 onBookClick={onBookClick}
               />
@@ -71,7 +71,7 @@ const BlogPost = ({ onBookClick }: BlogPostProps) => {
 
               <div data-cta="blog-bottom" className="mt-16">
                 <BlogCTA
-                  title="Have a project in mind?"
+                  headline="Have a project in mind?"
                   body={MASTER_REMIX.COVERAGE_BLURB}
                   onBookClick={onBookClick}
                 />
