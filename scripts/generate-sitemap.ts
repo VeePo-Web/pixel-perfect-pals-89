@@ -11,12 +11,14 @@ import { writeFileSync } from "fs";
 import { resolve } from "path";
 import { REGIONS, COMMUNITIES } from "../src/data/communities";
 import { hubRegistry } from "../src/lib/hubRegistry";
+import { blogPosts } from "../src/lib/blogData";
 import { MASTER_REMIX } from "../src/config/template/remix-variables";
 
 const BASE_URL = MASTER_REMIX.BRAND_URL?.replace(/\/$/, "") || "";
 
 interface SitemapEntry {
   path: string;
+  lastmod?: string;
   changefreq?: "weekly" | "monthly" | "yearly";
   priority?: string;
 }
@@ -40,6 +42,12 @@ const entries: SitemapEntry[] = [
     changefreq: "weekly",
     priority: "0.7",
   })),
+  ...blogPosts.map<SitemapEntry>((p) => ({
+    path: `/blog/${p.hubGovernance?.hubSlug ?? "post"}/${p.slug}`,
+    lastmod: p.modifiedAt || p.publishedAt,
+    changefreq: "monthly",
+    priority: "0.6",
+  })),
 ];
 
 function build(entries: SitemapEntry[]): string {
@@ -47,6 +55,7 @@ function build(entries: SitemapEntry[]): string {
     [
       "  <url>",
       `    <loc>${BASE_URL}${e.path}</loc>`,
+      e.lastmod ? `    <lastmod>${e.lastmod}</lastmod>` : null,
       e.changefreq ? `    <changefreq>${e.changefreq}</changefreq>` : null,
       e.priority ? `    <priority>${e.priority}</priority>` : null,
       "  </url>",

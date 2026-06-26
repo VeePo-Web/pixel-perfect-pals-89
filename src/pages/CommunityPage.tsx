@@ -451,6 +451,9 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
       ══════════════════════════════════════════════════════════════════════ */}
       <NearbyAreasWidget currentSlug={community.slug} communityName={community.name} />
 
+      {/* ── Editorial posts geo-bound to this community (Victorious-SEO bridge) ── */}
+      <GuidesForLocation locationName={community.name} posts={guides} />
+
       {/* ══════════════════════════════════════════════════════════════════════
           SECTION 7 — COMMUNITY-SPECIFIC CTA
           Pre-fills booking modal with community name + service for CRM routing.
