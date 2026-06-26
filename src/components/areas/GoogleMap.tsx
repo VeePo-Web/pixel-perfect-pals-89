@@ -69,7 +69,16 @@ const GoogleMap = ({ lat, lng, title, zoom = 14, className = "" }: Props) => {
     let cancelled = false;
     loadMapsApi().then(() => {
       if (cancelled || !ref.current) return;
-      const g = (window as unknown as { google?: typeof google }).google;
+      // Loose typing — we don't ship @types/google.maps to keep the
+      // dep graph minimal. The runtime shape is well-known.
+      const g = (window as unknown as {
+        google?: {
+          maps: {
+            Map: new (el: HTMLElement, opts: Record<string, unknown>) => unknown;
+            Marker: new (opts: Record<string, unknown>) => unknown;
+          };
+        };
+      }).google;
       if (!g?.maps) return;
       const map = new g.maps.Map(ref.current, {
         center: { lat, lng },
