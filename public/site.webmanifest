@@ -1,7 +1,7 @@
 {
-  "name": "Cochrane Master Builders",
-  "short_name": "CMB",
-  "description": "Cochrane Master Builders — practical interior finishing, drywall, insulation, and craft trades across Cochrane, Alberta.",
+  "name": "SEO Remix Template",
+  "short_name": "Template",
+  "description": "Generic SEO remix template — 3-tier Areas We Serve engine (Hub → Region → Community).",
   "icons": [
     { "src": "/favicon-96.png",  "sizes": "96x96",   "type": "image/png", "purpose": "any" },
     { "src": "/favicon-128.png", "sizes": "128x128", "type": "image/png", "purpose": "any" },

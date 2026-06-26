@@ -3,12 +3,9 @@
  * Route: /areas-we-serve
  *
  * REMIX GUIDE ─────────────────────────────────────────────────────────────────
- * This page reads every service-specific token from MASTER_REMIX.
- * When remixing for a new trade (e.g. Cochrane Tile Masters):
- *   1. Update MASTER_REMIX.BRAND_NAME  → "Cochrane Tile Masters"
- *   2. Update MASTER_REMIX.SERVICE     → "tile"
- *   3. Update MASTER_REMIX.SERVICE_PLURAL → "tile work"
- *   Nothing on this page needs manual editing — it reflects the remix config.
+ * Everything renders from MASTER_REMIX (service, brand, geography taglines)
+ * plus the REGIONS / COMMUNITIES arrays in `src/data/communities.ts`.
+ * To remix: edit those two files. This page does not need manual edits.
  * ─────────────────────────────────────────────────────────────────────────────
  */
 

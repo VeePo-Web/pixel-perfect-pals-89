@@ -31,20 +31,13 @@ interface Props {
 }
 
 const TemplateFooter = ({ onBookClick }: Props) => {
-  const services = TEMPLATE_COPY.nav.filter((n) =>
-    ["/services", "/pricing", "/why-we-love"].includes(n.path),
-  );
-  const company = TEMPLATE_COPY.nav.filter((n) =>
-    ["/brand-story", "/about", "/gallery", "/reviews", "/contact"].includes(n.path),
-  );
-
   return (
     <footer className="border-t border-copper/10 bg-paper relative overflow-hidden">
 
       {/* ── Tier 1 — Brand + Slogan + CTA + Nav ── */}
       <div className="container mx-auto px-6 pt-20 pb-12">
         <div className="grid gap-12 md:grid-cols-12">
-          <div className="md:col-span-5">
+          <div className="md:col-span-7">
             <Link to="/" aria-label={`${MASTER_REMIX.BRAND_NAME} — home`} className="inline-flex">
               <MasterLogo slot="footer" />
             </Link>
@@ -72,33 +65,23 @@ const TemplateFooter = ({ onBookClick }: Props) => {
           </div>
 
           <div className="md:col-span-3">
-            <h4 className="eyebrow-copper mb-4">Services</h4>
+            <h4 className="eyebrow-copper mb-4">Navigate</h4>
             <ul className="space-y-2.5">
-              {services.map((s) => (
-                <li key={s.path}>
-                  <PrefetchLink to={s.path} className="text-graphite text-body-sm transition-colors hover:text-charcoal">
-                    {s.label}
-                  </PrefetchLink>
-                </li>
-              ))}
+              <li>
+                <PrefetchLink to="/" className="text-graphite text-body-sm transition-colors hover:text-charcoal">
+                  Home
+                </PrefetchLink>
+              </li>
+              <li>
+                <PrefetchLink to="/areas-we-serve" className="text-graphite text-body-sm transition-colors hover:text-charcoal">
+                  Areas We Serve
+                </PrefetchLink>
+              </li>
             </ul>
           </div>
 
           <div className="md:col-span-2">
-            <h4 className="eyebrow-copper mb-4">Company</h4>
-            <ul className="space-y-2.5">
-              {company.map((c) => (
-                <li key={c.path}>
-                  <PrefetchLink to={c.path} className="text-graphite text-body-sm transition-colors hover:text-charcoal">
-                    {c.label}
-                  </PrefetchLink>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          <div className="md:col-span-2">
-            <h4 className="eyebrow-copper mb-4">Cochrane &amp; area</h4>
+            <h4 className="eyebrow-copper mb-4">{MASTER_REMIX.SERVICE_REGION_LABEL}</h4>
             <ul className="space-y-2.5 text-graphite text-body-sm">
               <li>{MASTER_REMIX.COMMUNITIES.slice(0, 4).join(" · ")}</li>
               <li>Mon–Sat · 7am–6pm</li>
@@ -120,11 +103,7 @@ const TemplateFooter = ({ onBookClick }: Props) => {
       {/* ── Legal strip ── */}
       <div style={{ borderTop: "1px solid hsl(var(--copper) / 0.08)" }}>
         <div className="container mx-auto flex flex-wrap items-baseline justify-between gap-4 px-6 py-5 text-caption text-mist">
-          <p>© {new Date().getFullYear()} {MASTER_REMIX.BRAND_NAME}. Built for the families who'll inherit it.</p>
-          <div className="flex gap-6">
-            <PrefetchLink to="/privacy" className="hover:text-charcoal transition-colors">Privacy</PrefetchLink>
-            <PrefetchLink to="/terms" className="hover:text-charcoal transition-colors">Terms</PrefetchLink>
-          </div>
+          <p>© {new Date().getFullYear()} {MASTER_REMIX.BRAND_NAME}.</p>
         </div>
       </div>
 

@@ -24,8 +24,6 @@ interface RegionPageProps {
   onBookClick?: BookingClickHandler;
 }
 
-const BASE_URL = "https://cochranedrywall.ca";
-
 const RegionPage = ({ onBookClick }: RegionPageProps) => {
   const { region: regionSlug = "" } = useParams<{ region: string }>();
   const region      = getRegion(regionSlug);
@@ -34,15 +32,17 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
   const s  = MASTER_REMIX.SERVICE;
   const sc = MASTER_REMIX.SERVICE_CATEGORY;
   const bn = MASTER_REMIX.BRAND_NAME;
+  const BASE_URL = MASTER_REMIX.BRAND_URL;
 
   useEffect(() => {
     if (!region) return;
 
+    const regionLocale = [region.province, region.country].filter(Boolean).join(", ");
     setPageMeta({
-      title: `${sc} — ${region.name} Alberta | ${bn}`,
+      title: `${sc} — ${region.name}${regionLocale ? `, ${regionLocale}` : ""} | ${bn}`,
       description:
-        `${bn} serves ${communities.length} communities in ${region.name}, Alberta. ` +
-        `Master-craft ${s} — Cochrane-based. ` +
+        `${bn} serves ${communities.length} communities in ${region.name}` +
+        `${regionLocale ? `, ${regionLocale}` : ""}. ${sc} — ` +
         communities.slice(0, 4).map((c) => c.name).join(", ") + " and more.",
       path: `/areas-we-serve/${regionSlug}`,
     });
@@ -118,7 +118,7 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           <>
             <img
               src={heroImg.url}
-              alt={`${sc} services across ${region.name}, Alberta — ${heroImg.alt}`}
+              alt={`${sc} services across ${region.name} — ${heroImg.alt}`}
               className="absolute inset-0 w-full h-full object-cover object-center"
               loading="eager"
               width="1920"
@@ -144,11 +144,10 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
             {communities.length} Communities
           </p>
           <h1 className="font-display text-display-xl text-primary-foreground mb-5">
-            {sc} in {region.name}, Alberta
+            {sc} in {region.name}{region.province ? `, ${region.province}` : ""}
           </h1>
           <p className="text-body-lg text-primary-foreground/75 max-w-[52ch] mb-10">
-            {region.description} We bring master-craft {s} to every community in this region —
-            with a team based in Cochrane, minutes from most of these areas.
+            {region.description} We bring {s} to every community in this region.
           </p>
           <button
             onClick={() => onBookClick?.()}
@@ -168,7 +167,7 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           <p>
             {bn} serves <strong>{communities.length} communities</strong> across {region.name} —
             from Tier 1 high-priority areas where we maintain consistent project volume, to smaller
-            hamlets and micro-communities where we deliver the same quality of {s} work at every scale.
+            areas where we deliver the same quality of {s} work at every scale.
           </p>
           {tier1.length > 0 && (
             <p>
@@ -251,9 +250,9 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
               </p>
             </div>
             <div>
-              <p className="font-display text-display-sm text-charcoal mb-2">Cochrane-Based. Close By.</p>
+              <p className="font-display text-display-sm text-charcoal mb-2">Local. Close By.</p>
               <p className="text-body-sm text-graphite">
-                No long travel fees, no delayed start times. We're genuinely local to the
+                No long travel fees, no delayed start times. We're local to the
                 communities in {region.name} — and it shows in our response time.
               </p>
             </div>

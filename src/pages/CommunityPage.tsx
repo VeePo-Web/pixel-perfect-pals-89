@@ -57,8 +57,8 @@ function buildFAQs(
     {
       question: `Do you provide ${service} services in ${community.name}, ${community.city}?`,
       answer:
-        `Yes — ${community.name} is a core service area for ${brandName}. We're based in Cochrane, ` +
-        `so ${community.name} is typically on our schedule within 1–3 weeks of estimate acceptance. ` +
+        `Yes — ${community.name} is a core service area for ${brandName}. ` +
+        `${community.name} is typically on our schedule within 1–3 weeks of estimate acceptance. ` +
         `We cover the full community, from the established streets to the newest developments.`,
     },
     {
@@ -110,11 +110,11 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
       .filter(Boolean);
 
     setPageMeta({
-      title: `${sc} Contractor ${community.name} ${community.city} | ${bn} | Alberta`,
+      title: `${sc} ${community.name}, ${community.city} | ${bn}`,
       description:
         `Looking for ${s} in ${community.name}? ${bn} serves ${community.name}` +
         (nearest.length ? ` and nearby ${nearest.join(", ")}` : "") +
-        `. Family-owned, Cochrane-based. Licensed & insured. Written estimate within 24 hours.`,
+        `. Written estimate within 24 hours.`,
       path: `/areas-we-serve/${regionSlug}/${communitySlug}`,
     });
   }, [community, region, regionSlug, communitySlug, s, sc, bn]);
@@ -171,7 +171,7 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
           <>
             <img
               src={heroImg.url}
-              alt={`${sc} in ${community.name}, ${community.city} Alberta — ${heroImg.alt}`}
+              alt={`${sc} in ${community.name}, ${community.city} — ${heroImg.alt}`}
               className="absolute inset-0 w-full h-full object-cover object-center"
               loading="eager"
               width="1920"
@@ -201,7 +201,7 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
           <div className="flex items-center gap-2 mb-4">
             <MapPin size={14} className="text-primary-foreground/50" />
             <p className="font-eyebrow text-primary-foreground/60 uppercase tracking-[0.18em]">
-              {community.name} · {region.name} · {community.city}, Alberta
+              {community.name} · {region.name} · {community.city}{community.province ? `, ${community.province}` : ""}
             </p>
           </div>
 
@@ -278,9 +278,9 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
 
             {/* Distance signal */}
             <p className="text-body text-graphite leading-relaxed">
-              We're based in Cochrane — {community.name} is a straightforward drive for our team.
-              No travel delay fees, no scheduling complications. Just a local contractor who shows
-              up on time with a written scope.
+              {community.name} is a straightforward drive for our team. No travel delay
+              fees, no scheduling complications. Just a local provider who shows up on
+              time with a written scope.
             </p>
           </div>
 
@@ -350,7 +350,7 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
             className="shadow-editorial"
           />
           <p className="text-caption text-mist mt-3">
-            {community.name} · {community.city}, Alberta ·{" "}
+            {community.name} · {community.city}{community.province ? `, ${community.province}` : ""} ·{" "}
             {community.coordinates.lat.toFixed(4)}°N, {Math.abs(community.coordinates.lng).toFixed(4)}°W
           </p>
         </div>
@@ -367,10 +367,8 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
           {sc} Services in {community.name}
         </h2>
         <p className="text-body text-graphite mb-10 max-w-[48ch]">
-          {/* REMIX: Update this sentence to reflect your trade's scope */}
-          Every service we offer in {community.name} comes with a written quote,
-          a fixed price band, and the same 15-year structural guarantee that
-          applies across all {bn} projects.
+          Every service we offer in {community.name} comes with a written quote and a
+          fixed price band — the same standard that applies across all {bn} projects.
         </p>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
