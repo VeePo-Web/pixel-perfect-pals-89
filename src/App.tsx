@@ -20,6 +20,11 @@ const AreasHub = lazy(() => import("./pages/AreasHub"));
 const RegionPage = lazy(() => import("./pages/RegionPage"));
 const CommunityPage = lazy(() => import("./pages/CommunityPage"));
 
+// ── BLOG — World-class editorial / Local SEO hub (ported from VeePo.ca) ──
+const BlogHub = lazy(() => import("./pages/BlogHub"));
+const BlogHubPage = lazy(() => import("./pages/BlogHubPage"));
+const BlogPost = lazy(() => import("./pages/BlogPost"));
+
 const queryClient = new QueryClient();
 
 const AnimatedRoutes = ({ onBookClick }: { onBookClick: BookingClickHandler }) => {
@@ -32,6 +37,10 @@ const AnimatedRoutes = ({ onBookClick }: { onBookClick: BookingClickHandler }) =
         <Route path="/areas-we-serve" element={<PageTransition><AreasHub onBookClick={onBookClick} /></PageTransition>} />
         <Route path="/areas-we-serve/:region" element={<PageTransition><RegionPage onBookClick={onBookClick} /></PageTransition>} />
         <Route path="/areas-we-serve/:region/:community" element={<PageTransition><CommunityPage onBookClick={onBookClick} /></PageTransition>} />
+        {/* Blog — hub index, sub-hub clusters, and individual posts */}
+        <Route path="/blog" element={<PageTransition><BlogHub onBookClick={onBookClick} /></PageTransition>} />
+        <Route path="/blog/:hubSlug" element={<PageTransition><BlogHubPage onBookClick={onBookClick} /></PageTransition>} />
+        <Route path="/blog/post/:slug" element={<PageTransition><BlogPost onBookClick={onBookClick} /></PageTransition>} />
         <Route path="*" element={<Navigate to="/areas-we-serve" replace />} />
       </Routes>
     </Suspense>
