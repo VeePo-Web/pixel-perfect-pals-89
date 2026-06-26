@@ -1,0 +1,20 @@
+{
+  "name": "Cochrane Master Builders",
+  "short_name": "CMB",
+  "description": "Cochrane Master Builders — practical interior finishing, drywall, insulation, and craft trades across Cochrane, Alberta.",
+  "icons": [
+    { "src": "/favicon-96.png",  "sizes": "96x96",   "type": "image/png", "purpose": "any" },
+    { "src": "/favicon-128.png", "sizes": "128x128", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon-144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon-152.png", "sizes": "152x152", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon-256.png", "sizes": "256x256", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "theme_color": "#1F2F4D",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}

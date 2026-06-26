@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Booking media is publicly viewable" ON storage.objects;

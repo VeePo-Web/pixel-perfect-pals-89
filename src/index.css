@@ -1,0 +1,515 @@
+/* Cochrane Master Builders — Heirloom editorial theme
+   Fonts: Cormorant Garamond + Plus Jakarta Sans (existing) +
+          Space Grotesk + Jost (bespoke heirloom moments only).
+   All tokens derive from src/config/trade.config.ts → TRADE.palette.light.
+   Bespoke heirloom tokens documented in src/config/template/bespoke-config.ts */
+
+/* Space Grotesk + Jost — loaded for bespoke heirloom moments only */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500&family=Jost:wght@200;300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Lenis smooth scroll */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+@layer base {
+  :root {
+    /* ── Surfaces ──────────────────────────────────────────────── */
+    --background: 36 22% 95%;        /* bone — warm fresh paint */
+    --foreground: 25 8% 25%;         /* charcoal — primary text */
+
+    --card: 0 0% 100%;               /* paper */
+    --card-foreground: 25 8% 25%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 25 8% 25%;
+
+    /* ── Brand ────────────────────────────────────────────────── */
+    --primary: 178 14% 28%;          /* forest #3E5352 */
+    --primary-foreground: 36 22% 97%;
+
+    --secondary: 36 14% 88%;         /* seam */
+    --secondary-foreground: 25 8% 25%;
+
+    --muted: 36 14% 92%;
+    --muted-foreground: 25 6% 45%;
+
+    --accent: 24 38% 52%;            /* clay — sparingly */
+    --accent-foreground: 36 22% 97%;
+
+    --destructive: 0 62% 48%;
+    --destructive-foreground: 36 22% 97%;
+
+    --border: 36 14% 88%;            /* seam hairlines */
+    --input: 36 14% 88%;
+    --ring: 178 14% 28%;             /* forest focus */
+
+    --radius: 0.25rem;               /* deliberately tighter — editorial, not bubbly */
+
+    /* ── Extended tokens (absolute, not theme-relative) ───────── */
+    --bone: 36 22% 95%;
+    --paper: 0 0% 100%;
+    --seam: 36 14% 88%;
+    --charcoal: 25 8% 25%;
+    --graphite: 25 6% 38%;
+    --mist: 25 6% 46%;
+    --forest: 178 14% 28%;
+    --forest-deep: 178 16% 22%;
+    --clay: 24 38% 52%;
+    --sage: 95 14% 64%;
+
+    /* ── Heirloom brand tokens (bespoke moments only) ────────────── */
+    /* copper: sacred — hairlines, eyebrow caps, monogram dot, cornerstone stamp */
+    --copper: 30 62% 48%;
+    /* copper at 30% opacity — for shadow and glow effects */
+    --copper-glow: 30 62% 48% / 0.30;
+    /* ink-blueprint: deep cool charcoal-blue — blueprint grain pattern layer */
+    --ink-blueprint: 215 25% 18%;
+    /* shadow-heirloom: the copper under-edge — used on bespoke component borders */
+    --shadow-heirloom: 0 1px 0 hsl(var(--copper) / 0.30);
+
+    --success: 142 38% 38%;
+    --warning: 38 78% 50%;
+    --danger: 0 62% 48%;
+
+    /* Sidebar (kept for shadcn; bone-tuned) */
+    --sidebar-background: 36 22% 97%;
+    --sidebar-foreground: 25 8% 25%;
+    --sidebar-primary: 178 14% 28%;
+    --sidebar-primary-foreground: 36 22% 97%;
+    --sidebar-accent: 36 14% 92%;
+    --sidebar-accent-foreground: 25 8% 25%;
+    --sidebar-border: 36 14% 88%;
+    --sidebar-ring: 178 14% 28%;
+
+    /* ── StoryBrand Identity Tokens ──────────────────────────────── */
+    --story-parchment:    40 33% 98%;    /* #FDFBF7 — warm cream bg   */
+    --story-bronze:       28 35% 42%;    /* #8B6B4A — craftsmanship   */
+    --story-navy:        218 43% 21%;    /* #1F2F4D — primary navy    */
+    --story-navy-deep:   222 50% 12%;    /* #0B1120 — hero near-black */
+    --story-smoke:       218 15% 55%;    /* #7A8BAA — muted text      */
+    --story-linen:        36 25% 93%;    /* #EDE9E1 — divider tint    */
+    --story-bronze-light: 28 35% 90%;    /* faint bronze for tags     */
+  }
+
+  .dark {
+    /* Opt-in dark mirror (rarely used) */
+    --background: 25 8% 10%;
+    --foreground: 36 22% 95%;
+    --card: 25 8% 14%;
+    --card-foreground: 36 22% 95%;
+    --popover: 25 8% 14%;
+    --popover-foreground: 36 22% 95%;
+    --primary: 178 18% 50%;
+    --primary-foreground: 25 8% 10%;
+    --secondary: 25 8% 22%;
+    --secondary-foreground: 36 14% 78%;
+    --muted: 25 8% 18%;
+    --muted-foreground: 36 8% 60%;
+    --accent: 24 42% 58%;
+    --accent-foreground: 25 8% 10%;
+    --destructive: 0 68% 60%;
+    --destructive-foreground: 36 22% 97%;
+    --border: 25 8% 22%;
+    --input: 25 8% 22%;
+    --ring: 178 18% 50%;
+
+    --bone: 25 8% 10%;
+    --paper: 25 8% 14%;
+    --seam: 25 8% 22%;
+    --charcoal: 36 22% 95%;
+    --graphite: 36 14% 78%;
+    --mist: 36 8% 60%;
+    --forest: 178 18% 50%;
+    --forest-deep: 178 22% 60%;
+    --clay: 24 42% 58%;
+    --sage: 95 18% 56%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    scroll-padding-top: 5rem; /* sticky-nav-aware anchor jumps */
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.65;
+    font-feature-settings: "ss01", "cv11";
+  }
+
+  /* Global film-grain overlay — taste-skill compliant: fixed, pointer-events-none */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    pointer-events: none;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
+    opacity: 0.025;
+  }
+
+  h1, h2, h3, h4, h5 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    letter-spacing: -0.015em;
+    font-weight: 500;
+    text-wrap: balance;
+    color: hsl(var(--charcoal));
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  ::selection {
+    background-color: hsl(var(--forest) / 0.18);
+    color: hsl(var(--charcoal));
+  }
+}
+
+@layer utilities {
+  /* ── Typography utilities ───────────────────────────────────── */
+  .font-display {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 500;
+    letter-spacing: -0.015em;
+  }
+
+  .font-body {
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+
+  .font-eyebrow {
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    line-height: 1.5;
+    color: hsl(var(--forest));
+  }
+
+  /* Editorial drop cap */
+  .drop-cap::first-letter {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 500;
+    font-size: clamp(3em, 4em, 5em);
+    line-height: 0.85;
+    float: left;
+    margin-right: 0.08em;
+    margin-top: 0.08em;
+    color: hsl(var(--forest));
+  }
+  @media (max-width: 767px) {
+    .drop-cap::first-letter {
+      font-size: 3em;
+      line-height: 0.9;
+      margin-right: 0.06em;
+    }
+  }
+
+  /* Thin editorial rule */
+  .editorial-rule {
+    width: 3rem;
+    height: 1px;
+    background: hsl(var(--forest));
+    border: none;
+    margin: 0;
+    opacity: 0.7;
+  }
+
+  /* Section seam — thin horizontal line in the brand "drywall seam" color */
+  .seam-rule {
+    width: 100%;
+    height: 1px;
+    background: hsl(var(--seam));
+    border: none;
+  }
+
+  /* Gradient seam — softer transition */
+  .seam-rule-fade {
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, hsl(var(--seam)), transparent);
+    border: none;
+  }
+
+  /* Container — comfortable editorial measure */
+  .container-prose {
+    max-width: 68ch;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* Section padding rhythm — tighter floor on mobile, identical max on desktop */
+  .section-y {
+    padding-top: clamp(3rem, 9vw, 7.5rem);
+    padding-bottom: clamp(3rem, 9vw, 7.5rem);
+  }
+
+  .section-y-tight {
+    padding-top: clamp(2.25rem, 6vw, 5rem);
+    padding-bottom: clamp(2.25rem, 6vw, 5rem);
+  }
+
+  /* Mobile-only: respect notch/home-indicator for sticky elements */
+  .safe-bottom {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  /* Mobile-only hairline used to break long stacked sections cleanly on phones */
+  .mobile-hairline {
+    border: 0;
+  }
+  @media (max-width: 767px) {
+    .mobile-hairline {
+      border-bottom: 1px solid hsl(var(--seam));
+    }
+  }
+
+  /* Hide scrollbars on horizontally-snapped mobile filter rows */
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+  /* Forest CTA glow on hover */
+  .cta-forest:hover {
+    box-shadow: 0 6px 24px hsl(var(--forest) / 0.18);
+  }
+
+  /* Underline that grows from the left on hover (story link) */
+  .story-link {
+    position: relative;
+    display: inline-block;
+  }
+  .story-link::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    bottom: -2px;
+    left: 0;
+    background: currentColor;
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    transition: transform 350ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .story-link:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+
+  /* ── Booking modal motion primitives ───────────────────────── */
+  @keyframes line-grow-x {
+    from { transform: scaleX(0); }
+    to { transform: scaleX(1); }
+  }
+  .animate-line-grow {
+    transform-origin: left center;
+    animation: line-grow-x 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+  .animate-line-grow-center {
+    transform-origin: center;
+    animation: line-grow-x 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+  @keyframes brand-rise {
+    from { opacity: 0; transform: translateY(14px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .animate-brand-rise {
+    opacity: 0;
+    animation: brand-rise 700ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.55; transform: scale(0.85); }
+  }
+  .animate-pulse-dot {
+    animation: pulse-dot 2.4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  /* Subtle paper texture for hero/feature sections */
+  .paper-grain {
+    position: relative;
+  }
+  .paper-grain::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    opacity: 0.04;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-size: 180px 180px;
+    mix-blend-mode: multiply;
+  }
+}
+
+/* Anchor scroll offset for sticky nav */
+[id] {
+  scroll-margin-top: 6rem;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Scroll reveal — single shared IntersectionObserver drives this. */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 360ms cubic-bezier(0.16, 1, 0.3, 1), transform 360ms cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+[data-reveal][data-revealed="true"] {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal] { opacity: 1; transform: none; transition: none; }
+}
+
+/* ── Heirloom Bespoke Utilities ─────────────────────────────────────────── */
+/* Per brand brief: "The standard is the standard." — Home.tsx quote          */
+
+.font-grotesk {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+}
+.font-jost {
+  font-family: 'Jost', system-ui, sans-serif;
+}
+
+/* Eyebrow caps — Jost, ultra-tracked, copper at 70% */
+.eyebrow-copper {
+  font-family: 'Jost', system-ui, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.32em;
+  /* deepened copper — ~4.3:1 on bone (was copper/70 ≈ 2.3:1), matches slogan */
+  color: hsl(30 58% 40%);
+}
+
+/* Copper hairline — 1px horizontal rule */
+.hairline-copper {
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: hsl(var(--copper) / 0.18);
+}
+
+/* Pull quote — slogan / generational type */
+.pull-quote-slogan {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+/* Tabular numerals — applied anywhere stats or years appear */
+.tabular-nums {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+/* Copper square bullet — used before pull quotes */
+.copper-bullet::before {
+  content: '▪';
+  color: hsl(var(--copper));
+  margin-right: 0.5em;
+}
+
+/* Blueprint grain overlay — bespoke SVG pattern at 1–2% */
+.blueprint-grain {
+  position: relative;
+  isolation: isolate;
+}
+.blueprint-grain::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cdefs%3E%3Cpattern id='bp' patternUnits='userSpaceOnUse' width='120' height='120'%3E%3Cline x1='0' y1='0' x2='120' y2='0' stroke='%231B2D47' stroke-width='0.4' opacity='0.6'/%3E%3Cline x1='0' y1='30' x2='120' y2='30' stroke='%231B2D47' stroke-width='0.4' opacity='0.6'/%3E%3Cline x1='0' y1='60' x2='120' y2='60' stroke='%231B2D47' stroke-width='0.4' opacity='0.6'/%3E%3Cline x1='0' y1='90' x2='120' y2='90' stroke='%231B2D47' stroke-width='0.4' opacity='0.6'/%3E%3Cline x1='0' y1='120' x2='120' y2='120' stroke='%231B2D47' stroke-width='0.4' opacity='0.6'/%3E%3Cline x1='0' y1='0' x2='0' y2='120' stroke='%231B2D47' stroke-width='0.4' opacity='0.3'/%3E%3Cline x1='30' y1='0' x2='30' y2='120' stroke='%231B2D47' stroke-width='0.4' opacity='0.3'/%3E%3Cline x1='60' y1='0' x2='60' y2='120' stroke='%231B2D47' stroke-width='0.4' opacity='0.3'/%3E%3Cline x1='90' y1='0' x2='90' y2='120' stroke='%231B2D47' stroke-width='0.4' opacity='0.3'/%3E%3Cline x1='120' y1='0' x2='120' y2='120' stroke='%231B2D47' stroke-width='0.4' opacity='0.3'/%3E%3Cline x1='4' y1='0' x2='0' y2='4' stroke='%231B2D47' stroke-width='0.8' opacity='0.7'/%3E%3Cline x1='64' y1='0' x2='60' y2='4' stroke='%231B2D47' stroke-width='0.8' opacity='0.7'/%3E%3Cline x1='4' y1='60' x2='0' y2='64' stroke='%231B2D47' stroke-width='0.8' opacity='0.7'/%3E%3Cline x1='64' y1='60' x2='60' y2='64' stroke='%231B2D47' stroke-width='0.8' opacity='0.7'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='120' height='120' fill='url(%23bp)'/%3E%3C/svg%3E");
+  opacity: 0.015;
+  mix-blend-mode: multiply;
+}
+
+/* Slogan hairline draw — the SVG underline animation */
+@keyframes hairline-draw {
+  from { stroke-dashoffset: 1; }
+  to   { stroke-dashoffset: 0; }
+}
+
+/* Cornerstone stamp rotation */
+@keyframes cornerstone-rotate {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* Steam drift — for MonogramB coffee cup */
+@keyframes steam-drift {
+  0%   { opacity: 0; transform: translateY(0) scaleX(1); }
+  40%  { opacity: 0.6; }
+  100% { opacity: 0; transform: translateY(-12px) scaleX(0.7); }
+}
+
+/* Hardhat tip — MonogramC idle */
+@keyframes hat-tip {
+  0%, 90%, 100% { transform: translateY(0); }
+  92%  { transform: translateY(-2px); }
+  96%  { transform: translateY(-2px); }
+}
+
+/* Pencil tuck — MonogramM idle */
+@keyframes pencil-tuck {
+  0%, 85%, 100% { transform: rotate(0deg); }
+  90% { transform: rotate(-4deg); }
+  95% { transform: rotate(4deg); }
+}
+
+/* Marquee scroll */
+@keyframes marquee-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+/* Master's mark draw */
+@keyframes stroke-draw {
+  from { stroke-dashoffset: 1000; }
+  to   { stroke-dashoffset: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .blueprint-grain::before { display: none; }
+  [data-bespoke-animate] * { animation: none !important; transition: none !important; }
+}

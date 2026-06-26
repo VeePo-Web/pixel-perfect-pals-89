@@ -1,0 +1,621 @@
+{
+  "version": 1,
+  "entries": {
+    "_external-references/royal-mechanical/STYLE_GUIDE.reference.md": {
+      "sha256": "7f93ce7e61fe634935ecc1c92ba06fa8a7366c81c8ebe5bcd0160653ef46a187",
+      "bytes": 35782,
+      "lines": 1027,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "animations/.gitkeep": {
+      "sha256": "846078237e1a3921eb63d0d9c3bbf768bd1569592372e058061e455fcef5fcbb",
+      "bytes": 72,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "animations/premium-scroll-animation-persona.source.md": {
+      "sha256": "d6ed9fa07c197de35cb980fac2148d3843d3dcdbe8c659ed0054b1ed097d499a",
+      "bytes": 31862,
+      "lines": 420,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brand-identity/.gitkeep": {
+      "sha256": "c3eb1ef1b84d21a7098b92e2a1bab4f218b1c9cf69e0f43c81cff7de2f9e6a0f",
+      "bytes": 65,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brand-identity/brand-identity-architect.source.md": {
+      "sha256": "6d02588d8cdf6b2d592a180393a3a077adca4178460f844be68b049062c9c818",
+      "bytes": 46443,
+      "lines": 892,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brand-identity/brand-identity-architect.v2.source.md": {
+      "sha256": "bc959a28cd5ee5ebc19f26f1ffa70aa144709622ea2fa5a1ea21fba03c3b10b6",
+      "bytes": 46533,
+      "lines": 861,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brand-identity/brand-identity-architect.v3.source.md": {
+      "sha256": "b6c08b624f4467e83dafdb39ffdbd56af8e68f6e9f14ab52c9b932bad80e5f16",
+      "bytes": 11774,
+      "lines": 221,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brand-identity/colours-and-shapes-experience-philosophy.source.md": {
+      "sha256": "5a30bdd35096ca041191825b367f3f35d1fb6defa0b2bd8b5ef3381c5a217784",
+      "bytes": 45128,
+      "lines": 516,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brand-identity/colours-and-shapes-experience-philosophy.v2.source.md": {
+      "sha256": "4ccb2efceaf1513bf7d09c36cb06b0def11736e9ad2be0c75d4ec2d427a84c21",
+      "bytes": 45122,
+      "lines": 432,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brand-identity/colours-and-shapes-experience-philosophy.v3.source.md": {
+      "sha256": "eca6f5cae359d133f0382916b35b83ae5d3bb02907ebe74002d3c62cc05148d2",
+      "bytes": 45175,
+      "lines": 522,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/brand-identity/1.2.1_Cochrane_Master_Builders_Family_Legacy_Standard_1.pdf": {
+      "sha256": "a84bd454d75cc2c9fbbba42b8cfd09df9eac1dd0489e031e2e283ff351ec1974",
+      "bytes": 295934,
+      "lines": 14200,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/brand-identity/1.2.2_Cochrane_Master_Builders_Foundations_For_Generations_After_Us_Report.pdf": {
+      "sha256": "3648c8fcf3f1d137babb28f9308d933a8b7af6590c1856f30a23dd88876e9eed",
+      "bytes": 501047,
+      "lines": 24503,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/personas-icp/1.4.1_Cochrane_Master_Builders_Subcontractor_ICP_UX_Report.docx": {
+      "sha256": "1308a7a2292e419ddf4bce0d7eb13686bc62fd63efe969d40915f19e48295039",
+      "bytes": 59100,
+      "lines": 234,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/personas-icp/1.4.2_Cochrane_Master_Builders_Mothers_ICP_UX_Report.docx": {
+      "sha256": "7b88813aea782a20106bad04c0eb13cf2780a7927032107e8c964b812620666d",
+      "bytes": 45985,
+      "lines": 166,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/personas-icp/1.4.3_Cochrane_Master_Builders_Grandfathers_ICP_UX_Report.pdf": {
+      "sha256": "9323700313245741cc3b0b6b20593cea982710ca0387d5e8ad7ad8c86d29277b",
+      "bytes": 38631,
+      "lines": 347,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/seo-research/1.1_Cochrane_Master_Builders_Market_Competitor_AI_SEO_Research_Report_1.md": {
+      "sha256": "f1126269e89e412215ea92c6081c38006a157200ea280db169c7d87e205c3e04",
+      "bytes": 145536,
+      "lines": 1920,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/service-areas/communities_master_v3.source.md": {
+      "sha256": "d9102217b05e254e571a3c84db960c4b65ea141f3932543547e9521de08563c4",
+      "bytes": 80474,
+      "lines": 139,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/service-areas/communities_master_v3.xlsx": {
+      "sha256": "bcb0394e19f78b6f5d3a5e6c80d7e0a3972d4924bfdb8ca3acd7b4271362e74e",
+      "bytes": 26459,
+      "lines": 103,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/1.0_Cochrane_Master_Builders_Strategic_Business_SEO_UX_Report.pdf": {
+      "sha256": "eaeb76a26f24be38e2941379e48eeef0bbe07a1ef157556184478be14d1a2e79",
+      "bytes": 557669,
+      "lines": 32765,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/1.0_cochrane_masters_UPGRADED_SEO_Master_Plan_family_legacy_column.source.md": {
+      "sha256": "8c98058fc61407d9686a84d9a511905229229abb482a67b16a7d73db1c2c3d3c",
+      "bytes": 138119,
+      "lines": 233,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/1.0_cochrane_masters_UPGRADED_SEO_Master_Plan_family_legacy_column.xlsm": {
+      "sha256": "f3f2f09ff90713fb73b1a4d27fc014b6f73debc623573f3b0b54f161fa435506",
+      "bytes": 67743,
+      "lines": 275,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/1.2_Cochrane_Master_Builders_Strategic_Business_SEO_UX_Report_1.pdf": {
+      "sha256": "eaeb76a26f24be38e2941379e48eeef0bbe07a1ef157556184478be14d1a2e79",
+      "bytes": 557669,
+      "lines": 32765,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/1.3_Cochrane_Master_Builders_Backend_Strategy_Design_SEO_Legacy_Report_1.pdf": {
+      "sha256": "ade68665be4a9dbb83fbbff3179231192759e42fc763ae1840ba4e3dd615c0a7",
+      "bytes": 1051173,
+      "lines": 54263,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/10.0_cochrane_masters_all_115_ux_theme_style_guides.source.md": {
+      "sha256": "774d5b501bd6e151f8f67bd506e4d4f0c2ee0f27b4ba0c3ec325f28f1fe6ec1c",
+      "bytes": 314279,
+      "lines": 123,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/10.0_cochrane_masters_all_115_ux_theme_style_guides.xlsx": {
+      "sha256": "9e43ef8561097901b6e4b5071e8df940727791c8aa84aa5248ea60638504f0c6",
+      "bytes": 24447,
+      "lines": 75,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/2.0_cochrane_masters_all_115_services_pricing_EXPANDED_AUDITED.source.md": {
+      "sha256": "ad1ba26f92aeba59e570893cb3babafbe15acf602ef5d2237ca1d49e17fa705f",
+      "bytes": 195691,
+      "lines": 122,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/2.0_cochrane_masters_all_115_services_pricing_EXPANDED_AUDITED.xlsx": {
+      "sha256": "3169fd490e7c5b77aa8b307b289f755df2c4bc8a7a1682715eea63aed2e2d95d",
+      "bytes": 39552,
+      "lines": 130,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/4.0_cochrane_masters_all_115_ideal_customer_brain.source.md": {
+      "sha256": "afc0159558817fa8a15793bf3c8eb8c2b4d0274b864703e5572443ebb0352ea6",
+      "bytes": 224482,
+      "lines": 2768,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/4.0_cochrane_masters_all_115_ideal_customer_brain.xlsx": {
+      "sha256": "6a0377c7719aff4796fea6798e852b21f78fa13d5c7fd4facf33549a6d3e16f5",
+      "bytes": 28394,
+      "lines": 117,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/5.0_cochrane_masters_all_115_color_ux_suggestions.source.md": {
+      "sha256": "cb8bf4572480c7540669230c94c34efa29ac8e96999faf6f29febd9bdd70f797",
+      "bytes": 86584,
+      "lines": 1158,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/5.0_cochrane_masters_all_115_color_ux_suggestions.xlsx": {
+      "sha256": "c9514f491501f239378c4605f7480eac0c7dfaf770f46087980e38905b6bde14",
+      "bytes": 23290,
+      "lines": 74,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/6.0_cochrane_masters_all_115_ux_experience.source.md": {
+      "sha256": "a2b93ce31bf034159cb31d71e18dbe49090fcf5b0a7e48a161cb5b030c8956b8",
+      "bytes": 200092,
+      "lines": 1395,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/6.0_cochrane_masters_all_115_ux_experience.xlsx": {
+      "sha256": "a5182816e96e63d54eda0d1a12e61b325665669d1abcf2e7dc37b9178b780873",
+      "bytes": 12109,
+      "lines": 51,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/7.0_cochrane_masters_all_115_performance_audit_specs.source.md": {
+      "sha256": "66bf4a16d04ecfc574b7fa48ebeede019818e070b385b372778e0ca74479c09c",
+      "bytes": 271738,
+      "lines": 123,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/7.0_cochrane_masters_all_115_performance_audit_specs.xlsx": {
+      "sha256": "84fd007825e4c36bc470ed35633ea1ab187c9032a55f165aa02f4d0be1ec5f1e",
+      "bytes": 16615,
+      "lines": 58,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/9.0_cochrane_masters_all_115_theme_layout_ux_specs.source.md": {
+      "sha256": "1027a0752ca293e1592e02c976bed07ea444f8504a5c221d824da654808157e9",
+      "bytes": 189649,
+      "lines": 123,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/9.0_cochrane_masters_all_115_theme_layout_ux_specs.xlsx": {
+      "sha256": "4f81c5fcdcfcd752c5dd144a422dfea5eb46ac9bc4200fc38104b60c462ef2bb",
+      "bytes": 20391,
+      "lines": 92,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/homepage_service_page_style_guide_template_and_how_to.source.md": {
+      "sha256": "ffedb66d310a9b093f08c4fae1998a9e8bb08770cc83964c7563a8603bc5e0fa",
+      "bytes": 23205,
+      "lines": 562,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/process_page_style_guide_template_and_service_specific_how_to.pdf": {
+      "sha256": "998152927eb72fcd47ce436d8a3e6265764007551a6153c9d697718fc7c04e77",
+      "bytes": 379788,
+      "lines": 14843,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/process_page_style_guide_template_and_service_specific_how_to.source.md": {
+      "sha256": "737832a6b303ee68922333844300ec6e73c126f2c9cfdcd98eca77508c3c9653",
+      "bytes": 38127,
+      "lines": 1680,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/universal_website_template_wireframe_plan.pdf": {
+      "sha256": "e0352c58bcc4ff2515ce41f63c6b620e94da2a69a39a8f2bfef9bba4f4312a87",
+      "bytes": 351611,
+      "lines": 14684,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/strategy/universal_website_template_wireframe_plan.source.md": {
+      "sha256": "c6324736f962a9c92204149fcc86f4d920d7ceb6d61428bb0348c10a564a0f66",
+      "bytes": 31388,
+      "lines": 1657,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/ux-design/1.3.1_Cochrane_Master_Builders_Bespoke_Traditional_UX_Design_Phase_Report.docx": {
+      "sha256": "06d3ae8a7b62fd587bd3b217874663808c3d664b2fe6736d98cdf0f6c46dbf67",
+      "bytes": 1679580,
+      "lines": 6243,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "components/.gitkeep": {
+      "sha256": "0984cb0a735c4e9e18d2574c9aceef364fa9f6ba5dbae285e6b34aaa6338c40c",
+      "bytes": 82,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "conversion/.gitkeep": {
+      "sha256": "8384cde799d1716d33d517341af2d5eed3a1a02024e743f457a00de5b7c6a4d9",
+      "bytes": 56,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/.gitkeep": {
+      "sha256": "c887928a338c28fc384f0bbebd8904267d8725edcf476f1917041c6826bcb8fc",
+      "bytes": 83,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/anti-gravity-opening-engineer.source.md": {
+      "sha256": "398d8908d312c6e1a5c2f44c52d9c9a79c423ca6a9defeae980e9e188565cdc1",
+      "bytes": 44760,
+      "lines": 840,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/anti-gravity-opening-engineer.v2.source.md": {
+      "sha256": "bacc98e5be4e06bfb81bc03908741d6435abcfacc0ee086254992760a26ff130",
+      "bytes": 45007,
+      "lines": 761,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/master-design-persona-fantasy.source.md": {
+      "sha256": "1244e61fab44792fc2aff1749791ff26ca4de756b8d89dbd64fc99dc3ea13f4f",
+      "bytes": 34080,
+      "lines": 395,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/master-design-persona-fantasy.v2.source.md": {
+      "sha256": "d90becfa7371a7f7e8287b000bd9f8ae8d55d2e3779b037eea8af558eb61f8e0",
+      "bytes": 33561,
+      "lines": 283,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/master-design-persona-fantasy.v3.source.md": {
+      "sha256": "4c61906d1be185efd0c8401d82890e1bee134815e1ba9b478080d193c09a32bc",
+      "bytes": 33638,
+      "lines": 283,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/mermaid-systems-mapping-mode.source.md": {
+      "sha256": "4183249bcfbda42aa1235fb09f9b5d696cfe97ce322ec271a429bef6e0d51096",
+      "bytes": 18445,
+      "lines": 677,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/seo-faq-optimization-persona.source.md": {
+      "sha256": "446e0045991d3a3ca4890e581b47e5171e09961422455c38b11997fcd212d363",
+      "bytes": 33927,
+      "lines": 449,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/seo-virtuoso-persona.source.md": {
+      "sha256": "a7ba602e9d4849ddeb8c144f865e20b92beca6cc51b124d4bede56f258ca48d1",
+      "bytes": 19380,
+      "lines": 192,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/systems-architect-copilot.source.md": {
+      "sha256": "ee4f8e84f93f95915ac7d873e601f6fed3269bf3aefa23a3f8d87d56405f61a6",
+      "bytes": 18039,
+      "lines": 563,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "experience-prompts/systems-audit-mode.source.md": {
+      "sha256": "c4cf78de9cf135e96ef9c61aaa3010edaddc66f341a698f890df22cd7db2720f",
+      "bytes": 14969,
+      "lines": 473,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "footer/.gitkeep": {
+      "sha256": "93bfd6c36b33b5275b27d236b27bf616e0b9ebdca77a6fec42d389215c14f843",
+      "bytes": 58,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "footer/footer-architect.source.md": {
+      "sha256": "fa2f3cd0f669899f46a3adbb00570d9919233838e181fcc68122ccc384f7a6bf",
+      "bytes": 40344,
+      "lines": 777,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "footer/footer-architect.v3.source.md": {
+      "sha256": "0a566c08062b48d8a56e6aadbb7b7c73ae09ae298f0bac7c89603e113278e375",
+      "bytes": 39096,
+      "lines": 695,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "forms/.gitkeep": {
+      "sha256": "946ada118d91cd323d59377416cbf9f9538f7c84b0083419694a19f72042ebbf",
+      "bytes": 74,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "governance/knowledge-system-charter.source.md": {
+      "sha256": "91500e0785b330e9094deda348a83dbfea1b1d4b3c6541d67b98974438543a5f",
+      "bytes": 10401,
+      "lines": 300,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "messaging/.gitkeep": {
+      "sha256": "f3084f45d2ad466c19b9416849c8e270bd359877a080b93fc48159f25dbc2fea",
+      "bytes": 70,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "messaging/round-two-copywrite-storytelling-persona.source.md": {
+      "sha256": "47f4a55ffdb30cfb20b68ee99e3528eee93626f4ab3181af1e46acf8f3a1aadd",
+      "bytes": 26946,
+      "lines": 323,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "mobile/mobile-wrapping-responsive-persona.source.md": {
+      "sha256": "c3f56b45d87a7f8052d3d00f34883912a072824082a73f55a4cc947d8d5a0340",
+      "bytes": 10179,
+      "lines": 39,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "navigation/.gitkeep": {
+      "sha256": "b9041adfe146353fec34fc3c8a81de3685e79ba6f9f99e9b9c7812c0119050a3",
+      "bytes": 63,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "navigation/navigation-architect-persona.source.md": {
+      "sha256": "9983a2e89ace4d708a442c44c5b256061050ed151835dc72abfca327c0dfbdf2",
+      "bytes": 23454,
+      "lines": 381,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "navigation/navigation-architect-persona.v3.source.md": {
+      "sha256": "b6ecbdc5ad9d7cb86f8d13c2fa4b418d9f7eed5e7956f9955fd54a0bec02d5c9",
+      "bytes": 23161,
+      "lines": 349,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "performance/react-vite-performance-engineer-persona.source.md": {
+      "sha256": "dd84af5a957545eba3fb0ca96711cfd2861d7704c07e9eb6c47cf689b2762e2a",
+      "bytes": 17163,
+      "lines": 165,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "personas/.gitkeep": {
+      "sha256": "55040b1cda00618433260e65d0aa55526f006dc9e32568711f6b0aaccf3b0bad",
+      "bytes": 59,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "seo/image-seo-local-visibility-persona.source.md": {
+      "sha256": "79dc9bc759544b21a686684577bfbf5fbd97216ebb767f8e4de9f5244c2e6476",
+      "bytes": 39496,
+      "lines": 437,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "strategy/.gitkeep": {
+      "sha256": "a7c11dad3c1da328a575a02d840ce71d84b39d4b727d5f1e4650409bc3a48f6d",
+      "bytes": 47,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "strategy/os-mermaid-systems-mapping.source.md": {
+      "sha256": "1ba520357822ee746e7fbcc193b8bf8d7c16b34a91daed26b0bdfcc532bcecf4",
+      "bytes": 18769,
+      "lines": 678,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "strategy/os-systems-architect-copilot.source.md": {
+      "sha256": "dcdd5135f6a1baaf66d1776bb1a164b5efd97735eb6859b910e69d4a6312fe7a",
+      "bytes": 18845,
+      "lines": 650,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "strategy/os-systems-audit-specialist.source.md": {
+      "sha256": "114cc2944529251b8f9805e329d6653c1fe706bab479abecf24fce4f97c85d71",
+      "bytes": 15353,
+      "lines": 496,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "ui-ux/.gitkeep": {
+      "sha256": "b5229ea775138335fef46e593b75e27ebf503a141fe8e30d23313317e00180ff",
+      "bytes": 39,
+      "lines": 1,
+      "capturedAt": "backfill",
+      "sourceName": null,
+      "trusted": false
+    },
+    "brands/cochrane-master-builders/brand-identity/landing-page-style-guide-persona.source.md": {
+      "sha256": "eca6f5cae359d133f0382916b35b83ae5d3bb02907ebe74002d3c62cc05148d2",
+      "bytes": 45175,
+      "lines": 522,
+      "capturedAt": "2026-05-10T01:30:16.208Z",
+      "sourceName": "colours-and-shapes-experience-philosophy.v3.source.md",
+      "trusted": true
+    },
+    "brands/cochrane-master-builders/performance/react-vite-performance-engineer-persona.source.md": {
+      "sha256": "dd84af5a957545eba3fb0ca96711cfd2861d7704c07e9eb6c47cf689b2762e2a",
+      "bytes": 17163,
+      "lines": 165,
+      "capturedAt": "2026-05-10T04:08:16.612Z",
+      "sourceName": "react-vite-performance-engineer-persona.source.md",
+      "trusted": true
+    }
+  }
+}
