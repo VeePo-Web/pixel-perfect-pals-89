@@ -12,3 +12,6 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+# Sitemap — uncomment + replace ORIGIN once a canonical domain is set.
+# Sitemap: https://example.com/sitemap.xml
