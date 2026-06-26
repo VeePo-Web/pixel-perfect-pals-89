@@ -12,12 +12,58 @@
     <meta property="og:url" content="/" />
     <meta property="og:title" content="SEO Remix Template — Areas We Serve" />
     <meta property="og:description" content="3-tier Areas We Serve engine ready to populate for any service and any geography." />
+    <meta property="og:image" content="/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="SEO Remix Template" />
+    <meta property="og:locale" content="en_US" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="SEO Remix Template — Areas We Serve" />
     <meta name="twitter:description" content="3-tier Areas We Serve engine ready to populate for any service and any geography." />
+    <meta name="twitter:image" content="/og-image.jpg" />
 
     <meta name="theme-color" content="#1F2F4D" />
+
+    <!-- Locale alternates — uncomment + edit per remix when shipping multi-region -->
+    <!-- <link rel="alternate" hreflang="en-CA" href="https://example.ca/" /> -->
+    <!-- <link rel="alternate" hreflang="en-US" href="https://example.com/" /> -->
+    <!-- <link rel="alternate" hreflang="x-default" href="https://example.com/" /> -->
+
+    <!-- ─── Sitewide JSON-LD ──────────────────────────────────────────────────
+         These two graphs anchor every page's per-route schema. Edit the
+         {BRAND_*} tokens during remix; keep the @id values stable so the
+         per-route BreadcrumbList / WebPage entries can isPartOf them.    -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "@id": "/#organization",
+      "name": "{BRAND_NAME}",
+      "url": "/",
+      "logo": { "@type": "ImageObject", "url": "/android-chrome-512x512.png", "width": 512, "height": 512 },
+      "image": "/og-image.jpg",
+      "description": "{SERVICE_CATEGORY} — {BRAND_NAME}. {SERVICE_REGION_TAGLINE}",
+      "areaServed": "{SERVICE_REGION_TAGLINE}",
+      "sameAs": []
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "@id": "/#website",
+      "url": "/",
+      "name": "{BRAND_NAME}",
+      "publisher": { "@id": "/#organization" },
+      "inLanguage": "en",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": { "@type": "EntryPoint", "urlTemplate": "/blog?q={search_term_string}" },
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
