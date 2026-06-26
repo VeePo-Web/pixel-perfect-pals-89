@@ -31,17 +31,22 @@ It complements (does not replace) the earlier `docs/seo/areas-maps/` and `docs/s
 ```
 maps-mastery-2026/
 ├── README.md                                  ← you are here
-├── research/                                  ← 5 cited evidence dossiers (2026-06)
+├── research/                                  ← 8 cited evidence dossiers (2026-06)
 │   ├── 01-local-maps-ranking.md
 │   ├── 02-map-embed-geo-schema-technical.md
 │   ├── 03-ai-geo-aeo-local.md
 │   ├── 04-national-geo-data-scaffold-canada-usa.md
-│   └── 05-local-blog-for-maps.md
-├── reports/                                   ← 4 synthesized master specs
+│   ├── 05-local-blog-for-maps.md
+│   ├── 06-competitor-serp-teardown.md         ← deep-dive: what actually ranks #1
+│   ├── 07-national-data-sourcing-playbook.md  ← deep-dive: exact datasets + endpoints
+│   └── 08-gbp-optimization-deep-dive.md       ← deep-dive: the GBP engine
+├── reports/                                   ← 6 synthesized master specs
 │   ├── 00-MASTER-STRATEGY.md                  ← read first
 │   ├── 01-MAPS-INTEGRATION-PLAYBOOK.md
 │   ├── 02-NATIONAL-SCALE-TEMPLATE-SPEC.md
-│   └── 03-QA-SHIP-GATES.md
+│   ├── 03-QA-SHIP-GATES.md
+│   ├── 04-JSON-LD-SCHEMA-COOKBOOK.md          ← copy-paste validated schemas
+│   └── 05-BLOG-CONTENT-PLAYBOOK.md            ← 50 titles + keyword matrix + cadence
 └── prompts/                                   ← 9 executable build prompts (in order)
     ├── 00-orchestration.md
     ├── 01-static-render-and-discovery.md      ← release blocker
@@ -60,8 +65,11 @@ maps-mastery-2026/
 2. `reports/01-MAPS-INTEGRATION-PLAYBOOK.md` (the Maps-specific spec)
 3. `reports/02-NATIONAL-SCALE-TEMPLATE-SPEC.md` (all-CA + all-US scaffold + publish gate)
 4. `reports/03-QA-SHIP-GATES.md` (the pass/fail gates)
-5. `prompts/00`–`08` (executable build, in order — **not yet**)
-6. `research/01`–`05` (the underlying evidence, cited)
+5. `reports/04-JSON-LD-SCHEMA-COOKBOOK.md` (copy-paste schemas) + `reports/05-BLOG-CONTENT-PLAYBOOK.md` (titles + cadence)
+6. `prompts/00`–`08` (executable build, in order — **not yet**)
+7. `research/01`–`08` (the underlying evidence, cited)
+
+> **Deep-dive addendum (2026-06):** dossiers `06`–`08` and reports `04`–`05` were added in a second research pass — a competitor/SERP teardown of what actually ranks #1, a hands-on national data-sourcing playbook (exact datasets + endpoints + field maps), a GBP optimization deep-dive, a copy-paste JSON-LD cookbook, and a 50-title blog content playbook.
 
 ## The non-negotiables (carried into every prompt)
 

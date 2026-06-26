@@ -47,10 +47,10 @@
   <button type="button"
           class="map-facade__btn"
           data-src="https://www.google.com/maps/embed/v1/place?key=API_KEY&q=place_id:CHIJ..."
-          aria-label="Load interactive map of our Cochrane service area">
-    <img src="/maps/cochrane-service-area.webp"
+          aria-label="Load interactive map of our {CITY} service area">
+    <img src="/maps/{city}-service-area.webp"
          width="800" height="610" loading="lazy" decoding="async"
-         alt="Map showing our roofing service area across Cochrane, Alberta">
+         alt="Map showing our {SERVICE} service area across {CITY}, {REGION}">
   </button>
 </figure>
 ```
@@ -93,29 +93,29 @@ Key craft: `aspect-ratio` reserves space → **CLS = 0**; the trigger is a real 
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "serviceType": "Roofing Contractor",
+  "serviceType": "{SERVICE}",
   "provider": {
     "@type": "HomeAndConstructionBusiness",
-    "name": "Apex Roofing",
-    "url": "https://apexroofing.ca",
-    "telephone": "+1-403-555-0100",
+    "name": "{BRAND_NAME}",
+    "url": "https://ex.com",
+    "telephone": "+1-000-555-0100",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "123 Main St", "addressLocality": "Cochrane",
-      "addressRegion": "AB", "postalCode": "T4C 1A1", "addressCountry": "CA"
+      "streetAddress": "123 Main St", "addressLocality": "{HQ_CITY}",
+      "addressRegion": "{REGION}", "postalCode": "[Postal]", "addressCountry": "[Country]"
     },
-    "geo": { "@type": "GeoCoordinates", "latitude": 51.1899, "longitude": -114.4686 },
+    "geo": { "@type": "GeoCoordinates", "latitude": "[lat]", "longitude": "[lng]" },
     "hasMap": "https://www.google.com/maps/place/?q=place_id:CHIJ...",
     "sameAs": [
       "https://www.google.com/maps/place/?q=place_id:CHIJ...",
-      "https://www.facebook.com/apexroofing",
-      "https://www.linkedin.com/company/apexroofing"
+      "https://www.facebook.com/{brand}",
+      "https://www.linkedin.com/company/{brand}"
     ]
   },
   "areaServed": {
-    "@type": "City", "name": "Cochrane",
-    "@id": "https://www.wikidata.org/wiki/Q1104015",
-    "containedInPlace": { "@type": "AdministrativeArea", "name": "Alberta" }
+    "@type": "City", "name": "{CITY}",
+    "@id": "https://www.wikidata.org/wiki/[Qid]",
+    "containedInPlace": { "@type": "AdministrativeArea", "name": "{REGION}" }
   }
 }
 ```
@@ -123,12 +123,12 @@ Key craft: `aspect-ratio` reserves space → **CLS = 0**; the trigger is a real 
 **SAB serving many towns — hybrid array (high-value cities + radius):**
 ```json
 "areaServed": [
-  { "@type": "City", "name": "Cochrane" },
-  { "@type": "City", "name": "Airdrie" },
-  { "@type": "City", "name": "Okotoks" },
+  { "@type": "City", "name": "{CITY}" },
+  { "@type": "City", "name": "{CITY_2}" },
+  { "@type": "City", "name": "{CITY_3}" },
   {
     "@type": "GeoCircle",
-    "geoMidpoint": { "@type": "GeoCoordinates", "latitude": 51.1899, "longitude": -114.4686 },
+    "geoMidpoint": { "@type": "GeoCoordinates", "latitude": "[lat]", "longitude": "[lng]" },
     "geoRadius": "48280"            // metres — 30 miles = 48,280 m, NOT miles
   }
 ]
