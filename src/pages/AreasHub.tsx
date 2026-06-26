@@ -19,7 +19,8 @@ import { REGIONS, COMMUNITIES, getRegionCommunities } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";
 import { setPageMeta } from "@/lib/seo";
-import type { BookingClickHandler } from "@/config/drywall-booking";
+import { itemListNode, stringifyGraph } from "@/lib/seoGraph";
+import type { BookingClickHandler } from "@/config/template/booking-schema";
 
 interface AreasHubProps {
   onBookClick?: BookingClickHandler;
@@ -53,21 +54,25 @@ const AreasHub = ({ onBookClick }: AreasHubProps) => {
       path: "/areas-we-serve",
     });
 
-    // Hub-level LocalBusiness schema — driven entirely by data layer.
-    const schema: Record<string, unknown> = {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      name: bn,
-      serviceType: sc,
-      areaServed: REGIONS.map((r) => ({
-        "@type": "AdministrativeArea",
-        name: r.name,
-      })),
-    };
+    // Stitched JSON-LD graph: LocalBusiness + ItemList of every region.
+    const graphJson = stringifyGraph([
+      {
+        "@type": "LocalBusiness",
+        "@id": "/#organization",
+        name: bn,
+        serviceType: sc,
+        areaServed: REGIONS.map((r) => ({ "@type": "AdministrativeArea", name: r.name })),
+      },
+      itemListNode({
+        path: "/areas-we-serve",
+        name: `Regions served by ${bn}`,
+        items: REGIONS.map((r) => ({ name: r.name, path: `/areas-we-serve/${r.slug}` })),
+      }),
+    ]);
     const el = document.createElement("script");
     el.type = "application/ld+json";
     el.setAttribute("data-hub-schema", "true");
-    el.textContent = JSON.stringify(schema);
+    el.textContent = graphJson;
     document.head.appendChild(el);
     return () => { document.querySelectorAll('[data-hub-schema="true"]').forEach((n) => n.remove()); };
   }, [s, sp, bn, sc]);
