@@ -4,10 +4,9 @@ import TemplateNavigation from "@/components/template/TemplateNavigation";
 import TemplateFooter from "@/components/template/TemplateFooter";
 import { BlogCard } from "@/components/blog/BlogCard";
 import { getHubBySlug } from "@/lib/hubRegistry";
-import { getPostsByHubSlug, getPostBySlug } from "@/lib/blogData";
+import { getPostsByHubSlug } from "@/lib/blogData";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
-import BlogPost from "./BlogPost";
 
 interface BlogHubPageProps {
   onBookClick?: BookingClickHandler;
@@ -21,12 +20,8 @@ const BlogHubPage = ({ onBookClick }: BlogHubPageProps) => {
   const { hubSlug } = useParams<{ hubSlug: string }>();
   const hub = hubSlug ? getHubBySlug(hubSlug) : undefined;
 
-  // If the slug isn't a hub, render the post directly (single-level routing)
-  if (!hub) {
-    const asPost = hubSlug ? getPostBySlug(hubSlug) : undefined;
-    if (asPost) return <BlogPost onBookClick={onBookClick} />;
-    return <Navigate to="/blog" replace />;
-  }
+  // Hub-only routing — the blog ships without individual posts.
+  if (!hub) return <Navigate to="/blog" replace />;
 
   const posts = getPostsByHubSlug(hub.slug);
   const pillar = posts.find((p) => p.hubGovernance?.postType === "pillar");

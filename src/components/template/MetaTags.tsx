@@ -1,100 +1,63 @@
 /**
  * MetaTags — Singleton <head> injector.
  *
- * Mounted once in App.tsx, just above <ScrollToTop />.
- * Uses react-helmet-async to inject per-route meta without FOUC or
- * double-render issues in React 18 + Suspense.
+ * Mounted once in App.tsx. Uses react-helmet-async to inject per-route
+ * meta on top of the static defaults in `index.html`.
  *
  * Routing logic:
- *   Exact match       → META_CONFIG[pathname]
- *   /services/:slug   → META_SERVICE_DETAIL(slug)
- *   /areas-we-serve/* → skip (those pages inject their own schema)
- *   /thank-you        → noindex, nofollow
- *   catch-all (*)     → generic brand title only
+ *   /areas-we-serve/* → skip (those pages inject their own head + schema)
+ *   /blog*            → skip (BlogHub/BlogHubPage inject their own head)
+ *   exact match in META_CONFIG → use it
+ *   catch-all         → brand-level fallback
  */
 
 import { Helmet } from "react-helmet-async";
 import { useLocation } from "react-router-dom";
-import { META_CONFIG, META_SERVICE_DETAIL } from "@/config/template/meta-config";
+import { META_CONFIG } from "@/config/template/meta-config";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
-
-// ─── Resolve meta for the current pathname ────────────────────────────────────
-const resolveMeta = (pathname: string) => {
-  // Exact match
-  if (META_CONFIG[pathname]) return { meta: META_CONFIG[pathname], noindex: false };
-
-  // /services/:slug
-  const serviceMatch = pathname.match(/^\/services\/([^/]+)$/);
-  if (serviceMatch) {
-    return { meta: META_SERVICE_DETAIL(serviceMatch[1]), noindex: false };
-  }
-
-  // Areas — skip, those pages handle their own schema
-  if (pathname.startsWith("/areas-we-serve")) return null;
-
-  // /thank-you — already in META_CONFIG but enforce noindex here too
-  if (pathname === "/thank-you") {
-    return {
-      meta: META_CONFIG["/thank-you"] ?? {
-        title: `Request Received | ${MASTER_REMIX.BRAND_NAME}`,
-        description: "Your project request has been received.",
-      },
-      noindex: true,
-    };
-  }
-
-  // Generic fallback
-  return {
-    meta: {
-      title: MASTER_REMIX.BRAND_NAME,
-      description: `${MASTER_REMIX.SERVICE_CATEGORY} — ${MASTER_REMIX.BRAND_NAME}. Send photos for a quote.`,
-    },
-    noindex: false,
-  };
-};
 
 export const MetaTags = () => {
   const { pathname } = useLocation();
-  const resolved = resolveMeta(pathname);
 
-  // Area pages handle their own head — don't double-render
-  if (resolved === null) return null;
+  // Routes that own their own head — don't double-render.
+  if (pathname.startsWith("/areas-we-serve")) return null;
+  if (pathname.startsWith("/blog")) return null;
 
-  const { meta, noindex } = resolved;
-  const title = meta.title;
-  const description = meta.description;
-  const ogTitle = meta.ogTitle ?? title;
-  const ogDescription = meta.ogDescription ?? description;
-  const canonical = meta.canonical;
-  const isThankYou = pathname === "/thank-you";
-  const robotsContent =
-    isThankYou || noindex ? "noindex, nofollow" : "index, follow";
+  const meta = META_CONFIG[pathname] ?? {
+    title: `${MASTER_REMIX.BRAND_NAME} — ${MASTER_REMIX.SERVICE_CATEGORY}`,
+    description: `${MASTER_REMIX.SERVICE_CATEGORY} — ${MASTER_REMIX.BRAND_NAME}. Send photos for a written quote.`,
+  };
+
+  const origin = MASTER_REMIX.BRAND_URL || "";
+  const canonical = meta.canonical ?? `${origin}${pathname}`;
+  const ogTitle = meta.ogTitle ?? meta.title;
+  const ogDescription = meta.ogDescription ?? meta.description;
+  const ogImage = MASTER_REMIX.OG_IMAGE || "/og-image.jpg";
 
   return (
     <Helmet>
-      <title>{title}</title>
-      <meta name="description" content={description} />
-      <meta name="robots" content={robotsContent} />
+      <title>{meta.title}</title>
+      <meta name="description" content={meta.description} />
+      <meta name="robots" content="index, follow" />
+
+      <link rel="canonical" href={canonical} />
 
       {/* Open Graph */}
+      <meta property="og:type" content="website" />
+      <meta property="og:site_name" content={MASTER_REMIX.BRAND_NAME} />
       <meta property="og:title" content={ogTitle} />
       <meta property="og:description" content={ogDescription} />
-      <meta property="og:type" content="website" />
-      {canonical && <meta property="og:url" content={canonical} />}
-
-      {/* OG image — required for social sharing; falls back to brand default */}
-      <meta property="og:image" content={MASTER_REMIX.OG_IMAGE} />
+      <meta property="og:url" content={canonical} />
+      <meta property="og:image" content={ogImage} />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
+      <meta property="og:locale" content="en_US" />
 
       {/* Twitter / X */}
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={ogTitle} />
       <meta name="twitter:description" content={ogDescription} />
-      <meta name="twitter:image" content={MASTER_REMIX.OG_IMAGE} />
-
-      {/* Canonical */}
-      {canonical && <link rel="canonical" href={canonical} />}
+      <meta name="twitter:image" content={ogImage} />
     </Helmet>
   );
 };

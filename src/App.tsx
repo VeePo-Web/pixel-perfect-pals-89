@@ -23,7 +23,6 @@ const CommunityPage = lazy(() => import("./pages/CommunityPage"));
 // ── BLOG — World-class editorial / Local SEO hub (ported from VeePo.ca) ──
 const BlogHub = lazy(() => import("./pages/BlogHub"));
 const BlogHubPage = lazy(() => import("./pages/BlogHubPage"));
-const BlogPost = lazy(() => import("./pages/BlogPost"));
 
 const queryClient = new QueryClient();
 

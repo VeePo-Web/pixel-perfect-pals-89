@@ -1,7 +1,12 @@
 import { Link } from "react-router-dom";
 import { Clock, Calendar } from "lucide-react";
 import type { BlogPost } from "@/lib/blogData";
-import { formatDate } from "@/lib/blogUtils";
+const formatDate = (iso: string) =>
+  new Date(iso).toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
 
 interface BlogCardProps {
   post: BlogPost;
