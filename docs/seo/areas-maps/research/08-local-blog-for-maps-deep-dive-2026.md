@@ -34,21 +34,21 @@ across its cluster; each **spoke carries 3–5 contextual links** placed high in
 least one back up to the hub.
 
 **The intent bridge (the load-bearing idea for local).** Blog spokes capture
-**informational/long-tail** intent ("how much does drywall repair cost in Cochrane"); city/
-service pages capture **commercial/transactional** intent ("drywall contractor Cochrane"). The
+**informational/long-tail** intent ("how much does {SERVICE} cost in {CITY}"); city/
+service pages capture **commercial/transactional** intent ("{SERVICE} contractor {CITY}"). The
 bridge is the **bidirectional internal link** between the two layers:
 
 - **Blog → location:** an in-paragraph contextual link with a descriptive geo-anchor ("our
-  Cochrane drywall services"). A contextual body link is **stronger than a "related posts"
+  {CITY} {SERVICE} services"). A contextual body link is **stronger than a "related posts"
   block**.
 - **Location → blog:** each area page links *down* to 2–4 local guides.
 
 ```
-HUB:   /areas-we-serve/alberta/cochrane/   (commercial — "drywall contractor Cochrane")
- ├─ spoke: "How Much Does Drywall Repair Cost in Cochrane? (2026 Price Ranges)"
- ├─ spoke: "Do You Need a Permit for Basement Drywall in Cochrane? (2026 Bylaw Guide)"
- ├─ spoke: "Best Time of Year to Drywall in Alberta's Chinook Climate"
- └─ spoke: "Heritage Hills Basement Finish: A Cochrane Case Study"
+HUB:   /areas-we-serve/{region}/{city}/   (commercial — "{SERVICE} contractor {CITY}")
+ ├─ spoke: "How Much Does {SERVICE} Cost in {CITY}? (2026 Price Ranges)"
+ ├─ spoke: "Do You Need a Permit for {SERVICE} in {CITY}? (2026 Bylaw Guide)"
+ ├─ spoke: "Best Time of Year for {SERVICE} in {REGION}'s Climate"
+ └─ spoke: "{NEIGHBORHOOD} Project: A {CITY} Case Study"
 ```
 
 **Inverted authority (2026 refinement).** The traditional model flows authority *down* from
@@ -80,8 +80,8 @@ immediately before hiring. *"Pages that answer 'how much does X cost in 2026' wi
 number in the first paragraph outperform pages that build up to the answer over 2,000 words."*
 AI engines extract the number verbatim. **Original local price ranges = proprietary data**, the
 single strongest extractable element (+ up to 40% AI visibility).
-*Titles:* "How Much Does a Roof Replacement Cost in Calgary? (2026 Price Ranges)" · "Deck
-Building Cost in Cochrane: 2026 Per-Square-Foot Breakdown."
+*Titles:* "How Much Does {SERVICE} Cost in {CITY}? (2026 Price Ranges)" · "{SERVICE}
+Cost in {CITY}: 2026 Per-Square-Foot Breakdown."
 
 **② "Best [service] in [city]" listicles/comparisons — the dominant AI-citation format overall.**
 Ahrefs: of 26,283 ChatGPT-cited URLs, **43.8% were "best-of" listicles**; a ~400M-citation
@@ -94,15 +94,15 @@ site, publishing genuinely even-handed buyer's guides ("How to choose a {service
 what to compare"), not a list where you are every entry.
 
 **③ Permit/regulation guides.** Hyper-local, genuinely unique per municipality, near-impossible
-to fake → strong E-E-A-T + local-specificity. *"Do You Need a Permit for a Deck in Cochrane?
+to fake → strong E-E-A-T + local-specificity. *"Do You Need a Permit for {SERVICE} in {CITY}?
 (2026 Bylaw Guide)."*
 
 **④ Neighborhood guides.** Directly feed Maps prominence by associating the business with named
-communities/landmarks (see §4). *"Roofing in River Song: What Cochrane's Chinook Conditions Mean
-for Your Roof."*
+communities/landmarks (see §4). *"{SERVICE} in {NEIGHBORHOOD}: What {CITY}'s Local Conditions Mean
+for Your Home."*
 
 **⑤ Seasonal/timing guides.** Feed freshness + capture "when should I…" queries. *"When to
-Replace Your Roof in Alberta: 2026 Seasonal Timing Guide."*
+Schedule {SERVICE} in {REGION}: 2026 Seasonal Timing Guide."*
 
 **⑥ Local project case studies.** First-hand experience (photos, named streets/subdivisions,
 real outcomes) — exactly the "specific first-hand examples" Google now requires to avoid
@@ -139,7 +139,7 @@ associations between your business, services, and named places.
   mechanism.
 - **Embed a service-area map** and **"near [landmark]"** content (named streets, schools, parks)
   directly in posts.
-- **Geotagged photos** of completed local work (filename `roofing-cochrane-river-song.webp`,
+- **Geotagged photos** of completed local work (filename `{service-slug}-{city-slug}-{neighborhood-slug}.webp`,
   descriptive `alt`).
 - **Earn local backlinks** — community guides, local-event coverage, and project case studies
   are the link-earning assets; **local press/blogger mentions are the strongest off-site

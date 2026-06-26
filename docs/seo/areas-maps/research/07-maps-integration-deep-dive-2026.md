@@ -191,7 +191,7 @@ Since prominence is what stretches an SAB beyond its pin, and reviews are ~20% o
 - **Velocity beats volume:** match the top competitor's cadence **+1** (if they earn 2/month,
   target 3+/month, every month). Steady flow beats a burst every six months.
 - **Keywords + city in review text** improve "near me" relevance ~40% — naturally prompt
-  customers to mention the *service* and the *city* ("…great roof repair in Cochrane"). Never
+  customers to mention the *service* and the *city* ("…great {SERVICE} in {CITY}"). Never
   incentivize customers (TOS violation); incentivize *staff* to ask.
 - **Respond to every review**, working the city name in naturally — a conversion *and*
   engagement signal (80% would use a business that replies to all reviews).

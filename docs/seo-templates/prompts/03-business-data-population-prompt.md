@@ -44,7 +44,7 @@ coordinates/region) and **fill the first-party local fields until it clears the 
 (`evaluateCommunity` → `cleared === true`, i.e. **≥ 4 of 8 signals + ≥ 1 first-party element**):
 
 - `streets[]` / `landmarks[]` — real local references.
-- `localConditions` — a service-relevant local condition ("chinook freeze-thaw cracks drywall here").
+- `localConditions` — a service-relevant local condition ("the local freeze-thaw climate affects {SERVICE} here").
 - `localProjects[]` — a real completed project (named area).
 - `localCode` — a real permit/bylaw note for that jurisdiction.
 - `localCommunity` — a real community/event reference.

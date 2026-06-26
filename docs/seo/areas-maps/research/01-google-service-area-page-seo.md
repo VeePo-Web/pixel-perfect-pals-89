@@ -12,7 +12,7 @@ The proven structure is a **two-to-three-level hub-and-spoke geo-hierarchy** (Wh
 - **Region/city spoke:** `/areas-we-serve/[region]/[city]/` — the primary ranking target.
 - **Neighborhood spoke:** `/areas-we-serve/[region]/[city]/[neighborhood]/` — built **only** after the city hub is complete and ranking.
 
-**URL rules:** lowercase, hyphenated, descriptive slugs — never query parameters (`?location=cochrane` is not crawled as a separate page), ≤3 levels deep, city name in the URL (BrightLocal 2025).
+**URL rules:** lowercase, hyphenated, descriptive slugs — never query parameters (`?location={city}` is not crawled as a separate page), ≤3 levels deep, city name in the URL (BrightLocal 2025).
 
 **Internal linking pyramid** (the authority-distribution mechanism — spokes don't rank without it): homepage + primary service pages link to the hub; the hub links to all city pages; each city page links to its neighborhood spokes; neighborhood spokes link back up via breadcrumb; and **adjacent city pages cross-link** ("we also serve…"). Descriptive anchor text, never "click here."
 

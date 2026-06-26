@@ -6,17 +6,17 @@
 
 For a local/multi-location service business the topical cluster is geographically anchored. The **hub** is the commercial money page (a service or city/area page); the **spokes** are informational blog posts that orbit it and pass relevance inward. The decisive mechanic is the **intent bridge** — bidirectional internal links between blog spokes and area/service pages:
 
-- **Blog → location:** a contextual link inside a paragraph (from "how much does drywall repair cost in Cochrane" → `/areas-we-serve/.../cochrane/`) with descriptive anchor text. A contextual in-paragraph link is stronger than a "related posts" block.
+- **Blog → location:** a contextual link inside a paragraph (from "how much does {SERVICE} cost in {CITY}" → `/areas-we-serve/.../{city}/`) with descriptive anchor text. A contextual in-paragraph link is stronger than a "related posts" block.
 - **Location → blog:** each area page links *down* to 2–4 local guides.
 
 This cluster density builds the **prominence** signal Google uses for Maps (prominence derives "from across the web — links, articles, directories"). 2026 refinement — the **inverted authority model**: a high-performing spoke can become the authority center, yielding ranking gains up to 40%.
 
 ```
-HUB:   /areas-we-serve/alberta/cochrane/  (commercial — "drywall contractor Cochrane")
- ├─ spoke: "How Much Does Drywall Repair Cost in Cochrane? (2026)"
- ├─ spoke: "Do You Need a Permit for Basement Drywall in Cochrane?"
- ├─ spoke: "Best Time of Year to Drywall in Alberta's Chinook Climate"
- └─ spoke: "Heritage Hills Basement Finish: A Cochrane Case Study"
+HUB:   /areas-we-serve/{region}/{city}/  (commercial — "{SERVICE} contractor {CITY}")
+ ├─ spoke: "How Much Does {SERVICE} Cost in {CITY}? (2026)"
+ ├─ spoke: "Do You Need a Permit for {SERVICE} in {CITY}?"
+ ├─ spoke: "Best Time of Year for {SERVICE} in {REGION}'s Climate"
+ └─ spoke: "{NEIGHBORHOOD} Project: A {CITY} Case Study"
 ```
 
 > **Codebase note:** the template already has this intent bridge (`hubRegistry.ts` linkedRegions/linkedCommunities, `GuidesForLocation.tsx`, `getPostsAboutCommunity`). The work is to **populate** the spokes, not to build the wiring.
@@ -27,14 +27,14 @@ Non-negotiable rule: **intent separation** — blog = informational, area/servic
 
 | Content type | Example title | Intent | Lives on |
 |---|---|---|---|
-| Local cost/pricing guide | "How Much Does a Kitchen Remodel Cost in Los Angeles? (2026)" | Informational | Blog spoke |
-| Permit/regulation guide | "Deck Permit Rules in Okotoks: 2026 Homeowner's Guide" | Informational | Blog spoke |
-| Neighborhood guide | "Roofing in River Song: What Cochrane Homeowners Should Know" | Informational | Blog spoke |
-| Seasonal/timing guide | "Best Season to Replace a Roof in Calgary" | Informational | Blog spoke |
-| Local project case study | "How We Re-Sided a 1970s Home in Heritage Hills" | E-E-A-T proof | Blog spoke |
-| "[Service] in [City]" | "Drywall Contractor in Cochrane" | Commercial/transactional | Area/service page |
+| Local cost/pricing guide | "How Much Does {SERVICE} Cost in {CITY}? (2026)" | Informational | Blog spoke |
+| Permit/regulation guide | "{SERVICE} Permit Rules in {CITY}: 2026 Homeowner's Guide" | Informational | Blog spoke |
+| Neighborhood guide | "{SERVICE} in {NEIGHBORHOOD}: What {CITY} Homeowners Should Know" | Informational | Blog spoke |
+| Seasonal/timing guide | "Best Season for {SERVICE} in {CITY}" | Informational | Blog spoke |
+| Local project case study | "How We Completed {SERVICE} on a 1970s Home in {NEIGHBORHOOD}" | E-E-A-T proof | Blog spoke |
+| "[Service] in [City]" | "{SERVICE} Contractor in {CITY}" | Commercial/transactional | Area/service page |
 
-**Cost guides with local data are the single highest-leverage format.** When someone searches "how much does a kitchen remodel cost in Los Angeles," Google's AI needs concrete pricing data — a page with specific local price ranges becomes a primary citation source (EvolveAMZ). The transactional "[service] in [city]" query stays on the area page; never write a blog post that competes for it.
+**Cost guides with local data are the single highest-leverage format.** When someone searches "how much does {SERVICE} cost in {CITY}," Google's AI needs concrete pricing data — a page with specific local price ranges becomes a primary citation source (EvolveAMZ). The transactional "[service] in [city]" query stays on the area page; never write a blog post that competes for it.
 
 ## 3. Content that specifically supports Google Maps
 

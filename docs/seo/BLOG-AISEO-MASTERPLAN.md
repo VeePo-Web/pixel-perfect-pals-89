@@ -309,7 +309,7 @@ snippet as proof. Then REMOVE the example post (blog ships empty) or mark it cle
 
 ```
 Act as the Topical Authority Content Architect (/blog skill). The site has been remixed for:
-  TRADE/BUSINESS: {describe — e.g. "Cochrane drywall & taping"}
+  TRADE/BUSINESS: {describe — e.g. "{CITY} {SERVICE} & {SUB_SERVICE}"}
   GEOGRAPHY: {from src/data/communities.ts — REGIONS + COMMUNITIES}
   SERVICES: {MASTER_REMIX.SUB_SERVICES}
 
@@ -796,7 +796,7 @@ The rule: **alt text + filename + surrounding paragraph + ImageObject schema mus
 |---|---|---|
 | **Format** | AVIF > WebP (compression + CWV) | ✅ AVIF used (`STORY_IMAGES` `.avif`) |
 | **Dimensions** | explicit `width`/`height` (CLS) | ✅ on `featuredImage` |
-| **Filename** | descriptive, keyworded: `drywall-repair-cochrane-before.avif` not `IMG_1234` | ⚠️ wire into `regenerate-images.ts` |
+| **Filename** | descriptive, keyworded: `{service-slug}-{city-slug}-before.avif` not `IMG_1234` | ⚠️ wire into `regenerate-images.ts` |
 | **Alt text** | descriptive, entity + context, <125 chars, consistent with caption | ✅ field exists; enforce quality |
 | **Caption** | `<figure>/<figcaption>` reinforcing the alt + surrounding text | ⚠️ add to article renderer |
 | **ImageObject schema** | `contentUrl`, `caption`, `creator`, `width`/`height` — feeds Lens + image carousels | ❌ not emitted |

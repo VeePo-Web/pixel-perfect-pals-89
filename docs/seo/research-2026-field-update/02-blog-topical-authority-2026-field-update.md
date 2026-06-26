@@ -64,7 +64,7 @@
 - **YMYL authorship is effectively required:** named author with credentials + verifiable bio per article. For
   local YMYL (legal, medical, financial, home-safety) a **named, credentialed author/reviewer is not optional.** [directional]
 - **The "Experience" E** = first-hand proof AI can't fake: original photos/screenshots, real before/after metrics,
-  "in our 47 Cochrane projects…" specifics.
+  "in our 47 {CITY} projects…" specifics.
 - **Person schema `sameAs` — concrete threshold: 3+ profiles** (LinkedIn, X, industry associations, publication
   author pages; strongest anchors **Wikidata, Wikipedia, Crunchbase**). More agreeing `sameAs` = higher
   Knowledge-Graph entity confidence. [directional] → https://nav43.com/blog/author-pages-ai-search-visibility (2026-04-24)

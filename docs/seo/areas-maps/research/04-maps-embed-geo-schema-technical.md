@@ -19,9 +19,9 @@ Third-party embeds routinely exceed 100KB of JS (up to 2MB) and hurt all three C
 
 ```html
 <!-- Facade: static image is the LCP-safe default -->
-<button class="map-facade" data-map-src="https://www.google.com/maps/embed/v1/place?key=KEY&q=Calgary+AB">
-  <img src="/maps/calgary-static.webp" width="640" height="360"
-       alt="Map of our roofing service area in Calgary, Alberta" loading="lazy" decoding="async">
+<button class="map-facade" data-map-src="https://www.google.com/maps/embed/v1/place?key=KEY&q={CITY}+{REGION}">
+  <img src="/maps/{city}-static.webp" width="640" height="360"
+       alt="Map of our {SERVICE} service area in {CITY}, {REGION}" loading="lazy" decoding="async">
   <span>Load interactive map</span>
 </button>
 <script>
@@ -52,32 +52,32 @@ Google's `LocalBusiness` docs require `name` + `address`, recommend `geo` (GeoCo
 {
   "@context": "https://schema.org",
   "@graph": [
-    { "@type": "Organization", "@id": "https://ex.com/#org", "name": "Apex Roofing",
+    { "@type": "Organization", "@id": "https://ex.com/#org", "name": "{BRAND_NAME}",
       "url": "https://ex.com", "sameAs": ["https://www.wikidata.org/entity/Q…","https://linkedin.com/company/…"] },
     { "@type": "HomeAndConstructionBusiness", "@id": "https://ex.com/#localbusiness",
       "parentOrganization": { "@id": "https://ex.com/#org" },
-      "name": "Apex Roofing", "telephone": "+14035550100",
+      "name": "{BRAND_NAME}", "telephone": "+10005550100",
       "address": { "@type": "PostalAddress", "streetAddress": "123 Main St",
-        "addressLocality": "Cochrane", "addressRegion": "AB",
-        "postalCode": "T4C 1A1", "addressCountry": "CA" },
-      "geo": { "@type": "GeoCoordinates", "latitude": 51.18927, "longitude": -114.46734 },
+        "addressLocality": "{HQ_CITY}", "addressRegion": "{REGION}",
+        "postalCode": "[Postal]", "addressCountry": "[Country]" },
+      "geo": { "@type": "GeoCoordinates", "latitude": "[lat]", "longitude": "[lng]" },
       "hasMap": "https://maps.google.com/?cid=…",
       "areaServed": { "@type": "GeoCircle",
-        "geoMidpoint": { "@type": "GeoCoordinates", "latitude": 51.0447, "longitude": -114.0719 },
+        "geoMidpoint": { "@type": "GeoCoordinates", "latitude": "[lat]", "longitude": "[lng]" },
         "geoRadius": "50000" } },
-    { "@type": "Service", "@id": "https://ex.com/calgary/#service",
-      "name": "Roof Replacement in Calgary",
+    { "@type": "Service", "@id": "https://ex.com/{city}/#service",
+      "name": "{SERVICE} in {CITY}",
       "provider": { "@id": "https://ex.com/#localbusiness" },
-      "areaServed": { "@type": "City", "name": "Calgary" } },
-    { "@type": "WebPage", "@id": "https://ex.com/calgary/#webpage",
-      "url": "https://ex.com/calgary/", "about": { "@id": "https://ex.com/calgary/#service" },
-      "breadcrumb": { "@id": "https://ex.com/calgary/#breadcrumb" } },
-    { "@type": "BreadcrumbList", "@id": "https://ex.com/calgary/#breadcrumb",
+      "areaServed": { "@type": "City", "name": "{CITY}" } },
+    { "@type": "WebPage", "@id": "https://ex.com/{city}/#webpage",
+      "url": "https://ex.com/{city}/", "about": { "@id": "https://ex.com/{city}/#service" },
+      "breadcrumb": { "@id": "https://ex.com/{city}/#breadcrumb" } },
+    { "@type": "BreadcrumbList", "@id": "https://ex.com/{city}/#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://ex.com/" },
-        { "@type": "ListItem", "position": 2, "name": "Calgary", "item": "https://ex.com/calgary/" } ] },
-    { "@type": "FAQPage", "@id": "https://ex.com/calgary/#faq",
-      "mainEntity": [ { "@type": "Question", "name": "Do you need a permit for re-roofing in Calgary?",
+        { "@type": "ListItem", "position": 2, "name": "{CITY}", "item": "https://ex.com/{city}/" } ] },
+    { "@type": "FAQPage", "@id": "https://ex.com/{city}/#faq",
+      "mainEntity": [ { "@type": "Question", "name": "Do you need a permit for {SERVICE} in {CITY}?",
         "acceptedAnswer": { "@type": "Answer", "text": "…40–60 word answer…" } } ] }
   ]
 }
@@ -103,18 +103,18 @@ Google **no longer supports the `<geo>` sitemap extension**; geositemap/KML file
 Render NAP as **real, crawlable HTML text** (not in an image), identical to GBP and JSON-LD. Semantic `<address>` + `tel:` link with E.164 number:
 
 ```html
-<address>Apex Roofing, 123 Main St, Cochrane, AB T4C 1A1
-  <a href="tel:+14035550100">(403) 555-0100</a></address>
+<address>{BRAND_NAME}, 123 Main St, {HQ_CITY}, {REGION} [Postal]
+  <a href="tel:+10005550100">(000) 555-0100</a></address>
 ```
 
 Prefer **JSON-LD over inline Microdata** (Google's recommended format; don't duplicate the same entity in both).
 
 ## 6. Image SEO for location heroes
 
-- **Alt text** = natural geo signal: "Roof replacement crew in Calgary, Alberta" — descriptive, <125 chars.
+- **Alt text** = natural geo signal: "{SERVICE} crew in {CITY}, {REGION}" — descriptive, <125 chars.
 - **Explicit `width`/`height`** to prevent CLS; **AVIF/WebP** + `srcset`/`sizes`.
 - Hero (LCP element): `fetchpriority="high"`, **not** lazy. Static maps below fold: `loading="lazy" decoding="async"`.
-- Descriptive filenames: `roof-replacement-calgary.webp`.
+- Descriptive filenames: `{service-slug}-{city-slug}.webp`.
 
 ## 7. Sitemaps + image sitemap + hreflang at scale (bilingual Canada)
 

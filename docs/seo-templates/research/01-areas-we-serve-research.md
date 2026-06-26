@@ -59,7 +59,7 @@ non-negotiable — it is the single most important design decision in the templa
 - Spoke → its hub (breadcrumb), 3–5 sibling spokes.
 - **No orphan pages.** *"Never hide service-area pages from users and Googlebot because they aren't
   linked anywhere"* (Sterling Sky). Don't bury them behind an uncrawlable JS store-locator.
-- Anchor text always descriptive ("our Cochrane roofing services"), never "click here," and don't
+- Anchor text always descriptive ("our {CITY} {SERVICE} services"), never "click here," and don't
   reuse the identical anchor from many pages to one destination (over-optimization signal).
 
 ---
@@ -96,8 +96,8 @@ non-negotiable — it is the single most important design decision in the templa
 - **Operational publish gate — require ≥ 4 of these 8 local-specificity signals, or do not generate
   the page:**
   1. Local landmark / neighbourhood / street / school / subdivision named.
-  2. Local condition note relevant to the service (e.g., "Cochrane's chinook freeze-thaw cycles crack
-     drywall"; "humid Nashville summers and HVAC short-cycling"; "historic Midtown Memphis homes with
+  2. Local condition note relevant to the service (e.g., "{CITY}'s freeze-thaw cycles stress {SERVICE}";
+     "humid Nashville summers and HVAC short-cycling"; "historic Midtown Memphis homes with
      galvanized supply lines").
   3. Local project reference (named area/subdivision/project type you've completed there).
   4. Local code / permit / bylaw note for that jurisdiction.

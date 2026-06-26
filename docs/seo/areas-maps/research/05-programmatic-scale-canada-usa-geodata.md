@@ -71,12 +71,12 @@ One shared geo dataset; a per-business **config object** filters it:
 
 ```json
 {
-  "businessId": "apex-roofing",
-  "base": { "lat": 51.18, "lng": -114.47 },
+  "businessId": "{business-slug}",
+  "base": { "lat": "[lat]", "lng": "[lng]" },
   "serviceRadiusKm": 60,
   "minPopulation": 1500,
-  "services": ["roof-repair", "metal-roofing"],
-  "localProof": { "austin": { "testimonial": "...", "project": "River Song re-roof" } },
+  "services": ["{service-1}", "{service-2}"],
+  "localProof": { "{city-slug}": { "testimonial": "...", "project": "{NEIGHBORHOOD} project" } },
   "nearestN": 5,
   "locales": ["en"]
 }
