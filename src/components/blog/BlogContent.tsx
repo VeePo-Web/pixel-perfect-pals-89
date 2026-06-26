@@ -41,10 +41,11 @@ const EditorialNumber = ({ n }: { n: number }) => {
 
 const textOf = (children: unknown): string => {
   if (typeof children === "string") return children;
+  if (typeof children === "number") return String(children);
   if (Array.isArray(children)) return children.map(textOf).join("");
   if (children && typeof children === "object" && "props" in (children as object)) {
-    // @ts-expect-error narrowed below
-    return textOf((children as { props: { children: unknown } }).props.children);
+    const props = (children as { props: { children?: unknown } }).props;
+    return textOf(props?.children);
   }
   return "";
 };
