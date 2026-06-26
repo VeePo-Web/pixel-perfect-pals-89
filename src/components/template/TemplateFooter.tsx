@@ -87,6 +87,16 @@ const TemplateFooter = () => {
             <ul className="space-y-2.5 text-graphite text-body-sm">
               <li>{MASTER_REMIX.COMMUNITIES.slice(0, 4).join(" · ")}</li>
               <li>Mon–Sat · 7am–6pm</li>
+              {MASTER_REMIX.PHONE_DISPLAY && (
+                <li>
+                  <a
+                    href={`tel:${(MASTER_REMIX.PHONE || "").replace(/[^\d+]/g, "")}`}
+                    className="transition-colors hover:text-charcoal"
+                  >
+                    {MASTER_REMIX.PHONE_DISPLAY}
+                  </a>
+                </li>
+              )}
             </ul>
           </div>
         </div>

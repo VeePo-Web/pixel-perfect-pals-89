@@ -20,6 +20,7 @@ import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";
 import { setPageMeta } from "@/lib/seo";
 import { itemListNode, stringifyGraph } from "@/lib/seoGraph";
+import ConversionBar from "@/components/template/ConversionBar";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
 
 interface AreasHubProps {
