@@ -19,11 +19,13 @@ index is the authority on which doc to trust for what.**
 
 | Tree | Role | Read it when |
 |---|---|---|
-| **`docs/seo/`** | The **internal masterplan** — north-star strategy, deep research, the worked gold-standard example, the 2026 corrections, the executable Areas+Maps build phases, and (in `research-2026-field-update/`) the latest dated field research. | You are the team **building** the template and want the full strategy + current evidence. |
+| **`docs/seo/maps-mastery-2026/`** | The **newest pass (2026-06)** — a self-contained, freshly-sourced package focused on **Maps integration** and **national scale (all CA + all US)**: 5 cited research dossiers, 4 synthesized master reports, 9 executable build prompts. **Wins on any factual conflict** about Maps integration, AI-crawler behavior, geo-data licensing, and the publish gate. | You want the **current, Maps-first + national-scale-first** strategy and build sequence. **Start here.** |
+| **`docs/seo/`** | The **internal masterplan** — north-star strategy, deep research, the worked gold-standard example, the 2026 corrections, the executable Areas+Maps build phases, and (in `research-2026-field-update/`) earlier dated field research. | You are the team **building** the template and want the full strategy + prior evidence. |
 | **`docs/seo-templates/`** | The **external remix spec** — a tighter, self-contained research + prompt set aimed at *applying* the template to a real business with zero code change. | You are **remixing** the finished template onto a new client. |
 
 **Canonical-source rule (resolve any conflict with this order):**
-1. `docs/seo/research-2026-field-update/` — newest dated evidence (2026-06). **Wins on any factual conflict.**
+0. `docs/seo/maps-mastery-2026/` — **newest pass (2026-06)**, freshly sourced. **Wins on Maps integration, AI-crawler/JS behavior, geo-data licensing, and the publish gate.**
+1. `docs/seo/research-2026-field-update/` — prior dated evidence (2026-06).
 2. `docs/seo/DEEPDIVE-5-2026-UPDATE.md` — the prior correction layer. Supersedes the masterplans where it says so.
 3. `docs/seo/BLOG-AISEO-MASTERPLAN.md` + `docs/seo/areas-maps/AREAS-MAPS-MASTERPLAN.md` — the core strategy.
 4. `docs/seo-templates/` — equivalent, tighter restatements; defer to `docs/seo/` on any disagreement.
