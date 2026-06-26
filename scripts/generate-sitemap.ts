@@ -9,7 +9,7 @@
 
 import { writeFileSync } from "fs";
 import { resolve } from "path";
-import { REGIONS, COMMUNITIES } from "../src/data/communities";
+import { REGIONS, COMMUNITIES, resolveCommunityHeroImage } from "../src/data/communities";
 import { hubRegistry } from "../src/lib/hubRegistry";
 import { blogPosts } from "../src/lib/blogData";
 import { MASTER_REMIX } from "../src/config/template/remix-variables";
@@ -21,6 +21,7 @@ interface SitemapEntry {
   lastmod?: string;
   changefreq?: "weekly" | "monthly" | "yearly";
   priority?: string;
+  images?: Array<{ loc: string; caption?: string }>;
 }
 
 const entries: SitemapEntry[] = [
@@ -31,12 +32,17 @@ const entries: SitemapEntry[] = [
     path: `/areas-we-serve/${r.slug}`,
     changefreq: "monthly",
     priority: "0.8",
+    images: r.heroImage?.url ? [{ loc: r.heroImage.url, caption: r.heroImage.alt }] : undefined,
   })),
-  ...COMMUNITIES.map<SitemapEntry>((c) => ({
-    path: `/areas-we-serve/${c.region}/${c.slug}`,
-    changefreq: "monthly",
-    priority: "0.7",
-  })),
+  ...COMMUNITIES.map<SitemapEntry>((c) => {
+    const img = resolveCommunityHeroImage(c);
+    return {
+      path: `/areas-we-serve/${c.region}/${c.slug}`,
+      changefreq: "monthly",
+      priority: "0.7",
+      images: img?.url ? [{ loc: img.url, caption: img.alt }] : undefined,
+    };
+  }),
   ...hubRegistry.map<SitemapEntry>((h) => ({
     path: `/blog/${h.slug}`,
     changefreq: "weekly",
@@ -58,6 +64,14 @@ function build(entries: SitemapEntry[]): string {
       e.lastmod ? `    <lastmod>${e.lastmod}</lastmod>` : null,
       e.changefreq ? `    <changefreq>${e.changefreq}</changefreq>` : null,
       e.priority ? `    <priority>${e.priority}</priority>` : null,
+      ...(e.images ?? []).map((img) =>
+        [
+          "    <image:image>",
+          `      <image:loc>${img.loc}</image:loc>`,
+          img.caption ? `      <image:caption>${img.caption.replace(/&/g, "&amp;").replace(/</g, "&lt;")}</image:caption>` : null,
+          "    </image:image>",
+        ].filter(Boolean).join("\n"),
+      ),
       "  </url>",
     ]
       .filter(Boolean)
@@ -68,7 +82,7 @@ function build(entries: SitemapEntry[]): string {
     : "<!-- TODO: set MASTER_REMIX.BRAND_URL so <loc> values are absolute -->\n";
   return [
     '<?xml version="1.0" encoding="UTF-8"?>',
-    header + '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    header + '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">',
     ...urls,
     "</urlset>",
   ].join("\n");

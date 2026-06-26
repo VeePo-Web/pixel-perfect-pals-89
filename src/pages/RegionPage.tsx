@@ -29,6 +29,7 @@ import {
 import { hubRegistry } from "@/lib/hubRegistry";
 import { getPostsAboutRegion } from "@/lib/blogData";
 import GuidesForLocation from "@/components/blog/GuidesForLocation";
+import ConversionBar from "@/components/template/ConversionBar";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
 
 interface RegionPageProps {
@@ -43,6 +44,17 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
   const s  = MASTER_REMIX.SERVICE;
   const sc = MASTER_REMIX.SERVICE_CATEGORY;
   const bn = MASTER_REMIX.BRAND_NAME;
+
+  const sub = (tpl: string, region: string) => tpl.replace(/\{REGION\}/g, region);
+  const trustBullets = region
+    ? MASTER_REMIX.TRUST_BULLETS.map((b) => sub(b, region.name))
+    : [];
+  const regionFaqs = region
+    ? MASTER_REMIX.REGION_FAQ_TEMPLATE.map((f) => ({
+        question: sub(f.question, region.name),
+        answer: sub(f.answer, region.name),
+      }))
+    : [];
 
   useEffect(() => {
     if (!region) return;
@@ -98,6 +110,16 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           path: `/areas-we-serve/${c.region}/${c.slug}`,
         })),
       }),
+      {
+        "@type": "FAQPage",
+        "@id": `${path}#faq`,
+        speakable: { "@type": "SpeakableSpecification", cssSelector: [".faq-question", ".faq-answer"] },
+        mainEntity: regionFaqs.map((f) => ({
+          "@type": "Question",
+          name: f.question,
+          acceptedAnswer: { "@type": "Answer", text: f.answer },
+        })),
+      },
     ]);
 
     const cleanup = () => {
@@ -271,30 +293,15 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           <h2 className="font-display text-display-md text-charcoal mb-8">
             Why {region.shortName} Homeowners Choose {bn}
           </h2>
-          {/* REMIX: Customise these 3 trust points for your trade's strengths in this region */}
-          <div className="grid sm:grid-cols-3 gap-8">
-            <div>
-              <p className="font-display text-display-sm text-charcoal mb-2">We Know the Build Standard</p>
-              <p className="text-body-sm text-graphite">
-                Every {region.shortName} community has specific property types and finish expectations.
-                We know the standard and work to it — not a generic version of it.
-              </p>
-            </div>
-            <div>
-              <p className="font-display text-display-sm text-charcoal mb-2">Local. Close By.</p>
-              <p className="text-body-sm text-graphite">
-                No long travel fees, no delayed start times. We're local to the
-                communities in {region.name} — and it shows in our response time.
-              </p>
-            </div>
-            <div>
-              <p className="font-display text-display-sm text-charcoal mb-2">Written Estimates. Always.</p>
-              <p className="text-body-sm text-graphite">
-                Every {region.shortName} project gets a written scope before we start. No surprises,
-                no scope creep, no verbal-only promises.
-              </p>
-            </div>
-          </div>
+          {/* TRUST_BULLETS — token-driven, {REGION} substituted per page */}
+          <ul className="grid sm:grid-cols-3 gap-8">
+            {trustBullets.map((b, i) => (
+              <li key={i} className="text-body text-graphite leading-relaxed">
+                <span className="block h-1 w-8 bg-copper mb-3" aria-hidden />
+                {b}
+              </li>
+            ))}
+          </ul>
         </div>
       </SectionFrame>
 
@@ -341,28 +348,35 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
       {/* ── Editorial posts geo-bound to this region ── */}
       <GuidesForLocation locationName={region.name} posts={fieldNotes} />
 
-      {/* ── CTA ── */}
-      <SectionFrame tone="forest" size="lg" grain>
-        <div className="max-w-2xl">
-          <p className="font-eyebrow text-primary-foreground/60 mb-4">Begin</p>
-          <h2 className="font-display text-display-lg text-primary-foreground mb-5">
-            Ready to start your project in {region.shortName}?
-          </h2>
-          <p className="text-body-lg text-primary-foreground/75 mb-8">
-            We serve every community in {region.name}. Send your address and project
-            scope — we'll get back to you within hours.
-          </p>
-          <button
-            onClick={() => onBookClick?.()}
-            className="inline-flex items-center gap-2 px-8 py-3.5 rounded-full bg-clay text-white
-                       font-body text-label uppercase tracking-[0.15em]
-                       hover:bg-clay/90 transition-colors duration-300"
-          >
-            {TEMPLATE_COPY.cta.primary}
-            <ArrowRight size={16} />
-          </button>
-        </div>
-      </SectionFrame>
+      {/* ── Region FAQ — converts informational intent + emits FAQPage schema ── */}
+      {regionFaqs.length > 0 && (
+        <SectionFrame tone="bone" size="md">
+          <div className="max-w-3xl">
+            <p className="font-eyebrow text-forest mb-4">Common Questions</p>
+            <h2 className="font-display text-display-md text-charcoal mb-8">
+              {sc} in {region.name} — FAQ
+            </h2>
+            <div className="divide-y divide-seam border border-seam rounded overflow-hidden">
+              {regionFaqs.map((f, i) => (
+                <div key={i} className="bg-paper p-6">
+                  <p className="faq-question font-display text-display-sm text-charcoal mb-2">
+                    {f.question}
+                  </p>
+                  <p className="faq-answer text-body text-graphite leading-relaxed">{f.answer}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </SectionFrame>
+      )}
+
+      {/* ── ConversionBar ── */}
+      <ConversionBar
+        headline={`Ready to start your project in ${region.shortName}?`}
+      />
+
+      {/* ── Sticky mobile bar ── */}
+      <ConversionBar variant="sticky" />
 
     </TemplateLayout>
   );

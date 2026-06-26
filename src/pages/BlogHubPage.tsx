@@ -7,6 +7,7 @@ import { getHubBySlug } from "@/lib/hubRegistry";
 import { getPostsByHubSlug } from "@/lib/blogData";
 import { getRegion } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
+import ConversionBar from "@/components/template/ConversionBar";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
 import { Link } from "react-router-dom";
 import { ArrowRight } from "lucide-react";
@@ -148,6 +149,8 @@ const BlogHubPage = ({ onBookClick }: BlogHubPageProps) => {
             </div>
           </section>
         )}
+
+        <ConversionBar headline={`Read more, then get a written estimate for ${hub.name.toLowerCase()}.`} />
       </main>
 
       <TemplateFooter />

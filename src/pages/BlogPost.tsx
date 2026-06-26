@@ -24,6 +24,7 @@ import { getHubBySlug } from "@/lib/hubRegistry";
 import { getCommunity, getRegion } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { buildCanonical } from "@/lib/canonical";
+import ConversionBar from "@/components/template/ConversionBar";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
 
 interface Props {
@@ -177,7 +178,19 @@ const BlogPost = ({ onBookClick }: Props) => {
             </p>
           )}
         </article>
+
+        {/* End-of-post conversion module */}
+        <ConversionBar
+          headline={
+            post.about?.communitySlug && community
+              ? `Need ${MASTER_REMIX.SERVICE} in ${community.name}? Get a quote.`
+              : `Bring this guide to your own project — get a quote.`
+          }
+        />
       </main>
+
+      {/* Mobile sticky CTA — single conversion target on long-form reads */}
+      <ConversionBar variant="sticky" />
 
       <TemplateFooter />
     </div>

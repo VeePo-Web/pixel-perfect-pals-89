@@ -6,6 +6,7 @@ import { BlogCard } from "@/components/blog/BlogCard";
 import { getAllPosts, getFeaturedPost } from "@/lib/blogData";
 import { hubRegistry } from "@/lib/hubRegistry";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
+import ConversionBar from "@/components/template/ConversionBar";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
 
 interface BlogHubProps {
@@ -151,6 +152,8 @@ const BlogHub = ({ onBookClick }: BlogHubProps) => {
             </p>
           </section>
         )}
+
+        <ConversionBar />
       </main>
 
       <TemplateFooter />

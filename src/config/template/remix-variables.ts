@@ -59,6 +59,24 @@ export interface RemixVariables {
   BRAND_NAME: string;
   /** Neutral primary CTA label shown in the nav and footer. Default: "Explore Coverage". */
   CTA_PRIMARY: string;
+  /** Conversion-oriented CTA label used in inline ConversionBars (e.g. "Get a Free Quote"). */
+  CTA_SECONDARY: string;
+  /** Phone CTA label template — `{PHONE_DISPLAY}` is substituted at render time. */
+  CTA_TERTIARY: string;
+  /** Visible phone number (e.g. "(000) 000-0000"). Empty string hides phone CTAs. */
+  PHONE_DISPLAY: string;
+  /** One-line response promise rendered below H1s and inside ConversionBars. */
+  RESPONSE_PROMISE: string;
+  /** Social-proof micro-line. `{SERVICE_REGION}` is substituted with SERVICE_REGION_TAGLINE. */
+  SOCIAL_PROOF_LINE: string;
+  /** Risk-reversal line shown in ConversionBars (no obligation, guarantee, etc). */
+  RISK_REVERSAL: string;
+  /** Three short trust bullets used by Region-page "Why neighbours choose us" row. */
+  TRUST_BULLETS: [string, string, string];
+  /** Three FAQ templates used on Region pages. `{REGION}` is substituted at render time. */
+  REGION_FAQ_TEMPLATE: Array<{ question: string; answer: string }>;
+  /** Optional aggregate rating. When non-null, surfaces in Community schema. */
+  RATING: { value: number; count: number } | null;
   /** Singular service noun, lower-case. e.g. "tile". */
   SERVICE: string;
   /** Plural form, e.g. "tiles". */
@@ -201,6 +219,35 @@ export interface RemixVariables {
 export const MASTER_REMIX: RemixVariables = {
   BRAND_NAME: "{BRAND_NAME}",
   CTA_PRIMARY: "Explore Coverage",
+  CTA_SECONDARY: "Get a Free Quote",
+  CTA_TERTIARY: "Call {PHONE_DISPLAY}",
+  PHONE_DISPLAY: "",
+  RESPONSE_PROMISE: "Written reply within 1 business hour.",
+  SOCIAL_PROOF_LINE: "Trusted by homeowners across {SERVICE_REGION}.",
+  RISK_REVERSAL: "No-obligation estimate. Backed by our written guarantee.",
+  TRUST_BULLETS: [
+    "Local crews who know the build standard in {REGION}.",
+    "Written scope before any work begins — no surprise change orders.",
+    "Same finish quality on a 1-day repair as a whole-home build.",
+  ],
+  REGION_FAQ_TEMPLATE: [
+    {
+      question: "Do you serve every community in {REGION}?",
+      answer:
+        "Yes. Every community in {REGION} is on our regular route. Send your address and project scope and we'll confirm your start window.",
+    },
+    {
+      question: "How quickly can you start a project in {REGION}?",
+      answer:
+        "Most {REGION} projects begin within 1–3 weeks of estimate acceptance. Urgent work is quoted with a specific window — we never promise a date we can't keep.",
+    },
+    {
+      question: "Is there a travel surcharge anywhere in {REGION}?",
+      answer:
+        "No. Our pricing is flat across {REGION}. The number on your written quote is the number you pay.",
+    },
+  ],
+  RATING: null,
   SERVICE: "{SERVICE}",
   SERVICE_PLURAL: "{SERVICE_PLURAL}",
   SERVICE_VERB: "{SERVICE_VERB}",
