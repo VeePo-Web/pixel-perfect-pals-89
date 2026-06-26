@@ -64,7 +64,7 @@ const BlogHub = ({ onBookClick }: BlogHubProps) => {
         </script>
       </Helmet>
 
-      <TemplateNavigation onBookClick={onBookClick} />
+      <TemplateNavigation />
 
       <main id="main" className="pt-24">
         {/* Editorial hero */}
@@ -153,7 +153,7 @@ const BlogHub = ({ onBookClick }: BlogHubProps) => {
         )}
       </main>
 
-      <TemplateFooter onBookClick={onBookClick} />
+      <TemplateFooter />
     </div>
   );
 };

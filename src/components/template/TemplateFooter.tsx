@@ -16,7 +16,6 @@
 
 import { Link } from "react-router-dom";
 import PrefetchLink from "./PrefetchLink";
-import { MasterLogo } from "@/master";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import {
@@ -24,13 +23,8 @@ import {
   SloganHeartbeat,
   PlumbLineDivider,
 } from "@/components/template/bespoke";
-import type { BookingClickHandler } from "@/config/drywall-booking";
 
-interface Props {
-  onBookClick?: BookingClickHandler;
-}
-
-const TemplateFooter = ({ onBookClick }: Props) => {
+const TemplateFooter = () => {
   return (
     <footer className="border-t border-copper/10 bg-paper relative overflow-hidden">
 
@@ -38,8 +32,12 @@ const TemplateFooter = ({ onBookClick }: Props) => {
       <div className="container mx-auto px-6 pt-20 pb-12">
         <div className="grid gap-12 md:grid-cols-12">
           <div className="md:col-span-7">
-            <Link to="/" aria-label={`${MASTER_REMIX.BRAND_NAME} — home`} className="inline-flex">
-              <MasterLogo slot="footer" />
+            <Link
+              to="/"
+              aria-label={`${MASTER_REMIX.BRAND_NAME} — home`}
+              className="inline-flex font-display text-2xl font-medium uppercase tracking-[0.16em] text-charcoal"
+            >
+              {MASTER_REMIX.BRAND_NAME}
             </Link>
 
             {/* Slogan — footer large variant with copper square bullet */}
@@ -51,17 +49,16 @@ const TemplateFooter = ({ onBookClick }: Props) => {
               {TEMPLATE_COPY.brand.promise}
             </p>
 
-            <button
-              type="button"
-              onClick={() => onBookClick?.({ source: "Footer → Send photos" })}
+            <Link
+              to="/areas-we-serve"
               className="mt-8 inline-flex items-center rounded-none px-5 py-3 text-sm font-medium tracking-[0.12em] uppercase text-charcoal transition-all duration-300 hover:text-forest"
               style={{
                 border: "1px solid hsl(var(--copper) / 0.20)",
                 boxShadow: "var(--shadow-heirloom)",
               }}
             >
-              {TEMPLATE_COPY.cta.primary}
-            </button>
+              {MASTER_REMIX.CTA_PRIMARY}
+            </Link>
           </div>
 
           <div className="md:col-span-3">

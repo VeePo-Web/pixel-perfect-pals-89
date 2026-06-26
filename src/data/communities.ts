@@ -64,6 +64,11 @@ export const REGIONS: Region[] = [
     description:
       "{REGION_ONE_DESCRIPTION} — replace with the editorial line that defines what makes this region one cluster of communities you serve.",
     adjacentRegions: ["region-two"],
+    // reference image — swap when you populate real regions
+    heroImage: {
+      url: "https://images.unsplash.com/photo-1601704598796-d00260db4977?auto=format&fit=crop&w=1920&q=80",
+      alt: "Reference hero — city skyline across a river with foothills and mountains beyond",
+    },
   },
   {
     slug: "region-two",
@@ -72,6 +77,11 @@ export const REGIONS: Region[] = [
     description:
       "{REGION_TWO_DESCRIPTION} — second example region. Add as many regions as you need; the hub, region, and community pages all read from this array.",
     adjacentRegions: ["region-one"],
+    // reference image — swap when you populate real regions
+    heroImage: {
+      url: "https://upload.wikimedia.org/wikipedia/commons/1/14/Rockies_in_the_morning.jpg",
+      alt: "Reference hero — Rocky Mountains at dawn with foothills landscape",
+    },
   },
 ];
 

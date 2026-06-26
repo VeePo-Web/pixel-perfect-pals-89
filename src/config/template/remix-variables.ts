@@ -57,6 +57,8 @@ export interface Author {
 export interface RemixVariables {
   /** Sub-brand short name, e.g. "Acme Tile". */
   BRAND_NAME: string;
+  /** Neutral primary CTA label shown in the nav and footer. Default: "Explore Coverage". */
+  CTA_PRIMARY: string;
   /** Singular service noun, lower-case. e.g. "tile". */
   SERVICE: string;
   /** Plural form, e.g. "tiles". */
@@ -198,6 +200,7 @@ export interface RemixVariables {
  */
 export const MASTER_REMIX: RemixVariables = {
   BRAND_NAME: "{BRAND_NAME}",
+  CTA_PRIMARY: "Explore Coverage",
   SERVICE: "{SERVICE}",
   SERVICE_PLURAL: "{SERVICE_PLURAL}",
   SERVICE_VERB: "{SERVICE_VERB}",

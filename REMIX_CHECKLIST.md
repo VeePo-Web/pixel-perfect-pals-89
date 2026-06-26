@@ -4,6 +4,19 @@ World-class Local-SEO substrate. Edit in this order — every page
 rehydrates from these files. No component edits required for a remix.
 
 ## 1. Brand + service identity
+## 0. Reference snapshots (read first)
+
+Three companion files ship populated with real-world examples so you
+can see what "done" looks like before you start filling in your own
+data. They are **never imported at runtime** — copy entries out of
+them, then adapt to your trade and geography.
+
+- `src/data/communities.reference.ts` — `REFERENCE_REGIONS` + `REFERENCE_COMMUNITIES` (Cochrane / Rocky View / Bow Valley slice from the Cochrane Master Builders template, including copyright-cleared Wikimedia/Unsplash hero imagery).
+- `src/lib/hubRegistry.reference.ts` — `REFERENCE_HUB` (VeePo.ca "Web Design for Trades" cluster).
+- `src/lib/blogData.reference.ts` — `REFERENCE_POST` (a fully-fleshed BlogPost with `hubGovernance`, `faq`, `outline`, `tldr`, and `ctaConfig`).
+
+Activation pattern: copy → paste into the live file → rewrite for your brand → never re-import the `*.reference.ts` file from production code.
+
 
 `src/config/template/remix-variables.ts` → `MASTER_REMIX`
 
