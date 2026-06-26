@@ -1,38 +1,36 @@
-## Problem
+## Goal
+Strip the project down to only the **Areas We Serve** system (hub → region → community), so we can expand it to cover all of Canada and the USA without distraction from other pages. No new features added — just staging.
 
-At the current viewport (928px), the Home trust bar wraps numbers onto one line and labels onto the next, with "Liability coverage" clipping to "Liabi". Root causes:
+## Changes
 
-1. `TrustNumbers` row variant uses `flex-wrap` with `justify-between` and `min-w-[8rem]` per item — 4 items + `FoundationCounter` in a 9/3 grid collapse below ~1024px.
-2. Labels use `text-caption` with `tracking-[0.18em]` — wide letter-spacing pushes "Liability coverage" past the cell.
-3. No vertical hairlines, no eyebrow framing — far from a Fantasy.co / Locomotive editorial bar.
+### 1. `src/App.tsx` — rewrite routing
+- Remove all `Template*` lazy imports (Home, BrandStory, WhyWeLove, Services, ServiceDetail, Pricing, Gallery, Reviews, About, Contact, Privacy, Terms, ThankYou, Guarantee, FAQ, NotFound).
+- Keep only `AreasHub`, `RegionPage`, `CommunityPage`.
+- Routes:
+  - `/` → redirect to `/areas-we-serve` (via `<Navigate>`).
+  - `/areas-we-serve` → `AreasHub`
+  - `/areas-we-serve/:region` → `RegionPage`
+  - `/areas-we-serve/:region/:community` → `CommunityPage`
+  - `*` → redirect to `/areas-we-serve`.
+- Keep the booking modal + handlers wired (the Areas pages accept `onBookClick`), Sticky CTA, BackToTop, MetaTags, providers — untouched.
+- Remove the `prefetchIdle([...])` call (its targets no longer exist).
 
-## Fix — Fantasy.co–grade trust strip
+### 2. Delete page files
+Delete the entire `src/pages/template/` directory:
+- `Home.tsx`, `BrandStory.tsx`, `WhyWeLoveService.tsx`, `Services.tsx`, `ServiceDetail.tsx`, `Pricing.tsx`, `Gallery.tsx`, `Reviews.tsx`, `About.tsx`, `Contact.tsx`, `Privacy.tsx`, `Terms.tsx`, `ThankYou.tsx`, `Guarantee.tsx`, `FAQ.tsx`, `NotFound.tsx`, `AreasWeServe.tsx` (re-export shim, no longer needed).
 
-Rebuild `src/components/template/TrustNumbers.tsx` row variant only (grid variant stays untouched — used on Reviews page).
+Keep:
+- `src/pages/AreasHub.tsx`
+- `src/pages/RegionPage.tsx`
+- `src/pages/CommunityPage.tsx`
 
-**Structure (row variant):**
-- CSS Grid, `grid-cols-2 md:grid-cols-4`, hairline `divide-x divide-seam/60` between cells, `divide-y md:divide-y-0` for the mobile 2×2.
-- Each cell: vertical stack — number on top, copper square bullet rule (12px), then label.
-- Numbers: `font-display`, `text-[clamp(2.25rem,4vw,3.25rem)]`, `leading-[0.95]`, `tracking-[-0.02em]`, `text-forest`, `tabular-nums`.
-- Labels: `font-eyebrow` reduced to `text-[10px] md:text-[11px]`, `tracking-[0.14em]` (was .18), `text-mist`, `leading-[1.35]`, `max-w-[14ch]`, balanced — no clipping.
-- Cell padding: `px-5 py-6 md:px-8 md:py-8`, first/last cell flush.
-- Add subtle copper underline accent under each number: `h-px w-6 bg-copper/60 my-3`.
+### 3. Leave everything else in place (staged, not deleted)
+Components, config, knowledge, scripts, supabase functions, and the booking modal stay. The Areas pages depend on `TemplateLayout`, `BookingModal`, `MetaTags`, `SmoothScrollProvider`, `PageTransition`, `areas/*` components, `data/communities`, `config/template/*`, etc. — all preserved so the Areas system keeps rendering and we have the substrate to expand on.
 
-**Home page layout (`src/pages/template/Home.tsx` ~line 110–122):**
-- Drop the 9/3 grid that squeezes 4 numbers into 9 columns next to FoundationCounter.
-- Stack: `TrustNumbers` full-width on its own row, then a slim row below with eyebrow ("Since 1958 · Cochrane, AB") on the left and `FoundationCounter` on the right, separated by a hairline.
-- Section padding stays `size="sm"`.
+No content, copy, or data changes. No new Canada/USA data added yet — that's the next step after this stage.
 
-**Result:** four numbers breathe across full width at 928px, "Liability coverage" sits on one line under "$5M", FoundationCounter no longer fights for space, and the bar reads like Fantasy.co's editorial stat rows.
-
-## Out of scope
-
-- No copy changes to numbers or labels.
-- No edits to `TrustNumbers` grid variant (Reviews page).
-- No color, font, or token additions.
-- No other sections touched.
-
-## Files
-
-- `src/components/template/TrustNumbers.tsx` — rewrite row variant.
-- `src/pages/template/Home.tsx` — restructure trust bar block (~lines 110–122).
+## Verification
+- Typecheck passes (no dangling imports to deleted pages).
+- `/` redirects to `/areas-we-serve` and renders.
+- `/areas-we-serve/:region/:community` still renders a community page.
+- Booking modal still opens from Areas pages' CTAs.
