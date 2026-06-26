@@ -20,7 +20,8 @@
     "images:force": "npx tsx scripts/regenerate-images.ts --force",
     "images:brand": "npx tsx scripts/regenerate-images.ts --brand-only",
     "reviews:import": "npx tsx scripts/import-google-reviews.ts",
-    "reviews:seed": "npx tsx scripts/seed-reviews.ts"
+    "reviews:seed": "npx tsx scripts/seed-reviews.ts",
+    "seo:sitemap": "npx tsx scripts/generate-sitemap.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
