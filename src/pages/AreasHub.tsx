@@ -14,11 +14,11 @@
 
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
-import { ArrowRight, MapPin, Shield, Users, Wrench, Star } from "lucide-react";
+import { ArrowRight, MapPin, Shield, Wrench, Star } from "lucide-react";
 import TemplateLayout from "@/components/template/TemplateLayout";
 import SectionFrame from "@/components/template/SectionFrame";
 import CommunityCard from "@/components/areas/CommunityCard";
-import { REGIONS, COMMUNITIES, getRegionCommunities, getCommunity } from "@/data/communities";
+import { REGIONS, COMMUNITIES, getRegionCommunities } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";
 import { setPageMeta } from "@/lib/seo";
@@ -28,52 +28,44 @@ interface AreasHubProps {
   onBookClick?: BookingClickHandler;
 }
 
-// ── REMIX: swap these slugs for the communities most relevant to your trade ──
-const FEATURED_SLUGS = [
-  "heritage-hills",
-  "riversong",
-  "gleneagles",
-  "bearspaw-watermark",
-  "elbow-valley",
-  "springbank-hill",
-];
-
-const TRUST_STATS = [
-  { icon: MapPin,   label: "120+ Communities Served" },
-  { icon: Users,    label: "Cochrane-Based, Family Owned" },
-  { icon: Wrench,   label: "{SERVICE_CATEGORY} Specialists" },
-  { icon: Shield,   label: "Licensed & Insured" },
-  { icon: Star,     label: "15-Year Structural Guarantee" },
-];
-
 const AreasHub = ({ onBookClick }: AreasHubProps) => {
-  const s   = MASTER_REMIX.SERVICE;          // "{SERVICE}" in template preview
-  const sp  = MASTER_REMIX.SERVICE_PLURAL;   // "{SERVICE_PLURAL}"
-  const bn  = MASTER_REMIX.BRAND_NAME;       // "Cochrane Master Builders"
-  const sc  = MASTER_REMIX.SERVICE_CATEGORY; // "{SERVICE_CATEGORY}"
+  const s   = MASTER_REMIX.SERVICE;
+  const sp  = MASTER_REMIX.SERVICE_PLURAL;
+  const bn  = MASTER_REMIX.BRAND_NAME;
+  const sc  = MASTER_REMIX.SERVICE_CATEGORY;
+  const tagline = MASTER_REMIX.SERVICE_REGION_TAGLINE;
+
+  const [labelCommunities, labelLocation, labelCertification, labelGuarantee] =
+    MASTER_REMIX.TRUST_STATS_LABELS;
+  const trustStats = [
+    { icon: MapPin,  label: labelCommunities },
+    { icon: Wrench,  label: labelLocation },
+    { icon: Shield,  label: labelCertification },
+    { icon: Star,    label: labelGuarantee },
+  ];
+
+  // Featured = first 6 communities in COMMUNITIES (data-driven, not hardcoded).
+  const featured = COMMUNITIES.slice(0, 6);
 
   useEffect(() => {
     setPageMeta({
-      title: `${sc} Contractor — Areas We Serve | ${bn}`,
+      title: `${sc} — Areas We Serve | ${bn}`,
       description:
-        `${bn} provides professional ${s} services to 120+ communities across Cochrane, Calgary SW, Springbank, Elbow Valley, Rocky View County, the Bow Valley, and Canmore. Family-owned and Cochrane-based.`,
+        `${bn} provides ${s} services across ${COMMUNITIES.length} communities in ${REGIONS.length} regions. ` +
+        `See the full list of areas we serve.`,
       path: "/areas-we-serve",
     });
 
-    // Hub-level LocalBusiness schema
-    const schema = {
+    // Hub-level LocalBusiness schema — driven entirely by data layer.
+    const schema: Record<string, unknown> = {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       name: bn,
-      address: { "@type": "PostalAddress", addressLocality: "Cochrane", addressRegion: "AB", addressCountry: "CA" },
-      areaServed: [
-        { "@type": "City", name: "Cochrane" },
-        { "@type": "City", name: "Calgary" },
-        { "@type": "City", name: "Canmore" },
-        { "@type": "AdministrativeArea", name: "Rocky View County" },
-        { "@type": "AdministrativeArea", name: "Springbank" },
-      ],
       serviceType: sc,
+      areaServed: REGIONS.map((r) => ({
+        "@type": "AdministrativeArea",
+        name: r.name,
+      })),
     };
     const el = document.createElement("script");
     el.type = "application/ld+json";
@@ -83,8 +75,6 @@ const AreasHub = ({ onBookClick }: AreasHubProps) => {
     return () => { document.querySelectorAll('[data-hub-schema="true"]').forEach((n) => n.remove()); };
   }, [s, sp, bn, sc]);
 
-  const featured = FEATURED_SLUGS.map((sl) => getCommunity(sl)).filter(Boolean) as NonNullable<ReturnType<typeof getCommunity>>[];
-
   return (
     <TemplateLayout onBookClick={onBookClick}>
 
@@ -92,12 +82,12 @@ const AreasHub = ({ onBookClick }: AreasHubProps) => {
       <SectionFrame tone="forest" size="xl" grain>
         <p className="font-eyebrow text-primary-foreground/60 mb-4">Where We Work</p>
         <h1 className="font-display text-display-xl text-primary-foreground mb-6 max-w-[18ch]">
-          {sp} Across Cochrane,<br className="hidden sm:block" /> Calgary &amp; the Bow Valley
+          {sp} Across {tagline}
         </h1>
         <p className="text-body-lg text-primary-foreground/75 max-w-[52ch] mb-10">
-          From the foothills of Cochrane to the estate communities of Springbank and the
-          mountain hamlets of the Bow Valley — {bn} brings master-craft {s} to over
-          120 communities across Alberta.
+          {bn} brings {s} to {COMMUNITIES.length} communities across {REGIONS.length} regions.
+          Every region has its own page, every community has its own page, and the whole
+          system is staged to scale to as many areas as you need.
         </p>
         <button
           onClick={() => onBookClick?.()}
@@ -112,11 +102,11 @@ const AreasHub = ({ onBookClick }: AreasHubProps) => {
 
       {/* ── Trust Strip ── */}
       <SectionFrame tone="paper" size="sm">
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-5">
-          {TRUST_STATS.map(({ icon: Icon, label }) => (
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-5">
+          {trustStats.map(({ icon: Icon, label }) => (
             <div key={label} className="flex items-center gap-3">
               <Icon size={18} className="text-forest flex-shrink-0" />
-              <span className="text-body-sm text-graphite">{label.replace("{SERVICE_CATEGORY}", sc)}</span>
+              <span className="text-body-sm text-graphite">{label}</span>
             </div>
           ))}
         </div>
@@ -169,11 +159,11 @@ const AreasHub = ({ onBookClick }: AreasHubProps) => {
         <div className="mb-12">
           <p className="font-eyebrow text-forest mb-3">Featured Communities</p>
           <h2 className="font-display text-display-lg text-charcoal mb-4">
-            Our Highest-Priority {sc} Areas
+            Highlighted {sc} Areas
           </h2>
           <p className="text-body-lg text-graphite max-w-[50ch]">
-            These communities represent our heaviest concentration of work — premium estate
-            homes, custom builds, and renovation projects that demand master-craft {s}.
+            A handful of communities we want to highlight first — adjust the curated list
+            from the data layer to match where your work concentrates.
           </p>
         </div>
 
@@ -203,45 +193,14 @@ const AreasHub = ({ onBookClick }: AreasHubProps) => {
         <div className="max-w-3xl">
           <p className="font-eyebrow text-forest mb-4">Our Coverage</p>
           <h2 className="font-display text-display-md text-charcoal mb-6">
-            A Local {sc} Contractor You Can Actually Call on Monday Morning
+            A Local {sc} Team You Can Actually Reach
           </h2>
-          {/* ── REMIX NOTE ────────────────────────────────────────────────────────
-              Replace the editorial body below with trade-specific coverage copy
-              when remixing. Keep the geographic references — they are the SEO
-              foundation. Only the service type references need updating.
-              ──────────────────────────────────────────────────────────────────── */}
           <div className="space-y-5 text-body text-graphite">
+            <p>{MASTER_REMIX.COVERAGE_BLURB}</p>
             <p>
-              {bn} is a Cochrane-based {s} contractor serving over 120 communities from
-              the Bow Valley to southeast Calgary. We work in <strong>Cochrane's</strong> established
-              neighbourhoods — Heritage Hills, Sunset Ridge, Riversong, GlenEagles, Heartland,
-              and Fireside — and across <strong>Rocky View County</strong> in Bearspaw, Watermark,
-              Silverhorn, and Heritage Pointe.
-            </p>
-            <p>
-              West of Calgary, we are one of the most active {s} contractors in <strong>Springbank</strong> —
-              Aventerra Estates, Devonian Ridge, Pinnacle Ridge, Swift Creek, Mackenas Country Estates,
-              Morgan's Rise, and more than 35 additional acreage communities. The <strong>Elbow Valley</strong> corridor —
-              Stonepine, Lott Creek Estates, Pinebrook Estates, Swift Creek Villas — is a regular
-              part of our schedule.
-            </p>
-            <p>
-              In <strong>Calgary's southwest</strong>, we serve Aspen Woods, Springbank Hill, Discovery Ridge,
-              Signal Hill, West Springs, Cougar Ridge, Crestmont, and the inner-city estate communities
-              of Britannia, Bel-Aire, Eagle Ridge, and Upper Mount Royal. <strong>Calgary NW</strong> includes
-              Arbour Lake, Crestmont View, and Rockland Park. <strong>Calgary SE</strong> includes Auburn Bay,
-              Mahogany, Cranston, and Seton.
-            </p>
-            <p>
-              Along the <strong>Bow Valley corridor</strong>, we serve CottageClub at Ghost Lake, Ghost Lake Village,
-              Waiparous Village, Exshaw, Lac des Arcs, Dead Man's Flats, and Harvie Heights. In <strong>Canmore</strong>,
-              we work in Silvertip Resort, Three Sisters Mountain Village, Spring Creek Mountain Village,
-              Benchlands, Eagle Terrace, Quarry Pines, Cougar Creek, Rundleview, Larch, and Peaks of Grassi.
-            </p>
-            <p>
-              Every community page includes a Google Map, specific street references, local landmarks, and
-              frequently asked questions — because knowing the neighbourhood is what separates a genuine
-              local contractor from a directory listing.
+              Every community page includes a Google Map, specific street references, local
+              landmarks, and frequently asked questions — because knowing the neighbourhood
+              is what separates a genuine local provider from a directory listing.
             </p>
           </div>
         </div>
@@ -255,8 +214,8 @@ const AreasHub = ({ onBookClick }: AreasHubProps) => {
             Don't see your community?
           </h2>
           <p className="text-body-lg text-primary-foreground/75 mb-8">
-            If you're in Cochrane, Calgary, Rocky View County, the Bow Valley, or Canmore — we
-            work there. Send your address and project scope. We'll confirm within hours.
+            If you're in {tagline}, there's a good chance we work there. Send your address
+            and project scope. We'll confirm within hours.
           </p>
           <button
             onClick={() => onBookClick?.()}
