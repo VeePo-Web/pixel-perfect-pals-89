@@ -7,6 +7,7 @@ import { getHubBySlug } from "@/lib/hubRegistry";
 import { getPostsByHubSlug, getPostBySlug } from "@/lib/blogData";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
+import BlogPost from "./BlogPost";
 
 interface BlogHubPageProps {
   onBookClick?: BookingClickHandler;
@@ -20,10 +21,10 @@ const BlogHubPage = ({ onBookClick }: BlogHubPageProps) => {
   const { hubSlug } = useParams<{ hubSlug: string }>();
   const hub = hubSlug ? getHubBySlug(hubSlug) : undefined;
 
-  // If the slug matches a real post (and not a hub), let BlogPost render it
+  // If the slug isn't a hub, render the post directly (single-level routing)
   if (!hub) {
     const asPost = hubSlug ? getPostBySlug(hubSlug) : undefined;
-    if (asPost) return <Navigate to={`/blog/${asPost.slug}`} replace />;
+    if (asPost) return <BlogPost onBookClick={onBookClick} />;
     return <Navigate to="/blog" replace />;
   }
 
