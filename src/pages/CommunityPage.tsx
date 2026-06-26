@@ -32,7 +32,7 @@ import { getCommunity, getRegion, getCommunity as gc, resolveCommunityHeroImage 
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";
 import { setPageMeta } from "@/lib/seo";
-import type { BookingClickHandler, BookingPrefill } from "@/config/drywall-booking";
+import type { BookingClickHandler, BookingPrefill } from "@/config/template/booking-schema";
 import type { FAQ } from "@/config/template/remix-variables";
 
 interface CommunityPageProps {
@@ -417,7 +417,7 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
                   className="w-full flex items-center justify-between gap-4 px-6 py-5 text-left"
                   aria-expanded={openFaq === i}
                 >
-                  <span className="font-display text-display-sm text-charcoal leading-snug">
+                  <span className="faq-question font-display text-display-sm text-charcoal leading-snug">
                     {faq.question}
                   </span>
                   <ChevronDown size={18}
@@ -425,7 +425,7 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
                 </button>
                 {openFaq === i && (
                   <div className="px-6 pb-6">
-                    <p className="text-body text-graphite leading-relaxed">{faq.answer}</p>
+                    <p className="faq-answer text-body text-graphite leading-relaxed">{faq.answer}</p>
                   </div>
                 )}
               </div>
