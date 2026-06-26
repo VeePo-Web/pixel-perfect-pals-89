@@ -455,43 +455,13 @@ const CommunityPage = ({ onBookClick }: CommunityPageProps) => {
       {/* ── Editorial posts geo-bound to this community (Victorious-SEO bridge) ── */}
       <GuidesForLocation locationName={community.name} posts={guides} />
 
-      {/* ══════════════════════════════════════════════════════════════════════
-          SECTION 7 — COMMUNITY-SPECIFIC CTA
-          Pre-fills booking modal with community name + service for CRM routing.
-      ══════════════════════════════════════════════════════════════════════ */}
-      <SectionFrame tone="forest" size="lg" grain>
-        <div className="max-w-2xl">
-          <p className="font-eyebrow text-primary-foreground/60 mb-4">Begin</p>
-          <h2 className="font-display text-display-lg text-primary-foreground mb-5">
-            Ready to start your {s} project in {community.name}?
-          </h2>
-          <p className="text-body-lg text-primary-foreground/75 mb-8">
-            {/* REMIX: Update to reflect your trade's local credibility signal */}
-            We know {community.name} — the streets, the property types, the build standard.
-            Send three photos and receive a written estimate within 24 hours. No sales call.
-            No pressure.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4">
-            <button
-              onClick={() => onBookClick?.(prefill)}
-              className="inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-full
-                         bg-clay text-white font-body text-label uppercase tracking-[0.15em]
-                         hover:bg-clay/90 transition-colors duration-300"
-            >
-              {TEMPLATE_COPY.cta.primary}
-              <ArrowRight size={16} />
-            </button>
-            <Link to="/services"
-              className="inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-full
-                         border border-primary-foreground/30 text-primary-foreground/70
-                         font-body text-label uppercase tracking-[0.15em]
-                         hover:border-primary-foreground/60 hover:text-primary-foreground
-                         transition-all duration-300">
-              View All Services <ArrowRight size={16} />
-            </Link>
-          </div>
-        </div>
-      </SectionFrame>
+      {/* ── ConversionBar — community-specific headline, neutral CTA ── */}
+      <ConversionBar
+        headline={`Ready to start your ${s} project in ${community.name}?`}
+      />
+
+      {/* ── Sticky mobile bar ── */}
+      <ConversionBar variant="sticky" />
 
     </TemplateLayout>
   );
