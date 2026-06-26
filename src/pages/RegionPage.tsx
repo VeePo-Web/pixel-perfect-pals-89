@@ -18,7 +18,9 @@ import { getRegion, getRegionCommunities, REGIONS } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";
 import { setPageMeta } from "@/lib/seo";
-import type { BookingClickHandler } from "@/config/drywall-booking";
+import { itemListNode } from "@/lib/seoGraph";
+import { hubRegistry } from "@/lib/hubRegistry";
+import type { BookingClickHandler } from "@/config/template/booking-schema";
 
 interface RegionPageProps {
   onBookClick?: BookingClickHandler;
@@ -69,6 +71,17 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           containsPlace: communities.slice(0, 10).map((c) => ({ "@type": "Place", name: c.name })),
         },
       },
+      {
+        "@context": "https://schema.org",
+        ...itemListNode({
+          path: `/areas-we-serve/${regionSlug}`,
+          name: `Communities in ${region.name}`,
+          items: communities.map((c) => ({
+            name: c.name,
+            path: `/areas-we-serve/${c.region}/${c.slug}`,
+          })),
+        }),
+      },
     ];
 
     const cleanup = () => { document.querySelectorAll('[data-region-schema="true"]').forEach((el) => el.remove()); };
@@ -104,6 +117,7 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
   }
 
   const adjacentRegions = REGIONS.filter((r) => region.adjacentRegions.includes(r.slug));
+  const linkedHubs = hubRegistry.filter((h) => h.linkedRegions?.includes(regionSlug));
   const tier1 = communities.filter((c) => c.tier === 1);
   const tier2 = communities.filter((c) => c.tier === 2);
   const tier3 = communities.filter((c) => c.tier === 3);
