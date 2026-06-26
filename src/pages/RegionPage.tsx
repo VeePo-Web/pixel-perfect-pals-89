@@ -43,7 +43,6 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
   const s  = MASTER_REMIX.SERVICE;
   const sc = MASTER_REMIX.SERVICE_CATEGORY;
   const bn = MASTER_REMIX.BRAND_NAME;
-  const BASE_URL = MASTER_REMIX.BRAND_URL;
 
   useEffect(() => {
     if (!region) return;
@@ -338,6 +337,9 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           </div>
         </SectionFrame>
       )}
+
+      {/* ── Editorial posts geo-bound to this region ── */}
+      <GuidesForLocation locationName={region.name} posts={fieldNotes} />
 
       {/* ── CTA ── */}
       <SectionFrame tone="forest" size="lg" grain>
