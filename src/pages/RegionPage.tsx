@@ -304,6 +304,23 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
         </SectionFrame>
       )}
 
+      {/* ── From the Field Notes — intent-bridge into the Blog Hub ── */}
+      {linkedHubs.length > 0 && (
+        <SectionFrame tone="paper" size="sm">
+          <p className="font-eyebrow text-forest mb-6">From the Field Notes</p>
+          <div className="flex flex-wrap gap-3">
+            {linkedHubs.map((h) => (
+              <Link key={h.id} to={h.hubUrl}
+                className="inline-flex items-center gap-2 px-5 py-2.5 border border-seam rounded-full
+                           text-body-sm text-graphite hover:border-forest/40 hover:text-forest
+                           transition-all duration-300">
+                {h.name} <ArrowRight size={14} />
+              </Link>
+            ))}
+          </div>
+        </SectionFrame>
+      )}
+
       {/* ── CTA ── */}
       <SectionFrame tone="forest" size="lg" grain>
         <div className="max-w-2xl">
