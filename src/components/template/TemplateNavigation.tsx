@@ -35,6 +35,7 @@ const TemplateNavigation = ({ onBookClick }: Props) => {
   const links = [
     { label: "Home",           path: "/" },
     { label: "Areas We Serve", path: "/areas-we-serve" },
+    { label: "Blog", path: "/blog" },
   ];
 
   return (

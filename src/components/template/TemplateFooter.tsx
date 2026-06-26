@@ -77,6 +77,11 @@ const TemplateFooter = ({ onBookClick }: Props) => {
                   Areas We Serve
                 </PrefetchLink>
               </li>
+              <li>
+                <PrefetchLink to="/blog" className="text-graphite text-body-sm transition-colors hover:text-charcoal">
+                  Blog
+                </PrefetchLink>
+              </li>
             </ul>
           </div>
 
