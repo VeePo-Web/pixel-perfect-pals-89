@@ -47,7 +47,7 @@ const resolveMeta = (pathname: string) => {
   return {
     meta: {
       title: MASTER_REMIX.BRAND_NAME,
-      description: `${MASTER_REMIX.SERVICE_CATEGORY} in Cochrane, AB. ${MASTER_REMIX.BRAND_NAME} — written scope, 15-year structural guarantee. Send photos for a quote.`,
+      description: `${MASTER_REMIX.SERVICE_CATEGORY} — ${MASTER_REMIX.BRAND_NAME}. Send photos for a quote.`,
     },
     noindex: false,
   };
