@@ -30,6 +30,7 @@ import NearbyAreasWidget from "@/components/areas/NearbyAreasWidget";
 import AreasSEOSchema from "@/components/areas/AreasSEOSchema";
 import GuidesForLocation from "@/components/blog/GuidesForLocation";
 import { getPostsAboutCommunity } from "@/lib/blogData";
+import ConversionBar from "@/components/template/ConversionBar";
 import { getCommunity, getRegion, getCommunity as gc, resolveCommunityHeroImage } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";

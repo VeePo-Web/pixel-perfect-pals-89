@@ -293,30 +293,15 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           <h2 className="font-display text-display-md text-charcoal mb-8">
             Why {region.shortName} Homeowners Choose {bn}
           </h2>
-          {/* REMIX: Customise these 3 trust points for your trade's strengths in this region */}
-          <div className="grid sm:grid-cols-3 gap-8">
-            <div>
-              <p className="font-display text-display-sm text-charcoal mb-2">We Know the Build Standard</p>
-              <p className="text-body-sm text-graphite">
-                Every {region.shortName} community has specific property types and finish expectations.
-                We know the standard and work to it — not a generic version of it.
-              </p>
-            </div>
-            <div>
-              <p className="font-display text-display-sm text-charcoal mb-2">Local. Close By.</p>
-              <p className="text-body-sm text-graphite">
-                No long travel fees, no delayed start times. We're local to the
-                communities in {region.name} — and it shows in our response time.
-              </p>
-            </div>
-            <div>
-              <p className="font-display text-display-sm text-charcoal mb-2">Written Estimates. Always.</p>
-              <p className="text-body-sm text-graphite">
-                Every {region.shortName} project gets a written scope before we start. No surprises,
-                no scope creep, no verbal-only promises.
-              </p>
-            </div>
-          </div>
+          {/* TRUST_BULLETS — token-driven, {REGION} substituted per page */}
+          <ul className="grid sm:grid-cols-3 gap-8">
+            {trustBullets.map((b, i) => (
+              <li key={i} className="text-body text-graphite leading-relaxed">
+                <span className="block h-1 w-8 bg-copper mb-3" aria-hidden />
+                {b}
+              </li>
+            ))}
+          </ul>
         </div>
       </SectionFrame>
 
