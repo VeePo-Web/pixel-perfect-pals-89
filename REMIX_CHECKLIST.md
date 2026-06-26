@@ -27,6 +27,14 @@ Activation pattern: copy → paste into the live file → rewrite for your brand
 - `OG_IMAGE` (1200×630), `HERO_IMAGE`
 - `AUTHORS` — at least one entry before publishing a blog post
 - `BRAND_SOCIAL` — fed into Organization `sameAs`
+- **Conversion tokens** (new):
+  - `CTA_SECONDARY` — inline ConversionBar primary label (default "Get a Free Quote")
+  - `CTA_TERTIARY` — phone CTA template (`{PHONE_DISPLAY}` substituted)
+  - `PHONE_DISPLAY` — visible phone label (empty string hides every phone CTA)
+  - `RESPONSE_PROMISE`, `SOCIAL_PROOF_LINE`, `RISK_REVERSAL` — micro-copy
+  - `TRUST_BULLETS` — 3-bullet "Why neighbours choose us in {REGION}" row
+  - `REGION_FAQ_TEMPLATE` — 3 region-level FAQs ({REGION} substituted) → emits FAQPage schema
+  - `RATING` — optional `{value, count}`; surfaces AggregateRating when set
 
 ## 2. Geography (Areas We Serve)
 
@@ -80,9 +88,17 @@ sitemap edits.
 - "Serving {Community}" trust card rendered on every geo-bound post.
 - Sitemap entries carry `<lastmod>` for posts; auto-regenerated on
   `dev` and `build`.
+- Sitemap declares `xmlns:image` and emits `<image:image>` entries for
+  every Region + Community hero — boosts Google Image Search traffic.
 - Google Maps JS API used when
   `VITE_LOVABLE_CONNECTOR_GOOGLE_MAPS_BROWSER_KEY` is present;
   keyless iframe fallback otherwise (no broken map in preview).
+- `ConversionBar` (inline + sticky-mobile variants) on Areas Hub,
+  Region, Community, Blog Hub, Blog Hub cluster, and Blog Post —
+  primary CTA, phone CTA (auto-hidden when `PHONE_DISPLAY` is blank),
+  response promise, risk reversal — all token-driven.
+- Region pages emit a `FAQPage` JSON-LD node from
+  `MASTER_REMIX.REGION_FAQ_TEMPLATE` with `speakable` selectors.
 
 ## Programmatic variance contract (anti-doorway)
 
