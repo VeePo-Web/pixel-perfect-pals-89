@@ -363,28 +363,35 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
       {/* ── Editorial posts geo-bound to this region ── */}
       <GuidesForLocation locationName={region.name} posts={fieldNotes} />
 
-      {/* ── CTA ── */}
-      <SectionFrame tone="forest" size="lg" grain>
-        <div className="max-w-2xl">
-          <p className="font-eyebrow text-primary-foreground/60 mb-4">Begin</p>
-          <h2 className="font-display text-display-lg text-primary-foreground mb-5">
-            Ready to start your project in {region.shortName}?
-          </h2>
-          <p className="text-body-lg text-primary-foreground/75 mb-8">
-            We serve every community in {region.name}. Send your address and project
-            scope — we'll get back to you within hours.
-          </p>
-          <button
-            onClick={() => onBookClick?.()}
-            className="inline-flex items-center gap-2 px-8 py-3.5 rounded-full bg-clay text-white
-                       font-body text-label uppercase tracking-[0.15em]
-                       hover:bg-clay/90 transition-colors duration-300"
-          >
-            {TEMPLATE_COPY.cta.primary}
-            <ArrowRight size={16} />
-          </button>
-        </div>
-      </SectionFrame>
+      {/* ── Region FAQ — converts informational intent + emits FAQPage schema ── */}
+      {regionFaqs.length > 0 && (
+        <SectionFrame tone="bone" size="md">
+          <div className="max-w-3xl">
+            <p className="font-eyebrow text-forest mb-4">Common Questions</p>
+            <h2 className="font-display text-display-md text-charcoal mb-8">
+              {sc} in {region.name} — FAQ
+            </h2>
+            <div className="divide-y divide-seam border border-seam rounded overflow-hidden">
+              {regionFaqs.map((f, i) => (
+                <div key={i} className="bg-paper p-6">
+                  <p className="faq-question font-display text-display-sm text-charcoal mb-2">
+                    {f.question}
+                  </p>
+                  <p className="faq-answer text-body text-graphite leading-relaxed">{f.answer}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </SectionFrame>
+      )}
+
+      {/* ── ConversionBar ── */}
+      <ConversionBar
+        headline={`Ready to start your project in ${region.shortName}?`}
+      />
+
+      {/* ── Sticky mobile bar ── */}
+      <ConversionBar variant="sticky" />
 
     </TemplateLayout>
   );
