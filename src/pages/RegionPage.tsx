@@ -18,7 +18,9 @@ import { getRegion, getRegionCommunities, REGIONS } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import { TEMPLATE_COPY } from "@/config/template/template-copy";
 import { setPageMeta } from "@/lib/seo";
-import type { BookingClickHandler } from "@/config/drywall-booking";
+import { itemListNode } from "@/lib/seoGraph";
+import { hubRegistry } from "@/lib/hubRegistry";
+import type { BookingClickHandler } from "@/config/template/booking-schema";
 
 interface RegionPageProps {
   onBookClick?: BookingClickHandler;
@@ -69,6 +71,17 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           containsPlace: communities.slice(0, 10).map((c) => ({ "@type": "Place", name: c.name })),
         },
       },
+      {
+        "@context": "https://schema.org",
+        ...itemListNode({
+          path: `/areas-we-serve/${regionSlug}`,
+          name: `Communities in ${region.name}`,
+          items: communities.map((c) => ({
+            name: c.name,
+            path: `/areas-we-serve/${c.region}/${c.slug}`,
+          })),
+        }),
+      },
     ];
 
     const cleanup = () => { document.querySelectorAll('[data-region-schema="true"]').forEach((el) => el.remove()); };
@@ -104,6 +117,7 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
   }
 
   const adjacentRegions = REGIONS.filter((r) => region.adjacentRegions.includes(r.slug));
+  const linkedHubs = hubRegistry.filter((h) => h.linkedRegions?.includes(regionSlug));
   const tier1 = communities.filter((c) => c.tier === 1);
   const tier2 = communities.filter((c) => c.tier === 2);
   const tier3 = communities.filter((c) => c.tier === 3);
@@ -286,6 +300,23 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
                          transition-all duration-300">
               All Regions <ArrowRight size={14} />
             </Link>
+          </div>
+        </SectionFrame>
+      )}
+
+      {/* ── From the Field Notes — intent-bridge into the Blog Hub ── */}
+      {linkedHubs.length > 0 && (
+        <SectionFrame tone="paper" size="sm">
+          <p className="font-eyebrow text-forest mb-6">From the Field Notes</p>
+          <div className="flex flex-wrap gap-3">
+            {linkedHubs.map((h) => (
+              <Link key={h.id} to={h.hubUrl}
+                className="inline-flex items-center gap-2 px-5 py-2.5 border border-seam rounded-full
+                           text-body-sm text-graphite hover:border-forest/40 hover:text-forest
+                           transition-all duration-300">
+                {h.name} <ArrowRight size={14} />
+              </Link>
+            ))}
           </div>
         </SectionFrame>
       )}

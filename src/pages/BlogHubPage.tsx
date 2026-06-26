@@ -5,8 +5,11 @@ import TemplateFooter from "@/components/template/TemplateFooter";
 import { BlogCard } from "@/components/blog/BlogCard";
 import { getHubBySlug } from "@/lib/hubRegistry";
 import { getPostsByHubSlug } from "@/lib/blogData";
+import { getRegion } from "@/data/communities";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
+import { Link } from "react-router-dom";
+import { ArrowRight } from "lucide-react";
 
 interface BlogHubPageProps {
   onBookClick?: BookingClickHandler;
@@ -26,6 +29,9 @@ const BlogHubPage = ({ onBookClick }: BlogHubPageProps) => {
   const posts = getPostsByHubSlug(hub.slug);
   const pillar = posts.find((p) => p.hubGovernance?.postType === "pillar");
   const spokes = posts.filter((p) => p.slug !== pillar?.slug);
+  const linkedRegions = (hub.linkedRegions ?? [])
+    .map((slug) => getRegion(slug))
+    .filter((r): r is NonNullable<ReturnType<typeof getRegion>> => Boolean(r));
   const origin = MASTER_REMIX.BRAND_URL || "";
   const url = `${origin}/blog/${hub.slug}`;
 
@@ -109,11 +115,37 @@ const BlogHubPage = ({ onBookClick }: BlogHubPageProps) => {
 
         {posts.length === 0 && (
           <section className="container mx-auto max-w-3xl px-6 py-24 text-center">
-            <p className="text-body-lg text-mist">
-              No posts in this hub yet. Add them to <code>src/lib/blogData.ts</code> with
-              <br />
-              <code>hubGovernance.hubSlug === "{hub.slug}"</code>.
+            <p className="mb-4 text-eyebrow uppercase tracking-[0.22em] text-mist">
+              Editorial coming soon
             </p>
+            <h2 className="mb-5 font-serif text-display-md text-charcoal">
+              New writing on {hub.name.toLowerCase()} is being prepared.
+            </h2>
+            <p className="text-body-lg text-graphite">
+              In the meantime, see where {MASTER_REMIX.BRAND_NAME} works on this in the field.
+            </p>
+          </section>
+        )}
+
+        {linkedRegions.length > 0 && (
+          <section className="border-t border-seam bg-paper">
+            <div className="container mx-auto max-w-5xl px-6 py-12">
+              <p className="mb-5 text-eyebrow uppercase tracking-[0.22em] text-mist">
+                Where we work on this
+              </p>
+              <ul className="flex flex-wrap gap-3">
+                {linkedRegions.map((r) => (
+                  <li key={r.slug}>
+                    <Link
+                      to={`/areas-we-serve/${r.slug}`}
+                      className="inline-flex items-center gap-2 border border-seam bg-bone px-4 py-2 text-body-sm text-charcoal transition-colors hover:border-copper hover:text-forest"
+                    >
+                      {r.name} <ArrowRight size={14} />
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </section>
         )}
       </main>

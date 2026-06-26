@@ -135,6 +135,22 @@ const BlogHub = ({ onBookClick }: BlogHubProps) => {
             </div>
           </section>
         )}
+
+        {/* Marketing-safe empty state — replaces dev-instruction strings */}
+        {all.length === 0 && (
+          <section className="container mx-auto max-w-3xl px-6 py-24 text-center">
+            <p className="mb-4 text-eyebrow uppercase tracking-[0.22em] text-mist">
+              Editorial coming soon
+            </p>
+            <h2 className="mb-5 font-serif text-display-md text-charcoal">
+              New field notes are being prepared.
+            </h2>
+            <p className="text-body-lg text-graphite">
+              Browse our service areas in the meantime — every region we work in
+              has its own page with local detail and a direct line to the team.
+            </p>
+          </section>
+        )}
       </main>
 
       <TemplateFooter onBookClick={onBookClick} />
