@@ -41,6 +41,19 @@ export interface TrustNumber {
   label: string;
 }
 
+export interface Author {
+  /** Display name, e.g. "Avery Walsh". */
+  name: string;
+  /** Role / title, e.g. "Lead Estimator". */
+  role: string;
+  /** Short third-person bio — fed into BlogPosting.author + visible AuthorBio. */
+  bio: string;
+  /** Public photo URL (square). Empty string renders an editorial monogram fallback. */
+  image: string;
+  /** Optional canonical profile URL (LinkedIn, About page) — feeds `author.url`. */
+  url?: string;
+}
+
 export interface RemixVariables {
   /** Sub-brand short name, e.g. "Acme Tile". */
   BRAND_NAME: string;
@@ -159,6 +172,22 @@ export interface RemixVariables {
   MATERIAL_PRIMARY?: string;
   /** Sub-surface / specialty material for detail shots. */
   MATERIAL_SUBSURFACE?: string;
+
+  // ── E-E-A-T author surface (Victorious-SEO pattern) ─────────────────────
+  /**
+   * Author registry keyed by id. Referenced by future blog posts via
+   * `post.author.name` (current scaffold) or `post.authorId` (when
+   * posts are added). At least one entry is required before publishing
+   * a post — search engines reward visible, attributable authorship.
+   */
+  AUTHORS: Record<string, Author>;
+
+  /**
+   * Brand social / canonical profile URLs. Emitted into the sitewide
+   * Organization JSON-LD as `sameAs` — strengthens entity disambiguation.
+   * Leave empty until at least one profile exists.
+   */
+  BRAND_SOCIAL: string[];
 }
 
 /**
@@ -285,4 +314,10 @@ export const MASTER_REMIX: RemixVariables = {
   PALETTE_ACCENT_HEX: "#C47D26",
   MATERIAL_PRIMARY: "{MATERIAL_PRIMARY}",
   MATERIAL_SUBSURFACE: "{MATERIAL_SUBSURFACE}",
+
+  // ── E-E-A-T defaults ────────────────────────────────────────────────────
+  // Replace per trade. Ships blank by design — never publish a post under
+  // a fake author.
+  AUTHORS: {},
+  BRAND_SOCIAL: [],
 };
