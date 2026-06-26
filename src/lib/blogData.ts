@@ -50,7 +50,26 @@ export interface BlogPost {
     bottomPost?: { headline: string; subheadline: string; body: string };
   };
   hubGovernance?: HubGovernanceData;
+  /**
+   * Victorious-SEO extras — all optional, surfaced when present:
+   *  • about      → forward-link to a served region/community ("Serving X")
+   *  • tldr       → 1–2 sentence summary above the fold
+   *  • outline    → H2 list, rendered as the table-of-contents
+   *  • wordCount  → fed into BlogPosting.wordCount JSON-LD
+   */
+  about?: { regionSlug?: string; communitySlug?: string };
+  tldr?: string;
+  outline?: string[];
+  wordCount?: number;
 }
+
+/** Convenience selector for the cross-surface "Guides for {Community}" rail. */
+export const getPostsAboutCommunity = (communitySlug: string): BlogPost[] =>
+  blogPosts.filter((p) => p.about?.communitySlug === communitySlug);
+
+/** Convenience selector for the cross-surface "Field Notes for {Region}" rail. */
+export const getPostsAboutRegion = (regionSlug: string): BlogPost[] =>
+  blogPosts.filter((p) => p.about?.regionSlug === regionSlug);
 
 /**
  * The blog ships hub-only — no individual posts. The structure stays
