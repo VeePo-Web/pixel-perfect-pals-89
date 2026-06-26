@@ -19,6 +19,13 @@ export interface Hub {
   allowedLocations: string[];
   servicePages: string[];
   relatedHubs: string[];
+  /**
+   * Region slugs (from src/data/communities.ts → REGIONS) this hub
+   * is topically relevant to. Powers the bi-directional "intent
+   * bridge": Areas pages list field-notes for the region, hub pages
+   * list the regions where the work happens. Empty = sitewide.
+   */
+  linkedRegions?: string[];
 }
 
 export interface HubGovernanceData {
@@ -46,36 +53,33 @@ export interface HubGovernanceData {
 /**
  * Generic scaffold — two example hubs. Add more (H3, H4 …) per trade.
  */
-export const hubRegistry: Hub[] = [
-  {
-    id: "H1",
-    name: "{HUB_1_NAME}",
-    slug: "hub-one",
-    pillarUrl: "/blog/pillar-one",
-    hubUrl: "/blog/hub-one",
-    primaryTopic: "{HUB_1_PRIMARY_TOPIC}",
-    primaryKeywordPattern: "{HUB_1_KEYWORDS}",
-    secondaryTopics: ["{HUB_1_SUBTOPIC_1}", "{HUB_1_SUBTOPIC_2}"],
-    intentProfile: "mixed",
-    allowedLocations: [],
-    servicePages: ["/areas-we-serve"],
-    relatedHubs: ["H2"],
-  },
-  {
-    id: "H2",
-    name: "{HUB_2_NAME}",
-    slug: "hub-two",
-    pillarUrl: "/blog/pillar-two",
-    hubUrl: "/blog/hub-two",
-    primaryTopic: "{HUB_2_PRIMARY_TOPIC}",
-    primaryKeywordPattern: "{HUB_2_KEYWORDS}",
-    secondaryTopics: ["{HUB_2_SUBTOPIC_1}", "{HUB_2_SUBTOPIC_2}"],
-    intentProfile: "informational",
-    allowedLocations: [],
-    servicePages: ["/areas-we-serve"],
-    relatedHubs: ["H1"],
-  },
-];
+/**
+ * Ships blank. Add hubs per trade — one pillar URL + several spoke
+ * posts per hub (Victorious-SEO topic-cluster pattern). Copy the
+ * shape from `EXAMPLE_HUB` below.
+ */
+export const hubRegistry: Hub[] = [];
+
+/**
+ * Reference shape only — NOT exported into `hubRegistry`. Copy this
+ * into the array above and replace every value with real topic data
+ * to light up a new cluster.
+ */
+export const EXAMPLE_HUB: Hub = {
+  id: "H1",
+  name: "Example Hub Name",
+  slug: "example-hub",
+  pillarUrl: "/blog/example-pillar",
+  hubUrl: "/blog/example-hub",
+  primaryTopic: "One-line description of the topic cluster this hub anchors.",
+  primaryKeywordPattern: "example primary keyword pattern",
+  secondaryTopics: ["subtopic one", "subtopic two"],
+  intentProfile: "mixed",
+  allowedLocations: [],
+  servicePages: ["/areas-we-serve"],
+  relatedHubs: [],
+  linkedRegions: [],
+};
 
 export const getHubById = (hubId: string): Hub | undefined =>
   hubRegistry.find((h) => h.id === hubId);
