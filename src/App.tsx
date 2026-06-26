@@ -40,7 +40,6 @@ const AnimatedRoutes = ({ onBookClick }: { onBookClick: BookingClickHandler }) =
         {/* Blog — hub index, sub-hub clusters, and individual posts */}
         <Route path="/blog" element={<PageTransition><BlogHub onBookClick={onBookClick} /></PageTransition>} />
         <Route path="/blog/:hubSlug" element={<PageTransition><BlogHubPage onBookClick={onBookClick} /></PageTransition>} />
-        <Route path="/blog/post/:slug" element={<PageTransition><BlogPost onBookClick={onBookClick} /></PageTransition>} />
         <Route path="*" element={<Navigate to="/areas-we-serve" replace />} />
       </Routes>
     </Suspense>
