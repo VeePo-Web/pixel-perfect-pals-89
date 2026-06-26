@@ -1,77 +1,128 @@
 
-# SEO World-Class Audit + Blog Reset
+## Goal
 
-Two threads: (1) finish making the SEO surface trade-agnostic and bulletproof for any business / any geography with stacked metadata and real Google Maps integration; (2) collapse the blog system to hub-only and ship the remaining pages as prerendered static HTML.
+Leave the project shipping zero business-specific content while the Blog Hub and Areas We Serve engines together form a single, Victorious-SEO-grade topical authority machine. After this plan a remix author edits one config file (`remix-variables.ts`) plus two data files (`communities.ts`, `hubRegistry.ts`) and is live.
 
----
+## 1. Audit findings (current state)
 
-## Part A — SEO Audit Findings (current state)
+**Blog (hub-only, posts deleted ✅)**
+- `blogData.ts` → `blogPosts = []` ✅ blank.
+- `hubRegistry.ts` → still ships 2 scaffold hubs (`hub-one`, `hub-two`) with `{HUB_*}` token names — correct *intent* but the slugs and pillar URLs are not labelled clearly enough as "delete me, replace me".
+- `BlogHub.tsx` / `BlogHubPage.tsx` → clean, Helmet-based, BreadcrumbList + CollectionPage JSON-LD already present.
+- Missing for "world-class": `Article`/`BlogPosting` scaffolding hooks, author E-E-A-T surface, `mainEntityOfPage`, `isPartOf` Organization linkage, hub→service cross-links, related-hub rail, "no posts yet" state currently shows raw `<code>` instructions to the visitor (should be a marketing-safe empty state).
+- No connection from a blog hub down into Areas We Serve, and no connection from a Community page up into a relevant blog hub. This is the single biggest topical-authority gap.
 
-What the audit turned up — to be fixed in Part B:
+**Areas We Serve**
+- 3-tier routing (`AreasHub` → `RegionPage` → `CommunityPage`) intact ✅.
+- `AreasSEOSchema.tsx` emits LocalBusiness + BreadcrumbList + FAQPage + Service ✅.
+- `RegionPage.tsx` still imports `BookingClickHandler` from the legacy `@/config/drywall-booking` path → drag on remix portability.
+- No `ItemList` schema on `AreasHub` (the directory page) or `RegionPage` (the community grid) — Google explicitly rewards `ItemList` for "areas we serve"-shaped pages.
+- No `speakable` selectors on FAQ blocks (Victorious's voice-search recommendation).
+- `MASTER_REMIX.BRAND_URL` is empty in scaffold mode → some schema `@id`s currently emit as `"/foo"` which is fine but the absolute-vs-relative pattern isn't documented.
 
-1. **Stale trade-branded meta config.** `src/config/template/meta-config.ts` is still 214 lines of hardcoded "Cochrane Tile Masters" titles and descriptions. It also references routes that no longer exist (`/brand-story`, `/services/:slug`, `/pricing`, `/thank-you`, etc.).
-2. **Stale residue in `remix-variables.ts`.** Comments still reference "Cochrane Master Builders / 150 sites / cochranetile.ca". `OG_IMAGE` is `""` — meaning every page sends an empty `og:image`.
-3. **No sitewide JSON-LD.** `index.html` has no `Organization` or `WebSite` (with `SearchAction`) schema — both are baseline for a world-class SEO surface.
-4. **No `sitemap.xml` / no generator.** `public/robots.txt` exists but advertises no `Sitemap:` directive and there is no file to serve. Areas + Blog hub routes are not discoverable.
-5. **`MetaTags.tsx` routing logic is stale.** Still routes for deleted pages and has `/thank-you` noindex branch for a page that does not exist.
-6. **Google Maps is keyless iframe.** `GoogleMapEmbed.tsx` uses the legacy `maps.google.com/maps?q=…&output=embed` iframe — works without auth but is the lowest tier. We have a Google Maps Platform connector available and a `VITE_LOVABLE_CONNECTOR_GOOGLE_MAPS_BROWSER_KEY` we can use to ship the real Maps JS API with markers.
-7. **Areas-side stacking is thin.** Region pages do not emit their own `BreadcrumbList` + `Place` + `ItemList` schema; only Community pages do. The Areas hub only emits `LocalBusiness`.
-8. **Blog system is over-built.** A full markdown post pipeline (`react-markdown`, `remark-gfm`, `BlogPost.tsx`, `BlogContent.tsx`, etc.) sits underneath a request that only wants the hub structure live for SEO.
-9. **No prerender.** Every route is an SPA shell — social crawlers and AI bots see an empty `<div id="root">` body for the public hubs.
+## 2. Victorious-SEO blueprint we're implementing
 
----
+Victorious's published playbook for service + content sites:
 
-## Part B — What I'll change
+1. **Topic clusters** — one pillar page per hub, 4–8 spokes, internal links in both directions.
+2. **Entity-rich schema** — `Organization` ↔ `WebSite` ↔ `WebPage`/`BlogPosting`/`Service` linked via `@id` URIs (graph stitching, not isolated blocks).
+3. **Programmatic local pages** — every served place owns a page with geo coordinates, FAQ, nearby links, and a `LocalBusiness` with `areaServed`.
+4. **E-E-A-T surface** — visible author, role, photo, bio, last-reviewed date.
+5. **Speakable + FAQ** — `speakable` CSS selectors on Q/A blocks for assistant surfaces.
+6. **Internal linking by intent** — service pages link out to informational hubs; informational hubs link down to commercial service pages; both link laterally to siblings.
+7. **Sitemap + robots discipline** — one URL per indexable surface, no orphans.
 
-### 1. Sitewide schema + meta stacking (any business, any geography)
+## 3. Plan — Blog side
 
-- **`index.html`**: add two JSON-LD blocks driven by tokens — `Organization` (name, url, logo, sameAs, contactPoint) and `WebSite` (url, name, `potentialAction` SearchAction targeting `/blog?q={search_term_string}`). Keep tokens like `{BRAND_NAME}` so they remain trade-agnostic; document that they're swapped per remix.
-- **`index.html` head**: also add `og:image`, `og:image:width/height`, `twitter:card=summary_large_image`, `twitter:image`, `theme-color`, and a `<link rel="alternate" hreflang>` block scaffolded for `en-CA` / `en-US` (commented placeholders the remixer fills in).
-- **`MetaTags.tsx`**: simplify — drop logic for deleted routes; keep three branches only: `/areas-we-serve/*` (defer to page), `/blog*` (defer to page), default (token-driven brand title + description). Always emit canonical, og:url, og:image, twitter:image stacked together.
-- **`meta-config.ts`**: replace the entire file with a small, generic `META_CONFIG` that only carries entries for the live routes (`/`, `/areas-we-serve`, `/blog`). Each entry uses `{BRAND_NAME}` / `{SERVICE_CATEGORY}` tokens. Remove the hardcoded `ORIGIN`; read `MASTER_REMIX.BRAND_URL` instead.
-- **`remix-variables.ts`**: scrub the remaining "Cochrane Master Builders / 150 sites / cochranetile.ca" comments and replace with neutral remix guidance. Keep all token defaults intact.
+**3.1 Truly blank the hub registry**
+- Replace the 2 scaffold hubs in `hubRegistry.ts` with `hubRegistry: Hub[] = []` and ship a single, heavily-commented `EXAMPLE_HUB` constant (not exported into the array) so a remix author copies a working shape into place without seeing fake topics in production.
+- Update the `BlogHub.tsx` "Browse by topic" rail to render nothing when the registry is empty (already does — verify).
 
-### 2. Areas We Serve — stronger stacking
+**3.2 Marketing-safe empty states**
+- `BlogHub.tsx` → when `blogPosts` is empty, render a clean "Editorial coming soon" hero panel (still SEO-valid CollectionPage), not a developer note.
+- `BlogHubPage.tsx` → same treatment instead of the current `<code>` instruction block.
 
-- **`AreasHub.tsx`**: extend the existing hub schema injection from one block to four — `LocalBusiness`, `BreadcrumbList`, `ItemList` (the regions), and `WebPage`/`CollectionPage`. All driven by `REGIONS` + `COMMUNITIES` arrays (no hardcoding).
-- **`RegionPage.tsx`**: add the region-tier JSON-LD it's currently missing — `BreadcrumbList` (3 levels), `Place` (the region with adjacent regions as `containedInPlace`), `ItemList` of communities, and `LocalBusiness` with `areaServed` = the region.
-- **`AreasSEOSchema.tsx`** (community tier): already strong; add `geo` to the `LocalBusiness` block (currently only on `Service.areaServed`) and add `aggregateRating` only when `MASTER_REMIX.GOOGLE_REVIEW_URL` is set (so it never ships fake ratings).
+**3.3 Schema stitching (the Victorious graph pattern)**
+- Add a single `src/lib/seoGraph.ts` helper exporting `orgNode()`, `siteNode()`, `webPageNode({url,name,breadcrumb})`, `blogPostingNode(post)`, `serviceNode({region,communities})`, `localBusinessNode(community)`, and `breadcrumbNode(trail)`.
+- Each node carries a stable `@id` derived from the page URL (e.g. `${url}#webpage`, `${url}#breadcrumb`).
+- Every node references `Organization` via `publisher: { "@id": "/#organization" }` and `WebSite` via `isPartOf: { "@id": "/#website" }` — matching the sitewide JSON-LD already in `index.html`.
+- Refactor `BlogHub`, `BlogHubPage`, `AreasSEOSchema`, and `RegionPage` to compose via these helpers instead of inlining JSON.
 
-### 3. Google Maps Platform integration (replace the keyless iframe)
+**3.4 Post-ready scaffolding (without shipping posts)**
+- Define a `BlogPostingSchema` component (`src/components/blog/BlogPostingSchema.tsx`) that consumes a `BlogPost` and emits `BlogPosting` + `BreadcrumbList` + optional `FAQPage` w/ `speakable`. Unused today (blog ships empty) but documented + re-exported so the *first post added* lights up world-class schema automatically.
+- Add an `AuthorBio` component (E-E-A-T) reading from `MASTER_REMIX.AUTHORS` — extend `remix-variables.ts` with an `AUTHORS` token map.
 
-- Add `src/components/areas/GoogleMap.tsx`: loads the Maps JS API asynchronously via the browser key (`VITE_LOVABLE_CONNECTOR_GOOGLE_MAPS_BROWSER_KEY`) with `loading=async&callback=__initMaps&channel={tracking}`. Renders a `google.maps.Map` with a single `google.maps.Marker` at the community's coordinates. No `mapId`, no AdvancedMarkerElement (per connector rules).
-- Falls back gracefully to the existing keyless iframe when the env var is absent (so the template still renders for remixers who haven't set up Maps yet).
-- Replace usages of `GoogleMapEmbed` on Community pages with the new `GoogleMap`. Keep `GoogleMapEmbed.tsx` as the fallback path.
-- No server-side Maps calls in this pass — geocoding can be added later if needed.
+**3.5 Hub ↔ Service cross-links (Victorious "intent bridge")**
+- Extend the `Hub` type with `linkedRegions: string[]` (region slugs in `communities.ts`).
+- `BlogHubPage` renders a "Where we work on this" rail listing the linked regions/communities.
+- `RegionPage` renders a "From the field notes" rail listing hubs whose `linkedRegions` includes the current region (read-side join — no duplication).
 
-### 4. Blog reset → hub-only, static HTML
+## 4. Plan — Areas We Serve side
 
-- **Delete all blog posts.** `src/lib/blogData.ts` → keep `BlogPost` interface + helpers (`getAllPosts`, `getPostsByHubSlug`, etc.) but set `blogPosts: BlogPost[] = []`. No example posts.
-- **Delete post-only files**:
-  - `src/pages/BlogPost.tsx`
-  - `src/components/blog/BlogContent.tsx`, `BlogHero.tsx`, `BlogSchema.tsx`, `BlogFAQ.tsx`, `BlogCTA.tsx`, `MidPostCTA.tsx`, `TableOfContents.tsx`, `ScrollProgressBar.tsx`, `SocialShare.tsx`, `MobileStickyCTA.tsx`, `EditorialImage.tsx`, `PullQuote.tsx`, `AuthorCard.tsx`, `RelatedPosts.tsx`
-  - Keep: `BlogCard.tsx`, `HubNavigation.tsx` (hub-level only)
-- **Uninstall `react-markdown` + `remark-gfm`** (no longer needed).
-- **`App.tsx`**: keep `/blog` (BlogHub) and `/blog/:hubSlug` (BlogHubPage); remove the `BlogPost` lazy import. `BlogHubPage` becomes hub-only — if the slug isn't a hub, redirect to `/blog`.
-- **`BlogHub.tsx`** + **`BlogHubPage.tsx`**: render purely from `hubRegistry` (hub directory cards, pillar/spoke counts read as zero until posts are added, with an "editorial in progress" empty state). All schema (CollectionPage + Breadcrumb + ItemList of hubs) stays.
-- **Prerender to static HTML.** Add `vite-plugin-prerender` (or `vite-react-ssg` — final choice during build; `vite-plugin-prerender` is the lighter touch). Configure it to crawl: `/`, `/areas-we-serve`, every region + community route (generated from `communities.ts`), `/blog`, and every hub route (generated from `hubRegistry`). Output one `.html` per route under `dist/` so first paint is HTML — no JS required for crawlers or first paint.
+**4.1 Portability fix**
+- Replace `import type { BookingClickHandler } from "@/config/drywall-booking"` in `RegionPage.tsx` with `@/config/template/booking-schema` (mirrors `AreasHub` / `CommunityPage`).
 
-### 5. Sitemap + robots
+**4.2 ItemList on directory + region pages**
+- `AreasHub` → emit `ItemList` of all regions.
+- `RegionPage` → emit `ItemList` of all communities in that region (in addition to existing `Service`).
+- Folded into the new `seoGraph.ts` helpers.
 
-- Add `scripts/generate-sitemap.ts` wired to `predev` / `prebuild`. Entries pulled from `REGIONS`, `COMMUNITIES`, and `hubRegistry` so the sitemap stays in sync automatically. `BASE_URL` reads from `MASTER_REMIX.BRAND_URL`; falls back to empty + TODO comment when unset.
-- Append `Sitemap: {BASE_URL}/sitemap.xml` to `public/robots.txt` (only emitted when `BRAND_URL` is set; otherwise commented).
+**4.3 Speakable FAQ markers**
+- `AreasSEOSchema` → wrap each emitted FAQ `mainEntity` with `speakable: { "@type": "SpeakableSpecification", cssSelector: [".faq-question", ".faq-answer"] }`.
+- Add those class hooks to the actual FAQ DOM in `CommunityPage.tsx`.
 
-### 6. Cleanup
+**4.4 Nearby + adjacent linking (already partially present)**
+- Verify `NearbyAreasWidget` is rendered on every Community page (audit during build) and that each region's `adjacentRegions` resolves to at least one valid sibling.
 
-- Remove `setPageMeta` from pages where `Helmet` now owns head (Areas pages still use it — keep). Consolidate so each route owns its canonical + og:url once (not both via index.html and Helmet).
-- Confirm zero remaining "Cochrane", "Calgary", "Alberta", "drywall", "tile" string literals in `src/` via final `rg` sweep.
+**4.5 Sitemap stays in sync**
+- `scripts/generate-sitemap.ts` already pulls from `REGIONS`, `COMMUNITIES`, `hubRegistry` ✅. Hook it to `predev` + `prebuild` per the sitemap doc (currently only behind `bun seo:sitemap`).
+- Keep `BASE_URL = ""` placeholder + TODO until project is published.
 
----
+## 5. Plan — Shared remix surface
 
-## Technical Notes
+**5.1 `remix-variables.ts` additions**
+- `AUTHORS: Record<string, { name; role; bio; image }>` — referenced by future blog posts.
+- `BRAND_SOCIAL: string[]` — fed into `Organization.sameAs` (so the sitewide JSON-LD in `index.html` becomes a thin template that the runtime can hydrate too).
+- Keep every value a placeholder token; never ship a real business name.
 
-- **Why prerender, not full SSR.** The app is a Vite React SPA on Lovable; SSR would force a runtime server. Prerendering at build time gives static HTML for every known route — fast LCP, full crawler coverage — while keeping the runtime as a static bundle. Dynamic routes (community pages) are enumerable from `communities.ts`, so prerender can walk them all.
-- **Maps JS API loading rule.** Per the connector docs: `loading=async` requires a global `callback`. I'll set `window.__initMaps` once and have each `<GoogleMap>` either wait for it or call `google.maps.importLibrary` when already loaded. No `mapId`. Browser key only — no gateway calls in this pass.
-- **Schema stacking philosophy.** Each route ships ≥ 3 JSON-LD blocks: a primary entity (`Organization` / `LocalBusiness` / `Service`), a `BreadcrumbList`, and a navigation/listing entity (`WebPage`, `CollectionPage`, `ItemList`). FAQPage only when FAQs exist. No fake `aggregateRating`.
-- **Tokens stay visible.** Every default string remains `{BRAND_NAME}` / `{SERVICE}` / `{SERVICE_CATEGORY}` so a future remix author can see what to swap. Nothing geography-specific is hardcoded.
-- **Acceptance.** After this pass: `rg -i "cochrane|drywall|tile masters|alberta|calgary" src/` returns zero hits; `dist/blog/index.html` contains the editorial copy in raw HTML; every community route has a JSON-LD `LocalBusiness` with `geo`; `sitemap.xml` lists every region + community + hub; and the Maps tile on a community page is the real Maps JS API when `VITE_LOVABLE_CONNECTOR_GOOGLE_MAPS_BROWSER_KEY` is set.
+**5.2 One-page "Remix Checklist"**
+- Add `REMIX_CHECKLIST.md` at project root listing the exact files to edit in order: `remix-variables.ts` → `communities.ts` → `hubRegistry.ts` → (optionally) add posts to `blogData.ts`. Each step links to the section of code with the tokens.
+
+## 6. Out of scope (will not change)
+
+- Visual design system, fonts, copper/forest palette.
+- The booking modal, sticky CTA, page-transition layer.
+- `GoogleMapEmbed` (keyless iframe is the right default for a blank template — flagged in the checklist if a remix wants the JS Maps API).
+- Generating real blog posts or real geography — the template stays blank.
+
+## 7. Technical details (for review)
+
+```text
+src/
+├─ lib/
+│  └─ seoGraph.ts                    NEW — JSON-LD node builders w/ stable @ids
+├─ components/
+│  ├─ blog/
+│  │  ├─ BlogPostingSchema.tsx       NEW — post schema, dormant until posts exist
+│  │  └─ AuthorBio.tsx               NEW — E-E-A-T surface
+│  └─ areas/
+│     └─ AreasSEOSchema.tsx          EDIT — add speakable; route through seoGraph
+├─ pages/
+│  ├─ AreasHub.tsx                   EDIT — add ItemList via seoGraph
+│  ├─ RegionPage.tsx                 EDIT — fix import; add ItemList; add field-notes rail
+│  ├─ CommunityPage.tsx              EDIT — add .faq-question/.faq-answer hooks
+│  ├─ BlogHub.tsx                    EDIT — empty-state polish; route through seoGraph
+│  └─ BlogHubPage.tsx                EDIT — empty-state polish; linked-regions rail
+├─ lib/
+│  ├─ hubRegistry.ts                 EDIT — empty array + EXAMPLE_HUB constant + linkedRegions
+│  └─ blogData.ts                    (unchanged — already empty)
+├─ config/template/
+│  └─ remix-variables.ts             EDIT — AUTHORS, BRAND_SOCIAL tokens
+└─ scripts/
+   └─ generate-sitemap.ts            (already added; wire to predev/prebuild)
+
+package.json                         EDIT — add predev/prebuild hooks for sitemap
+REMIX_CHECKLIST.md                   NEW — one-page remix order-of-operations
+```
+
+After the plan runs, the project ships blank, every page emits a stitched JSON-LD graph, Areas ↔ Blog cross-link automatically, and the first post or first region a remix author adds inherits world-class SEO with no extra work.
