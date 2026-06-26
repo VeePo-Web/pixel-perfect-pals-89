@@ -1,14 +1,10 @@
 /**
- * MASTER TEMPLATE — Remix Variable Contract
+ * GENERIC SEO REMIX TEMPLATE — Remix Variable Contract
  *
  * One source of truth for every `{VARIABLE}` slot the template exposes.
- * 150 future Cochrane Master Builders sub-brand sites bind these
- * values in their own `trade.config.ts`. The template never invents
- * service-specific copy on its own — it reads from this file.
- *
- * Governed by partner doc 15_universal_template_wireframe.partner.md.
- * Filtered through 1.5 North Star (legacy luxury), 1.5.6 StoryBrand,
- * 1.5.7 Trade Manifesto, and 1.5.8 Hormozi/Brunson conversion.
+ * Any remix binds these values in its own `trade.config.ts`.
+ * The template never invents service-specific copy on its own — it
+ * reads everything from this file plus `src/data/communities.ts`.
  */
 
 export interface PriceBand {
@@ -46,7 +42,7 @@ export interface TrustNumber {
 }
 
 export interface RemixVariables {
-  /** Sub-brand short name, e.g. "Cochrane Tile Masters". */
+  /** Sub-brand short name, e.g. "Acme Tile". */
   BRAND_NAME: string;
   /** Singular service noun, lower-case. e.g. "tile". */
   SERVICE: string;
@@ -56,6 +52,14 @@ export interface RemixVariables {
   SERVICE_VERB: string;
   /** Category label for breadcrumbs / schema, e.g. "Interior Finishing". */
   SERVICE_CATEGORY: string;
+  /** Short tagline that names the geography the brand serves — e.g. "Canada & the USA". */
+  SERVICE_REGION_TAGLINE: string;
+  /** One-paragraph coverage blurb shown on the Areas hub editorial block. */
+  COVERAGE_BLURB: string;
+  /** Editorial label for the footer "service area" column. */
+  SERVICE_REGION_LABEL: string;
+  /** Four short trust statements rendered as the Areas hub trust strip. */
+  TRUST_STATS_LABELS: [string, string, string, string];
   /** Hero image asset path. Replace per remix. */
   HERO_IMAGE: string;
   /** Service-area communities. Used by the Areas hub (deferred). */
@@ -164,21 +168,27 @@ export interface RemixVariables {
  * exactly what to swap.
  */
 export const MASTER_REMIX: RemixVariables = {
-  BRAND_NAME: "Cochrane Master Builders",
+  BRAND_NAME: "{BRAND_NAME}",
   SERVICE: "{SERVICE}",
   SERVICE_PLURAL: "{SERVICE_PLURAL}",
   SERVICE_VERB: "{SERVICE_VERB}",
   SERVICE_CATEGORY: "{SERVICE_CATEGORY}",
+  SERVICE_REGION_TAGLINE: "{SERVICE_REGION_TAGLINE}",
+  COVERAGE_BLURB:
+    "{COVERAGE_BLURB} — replace this paragraph in MASTER_REMIX with a single editorial line that names the regions you serve, how local your team is to them, and why that matters for the customer.",
+  SERVICE_REGION_LABEL: "Service area",
+  TRUST_STATS_LABELS: [
+    "{TRUST_COMMUNITIES}",
+    "{TRUST_LOCATION}",
+    "{TRUST_CERTIFICATION}",
+    "{TRUST_GUARANTEE}",
+  ],
   HERO_IMAGE: "",
   COMMUNITIES: [
-    "Cochrane",
-    "Sunset Ridge",
-    "Heritage Hills",
-    "Riversong",
-    "Fireside",
-    "Jumping Pound Ridge",
-    "Bow Ridge",
-    "GlenEagles",
+    "{COMMUNITY_1}",
+    "{COMMUNITY_2}",
+    "{COMMUNITY_3}",
+    "{COMMUNITY_4}",
   ],
   SUB_SERVICES: [
     { title: "{SUB_SERVICE_1}", summary: "Brief client-facing summary of the first specialised offering inside this trade.", range: "$—" },
@@ -237,16 +247,16 @@ export const MASTER_REMIX: RemixVariables = {
   ],
 
   // ── Contact + Canonical defaults ────────────────────────────────────────
-  PARENT_BRAND_URL: "https://cochranemasterbuilders.ca",
+  PARENT_BRAND_URL: "",
   GOOGLE_REVIEW_URL: "",
-  BRAND_URL: "https://cochranemasterbuilders.ca",
-  PHONE: "+14030000000",
-  OG_IMAGE: "/share/og-1200x630-navybg.jpg",
+  BRAND_URL: "",
+  PHONE: "",
+  OG_IMAGE: "",
 
   // ── Heirloom defaults ───────────────────────────────────────────────────
-  BRAND_SLOGAN: "Building Strong Foundations For Those Who Come After Us",
-  FOUNDATION_YEAR: 1881,
-  MONOGRAM_LETTERS: ["C", "M", "B"],
+  BRAND_SLOGAN: "{BRAND_SLOGAN}",
+  FOUNDATION_YEAR: 1900,
+  MONOGRAM_LETTERS: ["B", "R", "D"],
 
   // ── Image library defaults ───────────────────────────────────────────────
   // Empty strings = no image yet. Components render a styled aspect-ratio
@@ -273,6 +283,6 @@ export const MASTER_REMIX: RemixVariables = {
 
   // Image generation metadata
   PALETTE_ACCENT_HEX: "#C47D26",
-  MATERIAL_PRIMARY: "joint compound, drywall board, skim coat, Level-5 finish",
-  MATERIAL_SUBSURFACE: "mesh tape, corner bead, fiberglass compound",
+  MATERIAL_PRIMARY: "{MATERIAL_PRIMARY}",
+  MATERIAL_SUBSURFACE: "{MATERIAL_SUBSURFACE}",
 };

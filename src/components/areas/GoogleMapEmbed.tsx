@@ -16,7 +16,7 @@ const GoogleMapEmbed = ({ lat, lng, title, zoom = 14, className = "" }: GoogleMa
       allowFullScreen
       loading="lazy"
       referrerPolicy="no-referrer-when-downgrade"
-      title={`Map of ${title}, Alberta`}
+      title={`Map of ${title}`}
       aria-label={`Google Map showing the location of ${title}`}
     />
   </div>

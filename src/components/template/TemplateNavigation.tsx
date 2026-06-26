@@ -31,10 +31,11 @@ const TemplateNavigation = ({ onBookClick }: Props) => {
     return () => { document.body.style.overflow = prev; };
   }, [open]);
 
-  // Desktop trims to the load-bearing pages; mobile drawer carries the full set.
-  const desktop = TEMPLATE_COPY.nav.filter((n) =>
-    ["/", "/services", "/areas-we-serve", "/pricing", "/gallery", "/reviews", "/about"].includes(n.path),
-  );
+  // Only Areas We Serve is live in this template. Add routes here as you build them.
+  const links = [
+    { label: "Home",           path: "/" },
+    { label: "Areas We Serve", path: "/areas-we-serve" },
+  ];
 
   return (
     <header
@@ -60,12 +61,12 @@ const TemplateNavigation = ({ onBookClick }: Props) => {
       </div>
 
       <div className="container mx-auto flex h-20 items-center justify-between px-6">
-        <Link to="/" aria-label="Cochrane Master Builders — home" className="inline-flex items-center">
+        <Link to="/" aria-label={`${TEMPLATE_COPY.brand?.tagline ?? "Home"} — home`} className="inline-flex items-center">
           <MasterLogo slot="nav" />
         </Link>
 
         <nav className="hidden items-center gap-1 lg:flex" aria-label="Primary">
-          {desktop.map((link) => {
+          {links.map((link) => {
             const active = pathname === link.path;
             return (
               <PrefetchLink
@@ -110,7 +111,7 @@ const TemplateNavigation = ({ onBookClick }: Props) => {
             <SloganHeartbeat variant="nav" />
           </div>
           <ul className="container mx-auto flex flex-col gap-px bg-seam px-0">
-            {TEMPLATE_COPY.nav.map((link) => (
+            {links.map((link) => (
               <li key={link.path} className="bg-bone">
                 <PrefetchLink
                   to={link.path}

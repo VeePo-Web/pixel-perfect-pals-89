@@ -3,12 +3,6 @@ import type { Community } from "@/data/communities";
 import type { FAQ } from "@/config/template/remix-variables";
 import { MASTER_REMIX } from "@/config/template/remix-variables";
 
-const ADDRESS_LOCALITY = "Cochrane";
-const ADDRESS_REGION = "AB";
-// Resolved at runtime so every trade site gets its own domain + phone
-const BASE_URL = MASTER_REMIX.BRAND_URL;
-const PHONE    = MASTER_REMIX.PHONE;
-
 /**
  * Injects 4 JSON-LD schema types into document.head for a community page.
  * Service-agnostic: brandName, service, and FAQs are injected as props
@@ -32,6 +26,8 @@ const AreasSEOSchema = ({
   faqs,
 }: AreasSEOSchemaProps) => {
   useEffect(() => {
+    const BASE_URL = MASTER_REMIX.BRAND_URL;
+    const PHONE    = MASTER_REMIX.PHONE;
     const schemas = [
       // 1. LocalBusiness — declares this community as a served area
       {
@@ -41,9 +37,9 @@ const AreasSEOSchema = ({
         telephone: PHONE,
         address: {
           "@type": "PostalAddress",
-          addressLocality: ADDRESS_LOCALITY,
-          addressRegion: ADDRESS_REGION,
-          addressCountry: "CA",
+          addressLocality: community.city,
+          addressRegion: community.province,
+          addressCountry: community.country ?? "",
         },
         areaServed: {
           "@type": "Place",
@@ -96,8 +92,8 @@ const AreasSEOSchema = ({
           address: {
             "@type": "PostalAddress",
             addressLocality: community.city,
-            addressRegion: ADDRESS_REGION,
-            addressCountry: "CA",
+            addressRegion: community.province,
+            addressCountry: community.country ?? "",
           },
           geo: {
             "@type": "GeoCoordinates",
