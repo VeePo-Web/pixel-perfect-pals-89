@@ -29,6 +29,7 @@ import {
 import { hubRegistry } from "@/lib/hubRegistry";
 import { getPostsAboutRegion } from "@/lib/blogData";
 import GuidesForLocation from "@/components/blog/GuidesForLocation";
+import ConversionBar from "@/components/template/ConversionBar";
 import type { BookingClickHandler } from "@/config/template/booking-schema";
 
 interface RegionPageProps {
@@ -43,6 +44,17 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
   const s  = MASTER_REMIX.SERVICE;
   const sc = MASTER_REMIX.SERVICE_CATEGORY;
   const bn = MASTER_REMIX.BRAND_NAME;
+
+  const sub = (tpl: string, region: string) => tpl.replace(/\{REGION\}/g, region);
+  const trustBullets = region
+    ? MASTER_REMIX.TRUST_BULLETS.map((b) => sub(b, region.name))
+    : [];
+  const regionFaqs = region
+    ? MASTER_REMIX.REGION_FAQ_TEMPLATE.map((f) => ({
+        question: sub(f.question, region.name),
+        answer: sub(f.answer, region.name),
+      }))
+    : [];
 
   useEffect(() => {
     if (!region) return;
@@ -98,6 +110,16 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
           path: `/areas-we-serve/${c.region}/${c.slug}`,
         })),
       }),
+      {
+        "@type": "FAQPage",
+        "@id": `${path}#faq`,
+        speakable: { "@type": "SpeakableSpecification", cssSelector: [".faq-question", ".faq-answer"] },
+        mainEntity: regionFaqs.map((f) => ({
+          "@type": "Question",
+          name: f.question,
+          acceptedAnswer: { "@type": "Answer", text: f.answer },
+        })),
+      },
     ]);
 
     const cleanup = () => {

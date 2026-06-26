@@ -92,6 +92,9 @@ const AreasHub = ({ onBookClick }: AreasHubProps) => {
           Every region has its own page, every community has its own page, and the whole
           system is staged to scale to as many areas as you need.
         </p>
+        <p className="text-caption text-primary-foreground/60 uppercase tracking-[0.18em] mb-8">
+          {MASTER_REMIX.RESPONSE_PROMISE}
+        </p>
         <button
           onClick={() => onBookClick?.()}
           className="inline-flex items-center gap-2 px-8 py-3.5 rounded-full bg-clay text-white
@@ -209,28 +212,10 @@ const AreasHub = ({ onBookClick }: AreasHubProps) => {
         </div>
       </SectionFrame>
 
-      {/* ── CTA ── */}
-      <SectionFrame tone="forest" size="lg" grain>
-        <div className="max-w-2xl">
-          <p className="font-eyebrow text-primary-foreground/60 mb-4">Begin</p>
-          <h2 className="font-display text-display-lg text-primary-foreground mb-5">
-            Don't see your community?
-          </h2>
-          <p className="text-body-lg text-primary-foreground/75 mb-8">
-            If you're in {tagline}, there's a good chance we work there. Send your address
-            and project scope. We'll confirm within hours.
-          </p>
-          <button
-            onClick={() => onBookClick?.()}
-            className="inline-flex items-center gap-2 px-8 py-3.5 rounded-full bg-clay text-white
-                       font-body text-label uppercase tracking-[0.15em]
-                       hover:bg-clay/90 transition-colors duration-300"
-          >
-            {TEMPLATE_COPY.cta.primary}
-            <ArrowRight size={16} />
-          </button>
-        </div>
-      </SectionFrame>
+      {/* ── ConversionBar — neutral, token-driven ── */}
+      <ConversionBar
+        headline={`If you're in ${tagline}, we can quote your project.`}
+      />
 
     </TemplateLayout>
   );
