@@ -39,7 +39,8 @@ maps-mastery-2026/
 │   ├── 05-local-blog-for-maps.md
 │   ├── 06-competitor-serp-teardown.md         ← deep-dive: what actually ranks #1
 │   ├── 07-national-data-sourcing-playbook.md  ← deep-dive: exact datasets + endpoints
-│   └── 08-gbp-optimization-deep-dive.md       ← deep-dive: the GBP engine
+│   ├── 08-gbp-optimization-deep-dive.md       ← deep-dive: the GBP engine
+│   └── 09-prompting-claude-fable-5.md         ← how to best prompt Claude Fable 5
 ├── reports/                                   ← 6 synthesized master specs
 │   ├── 00-MASTER-STRATEGY.md                  ← read first
 │   ├── 01-MAPS-INTEGRATION-PLAYBOOK.md
