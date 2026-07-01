@@ -142,6 +142,9 @@ export const localBusinessNode = (args: {
   "@id": ORG_ID,
   name: args.brandName,
   ...(args.phone ? { telephone: args.phone } : {}),
+  // Map signal for Google + AI entity disambiguation (Maps Integration
+  // Playbook §3). A canonical Google Maps URL for the served location.
+  hasMap: `https://www.google.com/maps/search/?api=1&query=${args.community.coordinates.lat},${args.community.coordinates.lng}`,
   address: {
     "@type": "PostalAddress",
     addressLocality: args.community.city,
