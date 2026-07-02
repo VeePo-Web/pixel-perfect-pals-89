@@ -53,113 +53,20 @@ export interface Region {
 }
 
 // =============================================================================
-// REGIONS — replace with your real regions
+// REGIONS + COMMUNITIES — assembled per-database under src/data/locations/.
+//
+// Each master SEO database (spreadsheet) contributes one module. Locations are
+// published in unified-score order, 20 per batch, through the pipeline in
+// docs/seo/master-databases/04-fable5-batch-expansion-prompt.md.
+// Full inventories: docs/seo/master-databases/<database>/ (all locations +
+// regions of each spreadsheet are on record before any batch ships).
 // =============================================================================
 
-export const REGIONS: Region[] = [
-  {
-    slug: "region-one",
-    name: "Region One",
-    shortName: "Region One",
-    description:
-      "{REGION_ONE_DESCRIPTION} — replace with the editorial line that defines what makes this region one cluster of communities you serve.",
-    adjacentRegions: ["region-two"],
-    // reference image — swap when you populate real regions
-    heroImage: {
-      url: "https://images.unsplash.com/photo-1601704598796-d00260db4977?auto=format&fit=crop&w=1920&q=80",
-      alt: "Reference hero — city skyline across a river with foothills and mountains beyond",
-    },
-  },
-  {
-    slug: "region-two",
-    name: "Region Two",
-    shortName: "Region Two",
-    description:
-      "{REGION_TWO_DESCRIPTION} — second example region. Add as many regions as you need; the hub, region, and community pages all read from this array.",
-    adjacentRegions: ["region-one"],
-    // reference image — swap when you populate real regions
-    heroImage: {
-      url: "https://upload.wikimedia.org/wikipedia/commons/1/14/Rockies_in_the_morning.jpg",
-      alt: "Reference hero — Rocky Mountains at dawn with foothills landscape",
-    },
-  },
-];
+import { NS_REGIONS, NS_COMMUNITIES } from "./locations/nova-scotia";
 
-// =============================================================================
-// COMMUNITIES — replace with your real communities
-// =============================================================================
+export const REGIONS: Region[] = [...NS_REGIONS];
 
-export const COMMUNITIES: Community[] = [
-  {
-    slug: "community-a",
-    name: "Community A",
-    region: "region-one",
-    city: "{CITY}",
-    province: "{PROVINCE}",
-    country: "{COUNTRY}",
-    coordinates: { lat: 0, lng: 0 },
-    tier: 1,
-    shortDescription: "{COMMUNITY_A_SHORT_DESCRIPTION}",
-    fullDescription:
-      "{COMMUNITY_A_FULL_DESCRIPTION} — a paragraph or two of geographic intelligence about this community. Mention property types, build standards, and anything locals would recognise.",
-    streets: [],
-    landmarks: [],
-    primaryKeywords: [],
-    faqs: [],
-    nearestCommunities: ["community-b"],
-  },
-  {
-    slug: "community-b",
-    name: "Community B",
-    region: "region-one",
-    city: "{CITY}",
-    province: "{PROVINCE}",
-    country: "{COUNTRY}",
-    coordinates: { lat: 0, lng: 0 },
-    tier: 2,
-    shortDescription: "{COMMUNITY_B_SHORT_DESCRIPTION}",
-    fullDescription: "{COMMUNITY_B_FULL_DESCRIPTION}",
-    streets: [],
-    landmarks: [],
-    primaryKeywords: [],
-    faqs: [],
-    nearestCommunities: ["community-a"],
-  },
-  {
-    slug: "community-c",
-    name: "Community C",
-    region: "region-two",
-    city: "{CITY}",
-    province: "{PROVINCE}",
-    country: "{COUNTRY}",
-    coordinates: { lat: 0, lng: 0 },
-    tier: 1,
-    shortDescription: "{COMMUNITY_C_SHORT_DESCRIPTION}",
-    fullDescription: "{COMMUNITY_C_FULL_DESCRIPTION}",
-    streets: [],
-    landmarks: [],
-    primaryKeywords: [],
-    faqs: [],
-    nearestCommunities: ["community-d"],
-  },
-  {
-    slug: "community-d",
-    name: "Community D",
-    region: "region-two",
-    city: "{CITY}",
-    province: "{PROVINCE}",
-    country: "{COUNTRY}",
-    coordinates: { lat: 0, lng: 0 },
-    tier: 2,
-    shortDescription: "{COMMUNITY_D_SHORT_DESCRIPTION}",
-    fullDescription: "{COMMUNITY_D_FULL_DESCRIPTION}",
-    streets: [],
-    landmarks: [],
-    primaryKeywords: [],
-    faqs: [],
-    nearestCommunities: ["community-c"],
-  },
-];
+export const COMMUNITIES: Community[] = [...NS_COMMUNITIES];
 
 // =============================================================================
 // HELPERS — the contract the pages depend on. Do not rename.

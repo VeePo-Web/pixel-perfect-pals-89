@@ -59,11 +59,65 @@ export interface HubGovernanceData {
  * Generic scaffold — two example hubs. Add more (H3, H4 …) per trade.
  */
 /**
- * Ships blank. Add hubs per trade — one pillar URL + several spoke
- * posts per hub (Victorious-SEO topic-cluster pattern). Copy the
- * shape from `EXAMPLE_HUB` below.
+ * One hub per master SEO database — its geo-bound local guides cluster
+ * under it (Victorious-SEO topic-cluster pattern). Extend per database
+ * via the batch pipeline (docs/seo/master-databases/04).
  */
-export const hubRegistry: Hub[] = [];
+export const hubRegistry: Hub[] = [
+  {
+    id: "H1",
+    name: "Nova Scotia Area Guides",
+    slug: "nova-scotia-guides",
+    pillarUrl: "/blog/nova-scotia-guides/halifax-home-maintenance-guide",
+    hubUrl: "/blog/nova-scotia-guides",
+    primaryTopic:
+      "Locally-grounded property and project guides for every Nova Scotia community we serve — climate, building stock, and planning intelligence per place.",
+    primaryKeywordPattern: "property guide {community} nova scotia",
+    secondaryTopics: [
+      "coastal climate and building exteriors",
+      "heritage and century-home considerations",
+      "regional building stock and property types",
+      "hiring local contractors in nova scotia",
+    ],
+    intentProfile: "local",
+    allowedLocations: [],
+    servicePages: ["/areas-we-serve"],
+    relatedHubs: [],
+    linkedRegions: [
+      "halifax-metro",
+      "cape-breton",
+      "south-shore",
+      "annapolis-valley",
+      "northumberland-shore",
+      "fundy-shore",
+      "central-nova-scotia",
+      "chignecto",
+      "eastern-shore",
+    ],
+    linkedCommunities: [
+      "halifax",
+      "cape-breton",
+      "sydney",
+      "dartmouth",
+      "west-hants",
+      "east-hants",
+      "kings-county",
+      "colchester-county",
+      "bedford",
+      "lunenburg-district",
+      "lower-sackville",
+      "cole-harbour",
+      "glace-bay",
+      "queens",
+      "cumberland-county",
+      "sydney-mines",
+      "north-sydney",
+      "downtown-halifax",
+      "new-waterford",
+      "inverness-county",
+    ],
+  },
+];
 
 /**
  * Reference shape only — NOT exported into `hubRegistry`. Copy this

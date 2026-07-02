@@ -17,41 +17,309 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/region-one</loc>
+    <loc>/areas-we-serve/halifax-metro</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1601704598796-d00260db4977?auto=format&fit=crop&w=1920&q=80</image:loc>
-      <image:caption>Reference hero — city skyline across a river with foothills and mountains beyond</image:caption>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/7/74/Halifax_Harbour_Sunset_Skyline%2C_Nova_Scotia_%2824237034620%29.jpg</image:loc>
+      <image:caption>Halifax Harbour skyline at sunset, Nova Scotia</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/region-two</loc>
+    <loc>/areas-we-serve/cape-breton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://upload.wikimedia.org/wikipedia/commons/1/14/Rockies_in_the_morning.jpg</image:loc>
-      <image:caption>Reference hero — Rocky Mountains at dawn with foothills landscape</image:caption>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/9/95/Sydney%2C_Nova_Scotia_waterfront_in_September_2017.jpg</image:loc>
+      <image:caption>Sydney waterfront on Cape Breton Island, Nova Scotia</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/region-one/community-a</loc>
+    <loc>/areas-we-serve/south-shore</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/1/16/Lunenburg_Aerial.jpg</image:loc>
+      <image:caption>Aerial view of Lunenburg on Nova Scotia's South Shore</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>/areas-we-serve/annapolis-valley</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/d/d6/WolfvilleStreetscape.jpg</image:loc>
+      <image:caption>Main street of Wolfville in the Annapolis Valley, Nova Scotia</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>/areas-we-serve/northumberland-shore</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/4/4a/Pictou%2C_Nova_Scotia%2C_Canada.jpg</image:loc>
+      <image:caption>Historic waterfront of Pictou on the Northumberland Shore</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>/areas-we-serve/fundy-shore</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/6/68/Cape_split01.jpg</image:loc>
+      <image:caption>Cape Split headland over the Bay of Fundy, Nova Scotia</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>/areas-we-serve/central-nova-scotia</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/7/70/Truro%2C_Nova_Scotia%2C_Canada.jpg</image:loc>
+      <image:caption>View over Truro in central Nova Scotia</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>/areas-we-serve/chignecto</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/c/c4/Amherst%2C_Nova_Scotia%2C_Canada.jpg</image:loc>
+      <image:caption>Downtown Amherst in Cumberland County, Nova Scotia</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>/areas-we-serve/eastern-shore</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/3/35/SherbrookeNovaScotiaPO.jpg</image:loc>
+      <image:caption>Historic Sherbrooke Village on Nova Scotia's Eastern Shore</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>/areas-we-serve/halifax-metro/halifax</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/region-one/community-b</loc>
+    <loc>/areas-we-serve/cape-breton/cape-breton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/region-two/community-c</loc>
+    <loc>/areas-we-serve/cape-breton/sydney</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/region-two/community-d</loc>
+    <loc>/areas-we-serve/halifax-metro/dartmouth</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/annapolis-valley/west-hants</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/central-nova-scotia/east-hants</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/annapolis-valley/kings-county</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/central-nova-scotia/colchester-county</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/halifax-metro/bedford</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/south-shore/lunenburg-district</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/halifax-metro/lower-sackville</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/halifax-metro/cole-harbour</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/cape-breton/glace-bay</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/south-shore/queens</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/chignecto/cumberland-county</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/cape-breton/sydney-mines</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/cape-breton/north-sydney</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/halifax-metro/downtown-halifax</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/cape-breton/new-waterford</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/areas-we-serve/cape-breton/inverness-county</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/halifax-home-maintenance-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/cape-breton-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/sydney-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/dartmouth-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/west-hants-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/east-hants-property-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/kings-county-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/colchester-county-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/bedford-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/lunenburg-district-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/lower-sackville-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/cole-harbour-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/glace-bay-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/queens-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/cumberland-county-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/sydney-mines-coastal-home-maintenance</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/north-sydney-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/downtown-halifax-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/new-waterford-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/blog/nova-scotia-guides/inverness-county-local-guide</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>

@@ -72,11 +72,18 @@ export const getPostsAboutRegion = (regionSlug: string): BlogPost[] =>
   blogPosts.filter((p) => p.about?.regionSlug === regionSlug);
 
 /**
- * The blog ships hub-only — no individual posts. The structure stays
- * so a future remix can drop posts into this array without touching
- * any component. Hubs (topical clusters) live in `hubRegistry.ts`.
+ * Posts are assembled per master database under src/data/blog/ — one
+ * geo-bound local guide per published community (batch pipeline:
+ * docs/seo/master-databases/04-fable5-batch-expansion-prompt.md).
+ * Hubs (topical clusters) live in `hubRegistry.ts`.
+ *
+ * Dormant, tokenized examples for the future Python blog agent live at
+ * `src/data/blog/template-blog-posts.ts`. They are intentionally not
+ * imported here because `{TOKEN}` placeholders should never publish.
  */
-export const blogPosts: BlogPost[] = [];
+import { NS_BLOG_POSTS } from "../data/blog/nova-scotia-posts";
+
+export const blogPosts: BlogPost[] = [...NS_BLOG_POSTS];
 
 // ── Selectors ──────────────────────────────────────────────────────────────
 
