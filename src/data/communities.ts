@@ -63,10 +63,11 @@ export interface Region {
 // =============================================================================
 
 import { NS_REGIONS, NS_COMMUNITIES } from "./locations/nova-scotia";
+import { AB_REGIONS, AB_COMMUNITIES } from "./locations/alberta";
 
-export const REGIONS: Region[] = [...NS_REGIONS];
+export const REGIONS: Region[] = [...NS_REGIONS, ...AB_REGIONS];
 
-export const COMMUNITIES: Community[] = [...NS_COMMUNITIES];
+export const COMMUNITIES: Community[] = [...NS_COMMUNITIES, ...AB_COMMUNITIES];
 
 // =============================================================================
 // HELPERS — the contract the pages depend on. Do not rename.
