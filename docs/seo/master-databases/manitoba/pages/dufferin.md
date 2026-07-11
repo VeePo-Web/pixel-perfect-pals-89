@@ -84,7 +84,7 @@ The RM of Dufferin grows more than crops — it grows the seed the rest of the p
 
 ## Local proof
 
-The RM of Dufferin wraps the town of Carman in some of Manitoba's very best seed-and-grain farmland — Boyne River country that is home to a University of Manitoba agricultural research farm. For {SERVICE}, it blends intensive agriculture with rural-residential property on Red River Valley clay. {COMPANY_NAME} provides {SERVICE} across the whole municipality, scoping farm buildings, wells and septic, and clay-aware residential work alike, and arriving rural-ready, with no rural-address penalty. We bring {SERVICE_LIST} and fast {RESPONSE_TIME} response across the whole farm district. Call {PHONE} for a free {ESTIMATE_TYPE} estimate.
+The RM of Dufferin wraps the town of Carman in some of Manitoba's very best seed-and-grain farmland — Boyne River country that is home to a University of Manitoba agricultural research farm. For {SERVICE}, it blends intensive agriculture with rural-residential property on the deep Red River Valley clay. {COMPANY_NAME} provides {SERVICE} across the whole municipality, from grain yards to Carman-fringe homes, scoping farm buildings, wells and septic, and clay-aware residential work alike, and arriving rural-ready, with no rural-address penalty. We bring {SERVICE_LIST} and fast {RESPONSE_TIME} response across the whole farm district. Call {PHONE} for a free {ESTIMATE_TYPE} estimate.
 
 > "{TESTIMONIAL_LOCAL}" — {REVIEWER_NAME}, Dufferin
 
