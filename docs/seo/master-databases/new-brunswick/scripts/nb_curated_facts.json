@@ -1,0 +1,544 @@
+{
+  "province": {
+    "name": "New Brunswick",
+    "abbr": "NB",
+    "hubs": ["Moncton", "Saint John"],
+    "notes": [
+      "Canada's only officially bilingual province",
+      "2021 census population 775,610",
+      "2023 local-governance reform reorganized municipalities into 77 local governments + 12 rural districts; 2021 census geography (used here) predates it",
+      "Bay of Fundy has the highest tides on Earth",
+      "Saint John River (Wolastoq) runs the length of the western province"
+    ],
+    "license_footer": "Contains information licensed under the Open Government Licence – Canada."
+  },
+  "regions": {
+    "Greater Moncton & Southeast": {
+      "slug": "greater-moncton-southeast",
+      "counties": ["Westmorland", "Albert", "Kent"],
+      "climate": "Humid continental with a maritime edge: snowy freeze-thaw winters, warm summers, and Northumberland Strait shoreline that carries some of the warmest salt water north of Virginia. Strait-shore communities face coastal wind and documented storm-surge exposure; inland towns see heavy snow loads and spring melt.",
+      "geology": "Low-lying sandstone country of the Moncton sub-basin, tidal red-mud rivers off the Bay of Fundy (Petitcodiac, Memramcook), and salt-marsh/dune coast along the Northumberland Strait.",
+      "economy": "The fastest-growing urban region in Atlantic Canada: Greater Moncton is the Maritimes' transportation, logistics, retail and back-office hub, with Université de Moncton and two regional hospitals (The Moncton Hospital, Dr. Georges-L.-Dumont) anchoring a bilingual workforce. Kent County and the Strait shore run on fisheries, tourism and Acadian small business.",
+      "buildingStock": "Post-war bungalow neighbourhoods in Moncton and Riverview, fast-built 2010s–2020s vinyl-clad subdivisions in Dieppe and Moncton North, century farmhouses inland, and seasonal cottages thick along the Shediac–Cap-Pelé shore.",
+      "landmarks": ["Hopewell Rocks (Albert County, Bay of Fundy)", "Petitcodiac River tidal bore", "Parlee Beach (Shediac)", "Kouchibouguac National Park (Kent County)", "Magnetic Hill (Moncton)"]
+    },
+    "Fundy & Greater Saint John": {
+      "slug": "fundy-saint-john",
+      "counties": ["Saint John", "Kings", "Charlotte"],
+      "climate": "Bay of Fundy marine climate: cooler summers, frequent sea fog, salt air, and freeze-thaw winters. The Fundy coast is famously hard on building exteriors; the inland Kennebecasis Valley is warmer and drier in summer.",
+      "geology": "Rocky Fundy coastline with the world's highest tides, the drowned river valleys of the Saint John and Kennebecasis, and granite country around St. George in Charlotte County.",
+      "economy": "Saint John is the province's industrial anchor — the Irving Oil refinery (Canada's largest), Port Saint John container and cruise terminals, and the energy sector — while the Kennebecasis Valley towns are its commuter belt. Charlotte County runs on the Ganong chocolate legacy, aquaculture and fisheries, and resort tourism in St. Andrews.",
+      "buildingStock": "Pre-1900 uptown brick and wood heritage stock rebuilt after Saint John's Great Fire of 1877, post-war suburbs, 1970s–2000s Kennebecasis Valley subdivisions, and working fishing-village and island properties in Charlotte County.",
+      "landmarks": ["Reversing Falls Rapids (Saint John)", "Saint John City Market (Canada's oldest continuing farmers' market)", "Rockwood Park (Saint John)", "Algonquin Resort (St. Andrews)", "Swallowtail Lighthouse (Grand Manan)"]
+    },
+    "Capital & River Valley": {
+      "slug": "capital-river-valley",
+      "counties": ["York", "Sunbury", "Queens", "Carleton"],
+      "climate": "Continental river-valley climate: cold snowy winters, warm summers, and a spring freshet on the Saint John River that produced major floods in 2018 and 2019 — flood-zone awareness is a real factor for riverfront property work.",
+      "geology": "The broad Saint John River (Wolastoq) valley: fertile floodplain and island farmland, forested Appalachian foothills, and the Mactaquac headpond above Fredericton.",
+      "economy": "Fredericton pairs provincial government with two universities (UNB and St. Thomas), an IT and cybersecurity sector, and RCMP J Division headquarters. Oromocto is CFB Gagetown, Canada's largest military training base. Carleton County upriver is the potato belt, headquartered by McCain Foods in Florenceville-Bristol.",
+      "buildingStock": "Government-town heritage streets and mid-century neighbourhoods in Fredericton, planned 1950s–60s housing in Oromocto, new commuter subdivisions in Hanwell and New Maryland, and farm properties and woodlot homes upriver.",
+      "landmarks": ["Hartland Covered Bridge (world's longest, 391 m)", "Fredericton's Garrison District", "Beaverbrook Art Gallery", "CFB Gagetown", "World's Largest Axe (Nackawic)"]
+    },
+    "Northwest & Madawaska": {
+      "slug": "northwest-madawaska",
+      "counties": ["Madawaska", "Victoria"],
+      "climate": "The coldest, snowiest corner of New Brunswick: a true continental climate in the Appalachian uplands, with long winters, deep frost, and heavy snow loads on roofs — a genuine engineering factor for any exterior work.",
+      "geology": "Appalachian plateau cut by the upper Saint John River, with the Grand Falls gorge as its most dramatic feature and prime potato-growing soils on the benchlands.",
+      "economy": "Overwhelmingly francophone (the 'République du Madawaska' Brayon identity): Edmundston's Twin Rivers pulp and paper mill, a Université de Moncton campus, cross-border trade with Maine and Quebec, and the potato industry around Grand Falls and Saint-André.",
+      "buildingStock": "Early-20th-century mill-town housing in Edmundston, farmhouses and potato-farm outbuildings on the benchlands, and border-village homes strung along the upper Saint John River.",
+      "landmarks": ["Grand Falls gorge and its 23-metre cataract", "Petit-Témis interprovincial cycling trail (Edmundston)", "Foire Brayonne (Edmundston)", "New Brunswick Botanical Garden (Edmundston)"]
+    },
+    "Miramichi River Region": {
+      "slug": "miramichi-river",
+      "counties": ["Northumberland"],
+      "climate": "Continental and snowy, with river ice and a hard spring runoff on the Miramichi system; summers are warm enough to make the river one of the world's storied Atlantic salmon fisheries.",
+      "geology": "The Miramichi River system — Main Southwest and Northwest branches — draining a vast forested interior to Miramichi Bay on the Gulf of St. Lawrence.",
+      "economy": "Built on forestry and the Atlantic salmon angling economy; the city of Miramichi has been rebuilding its base since the 2000s mill closures, with the river's outfitting, lodge and tourism trade a constant.",
+      "buildingStock": "Former mill-town neighbourhoods in the old Chatham and Newcastle town sites, riverfront camps and salmon lodges upriver, and Acadian coastal homes toward Neguac.",
+      "landmarks": ["Beaubears Island national historic sites", "Ritchie Wharf (Miramichi)", "French Fort Cove (Miramichi)", "Central New Brunswick Woodsmen's Museum (Boiestown)"]
+    },
+    "Acadian Peninsula & Chaleur": {
+      "slug": "acadian-peninsula-chaleur",
+      "counties": ["Gloucester"],
+      "climate": "Maritime climate on the Chaleur Bay and Gulf shore: winter sea ice, hard onshore winds, documented storm-surge exposure on low peninsula coasts, and short warm summers — conditions that punish exteriors faster than inland norms.",
+      "geology": "Low peninsula country of beaches, salt marsh, barrier islands and the largest peat bogs in the province, fronting Chaleur Bay and the Gulf of St. Lawrence.",
+      "economy": "The francophone heart of Acadie: snow crab and lobster fleets, peat harvesting around Shippagan and Lamèque, fish processing, and a strong cultural-tourism economy centred on Caraquet. Bathurst, the regional service city, has been diversifying since the Brunswick zinc mine closed in 2013.",
+      "buildingStock": "Fishing-village homes and wharf-side buildings, seasonal shore cottages, and post-war housing in Bathurst's service-city neighbourhoods.",
+      "landmarks": ["Village Historique Acadien (near Caraquet)", "Festival acadien de Caraquet and the August 15 Tintamarre", "New Brunswick Aquarium and Marine Centre (Shippagan)", "Youghall Beach (Bathurst)", "K.C. Irving Regional Centre (Bathurst)"]
+    },
+    "Restigouche & Chaleur Bay": {
+      "slug": "restigouche-chaleur",
+      "counties": ["Restigouche"],
+      "climate": "Appalachian snowbelt: the heaviest, longest winters in the province alongside the Northwest, with deep snowpack (Sugarloaf's ski hill runs on it) and a hard freshet on the Restigouche system.",
+      "geology": "Mountainous Appalachian terrain dropping to the Restigouche River estuary and Chaleur Bay — the most rugged relief in New Brunswick.",
+      "economy": "Forestry country and world-famous Restigouche salmon water. Campbellton is the border-city gateway to Quebec's Gaspé Peninsula; Dalhousie has been reinventing itself since its paper mill closed in 2008; Saint-Quentin claims the title of maple capital of Atlantic Canada.",
+      "buildingStock": "Early-20th-century mill-town housing in Campbellton and Dalhousie, rural forestry properties, and camp and lodge stock along the Restigouche.",
+      "landmarks": ["Sugarloaf Provincial Park (Campbellton)", "Restigouche Sam salmon statue (Campbellton)", "J.C. Van Horne Bridge to Quebec (Campbellton)", "Inch Arran lighthouse (Dalhousie)"]
+    }
+  },
+  "places": {
+    "moncton": {
+      "hook": "Canada's first officially bilingual city and the fastest-growing urban centre in Atlantic Canada — the Maritimes' transportation and logistics hub on the tidal Petitcodiac.",
+      "facts": ["Canada's first officially bilingual city", "Petitcodiac River tidal bore runs through downtown", "Magnetic Hill optical-illusion landmark and Magic Mountain water park", "Avenir Centre arena anchors the downtown", "Université de Moncton is the largest French-language university outside Quebec", "Major employers include Medavie Blue Cross, the two regional hospitals and the CN rail yard", "Resurgo Place museum tells the city's railway story"],
+      "neighborhoods": ["Downtown", "Moncton North", "Lewisville", "Sunny Brae"],
+      "streets": ["Main Street", "Mountain Road"],
+      "geoTrait": "tidal Petitcodiac River bend and the Moncton sub-basin lowlands"
+    },
+    "saint-john": {
+      "hook": "Canada's first incorporated city (1785) and New Brunswick's industrial anchor — refinery, port and fog-wrapped uptown brick on the Bay of Fundy.",
+      "facts": ["Canada's first incorporated city, 1785", "Irving Oil refinery is Canada's largest", "Port Saint John handles container and cruise traffic", "Reversing Falls Rapids, where Fundy tides push the Saint John River backwards", "Uptown's brick streetscape was rebuilt after the Great Fire of 1877", "Saint John City Market is Canada's oldest continuing farmers' market", "Rockwood Park is one of Canada's largest urban parks", "Imperial Theatre and the New Brunswick Museum anchor the cultural core"],
+      "neighborhoods": ["Uptown", "North End", "South End", "West Side", "East Side", "Millidgeville"],
+      "streets": ["King Street", "Prince William Street"],
+      "geoTrait": "Bay of Fundy harbour at the mouth of the Saint John River, wrapped in marine fog"
+    },
+    "dieppe": {
+      "hook": "New Brunswick's fastest-growing major city and its largest francophone-majority municipality — home to the Greater Moncton airport and the region's retail engine.",
+      "facts": ["Greater Moncton Roméo LeBlanc International Airport is in Dieppe", "CF Champlain (Champlain Place) is the region's largest shopping centre", "Dieppe Farmers' Market", "Fox Creek Golf Club", "Named in honour of the 1942 Dieppe Raid"],
+      "neighborhoods": ["Fox Creek", "Chartersville"],
+      "streets": ["Paul Street", "Champlain Street"],
+      "geoTrait": "flat sandstone lowlands between the Petitcodiac River and the Northumberland Strait road corridor"
+    },
+    "riverview": {
+      "hook": "The bedroom town across the Petitcodiac from Moncton — tidal riverfront marshes, post-war family streets and the Gunningsville Bridge commute.",
+      "facts": ["Faces Moncton across the tidal Petitcodiac River", "Gunningsville Bridge (opened 2005) ties downtown Riverview to downtown Moncton", "Mill Creek Nature Park", "Riverfront marsh trails along the Petitcodiac", "Gateway toward Fundy Albert County and Hopewell Rocks"],
+      "neighborhoods": ["Gunningsville"],
+      "streets": ["Coverdale Road"],
+      "geoTrait": "south bank of the tidal Petitcodiac River, backed by Albert County marsh and woodland"
+    },
+    "fredericton": {
+      "hook": "New Brunswick's capital: government town, two universities, a riverfront Garrison District — and hard-earned flood-zone expertise on the Saint John River.",
+      "facts": ["Provincial capital", "University of New Brunswick (founded 1785, among Canada's oldest universities) and St. Thomas University", "Historic Garrison District and Officers' Square", "Beaverbrook Art Gallery", "RCMP J Division headquarters", "Growing IT and cybersecurity sector", "Odell Park preserves old-growth forest inside the city", "Bill Thorpe Walking Bridge spans the Saint John River", "Major Saint John River floods hit riverfront neighbourhoods in 2018 and 2019", "North-side neighbourhoods include the historic cotton-mill town of Marysville, a National Historic Site"],
+      "neighborhoods": ["Downtown", "Nashwaaksis", "Devon", "Marysville"],
+      "streets": ["Queen Street", "King Street"],
+      "geoTrait": "Saint John River (Wolastoq) valley flats with flood-aware riverfront neighbourhoods"
+    },
+    "quispamsis": {
+      "hook": "The Kennebecasis Valley's biggest commuter town — one of the province's fastest-growing suburban communities, strung along river coves northeast of Saint John.",
+      "facts": ["Largest of Saint John's Kennebecasis Valley commuter towns", "qplex recreation complex", "Meenan's Cove beach and park on the Kennebecasis River", "Absorbed Gondola Point in the 1998 amalgamation"],
+      "neighborhoods": ["Gondola Point"],
+      "streets": [],
+      "geoTrait": "coves and low hills on the Kennebecasis River northeast of Saint John"
+    },
+    "rothesay": {
+      "hook": "The Kennebecasis Valley's establishment address — riverfront estates, the Rothesay Netherwood School campus and a common on the river.",
+      "facts": ["Rothesay Netherwood School, a historic independent boarding school", "Rothesay Common and riverfront wharf area at Renforth", "Formed in 1998 by amalgamating Rothesay, Renforth, East Riverside-Kingshurst and Fairvale", "Among the province's highest-income communities"],
+      "neighborhoods": ["Renforth", "Fairvale"],
+      "streets": [],
+      "geoTrait": "west-facing Kennebecasis riverfront with mature estate lots"
+    },
+    "miramichi": {
+      "hook": "The city the salmon river built — formed in 1995 from the rival towns of Chatham and Newcastle, and still the world's most famous Atlantic salmon address.",
+      "facts": ["Created in 1995 by amalgamating Chatham, Newcastle, Douglastown, Loggieville and Nelson", "World-renowned Atlantic salmon angling on the Miramichi River", "Beaubears Island national historic sites sit midstream", "Ritchie Wharf park and French Fort Cove", "Lord Beaverbrook (Max Aitken) was raised in Newcastle and is commemorated in its town square", "Rebuilding its economy since the 2000s pulp-mill closures"],
+      "neighborhoods": ["Chatham", "Newcastle", "Douglastown", "Loggieville", "Nelson"],
+      "streets": ["King George Highway", "Water Street"],
+      "geoTrait": "twin historic town sites facing each other across the broad Miramichi River"
+    },
+    "tracadie": {
+      "hook": "The Acadian Peninsula's regional municipality — New Brunswick's first, created in 2014 — with a working fishing coast and a singular medical history.",
+      "facts": ["Became New Brunswick's first regional municipality in 2014", "Historic lazaretto: Tracadie housed Canada's only leprosarium, remembered at the Musée historique de Tracadie", "Fishing and peat-country service centre for the eastern Peninsula", "Includes the community of Sheila"],
+      "neighborhoods": ["Sheila"],
+      "streets": [],
+      "geoTrait": "low Gulf-shore coast at the Tracadie River mouth, fringed with beaches and peat bogs"
+    },
+    "shediac": {
+      "hook": "The self-proclaimed Lobster Capital of the World — giant lobster statue included — where Parlee Beach makes summer the town's biggest industry.",
+      "facts": ["Lobster Capital of the World, marked by the giant lobster sculpture", "Parlee Beach Provincial Park draws big summer crowds to the warm Northumberland Strait", "Pointe-du-Chêne wharf", "Population swells dramatically each summer with cottagers and tourists"],
+      "neighborhoods": ["Pointe-du-Chêne"],
+      "streets": ["Main Street"],
+      "geoTrait": "warm-water Northumberland Strait beach coast at Shediac Bay"
+    },
+    "beaubassin-east": {
+      "hook": "A string of Acadian shore communities between Shediac and Cap-Pelé — cottage coast, salt marsh and one of the region's fastest-growing rural populations.",
+      "facts": ["Rural community stretching along the Northumberland Strait shore between Shediac and Cap-Pelé", "Includes the communities of Grand-Barachois and Haute-Aboujagane", "Strait-shore cottage country with year-round conversion pressure"],
+      "neighborhoods": ["Grand-Barachois", "Haute-Aboujagane"],
+      "streets": [],
+      "geoTrait": "barrier-beach and salt-marsh shore of the Northumberland Strait"
+    },
+    "bathurst": {
+      "hook": "The Chaleur Bay service city rebuilding after a century of mining — home to the K.C. Irving Regional Centre and the harbour at the Nepisiguit's mouth.",
+      "facts": ["Regional service centre for northern New Brunswick", "Brunswick Mine, once among the world's largest zinc mines, closed in 2013", "K.C. Irving Regional Centre hosts the QMJHL's Acadie-Bathurst Titan", "Youghall Beach on Bathurst Harbour", "Daly Point Nature Reserve salt marsh", "CCNB college campus"],
+      "neighborhoods": [],
+      "streets": ["Main Street"],
+      "geoTrait": "sheltered harbour where the Nepisiguit River meets Chaleur Bay"
+    },
+    "sackville": {
+      "hook": "A university town on the Tantramar marshes — Mount Allison's campus, a famous waterfowl park, and the last stop before Nova Scotia.",
+      "facts": ["Home of Mount Allison University", "Sackville Waterfowl Park's boardwalks wind through the town", "Sits on the Tantramar Marshes near the Nova Scotia border", "Historic town core of brick and clapboard around the university"],
+      "neighborhoods": ["Middle Sackville"],
+      "streets": ["Bridge Street", "York Street"],
+      "geoTrait": "edge of the vast Tantramar marshland at the head of the Bay of Fundy"
+    },
+    "oromocto": {
+      "hook": "Canada's Model Town — planned and built in the late 1950s to serve CFB Gagetown, the country's largest military training base.",
+      "facts": ["Purpose-built planned town of the late 1950s, nicknamed 'Canada's Model Town'", "CFB Gagetown is Canada's largest military training base", "Sits where the Oromocto River meets the Saint John", "Large rotating military population shapes the housing market"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "confluence of the Oromocto and Saint John rivers beside CFB Gagetown"
+    },
+    "memramcook": {
+      "hook": "The cradle of the Acadian renaissance — the Monument-Lefebvre and the old Collège Saint-Joseph stand over a farming valley that never emptied.",
+      "facts": ["Monument-Lefebvre National Historic Site", "Site of Collège Saint-Joseph, the first French-language degree-granting college in Atlantic Canada", "Fertile Memramcook Valley farmland", "One of the oldest continuously settled Acadian districts"],
+      "neighborhoods": ["Saint-Joseph"],
+      "streets": [],
+      "geoTrait": "sheltered agricultural valley of the tidal Memramcook River"
+    },
+    "edmundston": {
+      "hook": "Capital of the 'République du Madawaska' — a proudly Brayon mill city wedged between Quebec and Maine, wrapped around the Twin Rivers pulp mill.",
+      "facts": ["Twin Rivers Paper pulp mill anchors the economy", "Université de Moncton's Edmundston campus", "Overwhelmingly francophone, with a distinct Brayon identity", "Foire Brayonne festival each summer", "New Brunswick Botanical Garden", "Petit-Témis cycling trail runs to Rivière-du-Loup, Quebec", "Amalgamated Saint-Basile and Saint-Jacques in 1998", "Borders Madawaska, Maine, across the Saint John River"],
+      "neighborhoods": ["Saint-Basile", "Saint-Jacques", "Verret"],
+      "streets": ["Victoria Street"],
+      "geoTrait": "Appalachian valley at the junction of the Madawaska and Saint John rivers, on the Quebec–Maine border"
+    },
+    "grand-bay-westfield": {
+      "hook": "River-mouth commuter town where the Saint John widens toward Grand Bay — cable ferries, river coves and a 1998 twin-community amalgamation.",
+      "facts": ["Formed in 1998 by amalgamating Grand Bay and Westfield", "Free river cable ferries connect the Kingston Peninsula nearby", "Commuter town on the Saint John River's Grand Bay reach"],
+      "neighborhoods": ["Grand Bay", "Westfield"],
+      "streets": ["River Valley Drive"],
+      "geoTrait": "wooded shoreline where the Saint John River opens into Grand Bay"
+    },
+    "campbellton": {
+      "hook": "The border city under Sugarloaf — Restigouche salmon water out front, a ski hill out back, and the J.C. Van Horne Bridge to Quebec downtown.",
+      "facts": ["Restigouche Sam, the giant Atlantic salmon statue", "Sugarloaf Provincial Park and its ski hill rise over the city", "J.C. Van Horne Bridge crosses to Pointe-à-la-Croix, Quebec", "Gateway to Quebec's Gaspé Peninsula", "Restigouche River is world-famous salmon water"],
+      "neighborhoods": [],
+      "streets": ["Water Street"],
+      "geoTrait": "foot of Sugarloaf Mountain on the Restigouche River estuary"
+    },
+    "hampton": {
+      "hook": "Shiretown of Kings County on the Kennebecasis marshes — and hometown of John Peters Humphrey, who drafted the Universal Declaration of Human Rights.",
+      "facts": ["Shiretown of Kings County", "Birthplace of John Peters Humphrey, principal drafter of the UN Universal Declaration of Human Rights, honoured with a monument", "Kennebecasis River marshes frame the town", "Commuter town at the east end of the Kennebecasis Valley"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "low marshland bend of the Kennebecasis River"
+    },
+    "woodstock": {
+      "hook": "New Brunswick's first incorporated town (1856) — the upper-valley crossroads where the Trans-Canada meets the road to Maine.",
+      "facts": ["New Brunswick's first incorporated town, 1856", "Shiretown of Carleton County with a historic court house", "Junction of the Trans-Canada Highway and Route 95 to Houlton, Maine", "Service centre for the upper Saint John River potato belt"],
+      "neighborhoods": [],
+      "streets": ["Main Street"],
+      "geoTrait": "confluence of the Meduxnekeag and Saint John rivers in the upper valley"
+    },
+    "cocagne": {
+      "hook": "An Acadian harbour community on the Cocagne River estuary — marina country between Shediac and Bouctouche.",
+      "facts": ["Rural community on the Cocagne River estuary and Northumberland Strait", "Marina and boating harbour", "Part of the Acadian coastal corridor between Shediac and Bouctouche"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "sheltered estuary where the Cocagne River meets the Strait"
+    },
+    "sussex": {
+      "hook": "The dairy town that became Atlantic Canada's mural capital — covered-bridge country in the Kennebecasis farm valley, adjusting since the 2016 potash shutdown.",
+      "facts": ["Historic dairy-farming centre of the Kennebecasis valley", "Dozens of outdoor murals earned it the mural-capital title", "Atlantic Balloon Fiesta hosts hot-air balloons each fall", "Nearby potash mine suspended operations in 2016, reshaping the local economy", "Covered bridges dot the surrounding valley"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "broad dairy-farm valley of the upper Kennebecasis River"
+    },
+    "bouctouche": {
+      "hook": "K.C. Irving's hometown and Antonine Maillet's Acadie — the Bouctouche dune, La Sagouine's village, and a harbour town that punches far above its size.",
+      "facts": ["Birthplace of industrialist K.C. Irving", "Le Pays de la Sagouine theatrical village celebrates author Antonine Maillet's work", "Irving Eco-Centre protects the 12-km Bouctouche dune", "Acadian harbour town on Bouctouche Bay"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "harbour behind the great sand dune of Bouctouche Bay"
+    },
+    "hanwell": {
+      "hook": "Fredericton's newest commuter corridor — a rural community incorporated in 2014 that has been growing as fast as anywhere in the capital region.",
+      "facts": ["Incorporated as a rural community in 2014", "Strung along the Hanwell Road (Route 640) corridor southwest of Fredericton", "One of the capital region's fastest-growing communities"],
+      "neighborhoods": [],
+      "streets": ["Hanwell Road"],
+      "geoTrait": "wooded upland corridor along Route 640 southwest of Fredericton"
+    },
+    "st-stephen": {
+      "hook": "Canada's Chocolate Town — Ganong Bros., the country's oldest candy maker, still runs here, a footbridge from Calais, Maine.",
+      "facts": ["Home of Ganong Bros., Canada's oldest candy company", "The Chocolate Museum and annual Chocolate Fest", "International border town facing Calais, Maine, across the St. Croix River", "Key Canada–US border crossing in Charlotte County"],
+      "neighborhoods": ["Milltown"],
+      "streets": [],
+      "geoTrait": "St. Croix River border crossing to Maine"
+    },
+    "grand-falls": {
+      "hook": "The town built around a 23-metre cataract — the Saint John River plunges through a mile-long gorge right beside the bilingual main street.",
+      "facts": ["The Saint John River drops 23 metres at the falls and runs a 1.6-km gorge through town", "Officially bilingual name: Grand Falls / Grand-Sault", "Centre of the upper-valley potato industry", "Gorge walking trails and viewing platforms"],
+      "neighborhoods": [],
+      "streets": ["Broadway"],
+      "geoTrait": "gorge and cataract of the Saint John River"
+    },
+    "salisbury": {
+      "hook": "The village at the western gate of Greater Moncton — Petitcodiac headwater country with a silver-fox-farming heritage.",
+      "facts": ["Sits at the junction of Route 112 and the Trans-Canada west of Moncton", "Historic centre of early-20th-century silver-fox fur farming", "Commuter village on the Petitcodiac River's upper reaches"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "upper Petitcodiac River valley farmland"
+    },
+    "saint-andrews": {
+      "hook": "St. Andrews-by-the-Sea: Canada's original seaside resort town — the Algonquin's turrets, Kingsbrae Garden and whale boats off the wharf.",
+      "facts": ["One of Canada's oldest seaside resort towns, a National Historic District", "The Algonquin Resort has hosted guests since 1889", "Kingsbrae Garden", "Whale-watching and Huntsman Marine Science Centre", "Loyalist-era street grid on Passamaquoddy Bay"],
+      "neighborhoods": [],
+      "streets": ["Water Street"],
+      "geoTrait": "Passamaquoddy Bay peninsula with a Loyalist-era grid"
+    },
+    "st-george": {
+      "hook": "The Granite Town on the Magaguadavic — a gorge and falls in the middle of the village and Lake Utopia (monster folklore included) out back.",
+      "facts": ["Known as the Granite Town for its red-granite quarrying history", "Magaguadavic River falls and gorge cut through the village", "Lake Utopia nearby, famous for its lake-monster folklore", "Service centre for Charlotte County's Fundy shore"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "granite gorge of the Magaguadavic River"
+    },
+    "richibucto": {
+      "hook": "The shiretown of Kent County — a fishing port at the Richibucto River mouth, minutes from Kouchibouguac National Park.",
+      "facts": ["Historic shiretown of Kent County", "Fishing port on the Richibucto River estuary", "Gateway to Kouchibouguac National Park"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "estuary port at the mouth of the Richibucto River"
+    },
+    "cap-pele": {
+      "hook": "The village that smokes the world's herring — dozens of family 'boucanières' (smokehouses) and Aboiteau Beach on the warm Strait.",
+      "facts": ["Famous for its herring smokehouses ('boucanières'), producing much of the world's smoked herring", "Aboiteau Beach on the Northumberland Strait", "Strongly Acadian fishing and cottage community"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "smokehouse-lined shore of the Northumberland Strait"
+    },
+    "new-maryland": {
+      "hook": "The capital's quiet southern bedroom village — leafy subdivisions on the height of land just past Fredericton's city line.",
+      "facts": ["Bedroom village immediately south of Fredericton", "Grew up along the Route 101 corridor", "Predominantly single-family subdivision housing"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "upland plateau just south of Fredericton"
+    },
+    "saint-antoine": {
+      "hook": "Birthplace of Louis J. Robichaud — the premier who transformed New Brunswick — and a growing Acadian village inland from the Strait coast.",
+      "facts": ["Birthplace of Louis J. Robichaud, New Brunswick's first elected Acadian premier", "Inland Kent County village within commuting range of Moncton", "Strongly francophone community"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "inland Kent County farm and forest country"
+    },
+    "hillsborough": {
+      "hook": "A gypsum-country village on the Petitcodiac with a working railway museum — and Hopewell Rocks twenty minutes down the road.",
+      "facts": ["New Brunswick Railway Museum and the Salem & Hillsborough heritage railroad", "Long history of gypsum quarrying", "Birthplace of William Steeves, a Father of Confederation", "Twenty minutes from Hopewell Rocks on the Fundy shore"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "gypsum hills over the tidal Petitcodiac"
+    },
+    "petitcodiac": {
+      "hook": "A railway-junction village turned commuter crossroads at the head of the Petitcodiac valley, between Moncton and Sussex.",
+      "facts": ["Grew up as a railway junction village", "Sits at the head of the Petitcodiac River valley on Route 106", "Farm-service village within commuting range of both Moncton and Sussex"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "headwater valley of the Petitcodiac River"
+    },
+    "upper-miramichi": {
+      "hook": "Boiestown country — the rural community at the geographic centre of New Brunswick, where the Woodsmen's Museum keeps the lumber-camp story alive.",
+      "facts": ["Centred on Boiestown, commonly cited as the geographic centre of New Brunswick", "Central New Brunswick Woodsmen's Museum", "Headwater salmon-angling and forestry country on the Main Southwest Miramichi", "Incorporated as a rural community in 2008"],
+      "neighborhoods": ["Boiestown"],
+      "streets": [],
+      "geoTrait": "forested headwaters of the Main Southwest Miramichi River"
+    },
+    "grand-manan": {
+      "hook": "The Bay of Fundy's big island — dulse from Dark Harbour, the Swallowtail light, and a 90-minute ferry that sets the rhythm of everything.",
+      "facts": ["Reached by a 90-minute ferry from Blacks Harbour", "Dark Harbour is famous for hand-harvested dulse", "Swallowtail Lighthouse", "Lobster and scallop fishing anchor the economy", "Island logistics shape every trade and delivery"],
+      "neighborhoods": ["North Head", "Grand Harbour", "Seal Cove"],
+      "streets": [],
+      "geoTrait": "cliff-edged Fundy island with working harbours"
+    },
+    "caraquet": {
+      "hook": "The cultural capital of Acadie — the Festival acadien since 1963, the Tintamarre every August 15, and a working fishing port on Chaleur Bay.",
+      "facts": ["Widely called the capital of Acadie", "Festival acadien de Caraquet, running since 1963, climaxes in the August 15 Tintamarre", "Village Historique Acadien living-history site is just west of town", "Active fishing port on Chaleur Bay"],
+      "neighborhoods": ["Bas-Caraquet adjacent"],
+      "streets": ["Boulevard Saint-Pierre"],
+      "geoTrait": "harbour terrace along Chaleur Bay"
+    },
+    "norton": {
+      "hook": "A Kennebecasis valley farm village midway between Sussex and Hampton — quiet, agricultural, and increasingly a commuter address.",
+      "facts": ["Farm village on the Kennebecasis River between Sussex and Hampton", "Within commuting range of both Saint John and Sussex"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "mid-valley farmland on the Kennebecasis River"
+    },
+    "beresford": {
+      "hook": "Bathurst's beach-town neighbour on Chaleur Bay — a saltmarsh-and-sand shoreline with one of the north shore's best beaches.",
+      "facts": ["Beresford Beach and its protected saltmarsh", "Effectively a residential and cottage extension of the Bathurst area", "Francophone Chaleur-shore community"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "sand and saltmarsh shore of Chaleur Bay"
+    },
+    "minto": {
+      "hook": "One of North America's oldest coal-mining districts — a Grand Lake village remaking itself after the mines and the power station closed.",
+      "facts": ["Coal was mined in the Minto–Grand Lake field for centuries — among the earliest coal workings in North America", "Sits near Grand Lake, the province's largest lake", "Post-mining economy now leans on forestry and commuting"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "coalfield flats near Grand Lake"
+    },
+    "sussex-corner": {
+      "hook": "The village at Sussex's shoulder — where the dairy valley climbs toward the Fundy hills and covered-bridge back roads.",
+      "facts": ["Contiguous with the town of Sussex", "Covered bridges survive on nearby valley roads", "Dairy-farm and commuter village in the upper Kennebecasis valley"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "valley shoulder where the Kennebecasis meets the Fundy hills"
+    },
+    "shippagan": {
+      "hook": "Canada's peat capital and the Acadian Peninsula's campus town — a snow-crab port with the province's marine aquarium.",
+      "facts": ["Centre of Canada's peat-moss industry", "New Brunswick Aquarium and Marine Centre", "Université de Moncton's Shippagan campus", "Major snow-crab fishing port"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "low peat-bog peninsula tip facing Lamèque Island"
+    },
+    "chipman": {
+      "hook": "A Salmon River forestry village at the top of Grand Lake — woods work, water access and a long lumbering story.",
+      "facts": ["Forestry village on the Salmon River near Grand Lake's northern end", "Long history in lumbering and wood processing"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "Salmon River lowlands at the head of Grand Lake"
+    },
+    "rogersville": {
+      "hook": "An Acadian village with a Trappist monastery at its edge — quiet farm country halfway between Moncton and Miramichi.",
+      "facts": ["Notre-Dame du Calvaire Trappist monastery", "Acadian farming village on the Moncton–Miramichi corridor (Route 126)", "Annual blueberry festival celebrates the local crop"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "blueberry and farm flats on the inland Kent–Northumberland line"
+    },
+    "florenceville-bristol": {
+      "hook": "The French-fry capital of the world — McCain Foods' global headquarters in a two-village town over the Saint John River potato belt.",
+      "facts": ["World headquarters of McCain Foods, the world's largest french-fry producer", "Formed in 2008 by merging Florenceville and Bristol", "Heart of the Carleton County potato belt"],
+      "neighborhoods": ["Florenceville", "Bristol"],
+      "streets": [],
+      "geoTrait": "potato-belt benchlands over the Saint John River"
+    },
+    "campobello-island": {
+      "hook": "FDR's beloved island — Roosevelt Campobello International Park at one end, Head Harbour Light at the other, and year-round road access only through Maine.",
+      "facts": ["Roosevelt Campobello International Park preserves FDR's summer home", "Head Harbour Lightstation", "The FDR Memorial Bridge to Lubec, Maine, is the only year-round road access", "Fishing community in the Passamaquoddy islands"],
+      "neighborhoods": ["Welshpool", "Wilson's Beach"],
+      "streets": [],
+      "geoTrait": "outer Passamaquoddy island reached by bridge from Maine"
+    },
+    "mcadam": {
+      "hook": "The railway village a station built — McAdam's chateau-style CPR station is a National Historic Site, and the town still gathers around it.",
+      "facts": ["McAdam Railway Station, a chateau-style CPR landmark, is a National Historic Site", "Grew as a Canadian Pacific Railway junction near the Maine border", "Forest-country village in southwestern York County"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "rail-junction clearing in the southwestern York County woods"
+    },
+    "neguac": {
+      "hook": "An Acadian harbour village where Miramichi Bay meets the open Gulf — wharf, beach and a strong fishing tradition.",
+      "facts": ["Acadian fishing village on Miramichi Bay", "Working wharf and beach on the inner bay", "Northern gateway between the Miramichi and the Acadian Peninsula"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "sheltered inner shore of Miramichi Bay"
+    },
+    "dorchester": {
+      "hook": "The old shiretown of Westmorland County — sandstone heritage buildings, a federal penitentiary, and world-class shorebird flats at Johnson's Mills.",
+      "facts": ["Historic shiretown of Westmorland County", "Dorchester Penitentiary, one of Canada's oldest federal prisons", "Keillor House Museum and sandstone heritage architecture", "Johnson's Mills shorebird reserve on the Fundy mudflats nearby"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "sandstone ridge over the Memramcook estuary marshes"
+    },
+    "dalhousie": {
+      "hook": "A deep-water port town reinventing itself since the 2008 mill closure — Inch Arran point, ferry views to Quebec and Restigouche estuary light.",
+      "facts": ["Deep-water port on the Restigouche estuary", "Paper mill closed in 2008, reshaping the town's economy", "Inch Arran lighthouse and shorefront", "Seasonal ferry link to Miguasha, Quebec"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "point of land where the Restigouche estuary opens into Chaleur Bay"
+    },
+    "lameque": {
+      "hook": "The island town of the peat bogs — and, improbably and wonderfully, host of an internationally known Baroque music festival.",
+      "facts": ["Island community connected by causeway/bridge via Shippagan", "Surrounded by commercial peat bogs", "Hosts the International Baroque Music Festival each summer"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "flat peat-bog island between Chaleur Bay and the Gulf"
+    },
+    "saint-quentin": {
+      "hook": "The maple capital of Atlantic Canada — a forestry town in the high Restigouche with a famous western festival.",
+      "facts": ["Claims the title of maple capital of Atlantic Canada", "Festival Western de Saint-Quentin draws crowds each July", "Forestry and maple-sugar economy in the Appalachian uplands"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "high Appalachian plateau of maple woods"
+    },
+    "nackawic": {
+      "hook": "The mill town with the World's Largest Axe — built in the 1960s when the Mactaquac headpond rose, and still running on its pulp mill.",
+      "facts": ["World's Largest Axe monument on the waterfront", "Town created in the 1960s alongside the Mactaquac headpond", "AV Group NBI pulp mill is the anchor employer"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "terraced townsite over the Mactaquac headpond of the Saint John River"
+    },
+    "blacks-harbour": {
+      "hook": "The sardine village — long home to Connors Bros. and the mainland terminal for the Grand Manan ferry.",
+      "facts": ["Home of Connors Bros., historically one of the world's largest sardine processors", "Mainland terminal for the Grand Manan ferry", "Working Fundy fishing harbour"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "working harbour cut into the Fundy shore"
+    },
+    "rexton": {
+      "hook": "Birthplace of Bonar Law — the only British prime minister born outside the British Isles — on the tidal Richibucto.",
+      "facts": ["Birthplace of Andrew Bonar Law, UK prime minister 1922–23", "Village on the tidal Richibucto River across from Richibucto", "Bonar Law historic site commemorates the family homestead"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "tidal river flats of the lower Richibucto"
+    },
+    "haut-madawaska": {
+      "hook": "Five border villages made one — Clair, Baker-Brook and their neighbours along the upper Saint John, facing Maine across the river.",
+      "facts": ["Formed in 2017 by amalgamating border villages including Clair, Baker-Brook, Saint-Hilaire and Saint-François", "Faces Maine across the upper Saint John River", "Farm and forest communities of the Madawaska uplands"],
+      "neighborhoods": ["Clair", "Baker-Brook", "Saint-Hilaire", "Saint-François"],
+      "streets": [],
+      "geoTrait": "upper Saint John River border bench facing Maine"
+    },
+    "saint-andre": {
+      "hook": "Potato country north of Grand Falls — a young rural community of big farms on the upper-valley benchlands.",
+      "facts": ["Potato-farming rural community just north of Grand Falls", "Part of the upper Saint John River agricultural belt"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "open potato benchlands above the upper Saint John River"
+    },
+    "gagetown": {
+      "hook": "The riverside shiretown of Queens County — artisan village, cable ferry, and not to be confused with the base that borrowed its name.",
+      "facts": ["Historic shiretown of Queens County on the Saint John River", "Gagetown–Jemseg area cable ferry crossing", "Known for artisan studios and a heritage riverfront", "Distinct from CFB Gagetown, which is located at Oromocto"],
+      "neighborhoods": [],
+      "streets": ["Front Street"],
+      "geoTrait": "riverbank shiretown reach of the lower Saint John"
+    },
+    "saint-louis-de-kent": {
+      "hook": "Where the Acadian flag comes from — Father Marcel-François Richard's village at the gates of Kouchibouguac National Park.",
+      "facts": ["Home village of Father Marcel-François Richard, who designed the Acadian tricolour flag", "Gateway community for Kouchibouguac National Park", "Acadian village on Route 134 in northern Kent County"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "wooded coastal plain at the edge of Kouchibouguac National Park"
+    },
+    "cambridge-narrows": {
+      "hook": "Washademoak Lake cottage country — a narrows-spanning village where lake life is the local economy.",
+      "facts": ["Village spanning the narrows of Washademoak Lake", "Long-established cottage and boating community", "Seasonal properties make up a large share of the housing stock"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "bridge-linked narrows of Washademoak Lake"
+    },
+    "kedgwick": {
+      "hook": "Deep-woods forestry country on the storied Restigouche — canoe water, hunting camps and working timberland.",
+      "facts": ["Forestry community in the Restigouche uplands", "Access point to the Restigouche River's famous canoe and salmon waters"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "high timberland plateau above the Restigouche River"
+    },
+    "fredericton-junction": {
+      "hook": "The village the railways crossed — a historic junction on the Saint John–Fredericton line, now quiet commuter country on the South Branch Oromocto.",
+      "facts": ["Grew up as a railway junction on the Saint John–Fredericton line", "Sits on the South Branch Oromocto River", "Within commuting range of both Fredericton and Oromocto"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "rail-junction village on the South Branch Oromocto River"
+    },
+    "petit-rocher": {
+      "hook": "An Acadian shore village on the Chaleur coast with a wharf at its heart and mining history in its hills.",
+      "facts": ["Acadian fishing village between Bathurst and Belledune on the Chaleur shore", "Working wharf and beach", "Area's zinc-mining history is interpreted locally"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "wharf-centred shore terrace on Chaleur Bay"
+    },
+    "hartland": {
+      "hook": "Home of the world's longest covered bridge — 391 metres across the Saint John — and the potato-chip factory that borrowed its fame.",
+      "facts": ["World's longest covered bridge, 391 m, crosses the Saint John River here", "Covered Bridge Potato Chips is made in Hartland", "Small service town in the Carleton County potato belt"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "covered-bridge crossing of the Saint John River"
+    },
+    "tracy": {
+      "hook": "A South Branch Oromocto village in the woods south of Fredericton — small, quiet and squarely in the capital's commuter orbit.",
+      "facts": ["Village on the South Branch Oromocto River adjacent to Fredericton Junction", "Rural commuter village south of Fredericton"],
+      "neighborhoods": [],
+      "streets": [],
+      "geoTrait": "forest-and-river village on the South Branch Oromocto"
+    }
+  }
+}

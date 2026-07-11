@@ -1,0 +1,20 @@
+# Areas We Serve — crawler allow-list (append to site robots.txt)
+# AI + search crawlers must be allowed to fetch the static location pages.
+User-agent: Googlebot
+Allow: /areas
+User-agent: Bingbot
+Allow: /areas
+User-agent: OAI-SearchBot
+Allow: /areas
+User-agent: ChatGPT-User
+Allow: /areas
+User-agent: GPTBot
+Allow: /areas
+User-agent: PerplexityBot
+Allow: /areas
+User-agent: ClaudeBot
+Allow: /areas
+User-agent: Google-Extended
+Allow: /areas
+
+Sitemap: {BRAND_URL}/sitemap-areas.xml
