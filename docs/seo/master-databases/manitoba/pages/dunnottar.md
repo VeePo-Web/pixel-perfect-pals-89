@@ -84,7 +84,7 @@ Dunnottar is beach country in transition. This Lake Winnipeg village of 989 peop
 
 ## Local proof
 
-Dunnottar is one of Lake Winnipeg's classic west-shore beach villages — taking in Whytewold, Matlock, and Ponemah — and it is growing fast, up nearly 30% in just five years as cottages become year-round homes. For {SERVICE}, that mix of seasonal and year-round lakeside property is the whole story, alongside the exposure a big lake constantly brings. {COMPANY_NAME} provides {SERVICE} throughout Dunnottar, scoping shoreline conditions, seasonal systems, and cottage-to-year-round conversions alike. We bring {SERVICE_LIST} and fast {RESPONSE_TIME} response across the whole beach shore. Call {PHONE} for a free {ESTIMATE_TYPE} estimate.
+Dunnottar is one of Lake Winnipeg's classic west-shore beach villages — taking in Whytewold, Matlock, and Ponemah — and it is growing fast, up nearly 30% in just five years as cottages become year-round homes. For {SERVICE}, that mix of seasonal and year-round lakeside property is the whole story, alongside the exposure a big lake constantly brings. {COMPANY_NAME} provides {SERVICE} throughout Dunnottar, scoping shoreline conditions, seasonal systems, and cottage-to-year-round conversions alike. We bring {SERVICE_LIST} and fast {RESPONSE_TIME} response across the whole west-shore beach corridor, with no penalty for the short lakeside run. Call {PHONE} for a free {ESTIMATE_TYPE} estimate.
 
 > "{TESTIMONIAL_LOCAL}" — {REVIEWER_NAME}, Dunnottar
 
