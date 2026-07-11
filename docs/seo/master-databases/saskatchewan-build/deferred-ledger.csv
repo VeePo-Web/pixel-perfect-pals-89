@@ -1,0 +1,1797 @@
+Location_ID,Location_Name,Location_Type,Region,Population_2021,Unified_Score,Deferred_Reason
+SK-0007,Lac La Ronge Indian Band,First Nations Reserve,Northern Saskatchewan,11233,,no CGN-verifiable coordinates
+SK-0013,Peter Ballantyne Cree Nation,First Nations Reserve,Northern Saskatchewan,11000,,no CGN-verifiable coordinates
+SK-0020,Montreal Lake Cree Nation,First Nations Reserve,Northern Saskatchewan,3500,,no CGN-verifiable coordinates
+SK-0021,Thunderchild First Nation,First Nations Reserve,Northwest,2800,,no CGN-verifiable coordinates
+SK-0022,Cowessess First Nation,First Nations Reserve,Southeast,3800,,no CGN-verifiable coordinates
+SK-0023,Beardy's and Okemasis Cree Nation,First Nations Reserve,Central Saskatchewan,3500,,no CGN-verifiable coordinates
+SK-0024,Big River First Nation,First Nations Reserve,Northern Saskatchewan,2600,,no CGN-verifiable coordinates
+SK-0025,Ochapowace Nation,First Nations Reserve,Southeast,2500,,no CGN-verifiable coordinates
+SK-0031,Onion Lake Cree Nation,First Nations Reserve,Northwest,6073,,no CGN-verifiable coordinates
+SK-0034,Mistawasis Nêhiyawak,First Nations Reserve,Central Saskatchewan,3200,,no CGN-verifiable coordinates
+SK-0035,Kahkewistahaw First Nation,First Nations Reserve,Southeast,2300,,no CGN-verifiable coordinates
+SK-0037,Kawacatoose First Nation,First Nations Reserve,Central Saskatchewan,2100,,no CGN-verifiable coordinates
+SK-0039,Pelican Lake First Nation,First Nations Reserve,Central Saskatchewan,1500,,no CGN-verifiable coordinates
+SK-0040,Sakimay First Nation,First Nations Reserve,Southeast,1400,,no CGN-verifiable coordinates
+SK-0047,Maple Creek,Rural Municipality,Southwest Saskatchewan,1167,47,unified score 47 below 50
+SK-0049,Pinehouse,Northern Village,Northern Saskatchewan,1013,43.7,unified score 43.7 below 50
+SK-0052,James Smith Cree Nation,First Nations Reserve,Central Saskatchewan,3400,,no CGN-verifiable coordinates
+SK-0060,Île-à-la-Crosse,Northern Village,Northern Saskatchewan,1425,44.4,unified score 44.4 below 50
+SK-0061,Air Ronge,Northern Village,Northern Saskatchewan,1365,45.4,unified score 45.4 below 50
+SK-0063,Gull Lake,Town,Southwest Saskatchewan,908,47,unified score 47 below 50
+SK-0067,Sturgeon Lake First Nation,First Nations Reserve,Central Saskatchewan,2100,,no CGN-verifiable coordinates
+SK-0068,Muskoday First Nation,First Nations Reserve,Central Saskatchewan,1873,,no CGN-verifiable coordinates
+SK-0070,Fishing Lake First Nation,First Nations Reserve,Central Saskatchewan,1200,,no CGN-verifiable coordinates
+SK-0075,Leader,Town,West Central Saskatchewan,881,47.4,unified score 47.4 below 50
+SK-0076,Kelvington,Town,Central Saskatchewan,827,48.5,unified score 48.5 below 50
+SK-0077,Standing Buffalo Dakota Nation,First Nations Reserve,Southern Saskatchewan,808,,no CGN-verifiable coordinates
+SK-0083,Wawken,Rural Municipality,Southeast Saskatchewan,614,48.5,unified score 48.5 below 50
+SK-0084,Grand Coulee,Town,Saskatoon Region,606,,no CGN-verifiable coordinates
+SK-0085,Ponteix,Town,Southwest Saskatchewan,577,47.3,unified score 47.3 below 50
+SK-0086,Katepwa,Resort Village,Southern Saskatchewan,539,,no CGN-verifiable coordinates
+SK-0088,Montmartre,Village,Southeast Saskatchewan,450,48.8,unified score 48.8 below 50
+SK-0092,Candle Lake,Resort Village,Central Saskatchewan,1160,49.2,unified score 49.2 below 50
+SK-0093,Carnduff,Town,Southeast Saskatchewan,1150,49.8,unified score 49.8 below 50
+SK-0099,Midale,Town,Southeast Saskatchewan,510,49.2,unified score 49.2 below 50
+SK-0101,Quill Lake,Village,Central Saskatchewan,377,46,unified score 46 below 50
+SK-0102,Lipton,Village,Southeast Saskatchewan,284,48.2,unified score 48.2 below 50
+SK-0105,Yellow Quill First Nation,First Nations Reserve,Central Saskatchewan,2800,,no CGN-verifiable coordinates
+SK-0113,Kinistino,Town,Central Saskatchewan,671,49.8,unified score 49.8 below 50
+SK-0114,Naicam,Town,Central Saskatchewan,651,49.5,unified score 49.5 below 50
+SK-0117,Eastend,Town,Southwest Saskatchewan,607,44.4,unified score 44.4 below 50
+SK-0120,Whiska Creek,Rural Municipality,Southwest Saskatchewan,512,47.3,unified score 47.3 below 50
+SK-0122,Paradise Hill,Village,Northwest Saskatchewan,471,44.1,unified score 44.1 below 50
+SK-0123,Benson,Rural Municipality,Southeast Saskatchewan,450,48.4,unified score 48.4 below 50
+SK-0125,Kyle,Town,Southwest Saskatchewan,413,48,unified score 48 below 50
+SK-0126,McLean,Village,Regina Region,392,49.9,unified score 49.9 below 50
+SK-0127,Lafleche,Town,Southwest Saskatchewan,373,48.1,unified score 48.1 below 50
+SK-0128,Neilburg,Village,Northwest Saskatchewan,371,44.5,unified score 44.5 below 50
+SK-0129,Manitou Beach,Resort Village,Central Saskatchewan,364,48,unified score 48 below 50
+SK-0130,Alameda,Town,Southeast Saskatchewan,345,46.5,unified score 46.5 below 50
+SK-0131,Saskatchewan Beach,Resort Village,Regina Region,322,49.4,unified score 49.4 below 50
+SK-0132,Borden,Village,Saskatoon Region,281,49,unified score 49 below 50
+SK-0133,Coleville,Village,West Central Saskatchewan,280,44.9,unified score 44.9 below 50
+SK-0136,Piapot First Nation,First Nations Reserve,Southern Saskatchewan,2200,,no CGN-verifiable coordinates
+SK-0137,Poundmaker Cree Nation,First Nations Reserve,Northwest,1800,,no CGN-verifiable coordinates
+SK-0143,Rocanville,Town,Southeast Saskatchewan,889,48.5,unified score 48.5 below 50
+SK-0144,Herbert,Town,Southwest Saskatchewan,770,48.9,unified score 48.9 below 50
+SK-0146,Watson,Town,Central Saskatchewan,707,49.8,unified score 49.8 below 50
+SK-0147,Denare Beach,Northern Village,Northern Saskatchewan,699,39.8,unified score 39.8 below 50
+SK-0148,Beauval,Northern Village,Northern Saskatchewan,685,42,unified score 42 below 50
+SK-0149,Sandy Bay,Northern Village,Northern Saskatchewan,671,37.9,unified score 37.9 below 50
+SK-0150,Big River,Town,Northwest Saskatchewan,666,48.4,unified score 48.4 below 50
+SK-0154,Cabri,Town,Southwest Saskatchewan,413,46.9,unified score 46.9 below 50
+SK-0155,Excel,Rural Municipality,Southern Saskatchewan,411,49.8,unified score 49.8 below 50
+SK-0156,Frontier,Village,Southwest Saskatchewan,364,41.4,unified score 41.4 below 50
+SK-0157,Browning,Rural Municipality,Southeast Saskatchewan,355,47.4,unified score 47.4 below 50
+SK-0158,Shields,Resort Village,Saskatoon Region,351,49.6,unified score 49.6 below 50
+SK-0159,Bengough,Town,Southern Saskatchewan,332,49,unified score 49 below 50
+SK-0160,Canwood,Village,Central Saskatchewan,314,46.5,unified score 46.5 below 50
+SK-0161,Maryfield,Village,Southeast Saskatchewan,311,43.7,unified score 43.7 below 50
+SK-0162,Bengough,Rural Municipality,Southern Saskatchewan,305,48.8,unified score 48.8 below 50
+SK-0163,Kelliher,Village,Southeast Saskatchewan,244,46.9,unified score 46.9 below 50
+SK-0164,Chaplin,Village,Southwest Saskatchewan,222,45.6,unified score 45.6 below 50
+SK-0165,Stony Rapids,Northern Hamlet,Northern Saskatchewan,219,32.9,unified score 32.9 below 50
+SK-0166,Punnichy,Village,Central Saskatchewan,212,46.7,unified score 46.7 below 50
+SK-0167,La Ronge,Northern Town,Northern Saskatchewan,2521,48.5,unified score 48.5 below 50
+SK-0173,Kerrobert,Town,West Central Saskatchewan,970,49.8,unified score 49.8 below 50
+SK-0174,Stoughton,Town,Southeast Saskatchewan,652,49.8,unified score 49.8 below 50
+SK-0175,Pense,Town,Central Saskatchewan,603,,no CGN-verifiable coordinates
+SK-0176,Moose Mountain,Rural Municipality,Southeast Saskatchewan,489,47.5,unified score 47.5 below 50
+SK-0177,Elrose,Town,West Central Saskatchewan,470,49.2,unified score 49.2 below 50
+SK-0178,Val Marie,Rural Municipality,Southwest Saskatchewan,425,45.4,unified score 45.4 below 50
+SK-0179,Nokomis,Town,Central Saskatchewan,414,49.5,unified score 49.5 below 50
+SK-0180,Green Lake,Northern Village,Northwest Saskatchewan,411,43.6,unified score 43.6 below 50
+SK-0181,Rockglen,Town,Southern Saskatchewan,399,48,unified score 48 below 50
+SK-0182,Kingsley,Rural Municipality,Southeast Saskatchewan,396,48.6,unified score 48.6 below 50
+SK-0183,Auvergne,Rural Municipality,Southwest Saskatchewan,381,46.4,unified score 46.4 below 50
+SK-0184,Mossbank,Town,Southern Saskatchewan,368,49.6,unified score 49.6 below 50
+SK-0185,Silverwood,Rural Municipality,Southeast Saskatchewan,355,47.6,unified score 47.6 below 50
+SK-0186,Christopher Lake,Village,Central Saskatchewan,302,45.5,unified score 45.5 below 50
+SK-0187,Willow Bunch,Town,Southern Saskatchewan,299,48.4,unified score 48.4 below 50
+SK-0188,Mortlach,Village,Southern Saskatchewan,274,47.3,unified score 47.3 below 50
+SK-0189,Rose Valley,Town,Central Saskatchewan,256,46.3,unified score 46.3 below 50
+SK-0190,Tecumseh,Rural Municipality,Southeast Saskatchewan,255,47.9,unified score 47.9 below 50
+SK-0191,Brock,Rural Municipality,Southeast Saskatchewan,252,47.3,unified score 47.3 below 50
+SK-0192,Pinto Creek,Rural Municipality,Southwest Saskatchewan,251,46.3,unified score 46.3 below 50
+SK-0193,Hazelwood,Rural Municipality,Southeast Saskatchewan,244,47.6,unified score 47.6 below 50
+SK-0194,Edenwold,Village,Regina Region,243,49.1,unified score 49.1 below 50
+SK-0195,Pangman,Village,Southeast Saskatchewan,238,47.4,unified score 47.4 below 50
+SK-0196,Fort San,Resort Village,Southeast Saskatchewan,233,48,unified score 48 below 50
+SK-0197,Kennedy,Village,Southeast Saskatchewan,232,45,unified score 45 below 50
+SK-0198,Glen Ewen,Village,Southeast Saskatchewan,185,40.6,unified score 40.6 below 50
+SK-0199,Codette,Village,Central Saskatchewan,180,40.9,unified score 40.9 below 50
+SK-0201,Emerald Park,Locality,Regina Region,2500,,no CGN-verifiable coordinates
+SK-0202,Muskeg Lake Cree Nation,First Nations Reserve,Central Saskatchewan,2240,,no CGN-verifiable coordinates
+SK-0203,Maple Creek,Town,Southwest Saskatchewan,2176,49,unified score 49 below 50
+SK-0206,Shaunavon,Town,Southwest Saskatchewan,1784,49.6,unified score 49.6 below 50
+SK-0207,Wynyard,Locality,Central Saskatchewan,1700,,no CGN-verifiable coordinates
+SK-0208,Dalmeny,Locality,Saskatoon Region,1600,,no CGN-verifiable coordinates
+SK-0209,Stanley Mission,Locality,Northern Saskatchewan,1500,42.1,unified score 42.1 below 50
+SK-0211,Rosthern,Locality,Central Saskatchewan,1440,,no CGN-verifiable coordinates
+SK-0212,Langham,Locality,Saskatoon Region,1370,,no CGN-verifiable coordinates
+SK-0213,Ile-a-la-Crosse,Locality,Northern Saskatchewan,1365,,no CGN-verifiable coordinates
+SK-0214,Wadena,Locality,Central Saskatchewan,1300,,no CGN-verifiable coordinates
+SK-0215,Beaver River,Rural Municipality,Northwest Saskatchewan,1277,48.5,unified score 48.5 below 50
+SK-0216,Frenchman Butte,Rural Municipality,Northwest Saskatchewan,1250,49.7,unified score 49.7 below 50
+SK-0219,Wollaston Lake,Locality,Northern Saskatchewan,1200,38.3,unified score 38.3 below 50
+SK-0220,Black Lake,Locality,Northern Saskatchewan,1200,38.3,unified score 38.3 below 50
+SK-0221,Shellbrook,Locality,Central Saskatchewan,1200,,no CGN-verifiable coordinates
+SK-0223,Osler,Locality,Saskatoon Region,1100,,no CGN-verifiable coordinates
+SK-0225,Waldheim,Locality,Central Saskatchewan,1080,,no CGN-verifiable coordinates
+SK-0227,Eston,Town,West Central Saskatchewan,972,49.5,unified score 49.5 below 50
+SK-0228,Coulee,Rural Municipality,Southwest Saskatchewan,669,48,unified score 48 below 50
+SK-0229,Arcola,Town,Southeast Saskatchewan,636,48.8,unified score 48.8 below 50
+SK-0231,Coronach,Town,Southern Saskatchewan,612,49.1,unified score 49.1 below 50
+SK-0232,Cymri,Rural Municipality,Southeast Saskatchewan,568,49.5,unified score 49.5 below 50
+SK-0233,Wawota,Town,Southeast Saskatchewan,555,48,unified score 48 below 50
+SK-0234,Cut Knife,Town,Northwest Saskatchewan,547,48.6,unified score 48.6 below 50
+SK-0235,Broadview,Town,Southeast Saskatchewan,541,49.4,unified score 49.4 below 50
+SK-0236,Marshall,Town,Central Saskatchewan,522,,no CGN-verifiable coordinates
+SK-0237,Wood River,Rural Municipality,Southwest Saskatchewan,466,48.4,unified score 48.4 below 50
+SK-0238,Avonlea,Village,Regina Region,411,49.4,unified score 49.4 below 50
+SK-0240,Imperial,Town,Central Saskatchewan,372,49.5,unified score 49.5 below 50
+SK-0241,Lawtonia,Rural Municipality,Southwest Saskatchewan,356,47.6,unified score 47.6 below 50
+SK-0243,Meota,Village,Northwest Saskatchewan,325,46,unified score 46 below 50
+SK-0244,Gravelbourg,Rural Municipality,Southwest Saskatchewan,317,48,unified score 48 below 50
+SK-0245,Goodsoil,Village,Northern Saskatchewan,301,41.4,unified score 41.4 below 50
+SK-0246,Chitek Lake,Resort Village,Northwest Saskatchewan,300,44.7,unified score 44.7 below 50
+SK-0247,Walpole,Rural Municipality,Southeast Saskatchewan,292,46.3,unified score 46.3 below 50
+SK-0248,Lake Lenore,Village,Central Saskatchewan,289,46.9,unified score 46.9 below 50
+SK-0249,Viscount,Village,Central Saskatchewan,282,48.2,unified score 48.2 below 50
+SK-0250,Lucky Lake,Village,West Central Saskatchewan,270,46.4,unified score 46.4 below 50
+SK-0251,Fox Valley,Village,Southwest Saskatchewan,259,42.2,unified score 42.2 below 50
+SK-0252,Key West,Rural Municipality,Southern Saskatchewan,251,49.3,unified score 49.3 below 50
+SK-0253,Norton,Rural Municipality,Southeast Saskatchewan,233,49.5,unified score 49.5 below 50
+SK-0254,Earl Grey,Village,Regina Region,229,48.4,unified score 48.4 below 50
+SK-0255,Cochin,Resort Village,Northwest Saskatchewan,219,45.3,unified score 45.3 below 50
+SK-0256,Glen Bain,Rural Municipality,Southwest Saskatchewan,195,44.2,unified score 44.2 below 50
+SK-0257,Bradwell,Village,Saskatoon Region,164,46.2,unified score 46.2 below 50
+SK-0258,Climax,Village,Southwest Saskatchewan,137,37.8,unified score 37.8 below 50
+SK-0259,Flaxcombe,Village,West Central Saskatchewan,134,40.5,unified score 40.5 below 50
+SK-0260,Nutana,Neighborhood,Saskatoon Region,,,no real census population
+SK-0261,Varsity View,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0262,Brighton,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0263,Briarwood,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0264,College Park,Neighborhood,Saskatoon Region,,,no real census population
+SK-0265,College Park East,Neighborhood,Saskatoon Region,,,no real census population
+SK-0266,Lakeridge,Neighborhood,Saskatoon Region,,,no real census population
+SK-0267,Lakeview,Neighborhood,Saskatoon Region,,,no real census population
+SK-0268,Rosewood,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0269,Wildwood,Neighborhood,Saskatoon Region,,,no real census population
+SK-0270,Adelaide/Churchill,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0271,Avalon,Neighborhood,Saskatoon Region,,,no real census population
+SK-0272,Brevoort Park,Neighborhood,Saskatoon Region,,,no real census population
+SK-0273,Buena Vista,Neighborhood,Saskatoon Region,,,no real census population
+SK-0274,Eastview,Neighborhood,Regina Region,,,no real census population
+SK-0275,Exhibition,Neighborhood,Saskatoon Region,,,no real census population
+SK-0276,Greystone Heights,Neighborhood,Saskatoon Region,,,no real census population
+SK-0277,Grosvenor Park,Neighborhood,Saskatoon Region,,,no real census population
+SK-0278,Haultain,Neighborhood,Saskatoon Region,,,no real census population
+SK-0279,Holliston,Neighborhood,Saskatoon Region,,,no real census population
+SK-0280,Nutana Park,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0281,Queen Elizabeth,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0282,Stonebridge,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0283,The Willows,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0284,Arbor Creek,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0285,Aspen Ridge,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0286,Erindale,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0287,Evergreen,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0288,Forest Grove,Neighborhood,Saskatoon Region,,,no real census population
+SK-0289,Silverspring,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0290,Sutherland,Neighborhood,Saskatoon Region,,,no real census population
+SK-0291,Willowgrove,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0292,Elk Point,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0293,Kensington,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0294,Confederation Park,Neighborhood,Saskatoon Region,,,no real census population
+SK-0295,Dundonald,Neighborhood,Saskatoon Region,,,no real census population
+SK-0296,Fairhaven,Neighborhood,Saskatoon Region,,,no real census population
+SK-0297,Hampton Village,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0298,Holiday Park,Neighborhood,Saskatoon Region,,,no real census population
+SK-0299,Hudson Bay Park,Neighborhood,Saskatoon Region,,,no real census population
+SK-0300,Massey Place,Neighborhood,Saskatoon Region,,,no real census population
+SK-0301,Meadowgreen,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0302,Montgomery Place,Neighborhood,Saskatoon Region,,,no real census population
+SK-0303,Mount Royal,Neighborhood,Regina Region,,,no real census population
+SK-0304,Pacific Heights,Neighborhood,Saskatoon Region,,,no real census population
+SK-0305,Parkridge,Neighborhood,Saskatoon Region,,,no real census population
+SK-0306,Westview,Neighborhood,Saskatoon Region,,,no real census population
+SK-0307,Caswell Hill,Neighborhood,Saskatoon Region,,,no real census population
+SK-0308,City Park,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0309,Downtown Saskatoon,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0310,King George,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0311,Pleasant Hill,Neighborhood,Saskatoon Region,,,no real census population
+SK-0312,Riversdale,Neighborhood,Saskatoon Region,,,no real census population
+SK-0313,Westmount,Neighborhood,Southern Saskatchewan,,,no real census population
+SK-0314,Kelsey-Woodlawn,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-0315,Lawson Heights,Neighborhood,Saskatoon Region,,,no real census population
+SK-0316,Mayfair,Neighborhood,Saskatoon Region,,,no real census population
+SK-0317,North Park,Neighborhood,Saskatoon Region,,,no real census population
+SK-0318,Richmond Heights,Neighborhood,Saskatoon Region,,,no real census population
+SK-0319,River Heights,Neighborhood,Saskatoon Region,,,no real census population
+SK-0320,Silverwood Heights,Neighborhood,Saskatoon Region,,,no real census population
+SK-0321,Ahtahkakoop Cree Nation,First Nations Reserve,Central Saskatchewan,1800,,no CGN-verifiable coordinates
+SK-0322,Carry The Kettle Nakoda Nation,First Nations Reserve,Regina Region,500,,no CGN-verifiable coordinates
+SK-0323,Pasqua First Nation,First Nations Reserve,Regina Region,500,,no CGN-verifiable coordinates
+SK-0324,Hudson Bay,Town,Central Saskatchewan,1403,48.6,unified score 48.6 below 50
+SK-0328,Hudson Bay,Rural Municipality,Central Saskatchewan,1145,47.6,unified score 47.6 below 50
+SK-0330,Carrot River,Town,Central Saskatchewan,946,47.5,unified score 47.5 below 50
+SK-0331,Churchbridge,Town,Southeast Saskatchewan,866,48.8,unified score 48.8 below 50
+SK-0332,Whitecap Dakota First Nation,First Nations Reserve,Saskatoon Region,700,,no CGN-verifiable coordinates
+SK-0333,Lampman,Town,Southeast Saskatchewan,673,48.8,unified score 48.8 below 50
+SK-0334,Pierceland,Village,Northwest Saskatchewan,605,42.3,unified score 42.3 below 50
+SK-0336,St. Walburg,Town,Northwest Saskatchewan,591,46.8,unified score 46.8 below 50
+SK-0337,Lac Pelletier,Rural Municipality,Southwest Saskatchewan,563,46.7,unified score 46.7 below 50
+SK-0338,Luseland,Town,Northwest Saskatchewan,559,48.2,unified score 48.2 below 50
+SK-0340,Griffin,Rural Municipality,Southeast Saskatchewan,430,49.6,unified score 49.6 below 50
+SK-0341,Vibank,Village,Regina Region,386,49.6,unified score 49.6 below 50
+SK-0343,Glaslyn,Village,Northwest Saskatchewan,353,45.6,unified score 45.6 below 50
+SK-0344,Debden,Village,Central Saskatchewan,327,46.1,unified score 46.1 below 50
+SK-0345,Kenaston,Village,Central Saskatchewan,292,48.2,unified score 48.2 below 50
+SK-0346,Willow Bunch,Rural Municipality,Southern Saskatchewan,285,48,unified score 48 below 50
+SK-0347,Marsden,Village,Northwest Saskatchewan,281,43.6,unified score 43.6 below 50
+SK-0348,Piapot,Rural Municipality,Southwest Saskatchewan,280,43.4,unified score 43.4 below 50
+SK-0349,Wapella,Town,Southeast Saskatchewan,278,46.7,unified score 46.7 below 50
+SK-0350,Neudorf,Village,Southeast Saskatchewan,272,46.9,unified score 46.9 below 50
+SK-0351,Dinsmore,Village,West Central Saskatchewan,267,47.2,unified score 47.2 below 50
+SK-0352,Hart Butte,Rural Municipality,Southern Saskatchewan,263,47.5,unified score 47.5 below 50
+SK-0353,Young,Village,Central Saskatchewan,253,47.9,unified score 47.9 below 50
+SK-0355,Torquay,Village,Southeast Saskatchewan,215,44.9,unified score 44.9 below 50
+SK-0356,Scott,Rural Municipality,Southeast Saskatchewan,215,49.8,unified score 49.8 below 50
+SK-0357,Mankota,Village,Southwest Saskatchewan,198,41.4,unified score 41.4 below 50
+SK-0358,Elmsthorpe,Rural Municipality,Southern Saskatchewan,195,47.6,unified score 47.6 below 50
+SK-0359,Harris,Village,West Central Saskatchewan,190,45.3,unified score 45.3 below 50
+SK-0360,Middle Lake,Village,Central Saskatchewan,188,44.6,unified score 44.6 below 50
+SK-0361,Glenavon,Village,Southeast Saskatchewan,179,44.2,unified score 44.2 below 50
+SK-0362,Thode,Resort Village,Saskatoon Region,163,46,unified score 46 below 50
+SK-0363,Brock,Village,West Central Saskatchewan,134,42.1,unified score 42.1 below 50
+SK-0364,Sintaluta,Town,Southeast Saskatchewan,124,46.3,unified score 46.3 below 50
+SK-0365,Alida,Village,Southeast Saskatchewan,103,39.5,unified score 39.5 below 50
+SK-0366,Al Ritchie,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0367,Cathedral,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0368,Centre Square,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0369,Downtown Regina,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0370,Eastview Regina,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0371,Gladmer Park,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0372,Heritage,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0373,North Central,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0374,Arcola East,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0375,Glencairn,Neighborhood,Regina Region,,,no real census population
+SK-0376,Greens on Gardiner,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0377,University Park,Neighborhood,Regina Region,,,no real census population
+SK-0378,Argyle Park,Neighborhood,Regina Region,,,no real census population
+SK-0379,Coronation Park,Neighborhood,Regina Region,,,no real census population
+SK-0380,Northeast Regina,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0381,Uplands,Neighborhood,Regina Region,,,no real census population
+SK-0382,Albert Park,Neighborhood,Regina Region,,,no real census population
+SK-0383,Harbour Landing,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0384,Hillsdale,Neighborhood,Regina Region,,,no real census population
+SK-0385,Lakeview Regina,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0386,Whitmore Park,Neighborhood,Regina Region,,,no real census population
+SK-0387,Dieppe,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0388,McNab,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0389,Normanview,Neighborhood,Regina Region,,,no real census population
+SK-0390,Normanview West,Neighborhood,Regina Region,,,no real census population
+SK-0391,Prairie View,Neighborhood,Southwest Saskatchewan,,,no real census population
+SK-0392,Regent Park,Neighborhood,Regina Region,,,no real census population
+SK-0393,Rosemont/Mount Royal,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0394,Sherwood Estates,Neighborhood,Regina Region,,,no real census population
+SK-0395,Twin Lakes,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0396,Walsh Acres,Neighborhood,Regina Region,,,no real census population
+SK-0397,Wascana View,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0398,Rochdale Park,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0399,Hawkstone,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0400,Fairways West,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0401,Maple Ridge,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0402,Woodland Grove,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0403,Garden Ridge,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0404,Windsor Park,Neighborhood,Southern Saskatchewan,,,no real census population
+SK-0405,Glen Elm Park,Neighborhood,Regina Region,,,no CGN-verifiable coordinates
+SK-0406,Gordon First Nation,First Nations Reserve,Central Saskatchewan,600,,no CGN-verifiable coordinates
+SK-0407,Lucky Man Cree Nation,First Nations Reserve,Saskatoon Region,200,,no CGN-verifiable coordinates
+SK-0408,Muskowekwan First Nation,First Nations Reserve,Central Saskatchewan,500,,no CGN-verifiable coordinates
+SK-0409,Peepeekisis Cree Nation,First Nations Reserve,Regina Region,400,,no CGN-verifiable coordinates
+SK-0410,Star Blanket Cree Nation,First Nations Reserve,Regina Region,350,,no CGN-verifiable coordinates
+SK-0411,George Gordon First Nation,First Nations Reserve,Central Saskatchewan,550,,no CGN-verifiable coordinates
+SK-0415,Muscowpetung First Nation,First Nations Reserve,Southern Saskatchewan,1600,,no CGN-verifiable coordinates
+SK-0416,Lakeland,Rural Municipality,Northern Saskatchewan,1300,,no CGN-verifiable coordinates
+SK-0420,Lashburn,Town,Northwest Saskatchewan,870,47.9,unified score 47.9 below 50
+SK-0421,Porcupine Plain,Town,Central Saskatchewan,817,47.4,unified score 47.4 below 50
+SK-0423,Leroy,Town,Central Saskatchewan,510,49.6,unified score 49.6 below 50
+SK-0424,Turtleford,Town,Northwest Saskatchewan,503,47.4,unified score 47.4 below 50
+SK-0425,Saltcoats,Town,Southeast Saskatchewan,473,47.9,unified score 47.9 below 50
+SK-0426,Norquay,Town,Southeast Saskatchewan,420,46.1,unified score 46.1 below 50
+SK-0427,Central Butte,Town,Southern Saskatchewan,416,49,unified score 49 below 50
+SK-0428,Muenster,Village,Central Saskatchewan,403,47.6,unified score 47.6 below 50
+SK-0429,Bredenbury,Town,Southeast Saskatchewan,386,47.4,unified score 47.4 below 50
+SK-0430,Reno,Rural Municipality,Southwest Saskatchewan,343,41.7,unified score 41.7 below 50
+SK-0431,Grassy Creek,Rural Municipality,Southwest Saskatchewan,341,44.4,unified score 44.4 below 50
+SK-0432,Coalfields,Rural Municipality,Southeast Saskatchewan,330,46.7,unified score 46.7 below 50
+SK-0433,Theodore,Village,Southeast Saskatchewan,315,45.8,unified score 45.8 below 50
+SK-0434,Brokenshell,Rural Municipality,Southeast Saskatchewan,307,49.8,unified score 49.8 below 50
+SK-0435,Moose Creek,Rural Municipality,Southeast Saskatchewan,306,46.3,unified score 46.3 below 50
+SK-0436,Golden West,Rural Municipality,Southeast Saskatchewan,289,48.6,unified score 48.6 below 50
+SK-0437,Mankota,Rural Municipality,Southwest Saskatchewan,289,46,unified score 46 below 50
+SK-0438,Loon Lake,Village,Northwest Saskatchewan,281,42.4,unified score 42.4 below 50
+SK-0439,Martin,Rural Municipality,Southeast Saskatchewan,254,46.4,unified score 46.4 below 50
+SK-0440,Lake of the Rivers,Rural Municipality,Southern Saskatchewan,252,48.2,unified score 48.2 below 50
+SK-0441,Gainsborough,Village,Southeast Saskatchewan,227,42,unified score 42 below 50
+SK-0442,Lebret,Village,Southeast Saskatchewan,226,47.8,unified score 47.8 below 50
+SK-0443,South Lake,Resort Village,Southern Saskatchewan,226,47.8,unified score 47.8 below 50
+SK-0444,Morse,Town,Southwest Saskatchewan,216,46.7,unified score 46.7 below 50
+SK-0445,Aquadeo,Resort Village,Northwest Saskatchewan,203,44.9,unified score 44.9 below 50
+SK-0446,Cole Bay,Northern Hamlet,Northern Saskatchewan,194,35.3,unified score 35.3 below 50
+SK-0447,Abernethy,Village,Southeast Saskatchewan,190,44.9,unified score 44.9 below 50
+SK-0448,Francis,Town,Southeast Saskatchewan,182,47.5,unified score 47.5 below 50
+SK-0449,Prud'homme,Village,Saskatoon Region,177,45.7,unified score 45.7 below 50
+SK-0450,North Grove,Resort Village,Southern Saskatchewan,175,45.3,unified score 45.3 below 50
+SK-0451,Spy Hill,Village,Southeast Saskatchewan,173,41.2,unified score 41.2 below 50
+SK-0452,Meath Park,Village,Central Saskatchewan,169,42.3,unified score 42.3 below 50
+SK-0453,Maymont,Village,Northwest Saskatchewan,163,44.8,unified score 44.8 below 50
+SK-0454,Smeaton,Village,Central Saskatchewan,163,41.4,unified score 41.4 below 50
+SK-0455,Riverhurst,Village,Southwest Saskatchewan,152,43,unified score 43 below 50
+SK-0456,Rhein,Village,Southeast Saskatchewan,149,41.2,unified score 41.2 below 50
+SK-0457,Hodgeville,Village,Southwest Saskatchewan,147,41.9,unified score 41.9 below 50
+SK-0458,Frobisher,Village,Southeast Saskatchewan,127,40.5,unified score 40.5 below 50
+SK-0459,Sheho,Village,Southeast Saskatchewan,122,41.9,unified score 41.9 below 50
+SK-0460,Albertville,Village,Central Saskatchewan,121,41.9,unified score 41.9 below 50
+SK-0461,Kincaid,Village,Southwest Saskatchewan,120,40.9,unified score 40.9 below 50
+SK-0462,Stewart Valley,Village,Southwest Saskatchewan,107,40.8,unified score 40.8 below 50
+SK-0463,Abbey,Village,Southwest Saskatchewan,100,39.9,unified score 39.9 below 50
+SK-0464,Metinota,Resort Village,Northwest Saskatchewan,86,41.4,unified score 41.4 below 50
+SK-0465,Tantallon,Village,Southeast Saskatchewan,84,40.1,unified score 40.1 below 50
+SK-0466,Tugaske,Village,Southern Saskatchewan,79,42,unified score 42 below 50
+SK-0467,Makwa,Village,Northwest Saskatchewan,78,38.2,unified score 38.2 below 50
+SK-0468,St. George's Hill,Northern Hamlet,Northern Saskatchewan,77,30.5,unified score 30.5 below 50
+SK-0469,Glenside,Village,West Central Saskatchewan,73,43.4,unified score 43.4 below 50
+SK-0470,Pebble Baye,Resort Village,Central Saskatchewan,69,42,unified score 42 below 50
+SK-0471,Aylesbury,Village,Southern Saskatchewan,67,42.7,unified score 42.7 below 50
+SK-0472,Little Black Bear First Nation,First Nations Reserve,Regina Region,300,,no CGN-verifiable coordinates
+SK-0473,Little Pine First Nation,First Nations Reserve,Northwest Saskatchewan,650,,no CGN-verifiable coordinates
+SK-0474,Okanese First Nation,First Nations Reserve,Regina Region,300,,no CGN-verifiable coordinates
+SK-0475,One Arrow First Nation,First Nations Reserve,Saskatoon Region,400,,no CGN-verifiable coordinates
+SK-0477,La Loche,Northern Village,Northern Saskatchewan,2514,41.8,unified score 41.8 below 50
+SK-0481,Buffalo Narrows,Northern Village,Northern Saskatchewan,1014,42.1,unified score 42.1 below 50
+SK-0482,Big River,Rural Municipality,Northwest Saskatchewan,994,49.2,unified score 49.2 below 50
+SK-0483,Preeceville,Rural Municipality,Southeast Saskatchewan,966,48.2,unified score 48.2 below 50
+SK-0485,Whitewood,Town,Southeast Saskatchewan,944,49.9,unified score 49.9 below 50
+SK-0486,Good Lake,Rural Municipality,Southeast Saskatchewan,930,49.3,unified score 49.3 below 50
+SK-0489,Wallace,Rural Municipality,Southeast Saskatchewan,881,49,unified score 49 below 50
+SK-0490,Loon Lake,Rural Municipality,Northwest Saskatchewan,836,46,unified score 46 below 50
+SK-0491,Excelsior,Rural Municipality,Southwest Saskatchewan,808,49.3,unified score 49.3 below 50
+SK-0492,Saltcoats,Rural Municipality,Southeast Saskatchewan,743,49,unified score 49 below 50
+SK-0493,Fertile Belt,Rural Municipality,Southeast Saskatchewan,727,49.2,unified score 49.2 below 50
+SK-0496,Eldon,Rural Municipality,Northwest Saskatchewan,700,47.5,unified score 47.5 below 50
+SK-0498,Moosomin,Rural Municipality,Southeast Saskatchewan,541,47.2,unified score 47.2 below 50
+SK-0500,Eatonia,Town,West Central Saskatchewan,498,47.2,unified score 47.2 below 50
+SK-0501,Springside,Town,Southeast Saskatchewan,478,48.5,unified score 48.5 below 50
+SK-0503,Edam,Village,Northwest Saskatchewan,476,46,unified score 46 below 50
+SK-0504,Carmichael,Rural Municipality,Southwest Saskatchewan,462,45,unified score 45 below 50
+SK-0505,Elcapo,Rural Municipality,Southeast Saskatchewan,392,49,unified score 49 below 50
+SK-0506,Chester,Rural Municipality,Southeast Saskatchewan,333,49.3,unified score 49.3 below 50
+SK-0507,Manor,Village,Southeast Saskatchewan,305,44.5,unified score 44.5 below 50
+SK-0508,Waldeck,Village,Southwest Saskatchewan,294,44.2,unified score 44.2 below 50
+SK-0509,Fillmore,Village,Southeast Saskatchewan,282,47.3,unified score 47.3 below 50
+SK-0510,Buchanan,Village,Southeast Saskatchewan,237,44.4,unified score 44.4 below 50
+SK-0511,Terrell,Rural Municipality,Southern Saskatchewan,210,49.2,unified score 49.2 below 50
+SK-0512,Annaheim,Village,Central Saskatchewan,206,45.9,unified score 45.9 below 50
+SK-0513,Windthorst,Village,Southeast Saskatchewan,194,43.7,unified score 43.7 below 50
+SK-0514,Wise Creek,Rural Municipality,Southwest Saskatchewan,188,42.2,unified score 42.2 below 50
+SK-0515,Grayson,Village,Southeast Saskatchewan,185,43.3,unified score 43.3 below 50
+SK-0516,Mervin,Village,Northwest Saskatchewan,159,41.3,unified score 41.3 below 50
+SK-0517,Kisbey,Village,Southeast Saskatchewan,158,42.3,unified score 42.3 below 50
+SK-0518,Bjorkdale,Village,Central Saskatchewan,147,40.6,unified score 40.6 below 50
+SK-0519,Parkside,Village,Central Saskatchewan,132,43.4,unified score 43.4 below 50
+SK-0520,Gerald,Village,Southeast Saskatchewan,129,40.8,unified score 40.8 below 50
+SK-0521,Plenty,Village,West Central Saskatchewan,128,42.6,unified score 42.6 below 50
+SK-0522,Kannata Valley,Resort Village,Regina Region,126,45.5,unified score 45.5 below 50
+SK-0523,McTaggart,Village,Southeast Saskatchewan,125,44,unified score 44 below 50
+SK-0524,Pennant,Village,Southwest Saskatchewan,120,40.4,unified score 40.4 below 50
+SK-0525,Richmound,Village,Southwest Saskatchewan,118,38.1,unified score 38.1 below 50
+SK-0526,Grandview Beach,Resort Village,Regina Region,118,44.9,unified score 44.9 below 50
+SK-0527,Ceylon,Village,Southeast Saskatchewan,97,42.9,unified score 42.9 below 50
+SK-0528,Elfros,Village,Southeast Saskatchewan,90,41.5,unified score 41.5 below 50
+SK-0529,Neville,Village,Southwest Saskatchewan,88,39.4,unified score 39.4 below 50
+SK-0530,Storthoaks,Village,Southeast Saskatchewan,86,38.6,unified score 38.6 below 50
+SK-0531,Glen McPherson,Rural Municipality,Southwest Saskatchewan,76,40.8,unified score 40.8 below 50
+SK-0532,Alvena,Village,Central Saskatchewan,75,43.9,unified score 43.9 below 50
+SK-0533,Roche Percee,Village,Southeast Saskatchewan,75,39.7,unified score 39.7 below 50
+SK-0534,Wakaw Lake,Resort Village,Central Saskatchewan,66,42.8,unified score 42.8 below 50
+SK-0535,Margo,Village,Southeast Saskatchewan,65,40.2,unified score 40.2 below 50
+SK-0536,Cote First Nation,First Nations Reserve,Central Saskatchewan,850,,no CGN-verifiable coordinates
+SK-0537,Day Star First Nation,First Nations Reserve,Central Saskatchewan,350,,no CGN-verifiable coordinates
+SK-0538,Kinistin Saulteaux Nation,First Nations Reserve,Central Saskatchewan,400,,no CGN-verifiable coordinates
+SK-0539,Mosquito-Grizzly Bear Head-Lean Man,First Nations Reserve,Northwest Saskatchewan,400,,no CGN-verifiable coordinates
+SK-0540,Red Pheasant Cree Nation,First Nations Reserve,Northwest Saskatchewan,500,,no CGN-verifiable coordinates
+SK-0541,Sweetgrass First Nation,First Nations Reserve,Northwest Saskatchewan,400,,no CGN-verifiable coordinates
+SK-0542,Zagime Anishinabek (Sakimay),First Nations Reserve,Regina Region,400,,no CGN-verifiable coordinates
+SK-0545,Star City,Rural Municipality,Central Saskatchewan,811,49.4,unified score 49.4 below 50
+SK-0547,Bienfait,Town,Southeast Saskatchewan,668,48.3,unified score 48.3 below 50
+SK-0549,Flett's Springs,Rural Municipality,Central Saskatchewan,656,49.7,unified score 49.7 below 50
+SK-0550,Garden River,Rural Municipality,Central Saskatchewan,647,49.3,unified score 49.3 below 50
+SK-0552,Sturgis,Town,Southeast Saskatchewan,646,47.5,unified score 47.5 below 50
+SK-0554,Clayton,Rural Municipality,Southeast Saskatchewan,631,46.7,unified score 46.7 below 50
+SK-0556,Kinistino,Rural Municipality,Central Saskatchewan,604,49.1,unified score 49.1 below 50
+SK-0558,Eye Hill,Rural Municipality,Northwest Saskatchewan,552,47.4,unified score 47.4 below 50
+SK-0559,Keys,Rural Municipality,Southeast Saskatchewan,548,47,unified score 47 below 50
+SK-0560,Grayson,Rural Municipality,Southeast Saskatchewan,547,49.5,unified score 49.5 below 50
+SK-0563,Lake Lenore,Rural Municipality,Central Saskatchewan,506,49.5,unified score 49.5 below 50
+SK-0565,Enniskillen,Rural Municipality,Southeast Saskatchewan,422,46.5,unified score 46.5 below 50
+SK-0566,Craik,Town,Central Saskatchewan,405,49.9,unified score 49.9 below 50
+SK-0567,Morse,Rural Municipality,Southwest Saskatchewan,396,48.1,unified score 48.1 below 50
+SK-0568,Stonehenge,Rural Municipality,Southern Saskatchewan,385,48.4,unified score 48.4 below 50
+SK-0569,Spy Hill,Rural Municipality,Southeast Saskatchewan,383,47,unified score 47 below 50
+SK-0570,Star City,Town,Central Saskatchewan,374,47.6,unified score 47.6 below 50
+SK-0571,Arlington,Rural Municipality,Southwest Saskatchewan,359,43.8,unified score 43.8 below 50
+SK-0572,White Fox,Village,Central Saskatchewan,343,44,unified score 44 below 50
+SK-0573,Last Mountain Valley,Rural Municipality,Central Saskatchewan,339,49.8,unified score 49.8 below 50
+SK-0574,Waverley,Rural Municipality,Southern Saskatchewan,295,46.7,unified score 46.7 below 50
+SK-0575,Cambria,Rural Municipality,Southeast Saskatchewan,277,47.3,unified score 47.3 below 50
+SK-0576,Wellington,Rural Municipality,Southeast Saskatchewan,274,49.9,unified score 49.9 below 50
+SK-0577,Craven,Village,Regina Region,266,49.3,unified score 49.3 below 50
+SK-0578,Englefeld,Village,Central Saskatchewan,259,46.1,unified score 46.1 below 50
+SK-0579,Willowdale,Rural Municipality,Southeast Saskatchewan,248,47.1,unified score 47.1 below 50
+SK-0580,Spalding,Village,Central Saskatchewan,213,45.3,unified score 45.3 below 50
+SK-0581,B-Say-Tah,Resort Village,Southeast Saskatchewan,177,45.5,unified score 45.5 below 50
+SK-0582,Holdfast,Village,Southern Saskatchewan,173,45,unified score 45 below 50
+SK-0583,Denzil,Village,Northwest Saskatchewan,140,40.9,unified score 40.9 below 50
+SK-0584,Eyebrow,Village,Southern Saskatchewan,130,43.4,unified score 43.4 below 50
+SK-0585,Paynton,Village,Northwest Saskatchewan,120,41.3,unified score 41.3 below 50
+SK-0586,Paddockwood,Village,Central Saskatchewan,118,41.5,unified score 41.5 below 50
+SK-0587,Hazlet,Village,Southwest Saskatchewan,90,39,unified score 39 below 50
+SK-0588,Marquis,Village,Southern Saskatchewan,90,43.7,unified score 43.7 below 50
+SK-0589,Speers,Village,Northwest Saskatchewan,72,43.1,unified score 43.1 below 50
+SK-0590,Bladworth,Village,Central Saskatchewan,71,42.8,unified score 42.8 below 50
+SK-0591,Pilger,Village,Central Saskatchewan,65,42.4,unified score 42.4 below 50
+SK-0592,Patuanak,Northern Hamlet,Northern Saskatchewan,63,30.6,unified score 30.6 below 50
+SK-0593,Disley,Village,Regina Region,58,44.1,unified score 44.1 below 50
+SK-0594,Goodeve,Village,Southeast Saskatchewan,40,40.8,unified score 40.8 below 50
+SK-0595,Etters Beach,Resort Village,Central Saskatchewan,40,41.5,unified score 41.5 below 50
+SK-0596,Atwater,Village,Southeast Saskatchewan,27,38.5,unified score 38.5 below 50
+SK-0597,Island Lake First Nation,First Nations Reserve,Central Saskatchewan,300,,no CGN-verifiable coordinates
+SK-0598,Keeseekoose First Nation,First Nations Reserve,Central Saskatchewan,600,,no CGN-verifiable coordinates
+SK-0599,Witchekan Lake First Nation,First Nations Reserve,Central Saskatchewan,350,,no CGN-verifiable coordinates
+SK-0600,Belanger,Locality,Southwest Saskatchewan,48,32.6,unified score 32.6 below 50
+SK-0601,Browning,Locality,Southeast Saskatchewan,32,36.6,unified score 36.6 below 50
+SK-0602,Cullen,Locality,Southeast Saskatchewan,30,36.8,unified score 36.8 below 50
+SK-0603,Fond du Lac Denesuline First Nation,Locality,Saskatoon Region,49,,no CGN-verifiable coordinates
+SK-0604,Hatton,Locality,Southwest Saskatchewan,38,32.8,unified score 32.8 below 50
+SK-0605,Mazenod,Locality,Southwest Saskatchewan,46,38.8,unified score 38.8 below 50
+SK-0606,McIntosh Point,Locality,Regina Region,51,,no CGN-verifiable coordinates
+SK-0607,Red Deer Hill,Locality,Central Saskatchewan,50,39.5,unified score 39.5 below 50
+SK-0608,St. Denis,Locality,Regina Region,52,,no CGN-verifiable coordinates
+SK-0609,Valjean,Locality,Southwest Saskatchewan,36,38.1,unified score 38.1 below 50
+SK-0610,West Bend,Locality,Southeast Saskatchewan,48,38.9,unified score 38.9 below 50
+SK-0611,Willows,Locality,Southern Saskatchewan,35,38.3,unified score 38.3 below 50
+SK-0612,Creighton,Northern Town,Northern Saskatchewan,1203,44.4,unified score 44.4 below 50
+SK-0617,Porcupine,Rural Municipality,Central Saskatchewan,736,46.9,unified score 46.9 below 50
+SK-0619,Willow Creek,Rural Municipality,Central Saskatchewan,683,48.6,unified score 48.6 below 50
+SK-0620,Pleasantdale,Rural Municipality,Central Saskatchewan,599,48.9,unified score 48.9 below 50
+SK-0621,Hillsdale,Rural Municipality,Northwest Saskatchewan,528,47.6,unified score 47.6 below 50
+SK-0622,Big Quill,Rural Municipality,Central Saskatchewan,520,49.5,unified score 49.5 below 50
+SK-0626,Manitou Lake,Rural Municipality,Northwest Saskatchewan,505,46.9,unified score 46.9 below 50
+SK-0629,Leroy,Rural Municipality,Central Saskatchewan,457,49.4,unified score 49.4 below 50
+SK-0631,Antler,Rural Municipality,Southeast Saskatchewan,451,46.7,unified score 46.7 below 50
+SK-0632,Sliding Hills,Rural Municipality,Southeast Saskatchewan,438,47.1,unified score 47.1 below 50
+SK-0633,Victory,Rural Municipality,Southwest Saskatchewan,434,48.3,unified score 48.3 below 50
+SK-0634,Chesterfield,Rural Municipality,West Central Saskatchewan,419,46,unified score 46 below 50
+SK-0635,Coteau,Rural Municipality,West Central Saskatchewan,401,49.8,unified score 49.8 below 50
+SK-0637,Grass Lake,Rural Municipality,Northwest Saskatchewan,389,47.6,unified score 47.6 below 50
+SK-0639,Leask,Village,Central Saskatchewan,379,48.1,unified score 48.1 below 50
+SK-0641,Wolseley,Rural Municipality,Southeast Saskatchewan,366,49.9,unified score 49.9 below 50
+SK-0642,Bone Creek,Rural Municipality,Southwest Saskatchewan,362,44.8,unified score 44.8 below 50
+SK-0643,Fox Valley,Rural Municipality,Southwest Saskatchewan,344,44.8,unified score 44.8 below 50
+SK-0644,Elbow,Village,Central Saskatchewan,341,47.4,unified score 47.4 below 50
+SK-0645,Perdue,Village,Saskatoon Region,313,48.8,unified score 48.8 below 50
+SK-0646,Lemberg,Town,Southeast Saskatchewan,266,49.2,unified score 49.2 below 50
+SK-0647,Laird,Village,Central Saskatchewan,265,48.4,unified score 48.4 below 50
+SK-0648,Maryfield,Rural Municipality,Southeast Saskatchewan,258,45.5,unified score 45.5 below 50
+SK-0649,Sutton,Rural Municipality,Southwest Saskatchewan,230,48.1,unified score 48.1 below 50
+SK-0650,Fillmore,Rural Municipality,Southeast Saskatchewan,224,48.8,unified score 48.8 below 50
+SK-0651,Surprise Valley,Rural Municipality,Southeast Saskatchewan,211,47.4,unified score 47.4 below 50
+SK-0652,Govan,Town,Central Saskatchewan,200,48.7,unified score 48.7 below 50
+SK-0653,The Gap,Rural Municipality,Southeast Saskatchewan,181,46.1,unified score 46.1 below 50
+SK-0654,Semans,Village,Central Saskatchewan,180,44.3,unified score 44.3 below 50
+SK-0655,Turnor Lake,Northern Hamlet,Northern Saskatchewan,154,30.2,unified score 30.2 below 50
+SK-0656,Milden,Village,West Central Saskatchewan,153,44.4,unified score 44.4 below 50
+SK-0657,Big Stick,Rural Municipality,Southwest Saskatchewan,148,40.3,unified score 40.3 below 50
+SK-0658,Island View,Resort Village,Southern Saskatchewan,134,44.8,unified score 44.8 below 50
+SK-0659,Happy Valley,Rural Municipality,Southern Saskatchewan,125,44.3,unified score 44.3 below 50
+SK-0660,Val Marie,Village,Southwest Saskatchewan,120,38.8,unified score 38.8 below 50
+SK-0661,Halbrite,Village,Southeast Saskatchewan,110,42.6,unified score 42.6 below 50
+SK-0662,Weyakwin,Northern Hamlet,Northern Saskatchewan,100,36.5,unified score 36.5 below 50
+SK-0663,Aylsham,Village,Central Saskatchewan,82,39.1,unified score 39.1 below 50
+SK-0664,Calder,Village,Southeast Saskatchewan,81,39.4,unified score 39.4 below 50
+SK-0665,Hazenmore,Village,Southwest Saskatchewan,75,39.7,unified score 39.7 below 50
+SK-0666,Drinkwater,Village,Regina Region,74,44.5,unified score 44.5 below 50
+SK-0667,Dubuc,Village,Southeast Saskatchewan,71,41,unified score 41 below 50
+SK-0668,Fleming,Town,Southeast Saskatchewan,70,40.9,unified score 40.9 below 50
+SK-0669,Liberty,Village,Central Saskatchewan,68,42.6,unified score 42.6 below 50
+SK-0670,Ridgedale,Village,Central Saskatchewan,65,39.5,unified score 39.5 below 50
+SK-0671,Brownlee,Village,Southern Saskatchewan,55,41.9,unified score 41.9 below 50
+SK-0672,Melville Beach,Resort Village,Southeast Saskatchewan,54,41,unified score 41 below 50
+SK-0673,West End,Resort Village,Southeast Saskatchewan,41,39.9,unified score 39.9 below 50
+SK-0674,Coderre,Village,Southwest Saskatchewan,30,39.9,unified score 39.9 below 50
+SK-0675,Lumsden Beach,Resort Village,Regina Region,20,41.9,unified score 41.9 below 50
+SK-0676,Carlton Park,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0677,Crescent Acres,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0678,Crescent Heights,Neighborhood,Southern Saskatchewan,,,no real census population
+SK-0679,East Flat,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0680,East Hill,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0681,Goshen,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0682,Hamilton,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0683,River Heights,Neighborhood,Saskatoon Region,,,no real census population
+SK-0684,Riverview,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0685,Southwood,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0686,Hazeldell,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0687,Nordale,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0688,West Flat,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0689,Westview,Neighborhood,Saskatoon Region,,,no real census population
+SK-0690,West Hill,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0691,Midtown,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-0692,South Hill,Neighborhood,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-0693,Sunningdale,Neighborhood,Southern Saskatchewan,,,no real census population
+SK-0694,Westmount,Neighborhood,Southern Saskatchewan,,,no real census population
+SK-0695,VLA,Neighborhood,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-0696,Hillcrest,Neighborhood,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-0697,Palliser Heights,Neighborhood,Southern Saskatchewan,,,no real census population
+SK-0698,Lynbrook,Neighborhood,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-0699,Westpark,Neighborhood,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-0700,Churchill Park,Neighborhood,Southern Saskatchewan,,,no real census population
+SK-0701,Downtown Moose Jaw,Neighborhood,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-0702,Flying Dust First Nation,First Nations Reserve,Northwest Saskatchewan,600,,no CGN-verifiable coordinates
+SK-0703,Ocean Man First Nation,First Nations Reserve,Southeast Saskatchewan,300,,no CGN-verifiable coordinates
+SK-0704,Red Earth Cree Nation,First Nations Reserve,Central Saskatchewan,700,,no CGN-verifiable coordinates
+SK-0705,Waterhen Lake First Nation,First Nations Reserve,Northwest Saskatchewan,500,,no CGN-verifiable coordinates
+SK-0706,White Bear First Nation,First Nations Reserve,Southeast Saskatchewan,500,,no CGN-verifiable coordinates
+SK-0707,Baildon,Locality,Southern Saskatchewan,48,40.9,unified score 40.9 below 50
+SK-0708,Beaufield,Locality,West Central Saskatchewan,53,37.9,unified score 37.9 below 50
+SK-0709,Blumenhof,Locality,Southwest Saskatchewan,30,35.1,unified score 35.1 below 50
+SK-0710,Boharm,Locality,Southern Saskatchewan,44,40.3,unified score 40.3 below 50
+SK-0711,Crichton,Locality,Southwest Saskatchewan,48,35.4,unified score 35.4 below 50
+SK-0712,Estuary,Locality,West Central Saskatchewan,51,35.3,unified score 35.3 below 50
+SK-0713,Helena Lake,Locality,Northwest Saskatchewan,42,36.9,unified score 36.9 below 50
+SK-0714,Hoosier,Locality,West Central Saskatchewan,51,36.4,unified score 36.4 below 50
+SK-0715,Isham,Locality,West Central Saskatchewan,40,37.2,unified score 37.2 below 50
+SK-0716,Keeley Lake,Locality,Regina Region,54,,no CGN-verifiable coordinates
+SK-0717,Leacross,Locality,Central Saskatchewan,50,36.8,unified score 36.8 below 50
+SK-0718,Leinan,Locality,Southwest Saskatchewan,39,36.5,unified score 36.5 below 50
+SK-0719,Madison,Locality,West Central Saskatchewan,30,36.1,unified score 36.1 below 50
+SK-0720,Marchwell,Locality,Southeast Saskatchewan,51,36.4,unified score 36.4 below 50
+SK-0721,Nemeiben Lake,Locality,Regina Region,40,,no CGN-verifiable coordinates
+SK-0722,Penkill,Locality,West Central Saskatchewan,45,37.8,unified score 37.8 below 50
+SK-0723,Pitman,Locality,Regina Region,48,41.7,unified score 41.7 below 50
+SK-0724,St. Victor,Locality,Southern Saskatchewan,51,38.6,unified score 38.6 below 50
+SK-0725,Struan,Locality,West Central Saskatchewan,21,39.2,unified score 39.2 below 50
+SK-0726,Titanic,Locality,Central Saskatchewan,27,39.2,unified score 39.2 below 50
+SK-0727,Winter,Locality,Northwest Saskatchewan,26,35.6,unified score 35.6 below 50
+SK-0728,Woodley,Locality,Southeast Saskatchewan,50,37.9,unified score 37.9 below 50
+SK-0729,Agar,Locality,Regina Region,19,,no CGN-verifiable coordinates
+SK-0730,Aitkow,Locality,Saskatoon Region,30,,no CGN-verifiable coordinates
+SK-0731,Aneroid South,Locality,Central Saskatchewan,22,,no CGN-verifiable coordinates
+SK-0732,Birch Creek,Locality,Central Saskatchewan,30,,no CGN-verifiable coordinates
+SK-0733,Bright Sand,Locality,Northwest Saskatchewan,30,35,unified score 35 below 50
+SK-0734,Gainsborough East,Locality,Saskatoon Region,23,,no CGN-verifiable coordinates
+SK-0735,Goodsoil East,Locality,Central Saskatchewan,30,,no CGN-verifiable coordinates
+SK-0736,Kayville East,Locality,Regina Region,28,,no CGN-verifiable coordinates
+SK-0737,Kendal East,Locality,Saskatoon Region,22,,no CGN-verifiable coordinates
+SK-0738,Kincaid East,Locality,Central Saskatchewan,23,,no CGN-verifiable coordinates
+SK-0739,Nipawin,Rural Municipality,Central Saskatchewan,958,48.2,unified score 48.2 below 50
+SK-0741,Tisdale,Rural Municipality,Central Saskatchewan,885,48.8,unified score 48.8 below 50
+SK-0742,Webb,Rural Municipality,Southwest Saskatchewan,567,46.4,unified score 46.4 below 50
+SK-0743,Rocanville,Rural Municipality,Southeast Saskatchewan,544,47.7,unified score 47.7 below 50
+SK-0744,Hazel Dell,Rural Municipality,Southeast Saskatchewan,511,47.3,unified score 47.3 below 50
+SK-0746,Medstead,Rural Municipality,Northwest Saskatchewan,489,48.3,unified score 48.3 below 50
+SK-0747,Saskatchewan Landing,Rural Municipality,Southwest Saskatchewan,434,47.7,unified score 47.7 below 50
+SK-0748,St. Louis,Village,Central Saskatchewan,432,48.1,unified score 48.1 below 50
+SK-0749,Spalding,Rural Municipality,Central Saskatchewan,420,48.5,unified score 48.5 below 50
+SK-0750,Tramping Lake,Rural Municipality,Northwest Saskatchewan,402,48.4,unified score 48.4 below 50
+SK-0751,Lakeside,Rural Municipality,Central Saskatchewan,396,48.3,unified score 48.3 below 50
+SK-0752,Round Valley,Rural Municipality,Northwest Saskatchewan,384,47.7,unified score 47.7 below 50
+SK-0755,Leoville,Village,Northwest Saskatchewan,364,45.6,unified score 45.6 below 50
+SK-0756,Newcombe,Rural Municipality,West Central Saskatchewan,356,46.7,unified score 46.7 below 50
+SK-0757,White Valley,Rural Municipality,Southwest Saskatchewan,352,43,unified score 43 below 50
+SK-0758,Reciprocity,Rural Municipality,Southeast Saskatchewan,351,46,unified score 46 below 50
+SK-0760,Meeting Lake,Rural Municipality,Northwest Saskatchewan,335,49.6,unified score 49.6 below 50
+SK-0761,Buchanan,Rural Municipality,Southeast Saskatchewan,330,46.8,unified score 46.8 below 50
+SK-0762,Stockholm,Village,Southeast Saskatchewan,329,45.8,unified score 45.8 below 50
+SK-0763,Arborfield,Town,Central Saskatchewan,285,45.5,unified score 45.5 below 50
+SK-0764,Happyland,Rural Municipality,West Central Saskatchewan,285,45.1,unified score 45.1 below 50
+SK-0765,Milden,Rural Municipality,West Central Saskatchewan,280,49.4,unified score 49.4 below 50
+SK-0766,Macoun,Village,Southeast Saskatchewan,272,45.6,unified score 45.6 below 50
+SK-0767,Progress,Rural Municipality,Northwest Saskatchewan,265,46.8,unified score 46.8 below 50
+SK-0768,Wilcox,Village,Regina Region,261,49,unified score 49 below 50
+SK-0769,Laurier,Rural Municipality,Southeast Saskatchewan,253,48.7,unified score 48.7 below 50
+SK-0770,Milton,Rural Municipality,West Central Saskatchewan,249,45.3,unified score 45.3 below 50
+SK-0771,Prairiedale,Rural Municipality,West Central Saskatchewan,246,46.1,unified score 46.1 below 50
+SK-0772,Carievale,Village,Southeast Saskatchewan,244,42.4,unified score 42.4 below 50
+SK-0773,Odessa,Village,Southeast Saskatchewan,220,48.1,unified score 48.1 below 50
+SK-0774,Drake,Village,Central Saskatchewan,197,44,unified score 44 below 50
+SK-0775,Shamrock,Rural Municipality,Southwest Saskatchewan,194,45.3,unified score 45.3 below 50
+SK-0776,Poplar Valley,Rural Municipality,Southern Saskatchewan,190,44.7,unified score 44.7 below 50
+SK-0777,Zenon Park,Village,Central Saskatchewan,176,40.8,unified score 40.8 below 50
+SK-0778,Lintlaw,Village,Southeast Saskatchewan,150,41,unified score 41 below 50
+SK-0779,Bird's Point,Resort Village,Southeast Saskatchewan,150,42.3,unified score 42.3 below 50
+SK-0780,Landis,Village,West Central Saskatchewan,133,43.3,unified score 43.3 below 50
+SK-0781,Bulyea,Village,Southern Saskatchewan,121,44.8,unified score 44.8 below 50
+SK-0782,Medstead,Village,Northwest Saskatchewan,121,41.9,unified score 41.9 below 50
+SK-0783,North Portal,Village,Southeast Saskatchewan,113,40,unified score 40 below 50
+SK-0784,Waseca,Village,Northwest Saskatchewan,113,40.1,unified score 40.1 below 50
+SK-0785,Tuxford,Village,Southern Saskatchewan,103,44.3,unified score 44.3 below 50
+SK-0786,Quinton,Village,Central Saskatchewan,89,42.9,unified score 42.9 below 50
+SK-0787,Beaver Flat,Resort Village,Southwest Saskatchewan,82,40.6,unified score 40.6 below 50
+SK-0788,Timber Bay,Northern Hamlet,Central Saskatchewan,81,36.8,unified score 36.8 below 50
+SK-0789,Pleasantdale,Village,Central Saskatchewan,80,41.2,unified score 41.2 below 50
+SK-0790,Wee Too Beach,Resort Village,Southern Saskatchewan,75,43.7,unified score 43.7 below 50
+SK-0791,Kendal,Village,Southeast Saskatchewan,59,43,unified score 43 below 50
+SK-0792,Weirdale,Village,Central Saskatchewan,55,39.8,unified score 39.8 below 50
+SK-0793,Love,Village,Central Saskatchewan,50,38.1,unified score 38.1 below 50
+SK-0794,Success,Village,Southwest Saskatchewan,45,38.4,unified score 38.4 below 50
+SK-0795,Dore Lake,Northern Hamlet,Northern Saskatchewan,37,33.9,unified score 33.9 below 50
+SK-0796,Major,Village,West Central Saskatchewan,35,38.1,unified score 38.1 below 50
+SK-0797,Mendham,Village,West Central Saskatchewan,25,35.8,unified score 35.8 below 50
+SK-0798,Sunset Cove,Resort Village,Regina Region,21,41.7,unified score 41.7 below 50
+SK-0799,Bracken,Village,Southwest Saskatchewan,20,34.4,unified score 34.4 below 50
+SK-0800,Waldron,Village,Southeast Saskatchewan,15,37.9,unified score 37.9 below 50
+SK-0801,Chakastaypasin Band,First Nations Reserve,Central Saskatchewan,200,,no CGN-verifiable coordinates
+SK-0802,Lac La Hache First Nation,First Nations Reserve,Central Saskatchewan,200,,no CGN-verifiable coordinates
+SK-0803,Pheasant Rump Nakota Nation,First Nations Reserve,Southeast Saskatchewan,300,,no CGN-verifiable coordinates
+SK-0804,Shoal Lake Cree Nation,First Nations Reserve,Central Saskatchewan,300,,no CGN-verifiable coordinates
+SK-0805,Amulet,Locality,Southeast Saskatchewan,50,40.1,unified score 40.1 below 50
+SK-0806,Anglin Lake,Locality,Central Saskatchewan,31,36.5,unified score 36.5 below 50
+SK-0807,Auburnton,Locality,Southeast Saskatchewan,51,36.5,unified score 36.5 below 50
+SK-0808,Bechard,Locality,Regina Region,34,40.5,unified score 40.5 below 50
+SK-0809,Bertwell,Locality,Central Saskatchewan,54,34.8,unified score 34.8 below 50
+SK-0810,Blucher,Locality,Saskatoon Region,28,40.7,unified score 40.7 below 50
+SK-0811,Bryant,Locality,Southeast Saskatchewan,37,37.5,unified score 37.5 below 50
+SK-0812,Cando,Locality,West Central Saskatchewan,30,38.7,unified score 38.7 below 50
+SK-0813,Cardross,Locality,Southern Saskatchewan,37,39.3,unified score 39.3 below 50
+SK-0814,Claydon,Locality,Southwest Saskatchewan,35,32,unified score 32 below 50
+SK-0815,Courval,Locality,Southwest Saskatchewan,31,38.3,unified score 38.3 below 50
+SK-0816,Divide,Locality,Southwest Saskatchewan,46,32.1,unified score 32.1 below 50
+SK-0817,Elk Hill,Locality,Central Saskatchewan,18,34.6,unified score 34.6 below 50
+SK-0818,Forgan,Locality,West Central Saskatchewan,23,37.6,unified score 37.6 below 50
+SK-0819,Forward,Locality,Southeast Saskatchewan,22,38.5,unified score 38.5 below 50
+SK-0820,Froude,Locality,Southeast Saskatchewan,39,38.6,unified score 38.6 below 50
+SK-0821,Girvin,Locality,Central Saskatchewan,19,37.4,unified score 37.4 below 50
+SK-0822,Glidden,Locality,West Central Saskatchewan,49,36.9,unified score 36.9 below 50
+SK-0823,Grenfell Beach,Locality,Regina Region,36,,no CGN-verifiable coordinates
+SK-0824,Harptree,Locality,Southern Saskatchewan,45,38.5,unified score 38.5 below 50
+SK-0825,Instow,Locality,Southwest Saskatchewan,47,34.5,unified score 34.5 below 50
+SK-0826,Leipzig,Locality,Northwest Saskatchewan,42,38.5,unified score 38.5 below 50
+SK-0827,Lipp's Beach,Locality,Southern Saskatchewan,36,40.2,unified score 40.2 below 50
+SK-0828,Lisieux,Locality,Southern Saskatchewan,30,37,unified score 37 below 50
+SK-0829,Loch Leven,Locality,Saskatoon Region,29,,no CGN-verifiable coordinates
+SK-0830,McMahon,Locality,Southwest Saskatchewan,21,34.7,unified score 34.7 below 50
+SK-0831,Robinhood,Locality,Northwest Saskatchewan,26,36.7,unified score 36.7 below 50
+SK-0832,Robsart,Locality,Southwest Saskatchewan,23,30.7,unified score 30.7 below 50
+SK-0833,Sandy Beach,Locality,Central Saskatchewan,54,,no CGN-verifiable coordinates
+SK-0834,Schoenwiese,Locality,Southwest Saskatchewan,36,35.6,unified score 35.6 below 50
+SK-0835,Senate,Locality,Southwest Saskatchewan,51,31.5,unified score 31.5 below 50
+SK-0836,Shackleton,Locality,Southwest Saskatchewan,47,36.5,unified score 36.5 below 50
+SK-0837,Southbranch Settlement,Locality,Saskatoon Region,13,,no CGN-verifiable coordinates
+SK-0838,Tonkin,Locality,Southeast Saskatchewan,23,35.8,unified score 35.8 below 50
+SK-0839,Valley Centre,Locality,West Central Saskatchewan,52,40.3,unified score 40.3 below 50
+SK-0840,Bateman,Locality,Southwest Saskatchewan,20,36.3,unified score 36.3 below 50
+SK-0841,Bladworth South,Locality,West Central Saskatchewan,30,,no CGN-verifiable coordinates
+SK-0842,Cecil,Locality,Central Saskatchewan,30,37.6,unified score 37.6 below 50
+SK-0843,Fairmount,Locality,West Central Saskatchewan,21,35.2,unified score 35.2 below 50
+SK-0844,Fort Carlton,Locality,Saskatoon Region,23,,no CGN-verifiable coordinates
+SK-0845,Gravelbourg East,Locality,Central Saskatchewan,30,,no CGN-verifiable coordinates
+SK-0846,Highway Junction,Locality,Central Saskatchewan,22,,no CGN-verifiable coordinates
+SK-0847,Huron,Locality,Central Saskatchewan,15,,no CGN-verifiable coordinates
+SK-0848,Kyle East,Locality,Central Saskatchewan,22,,no CGN-verifiable coordinates
+SK-0849,Birch Hills,Locality,Central Saskatchewan,950,,no CGN-verifiable coordinates
+SK-0850,Moose Range,Rural Municipality,Central Saskatchewan,942,47,unified score 47 below 50
+SK-0851,Whitewood,Locality,Southeast Saskatchewan,940,,no CGN-verifiable coordinates
+SK-0852,Bjorkdale,Rural Municipality,Central Saskatchewan,906,48.1,unified score 48.1 below 50
+SK-0853,Southend,Locality,Northern Saskatchewan,900,,no CGN-verifiable coordinates
+SK-0854,Preeceville,Locality,Central Saskatchewan,900,,no CGN-verifiable coordinates
+SK-0855,Hatchet Lake,Locality,Northern Saskatchewan,800,,no CGN-verifiable coordinates
+SK-0856,Hague,Locality,Central Saskatchewan,800,,no CGN-verifiable coordinates
+SK-0857,Fond-du-Lac,Locality,Northern Saskatchewan,700,35.2,unified score 35.2 below 50
+SK-0858,Deschambault Lake,Locality,Northern Saskatchewan,650,38.7,unified score 38.7 below 50
+SK-0859,Cote,Rural Municipality,Southeast Saskatchewan,616,47.1,unified score 47.1 below 50
+SK-0860,Dundurn,Locality,Saskatoon Region,600,,no CGN-verifiable coordinates
+SK-0861,Hepburn,Locality,Central Saskatchewan,590,,no CGN-verifiable coordinates
+SK-0862,Churchbridge,Rural Municipality,Southeast Saskatchewan,584,47.6,unified score 47.6 below 50
+SK-0863,Duck Lake,Locality,Central Saskatchewan,580,,no CGN-verifiable coordinates
+SK-0864,Langenburg,Rural Municipality,Southeast Saskatchewan,561,47.7,unified score 47.7 below 50
+SK-0866,Cumberland House,Northern Village,Central Saskatchewan,540,41,unified score 41 below 50
+SK-0867,Pense,Locality,Regina Region,500,48.8,unified score 48.8 below 50
+SK-0868,Connaught,Rural Municipality,Central Saskatchewan,491,47.2,unified score 47.2 below 50
+SK-0869,Barrier Valley,Rural Municipality,Central Saskatchewan,485,47.8,unified score 47.8 below 50
+SK-0872,Monet,Rural Municipality,West Central Saskatchewan,432,49.1,unified score 49.1 below 50
+SK-0873,McLeod,Rural Municipality,Southeast Saskatchewan,401,49.8,unified score 49.8 below 50
+SK-0874,Round Hill,Rural Municipality,Northwest Saskatchewan,394,49,unified score 49 below 50
+SK-0875,Garry,Rural Municipality,Southeast Saskatchewan,370,48.8,unified score 48.8 below 50
+SK-0876,Sedley,Village,Regina Region,367,49.3,unified score 49.3 below 50
+SK-0877,Old Post,Rural Municipality,Southern Saskatchewan,352,47.7,unified score 47.7 below 50
+SK-0882,Burstall,Town,Southwest Saskatchewan,302,44.2,unified score 44.2 below 50
+SK-0884,Mariposa,Rural Municipality,Northwest Saskatchewan,291,47.8,unified score 47.8 below 50
+SK-0885,Invermay,Village,Southeast Saskatchewan,272,44.9,unified score 44.9 below 50
+SK-0886,Enfield,Rural Municipality,Southern Saskatchewan,268,47.9,unified score 47.9 below 50
+SK-0887,Paynton,Rural Municipality,Northwest Saskatchewan,238,46.6,unified score 46.6 below 50
+SK-0888,Kenosee Lake,Village,Southeast Saskatchewan,236,44.7,unified score 44.7 below 50
+SK-0889,Heart's Hill,Rural Municipality,Northwest Saskatchewan,234,45.7,unified score 45.7 below 50
+SK-0890,Oakdale,Rural Municipality,West Central Saskatchewan,216,46.5,unified score 46.5 below 50
+SK-0891,Dodsland,Village,West Central Saskatchewan,215,45.3,unified score 45.3 below 50
+SK-0892,Maple Bush,Rural Municipality,Southwest Saskatchewan,213,48,unified score 48 below 50
+SK-0893,Deer Forks,Rural Municipality,West Central Saskatchewan,208,43.9,unified score 43.9 below 50
+SK-0894,Harris,Rural Municipality,West Central Saskatchewan,205,49.6,unified score 49.6 below 50
+SK-0895,Dysart,Village,Southeast Saskatchewan,188,45.6,unified score 45.6 below 50
+SK-0896,Lang,Village,Southeast Saskatchewan,176,45.6,unified score 45.6 below 50
+SK-0897,Briercrest,Village,Regina Region,155,45.5,unified score 45.5 below 50
+SK-0898,Marcelin,Village,Central Saskatchewan,142,44.4,unified score 44.4 below 50
+SK-0899,Lone Tree,Rural Municipality,Southwest Saskatchewan,140,40,unified score 40 below 50
+SK-0900,Simpson,Village,Central Saskatchewan,131,43.4,unified score 43.4 below 50
+SK-0901,Jans Bay,Northern Hamlet,Northern Saskatchewan,116,34.2,unified score 34.2 below 50
+SK-0902,Enterprise,Rural Municipality,Southwest Saskatchewan,110,39.7,unified score 39.7 below 50
+SK-0903,St. Gregor,Village,Central Saskatchewan,104,42.6,unified score 42.6 below 50
+SK-0904,Creelman,Village,Southeast Saskatchewan,103,42.9,unified score 42.9 below 50
+SK-0905,Loreburn,Village,Central Saskatchewan,100,43.3,unified score 43.3 below 50
+SK-0906,Meacham,Village,Central Saskatchewan,96,44.3,unified score 44.3 below 50
+SK-0907,Alice Beach,Resort Village,Southern Saskatchewan,82,43.9,unified score 43.9 below 50
+SK-0908,Belle Plaine,Village,Regina Region,79,44.6,unified score 44.6 below 50
+SK-0909,Endeavour,Village,Southeast Saskatchewan,75,38.7,unified score 38.7 below 50
+SK-0910,Beatty,Village,Central Saskatchewan,65,40.8,unified score 40.8 below 50
+SK-0911,Rush Lake,Village,Southwest Saskatchewan,55,39.2,unified score 39.2 below 50
+SK-0912,MacNutt,Village,Southeast Saskatchewan,50,38.2,unified score 38.2 below 50
+SK-0913,Black Point,Northern Hamlet,Northern Saskatchewan,39,27.4,unified score 27.4 below 50
+SK-0914,Forget,Village,Southeast Saskatchewan,35,39.6,unified score 39.6 below 50
+SK-0915,Osage,Village,Southeast Saskatchewan,25,40.7,unified score 40.7 below 50
+SK-0916,Tessier,Village,West Central Saskatchewan,25,41.6,unified score 41.6 below 50
+SK-0917,Wood Mountain,Village,Southern Saskatchewan,20,37.8,unified score 37.8 below 50
+SK-0918,Krydor,Village,Northwest Saskatchewan,15,40.2,unified score 40.2 below 50
+SK-0919,Key First Nation,First Nations Reserve,Central Saskatchewan,450,,no CGN-verifiable coordinates
+SK-0920,Makwa Sahgaiehcan First Nation,First Nations Reserve,Northern Saskatchewan,500,,no CGN-verifiable coordinates
+SK-0921,Ministikwan Lake Cree Nation,First Nations Reserve,Northern Saskatchewan,400,,no CGN-verifiable coordinates
+SK-0922,Wahpeton Dakota Nation,First Nations Reserve,Central Saskatchewan,250,,no CGN-verifiable coordinates
+SK-0923,Wood Mountain Lakota Nation,First Nations Reserve,Southern Saskatchewan,150,,no CGN-verifiable coordinates
+SK-0924,Allan Hills,Locality,Central Saskatchewan,47,40.7,unified score 40.7 below 50
+SK-0925,Armley,Locality,Central Saskatchewan,36,36,unified score 36 below 50
+SK-0926,Bay Trail,Locality,Central Saskatchewan,32,38.9,unified score 38.9 below 50
+SK-0927,Beacon Hill,Locality,Northwest Saskatchewan,30,32.4,unified score 32.4 below 50
+SK-0928,Birsay,Locality,West Central Saskatchewan,14,36.8,unified score 36.8 below 50
+SK-0929,Blumenheim,Locality,Saskatoon Region,27,40.6,unified score 40.6 below 50
+SK-0930,Braddock,Locality,Southwest Saskatchewan,18,34.8,unified score 34.8 below 50
+SK-0931,Bridgeford,Locality,Southern Saskatchewan,28,37.7,unified score 37.7 below 50
+SK-0932,Broadacres,Locality,Northwest Saskatchewan,19,36.2,unified score 36.2 below 50
+SK-0933,Bures,Locality,Southeast Saskatchewan,36,39.6,unified score 39.6 below 50
+SK-0934,Carlea,Locality,Central Saskatchewan,48,36.3,unified score 36.3 below 50
+SK-0935,Carlton,Locality,Central Saskatchewan,14,38.1,unified score 38.1 below 50
+SK-0936,Chortitz,Locality,Saskatoon Region,29,40.6,unified score 40.6 below 50
+SK-0937,Corinne,Locality,Regina Region,42,41.2,unified score 41.2 below 50
+SK-0938,Cutbank,Locality,West Central Saskatchewan,45,39.8,unified score 39.8 below 50
+SK-0939,Dahinda,Locality,Southern Saskatchewan,27,39.1,unified score 39.1 below 50
+SK-0940,Darmody,Locality,Southern Saskatchewan,32,38.3,unified score 38.3 below 50
+SK-0941,Dummer,Locality,Southeast Saskatchewan,47,40.7,unified score 40.7 below 50
+SK-0942,Emma Lake,Locality,Central Saskatchewan,48,37.8,unified score 37.8 below 50
+SK-0943,Fitzmaurice,Locality,Southeast Saskatchewan,26,37.3,unified score 37.3 below 50
+SK-0944,Fulda,Locality,Central Saskatchewan,34,39,unified score 39 below 50
+SK-0945,Hearne,Locality,Regina Region,35,40.6,unified score 40.6 below 50
+SK-0946,Highgate,Locality,Northwest Saskatchewan,18,36.5,unified score 36.5 below 50
+SK-0947,Katepwa Beach,Locality,Southeast Saskatchewan,36,,no CGN-verifiable coordinates
+SK-0948,Lacadena,Locality,West Central Saskatchewan,20,35.8,unified score 35.8 below 50
+SK-0949,Lorlie,Locality,Southeast Saskatchewan,21,38.1,unified score 38.1 below 50
+SK-0950,Malmgren,Locality,West Central Saskatchewan,28,38.8,unified score 38.8 below 50
+SK-0951,Marieval,Locality,Southeast Saskatchewan,31,37.8,unified score 37.8 below 50
+SK-0952,Maxwellton,Locality,Central Saskatchewan,32,,no CGN-verifiable coordinates
+SK-0953,Molanosa,Locality,Northern Saskatchewan,51,34.8,unified score 34.8 below 50
+SK-0954,Muskiki Springs,Locality,Central Saskatchewan,34,40,unified score 40 below 50
+SK-0955,Neelby,Locality,Southeast Saskatchewan,37,38,unified score 38 below 50
+SK-0956,New Finland,Locality,Southern Saskatchewan,40,,no CGN-verifiable coordinates
+SK-0957,Nies Beach,Locality,Central Saskatchewan,23,36.3,unified score 36.3 below 50
+SK-0958,Nobleville,Locality,Central Saskatchewan,50,36.6,unified score 36.6 below 50
+SK-0959,Oakshela,Locality,Southeast Saskatchewan,34,38.2,unified score 38.2 below 50
+SK-0960,Palisade,Locality,Southwest Saskatchewan,47,32.4,unified score 32.4 below 50
+SK-0961,Plato,Locality,West Central Saskatchewan,45,37.8,unified score 37.8 below 50
+SK-0962,Points North Landing,Locality,Northwest Saskatchewan,25,,no CGN-verifiable coordinates
+SK-0963,Rock Dell,Locality,Southeast Saskatchewan,35,37.8,unified score 37.8 below 50
+SK-0964,Rosengart,Locality,Southwest Saskatchewan,39,35.7,unified score 35.7 below 50
+SK-0965,Saint-Front,Locality,Central Saskatchewan,31,36.8,unified score 36.8 below 50
+SK-0966,Scotsguard,Locality,Southwest Saskatchewan,31,34,unified score 34 below 50
+SK-0967,Spruce Home,Locality,Central Saskatchewan,22,36.7,unified score 36.7 below 50
+SK-0968,Tarnopol,Locality,Central Saskatchewan,46,39.5,unified score 39.5 below 50
+SK-0969,Verwood,Locality,Southern Saskatchewan,41,38.7,unified score 38.7 below 50
+SK-0970,Victoire,Locality,Central Saskatchewan,47,38.2,unified score 38.2 below 50
+SK-0971,Wartime,Locality,West Central Saskatchewan,51,38.6,unified score 38.6 below 50
+SK-0972,Wauchope,Locality,Southeast Saskatchewan,39,36,unified score 36 below 50
+SK-0973,Wingard,Locality,Central Saskatchewan,21,38.5,unified score 38.5 below 50
+SK-0974,Wroxton,Locality,Southeast Saskatchewan,22,35,unified score 35 below 50
+SK-0975,Île-à-la-Crosse Métis Community,Métis Community,Northern Saskatchewan,1300,,no CGN-verifiable coordinates
+SK-0976,Green Lake Métis Community,Métis Community,Northwest Saskatchewan,450,,no CGN-verifiable coordinates
+SK-0977,Avonlea South,Locality,Regina Region,29,,no CGN-verifiable coordinates
+SK-0978,Belle Plain Station,Locality,Central Saskatchewan,22,,no CGN-verifiable coordinates
+SK-0979,Bugnet,Locality,Central Saskatchewan,21,,no CGN-verifiable coordinates
+SK-0980,Burroughs,Locality,Regina Region,14,,no CGN-verifiable coordinates
+SK-0981,Cadillac East,Locality,Central Saskatchewan,21,,no CGN-verifiable coordinates
+SK-0982,Cheviot,Locality,Saskatoon Region,15,39.7,unified score 39.7 below 50
+SK-0983,Duff Station,Locality,Regina Region,18,,no CGN-verifiable coordinates
+SK-0984,Dundurn South,Locality,Central Saskatchewan,21,,no CGN-verifiable coordinates
+SK-0985,Edenwold East,Locality,Regina Region,28,,no CGN-verifiable coordinates
+SK-0986,Ernfold East,Locality,Southern Saskatchewan,18,,no CGN-verifiable coordinates
+SK-0987,Esterhazy Station,Locality,Central Saskatchewan,22,,no CGN-verifiable coordinates
+SK-0988,Forgan East,Locality,Northwest Saskatchewan,31,,no CGN-verifiable coordinates
+SK-0989,Girvin East,Locality,Central Saskatchewan,15,,no CGN-verifiable coordinates
+SK-0990,Hafford East,Locality,Central Saskatchewan,23,,no CGN-verifiable coordinates
+SK-0991,Hanley South,Locality,Central Saskatchewan,22,,no CGN-verifiable coordinates
+SK-0992,Horse Lake,Locality,Regina Region,20,,no CGN-verifiable coordinates
+SK-0993,Imperial East,Locality,Central Saskatchewan,23,,no CGN-verifiable coordinates
+SK-0994,Loreburn Station,Locality,Central Saskatchewan,21,,no CGN-verifiable coordinates
+SK-0995,Meadow Lake East,Locality,Northwest Saskatchewan,31,,no CGN-verifiable coordinates
+SK-0996,Sasman,Rural Municipality,Southeast Saskatchewan,813,49.2,unified score 49.2 below 50
+SK-0997,Lacadena,Rural Municipality,Southwest Saskatchewan,787,48.9,unified score 48.9 below 50
+SK-0998,Parkdale,Rural Municipality,Northwest Saskatchewan,725,48.7,unified score 48.7 below 50
+SK-1000,Buffalo,Rural Municipality,Northwest Saskatchewan,420,49.4,unified score 49.4 below 50
+SK-1001,Ponass Lake,Rural Municipality,Central Saskatchewan,416,47.3,unified score 47.3 below 50
+SK-1002,Cut Knife,Rural Municipality,Northwest Saskatchewan,415,48,unified score 48 below 50
+SK-1003,Snipe Lake,Rural Municipality,West Central Saskatchewan,410,47.5,unified score 47.5 below 50
+SK-1006,Miry Creek,Rural Municipality,West Central Saskatchewan,378,47.1,unified score 47.1 below 50
+SK-1007,Elfros,Rural Municipality,Central Saskatchewan,373,48.4,unified score 48.4 below 50
+SK-1008,Emerald,Rural Municipality,Southeast Saskatchewan,370,49.1,unified score 49.1 below 50
+SK-1009,Lakeview,Rural Municipality,Central Saskatchewan,366,47.6,unified score 47.6 below 50
+SK-1011,Mount Pleasant,Rural Municipality,Southeast Saskatchewan,345,45.4,unified score 45.4 below 50
+SK-1012,Calder,Rural Municipality,Southeast Saskatchewan,344,46.2,unified score 46.2 below 50
+SK-1013,Winslow,Rural Municipality,West Central Saskatchewan,344,48.3,unified score 48.3 below 50
+SK-1014,Choiceland,Town,Central Saskatchewan,342,46.5,unified score 46.5 below 50
+SK-1015,Insinger,Rural Municipality,Southeast Saskatchewan,305,47.7,unified score 47.7 below 50
+SK-1017,Storthoaks,Rural Municipality,Southeast Saskatchewan,281,45,unified score 45 below 50
+SK-1018,Lomond,Rural Municipality,Southeast Saskatchewan,275,48.5,unified score 48.5 below 50
+SK-1019,Invermay,Rural Municipality,Southeast Saskatchewan,269,46.9,unified score 46.9 below 50
+SK-1020,Lake Alma,Rural Municipality,Southeast Saskatchewan,269,47.8,unified score 47.8 below 50
+SK-1021,Pelly,Village,Southeast Saskatchewan,255,42.9,unified score 42.9 below 50
+SK-1022,Tompkins,Village,Southwest Saskatchewan,153,38.9,unified score 38.9 below 50
+SK-1023,Kivimaa-Moonlight Bay,Resort Village,Northwest Saskatchewan,137,40.6,unified score 40.6 below 50
+SK-1024,Mistusinne,Resort Village,Central Saskatchewan,118,43,unified score 43 below 50
+SK-1025,Cadillac,Village,Southwest Saskatchewan,116,39.5,unified score 39.5 below 50
+SK-1026,Chamberlain,Village,Southern Saskatchewan,96,43.8,unified score 43.8 below 50
+SK-1027,Duval,Village,Central Saskatchewan,95,43.7,unified score 43.7 below 50
+SK-1028,Glen Harbour,Resort Village,Regina Region,91,44.3,unified score 44.3 below 50
+SK-1029,St. Benedict,Village,Central Saskatchewan,80,42.9,unified score 42.9 below 50
+SK-1030,Denholm,Village,Northwest Saskatchewan,75,42.5,unified score 42.5 below 50
+SK-1031,Webb,Village,Southwest Saskatchewan,71,38.4,unified score 38.4 below 50
+SK-1032,Dilke,Village,Southern Saskatchewan,60,43.3,unified score 43.3 below 50
+SK-1033,Pelican Pointe,Resort Village,Regina Region,38,42.9,unified score 42.9 below 50
+SK-1034,Michel Village,Northern Hamlet,Northern Saskatchewan,37,28.6,unified score 28.6 below 50
+SK-1035,Netherhill,Village,West Central Saskatchewan,25,38.5,unified score 38.5 below 50
+SK-1036,Ernfold,Village,Southwest Saskatchewan,20,38.2,unified score 38.2 below 50
+SK-1037,Cumberland House Cree Nation,First Nations Reserve,Central Saskatchewan,700,,no CGN-verifiable coordinates
+SK-1038,Saulteaux First Nation,First Nations Reserve,Central Saskatchewan,400,,no CGN-verifiable coordinates
+SK-1039,Anerley,Locality,West Central Saskatchewan,42,39.7,unified score 39.7 below 50
+SK-1040,Ardath,Locality,West Central Saskatchewan,45,40.6,unified score 40.6 below 50
+SK-1041,Avonhurst,Locality,Regina Region,40,41.3,unified score 41.3 below 50
+SK-1042,Baring,Locality,Southeast Saskatchewan,38,39,unified score 39 below 50
+SK-1043,Battrum,Locality,Southwest Saskatchewan,54,36.7,unified score 36.7 below 50
+SK-1044,Blumenort,Locality,Southwest Saskatchewan,34,35.3,unified score 35.3 below 50
+SK-1045,Bodmin,Locality,Central Saskatchewan,43,37.2,unified score 37.2 below 50
+SK-1046,Bounty,Locality,West Central Saskatchewan,26,39.1,unified score 39.1 below 50
+SK-1047,Cantal,Locality,Southeast Saskatchewan,35,35.5,unified score 35.5 below 50
+SK-1048,Colgate,Locality,Southeast Saskatchewan,14,36.5,unified score 36.5 below 50
+SK-1049,Court,Locality,West Central Saskatchewan,14,33.7,unified score 33.7 below 50
+SK-1050,Dankin,Locality,West Central Saskatchewan,39,36.2,unified score 36.2 below 50
+SK-1051,Diana,Locality,Regina Region,45,41.6,unified score 41.6 below 50
+SK-1052,Evesham,Locality,Northwest Saskatchewan,24,34.9,unified score 34.9 below 50
+SK-1053,Ferguson Bay,Locality,Central Saskatchewan,9,,no CGN-verifiable coordinates
+SK-1054,Floral,Locality,Saskatoon Region,39,41.9,unified score 41.9 below 50
+SK-1055,Gorlitz,Locality,Southeast Saskatchewan,43,37,unified score 37 below 50
+SK-1056,Hardy,Locality,Southeast Saskatchewan,23,38.1,unified score 38.1 below 50
+SK-1057,Homefield,Locality,Southeast Saskatchewan,36,38.4,unified score 38.4 below 50
+SK-1058,Hughton,Locality,West Central Saskatchewan,23,37.4,unified score 37.4 below 50
+SK-1059,Kylemore,Locality,Southeast Saskatchewan,28,36.5,unified score 36.5 below 50
+SK-1060,Lawson,Locality,Southern Saskatchewan,37,38,unified score 38 below 50
+SK-1061,Lily Plain,Locality,Central Saskatchewan,39,38.8,unified score 38.8 below 50
+SK-1062,Monchy,Locality,Southwest Saskatchewan,52,34.5,unified score 34.5 below 50
+SK-1063,Murray Point,Locality,Central Saskatchewan,9,34.3,unified score 34.3 below 50
+SK-1064,Oban,Locality,West Central Saskatchewan,20,38.1,unified score 38.1 below 50
+SK-1065,Outram,Locality,Southeast Saskatchewan,19,35.8,unified score 35.8 below 50
+SK-1066,Palo,Locality,West Central Saskatchewan,31,38.6,unified score 38.6 below 50
+SK-1067,Peerless,Locality,Northwest Saskatchewan,14,31.4,unified score 31.4 below 50
+SK-1068,Redfield,Locality,Northwest Saskatchewan,32,38.5,unified score 38.5 below 50
+SK-1069,Redwing,Locality,Southeast Saskatchewan,52,,no CGN-verifiable coordinates
+SK-1070,Rowletta,Locality,Southern Saskatchewan,31,39.1,unified score 39.1 below 50
+SK-1071,Schoenfeld,Locality,Southwest Saskatchewan,28,35,unified score 35 below 50
+SK-1072,Smuts,Locality,Saskatoon Region,35,40.7,unified score 40.7 below 50
+SK-1073,South Fork,Locality,Southwest Saskatchewan,19,31.7,unified score 31.7 below 50
+SK-1074,St. Laurent de Grandin,Locality,Central Saskatchewan,29,,no CGN-verifiable coordinates
+SK-1075,Stalwart,Locality,Central Saskatchewan,20,37.9,unified score 37.9 below 50
+SK-1076,Swanson,Locality,Saskatoon Region,13,38.4,unified score 38.4 below 50
+SK-1077,Tichfield Junction,Locality,West Central Saskatchewan,15,37.5,unified score 37.5 below 50
+SK-1078,White Star,Locality,Central Saskatchewan,31,37.6,unified score 37.6 below 50
+SK-1079,Beauval Métis Community,Métis Community,Northern Saskatchewan,750,,no CGN-verifiable coordinates
+SK-1080,Pinehouse Métis Community,Métis Community,Northern Saskatchewan,1000,,no CGN-verifiable coordinates
+SK-1081,Assiniboia East,Locality,Regina Region,7,38.8,unified score 38.8 below 50
+SK-1082,Blue Bell,Locality,Northwest Saskatchewan,14,32,unified score 32 below 50
+SK-1083,Briercrest East,Locality,Northwest Saskatchewan,16,,no CGN-verifiable coordinates
+SK-1084,Calder East,Locality,Central Saskatchewan,23,,no CGN-verifiable coordinates
+SK-1085,Caron East,Locality,Central Saskatchewan,15,,no CGN-verifiable coordinates
+SK-1086,Circle Hill,Locality,Regina Region,29,,no CGN-verifiable coordinates
+SK-1087,Coleman,Locality,Regina Region,20,,no CGN-verifiable coordinates
+SK-1088,Dinsmore East,Locality,Central Saskatchewan,6,,no CGN-verifiable coordinates
+SK-1089,Donavon East,Locality,Southern Saskatchewan,18,,no CGN-verifiable coordinates
+SK-1090,Drinkwater East,Locality,Central Saskatchewan,8,,no CGN-verifiable coordinates
+SK-1091,Endeavour East,Locality,Northwest Saskatchewan,31,,no CGN-verifiable coordinates
+SK-1092,Estend South,Locality,Regina Region,20,,no CGN-verifiable coordinates
+SK-1093,Flaxcombe East,Locality,Saskatoon Region,8,,no CGN-verifiable coordinates
+SK-1094,Fort Qu'Appelle East,Locality,Central Saskatchewan,7,,no CGN-verifiable coordinates
+SK-1095,Hepburn South,Locality,Central Saskatchewan,23,,no CGN-verifiable coordinates
+SK-1096,Herbert East,Locality,Central Saskatchewan,8,,no CGN-verifiable coordinates
+SK-1097,Lang East,Locality,Central Saskatchewan,7,,no CGN-verifiable coordinates
+SK-1098,Laterriere,Locality,Central Saskatchewan,22,,no CGN-verifiable coordinates
+SK-1099,Leydier,Locality,Central Saskatchewan,23,,no CGN-verifiable coordinates
+SK-1100,Lockwood East,Locality,Regina Region,29,,no CGN-verifiable coordinates
+SK-1101,Maple Creek East,Locality,Northwest Saskatchewan,31,,no CGN-verifiable coordinates
+SK-1102,Foam Lake,Rural Municipality,Southeast Saskatchewan,532,48.8,unified score 48.8 below 50
+SK-1104,Riverside,Rural Municipality,Southwest Saskatchewan,436,47.4,unified score 47.4 below 50
+SK-1105,Frontier,Rural Municipality,Southwest Saskatchewan,347,42.9,unified score 42.9 below 50
+SK-1106,Turtle River,Rural Municipality,Northwest Saskatchewan,307,47.1,unified score 47.1 below 50
+SK-1107,Willner,Rural Municipality,Central Saskatchewan,293,49.3,unified score 49.3 below 50
+SK-1108,Livingston,Rural Municipality,Southeast Saskatchewan,281,44.4,unified score 44.4 below 50
+SK-1110,Grandview,Rural Municipality,West Central Saskatchewan,230,47.8,unified score 47.8 below 50
+SK-1111,Reford,Rural Municipality,Northwest Saskatchewan,222,47.8,unified score 47.8 below 50
+SK-1112,Eyebrow,Rural Municipality,Southern Saskatchewan,220,48.5,unified score 48.5 below 50
+SK-1113,Beechy,Village,Southwest Saskatchewan,209,45.4,unified score 45.4 below 50
+SK-1114,Glenside,Rural Municipality,Northwest Saskatchewan,206,48.9,unified score 48.9 below 50
+SK-1115,Wood Creek,Rural Municipality,Central Saskatchewan,205,48.6,unified score 48.6 below 50
+SK-1116,Senlac,Rural Municipality,Northwest Saskatchewan,198,43.4,unified score 43.4 below 50
+SK-1117,Prairie Rose,Rural Municipality,Central Saskatchewan,195,45.4,unified score 45.4 below 50
+SK-1118,Ebenezer,Village,Southeast Saskatchewan,188,42.1,unified score 42.1 below 50
+SK-1119,Gull Lake,Rural Municipality,Southwest Saskatchewan,185,41.7,unified score 41.7 below 50
+SK-1120,Vanguard,Village,Southwest Saskatchewan,184,41.5,unified score 41.5 below 50
+SK-1121,King George,Rural Municipality,West Central Saskatchewan,178,45.8,unified score 45.8 below 50
+SK-1122,Conquest,Village,West Central Saskatchewan,167,45,unified score 45 below 50
+SK-1123,Canaan,Rural Municipality,Southwest Saskatchewan,145,44.7,unified score 44.7 below 50
+SK-1124,Lake Johnston,Rural Municipality,Southern Saskatchewan,140,45.8,unified score 45.8 below 50
+SK-1125,Leslie Beach,Resort Village,Southeast Saskatchewan,110,41.5,unified score 41.5 below 50
+SK-1126,Dorintosh,Village,Northwest Saskatchewan,107,38.1,unified score 38.1 below 50
+SK-1127,Hyas,Village,Southeast Saskatchewan,89,39.2,unified score 39.2 below 50
+SK-1128,Marengo,Village,West Central Saskatchewan,75,39,unified score 39 below 50
+SK-1129,Scott,Town,Northwest Saskatchewan,74,43.3,unified score 43.3 below 50
+SK-1130,Big Shell,Resort Village,Northwest Saskatchewan,64,41.8,unified score 41.8 below 50
+SK-1131,Lancer,Village,West Central Saskatchewan,58,38.8,unified score 38.8 below 50
+SK-1132,Weekes,Village,Central Saskatchewan,50,37,unified score 37 below 50
+SK-1133,Bangor,Village,Southeast Saskatchewan,40,39.5,unified score 39.5 below 50
+SK-1134,Goodwater,Village,Southeast Saskatchewan,40,40.4,unified score 40.4 below 50
+SK-1135,Leross,Village,Southeast Saskatchewan,40,41.3,unified score 41.3 below 50
+SK-1136,Golden Prairie,Village,Southwest Saskatchewan,30,35,unified score 35 below 50
+SK-1137,Big Island Lake Cree Nation,First Nations Reserve,Northern Saskatchewan,350,,no CGN-verifiable coordinates
+SK-1138,Canoe Lake Cree First Nation,First Nations Reserve,Northern Saskatchewan,700,,no CGN-verifiable coordinates
+SK-1139,Arelee,Locality,Saskatoon Region,47,41.1,unified score 41.1 below 50
+SK-1140,Axford,Locality,Southeast Saskatchewan,35,39.5,unified score 39.5 below 50
+SK-1141,Bents,Locality,West Central Saskatchewan,54,40.7,unified score 40.7 below 50
+SK-1142,Birch Lake,Locality,Northwest Saskatchewan,10,34.5,unified score 34.5 below 50
+SK-1143,Bromhead,Locality,Southeast Saskatchewan,51,38.2,unified score 38.2 below 50
+SK-1144,Bushell Park,Locality,Southern Saskatchewan,17,38.7,unified score 38.7 below 50
+SK-1145,Carragana,Locality,Central Saskatchewan,22,33.8,unified score 33.8 below 50
+SK-1146,Chamakese,Locality,Central Saskatchewan,38,,no CGN-verifiable coordinates
+SK-1147,Chandler,Locality,Regina Region,16,,no CGN-verifiable coordinates
+SK-1148,Cummings,Locality,Southwest Saskatchewan,29,31.9,unified score 31.9 below 50
+SK-1149,Edenburg,Locality,Regina Region,10,,no CGN-verifiable coordinates
+SK-1150,Espeseth Cove,Locality,Southeast Saskatchewan,35,37.5,unified score 37.5 below 50
+SK-1151,Estlin,Locality,Regina Region,9,38.8,unified score 38.8 below 50
+SK-1152,Expanse,Locality,Southern Saskatchewan,31,38.9,unified score 38.9 below 50
+SK-1153,Gibbs,Locality,Regina Region,47,41.2,unified score 41.2 below 50
+SK-1154,Guises Beach,Locality,Central Saskatchewan,19,35.9,unified score 35.9 below 50
+SK-1155,Keatley,Locality,Northwest Saskatchewan,21,38.4,unified score 38.4 below 50
+SK-1156,Kedleston Beach,Locality,Regina Region,21,39.6,unified score 39.6 below 50
+SK-1157,Kelfield,Locality,West Central Saskatchewan,13,36.2,unified score 36.2 below 50
+SK-1158,Killdeer,Locality,Southern Saskatchewan,11,34,unified score 34 below 50
+SK-1159,Kilwinning,Locality,Central Saskatchewan,44,39.4,unified score 39.4 below 50
+SK-1160,Kipabiskau,Locality,Central Saskatchewan,47,37.5,unified score 37.5 below 50
+SK-1161,Leofeld,Locality,Southern Saskatchewan,21,,no CGN-verifiable coordinates
+SK-1162,Lewvan,Locality,Southeast Saskatchewan,9,37.6,unified score 37.6 below 50
+SK-1163,Marriott,Locality,West Central Saskatchewan,31,39,unified score 39 below 50
+SK-1164,Marysburg,Locality,Central Saskatchewan,21,37.8,unified score 37.8 below 50
+SK-1165,McGee,Locality,West Central Saskatchewan,34,38.3,unified score 38.3 below 50
+SK-1166,Mont Nebo,Locality,Central Saskatchewan,39,38.6,unified score 38.6 below 50
+SK-1167,Nelson Beach,Locality,Central Saskatchewan,9,36.8,unified score 36.8 below 50
+SK-1168,Nottingham,Locality,Southeast Saskatchewan,24,34.3,unified score 34.3 below 50
+SK-1169,Otthon,Locality,Southeast Saskatchewan,25,36.8,unified score 36.8 below 50
+SK-1170,Oxarat,Locality,Southwest Saskatchewan,26,30.7,unified score 30.7 below 50
+SK-1171,Parkbeg,Locality,Southern Saskatchewan,42,39,unified score 39 below 50
+SK-1172,Ravenscrag,Locality,Southwest Saskatchewan,40,32.3,unified score 32.3 below 50
+SK-1173,Schantzenfeld,Locality,Southwest Saskatchewan,14,33.5,unified score 33.5 below 50
+SK-1174,Springfeld,Locality,Southwest Saskatchewan,18,34.1,unified score 34.1 below 50
+SK-1175,St. Boswells,Locality,Southwest Saskatchewan,37,37.3,unified score 37.3 below 50
+SK-1176,Steelman,Locality,Southeast Saskatchewan,53,37.2,unified score 37.2 below 50
+SK-1177,Stony Beach,Locality,Regina Region,36,41,unified score 41 below 50
+SK-1178,Zeneta,Locality,Southeast Saskatchewan,48,37.4,unified score 37.4 below 50
+SK-1179,Cumberland House Métis Community,Métis Community,Northern Saskatchewan,550,,no CGN-verifiable coordinates
+SK-1180,Antler Creek,Locality,West Central Saskatchewan,24,,no CGN-verifiable coordinates
+SK-1181,Bangor Station,Locality,Southwest Saskatchewan,25,,no CGN-verifiable coordinates
+SK-1182,Bethany,Locality,Southern Saskatchewan,19,,no CGN-verifiable coordinates
+SK-1183,Bourgault,Locality,Regina Region,3,,no CGN-verifiable coordinates
+SK-1184,Brownlee East,Locality,Central Saskatchewan,7,,no CGN-verifiable coordinates
+SK-1185,Buffalo Narrows East,Locality,Southeast Saskatchewan,29,,no CGN-verifiable coordinates
+SK-1186,Church Bridge East,Locality,Southern Saskatchewan,19,,no CGN-verifiable coordinates
+SK-1187,Clair Station,Locality,Southeast Saskatchewan,19,,no CGN-verifiable coordinates
+SK-1188,Cloan,Locality,Northwest Saskatchewan,26,37.1,unified score 37.1 below 50
+SK-1189,Cold Springs,Locality,Central Saskatchewan,6,,no CGN-verifiable coordinates
+SK-1190,Condie,Locality,Regina Region,31,41.5,unified score 41.5 below 50
+SK-1191,Crystal Springs East,Locality,Southeast Saskatchewan,29,,no CGN-verifiable coordinates
+SK-1192,D'Arcy Station,Locality,Southeast Saskatchewan,19,,no CGN-verifiable coordinates
+SK-1193,Dunblane,Locality,West Central Saskatchewan,29,38.7,unified score 38.7 below 50
+SK-1194,Erwood East,Locality,Southwest Saskatchewan,24,,no CGN-verifiable coordinates
+SK-1195,Ewan,Locality,Southern Saskatchewan,19,,no CGN-verifiable coordinates
+SK-1196,Fairy Hill,Locality,Regina Region,24,40.2,unified score 40.2 below 50
+SK-1197,Fish Creek,Locality,Central Saskatchewan,24,39.5,unified score 39.5 below 50
+SK-1198,Freedom,Locality,Saskatoon Region,6,,no CGN-verifiable coordinates
+SK-1199,Frontier East,Locality,Southwest Saskatchewan,26,,no CGN-verifiable coordinates
+SK-1200,Glenside East,Locality,Regina Region,5,,no CGN-verifiable coordinates
+SK-1201,Griffin East,Locality,Central Saskatchewan,8,,no CGN-verifiable coordinates
+SK-1202,High Point,Locality,West Central Saskatchewan,28,37.1,unified score 37.1 below 50
+SK-1203,Kerrobert East,Locality,West Central Saskatchewan,25,,no CGN-verifiable coordinates
+SK-1204,Lemberg East,Locality,Southwest Saskatchewan,27,,no CGN-verifiable coordinates
+SK-1205,Lestock East,Locality,Saskatoon Region,8,,no CGN-verifiable coordinates
+SK-1206,Macklin West,Locality,Regina Region,3,,no CGN-verifiable coordinates
+SK-1207,Mankota East,Locality,Central Saskatchewan,7,,no CGN-verifiable coordinates
+SK-1208,Kelvington,Rural Municipality,Central Saskatchewan,366,46.6,unified score 46.6 below 50
+SK-1210,Mountain View,Rural Municipality,West Central Saskatchewan,358,49.2,unified score 49.2 below 50
+SK-1211,Arborfield,Rural Municipality,Central Saskatchewan,338,45.6,unified score 45.6 below 50
+SK-1213,Ituna Bon Accord,Rural Municipality,Southeast Saskatchewan,327,49.3,unified score 49.3 below 50
+SK-1214,Pleasant Valley,Rural Municipality,West Central Saskatchewan,301,48.5,unified score 48.5 below 50
+SK-1215,McCraney,Rural Municipality,Central Saskatchewan,280,49.9,unified score 49.9 below 50
+SK-1216,Craik,Rural Municipality,Southern Saskatchewan,272,49.5,unified score 49.5 below 50
+SK-1217,Morris,Rural Municipality,Central Saskatchewan,263,49.6,unified score 49.6 below 50
+SK-1219,Arm River,Rural Municipality,Central Saskatchewan,258,48.7,unified score 48.7 below 50
+SK-1220,Huron,Rural Municipality,Southern Saskatchewan,205,47.8,unified score 47.8 below 50
+SK-1221,Pittville,Rural Municipality,Southwest Saskatchewan,201,44.6,unified score 44.6 below 50
+SK-1222,St. Philips,Rural Municipality,Southeast Saskatchewan,200,44.7,unified score 44.7 below 50
+SK-1223,Clinworth,Rural Municipality,West Central Saskatchewan,168,43,unified score 43 below 50
+SK-1224,Archerwill,Village,Central Saskatchewan,153,41.3,unified score 41.3 below 50
+SK-1225,Wreford,Rural Municipality,Central Saskatchewan,140,45.3,unified score 45.3 below 50
+SK-1226,Tobin Lake,Resort Village,Central Saskatchewan,139,39.4,unified score 39.4 below 50
+SK-1227,Chaplin,Rural Municipality,Southwest Saskatchewan,127,44.5,unified score 44.5 below 50
+SK-1228,Antelope Park,Rural Municipality,West Central Saskatchewan,124,42.1,unified score 42.1 below 50
+SK-1229,Pelican Narrows,Northern Village,Northern Saskatchewan,123,34.2,unified score 34.2 below 50
+SK-1230,Limerick,Village,Southern Saskatchewan,114,42.1,unified score 42.1 below 50
+SK-1231,Jansen,Village,Central Saskatchewan,111,42.3,unified score 42.3 below 50
+SK-1232,Rodgers,Rural Municipality,Southwest Saskatchewan,105,44.8,unified score 44.8 below 50
+SK-1233,Broderick,Village,West Central Saskatchewan,96,44,unified score 44 below 50
+SK-1234,Macrorie,Village,West Central Saskatchewan,65,42.6,unified score 42.6 below 50
+SK-1235,Wiseton,Village,West Central Saskatchewan,64,42,unified score 42 below 50
+SK-1236,Kinley,Village,Saskatoon Region,60,43.7,unified score 43.7 below 50
+SK-1237,Killaly,Village,Southeast Saskatchewan,58,41.3,unified score 41.3 below 50
+SK-1238,Markinch,Village,Regina Region,55,43.4,unified score 43.4 below 50
+SK-1239,Strongfield,Village,Central Saskatchewan,55,42.4,unified score 42.4 below 50
+SK-1240,Chorney Beach,Resort Village,Southeast Saskatchewan,51,39.9,unified score 39.9 below 50
+SK-1241,Hawarden,Village,Central Saskatchewan,50,42.5,unified score 42.5 below 50
+SK-1242,Hubbard,Village,Southeast Saskatchewan,45,41.2,unified score 41.2 below 50
+SK-1243,Tramping Lake,Village,Northwest Saskatchewan,35,39.6,unified score 39.6 below 50
+SK-1244,Zelma,Village,Central Saskatchewan,28,41.8,unified score 41.8 below 50
+SK-1245,Smiley,Village,West Central Saskatchewan,25,37.5,unified score 37.5 below 50
+SK-1246,Shamrock,Village,Southwest Saskatchewan,20,38.6,unified score 38.6 below 50
+SK-1247,Black Lake Denesuline Nation,First Nations Reserve,Northern Saskatchewan,1300,,no CGN-verifiable coordinates
+SK-1248,Alticane,Locality,Northwest Saskatchewan,8,36.2,unified score 36.2 below 50
+SK-1249,Ardwick,Locality,Southern Saskatchewan,10,35.6,unified score 35.6 below 50
+SK-1250,Beadle,Locality,West Central Saskatchewan,51,37.7,unified score 37.7 below 50
+SK-1251,Benito Beach,Locality,Regina Region,28,,no CGN-verifiable coordinates
+SK-1252,Berard Beach,Locality,Southeast Saskatchewan,51,,no CGN-verifiable coordinates
+SK-1253,Brada,Locality,Northwest Saskatchewan,34,38.5,unified score 38.5 below 50
+SK-1254,Brooksby,Locality,Central Saskatchewan,30,36.3,unified score 36.3 below 50
+SK-1255,Burr,Locality,Central Saskatchewan,44,39.5,unified score 39.5 below 50
+SK-1256,Burrows,Locality,Southeast Saskatchewan,19,35.7,unified score 35.7 below 50
+SK-1257,Canora Beach,Locality,Regina Region,41,,no CGN-verifiable coordinates
+SK-1258,Carmel,Locality,Central Saskatchewan,27,38.9,unified score 38.9 below 50
+SK-1259,Cosine,Locality,Northwest Saskatchewan,13,33.6,unified score 33.6 below 50
+SK-1260,Cymric,Locality,Central Saskatchewan,31,39.2,unified score 39.2 below 50
+SK-1261,Dillon,Locality,Northern Saskatchewan,8,25.8,unified score 25.8 below 50
+SK-1262,Donavon,Locality,Saskatoon Region,8,37.7,unified score 37.7 below 50
+SK-1263,Esk,Locality,Central Saskatchewan,34,38.2,unified score 38.2 below 50
+SK-1264,Eyre,Locality,West Central Saskatchewan,10,32.6,unified score 32.6 below 50
+SK-1265,Galilee,Locality,Southern Saskatchewan,25,38.9,unified score 38.9 below 50
+SK-1266,Gallivan,Locality,Northwest Saskatchewan,8,34.4,unified score 34.4 below 50
+SK-1267,Goldfields,Locality,Northern Saskatchewan,26,26.6,unified score 26.6 below 50
+SK-1268,Grandmother's Bay 219,Locality,Northwest Saskatchewan,35,,no CGN-verifiable coordinates
+SK-1269,Greenfeld,Locality,Saskatoon Region,52,42,unified score 42 below 50
+SK-1270,Handsworth,Locality,Southeast Saskatchewan,38,38.3,unified score 38.3 below 50
+SK-1271,Horsham,Locality,Southwest Saskatchewan,27,32.9,unified score 32.9 below 50
+SK-1272,Jackfish Lake,Locality,Northwest Saskatchewan,54,38.1,unified score 38.1 below 50
+SK-1273,Jasmin,Locality,Southeast Saskatchewan,54,39.8,unified score 39.8 below 50
+SK-1274,Jedburgh,Locality,Southeast Saskatchewan,7,34.5,unified score 34.5 below 50
+SK-1275,Leney,Locality,West Central Saskatchewan,39,40.6,unified score 40.6 below 50
+SK-1276,Nickorick Beach,Locality,Southeast Saskatchewan,22,,no CGN-verifiable coordinates
+SK-1277,Northgate,Locality,Southeast Saskatchewan,44,35.7,unified score 35.7 below 50
+SK-1278,Okema Beach,Locality,Central Saskatchewan,38,37.2,unified score 37.2 below 50
+SK-1279,Rosenhof,Locality,Southwest Saskatchewan,48,36.5,unified score 36.5 below 50
+SK-1280,Ryerson,Locality,Southeast Saskatchewan,6,32,unified score 32 below 50
+SK-1281,Stonyview,Locality,Southeast Saskatchewan,53,37.9,unified score 37.9 below 50
+SK-1282,Truax,Locality,Southern Saskatchewan,38,40.4,unified score 40.4 below 50
+SK-1283,Uren,Locality,Southwest Saskatchewan,12,35.4,unified score 35.4 below 50
+SK-1284,Aldina,Locality,Central Saskatchewan,3,34.3,unified score 34.3 below 50
+SK-1285,Bjorkdale East,Locality,Southeast Saskatchewan,14,,no CGN-verifiable coordinates
+SK-1286,Bredenbury East,Locality,Regina Region,28,,no CGN-verifiable coordinates
+SK-1287,Canopus,Locality,Southern Saskatchewan,25,36.1,unified score 36.1 below 50
+SK-1288,Carmichael,Locality,Southwest Saskatchewan,26,33.5,unified score 33.5 below 50
+SK-1289,Chellwood,Locality,Northern Saskatchewan,31,,no CGN-verifiable coordinates
+SK-1290,Dilke East,Locality,Regina Region,3,,no CGN-verifiable coordinates
+SK-1291,Dorothea,Locality,Southwest Saskatchewan,24,,no CGN-verifiable coordinates
+SK-1292,Dysart East,Locality,Southeast Saskatchewan,13,,no CGN-verifiable coordinates
+SK-1293,Eagle Hills,Locality,Regina Region,13,,no CGN-verifiable coordinates
+SK-1294,Englefield East,Locality,Southeast Saskatchewan,29,,no CGN-verifiable coordinates
+SK-1295,Englefeld Station,Locality,Central Saskatchewan,8,,no CGN-verifiable coordinates
+SK-1296,Estevan North,Locality,Southwest Saskatchewan,24,,no CGN-verifiable coordinates
+SK-1297,Frenchville,Locality,Southwest Saskatchewan,16,32.9,unified score 32.9 below 50
+SK-1298,Glentworth East,Locality,Northwest Saskatchewan,24,,no CGN-verifiable coordinates
+SK-1299,Harris East,Locality,Southwest Saskatchewan,26,,no CGN-verifiable coordinates
+SK-1300,Hazenmore East,Locality,Regina Region,4,,no CGN-verifiable coordinates
+SK-1301,Herschel East,Locality,Regina Region,4,,no CGN-verifiable coordinates
+SK-1302,Howell East,Locality,Southeast Saskatchewan,20,,no CGN-verifiable coordinates
+SK-1303,Humboldt East,Locality,Southeast Saskatchewan,5,,no CGN-verifiable coordinates
+SK-1304,Jedburgh East,Locality,Regina Region,4,,no CGN-verifiable coordinates
+SK-1305,Kipling East,Locality,Northwest Saskatchewan,24,,no CGN-verifiable coordinates
+SK-1306,Lafleche East,Locality,Northwest Saskatchewan,16,,no CGN-verifiable coordinates
+SK-1307,Lake Lenore East,Locality,Northwest Saskatchewan,16,,no CGN-verifiable coordinates
+SK-1308,Lanigan Station,Locality,West Central Saskatchewan,25,,no CGN-verifiable coordinates
+SK-1309,Last Mountain,Locality,Central Saskatchewan,4,35.3,unified score 35.3 below 50
+SK-1310,Leader East,Locality,Regina Region,13,,no CGN-verifiable coordinates
+SK-1311,Limerick East,Locality,Southeast Saskatchewan,28,,no CGN-verifiable coordinates
+SK-1312,Luseland West,Locality,Central Saskatchewan,8,,no CGN-verifiable coordinates
+SK-1313,Manor East,Locality,Southwest Saskatchewan,25,,no CGN-verifiable coordinates
+SK-1314,Marcelin East,Locality,Central Saskatchewan,8,,no CGN-verifiable coordinates
+SK-1315,Markinch East,Locality,Regina Region,4,,no CGN-verifiable coordinates
+SK-1316,Medstead East,Locality,Northwest Saskatchewan,16,,no CGN-verifiable coordinates
+SK-1317,Hanley,Locality,Central Saskatchewan,480,,no CGN-verifiable coordinates
+SK-1318,St. Louis,Locality,Central Saskatchewan,450,46.2,unified score 46.2 below 50
+SK-1319,Canwood,Locality,Central Saskatchewan,380,44.9,unified score 44.9 below 50
+SK-1320,Grandmother's Bay,Locality,Northern Saskatchewan,300,,no CGN-verifiable coordinates
+SK-1321,Argyle,Rural Municipality,Southeast Saskatchewan,245,44.1,unified score 44.1 below 50
+SK-1322,Souris Valley,Rural Municipality,Southeast Saskatchewan,220,47.2,unified score 47.2 below 50
+SK-1323,Waskesiu Lake,Locality,Central Saskatchewan,200,41.6,unified score 41.6 below 50
+SK-1324,Brabant Lake,Locality,Northern Saskatchewan,200,,no CGN-verifiable coordinates
+SK-1325,Borden,Locality,Saskatoon Region,200,46.3,unified score 46.3 below 50
+SK-1326,Buena Vista,Locality,Saskatoon Region,200,47.6,unified score 47.6 below 50
+SK-1327,Earl Grey,Locality,Regina Region,200,46.1,unified score 46.1 below 50
+SK-1328,Dysart,Locality,Southeast Saskatchewan,200,45.7,unified score 45.7 below 50
+SK-1329,Shell Lake,Village,Central Saskatchewan,189,43.6,unified score 43.6 below 50
+SK-1330,Big Arm,Rural Municipality,Central Saskatchewan,184,46.4,unified score 46.4 below 50
+SK-1331,Coteau Beach,Resort Village,West Central Saskatchewan,170,44.1,unified score 44.1 below 50
+SK-1332,Jan's Bay,Locality,Northern Saskatchewan,150,,no CGN-verifiable coordinates
+SK-1333,Tribune,Locality,Southeast Saskatchewan,150,40.8,unified score 40.8 below 50
+SK-1334,Diefenbaker Lake Area,Locality,Central Saskatchewan,100,,no CGN-verifiable coordinates
+SK-1335,Salvador,Locality,Northwest Saskatchewan,100,38.5,unified score 38.5 below 50
+SK-1336,Richardson,Locality,Regina Region,100,43.9,unified score 43.9 below 50
+SK-1337,Henribourg,Locality,Central Saskatchewan,100,39.6,unified score 39.6 below 50
+SK-1338,Domremy,Locality,Central Saskatchewan,100,41.4,unified score 41.4 below 50
+SK-1339,Yorkton Area,Locality,Central Saskatchewan,100,,no CGN-verifiable coordinates
+SK-1340,Canora Area,Locality,Central Saskatchewan,100,,no CGN-verifiable coordinates
+SK-1341,Pilot Butte Area,Locality,Regina Region,100,,no CGN-verifiable coordinates
+SK-1342,White City Area,Locality,Regina Region,100,,no CGN-verifiable coordinates
+SK-1343,Lumsden Area,Locality,Regina Region,100,,no CGN-verifiable coordinates
+SK-1344,Stenen,Village,Southeast Saskatchewan,89,39.4,unified score 39.4 below 50
+SK-1345,Togo,Village,Southeast Saskatchewan,83,38.8,unified score 38.8 below 50
+SK-1346,Sceptre,Village,West Central Saskatchewan,78,39,unified score 39 below 50
+SK-1347,Rama,Village,Southeast Saskatchewan,70,40.1,unified score 40.1 below 50
+SK-1348,Plunkett,Village,Central Saskatchewan,60,42.6,unified score 42.6 below 50
+SK-1349,Minton,Village,Southeast Saskatchewan,50,40.6,unified score 40.6 below 50
+SK-1350,Yarbo,Village,Southeast Saskatchewan,48,39.1,unified score 39.1 below 50
+SK-1351,Fosston,Village,Central Saskatchewan,40,38.6,unified score 38.6 below 50
+SK-1352,Mistatim,Village,Central Saskatchewan,30,36.7,unified score 36.7 below 50
+SK-1353,Fairlight,Village,Southeast Saskatchewan,25,37,unified score 37 below 50
+SK-1354,Birch Narrows Dene Nation,First Nations Reserve,Northern Saskatchewan,400,,no CGN-verifiable coordinates
+SK-1355,Buffalo River Dene Nation,First Nations Reserve,Northern Saskatchewan,600,,no CGN-verifiable coordinates
+SK-1356,English River First Nation,First Nations Reserve,Northern Saskatchewan,500,,no CGN-verifiable coordinates
+SK-1357,Fond du Lac Denesuline Nation,First Nations Reserve,Northern Saskatchewan,900,,no CGN-verifiable coordinates
+SK-1358,Nekaneet Cree Nation,First Nations Reserve,Southwest Saskatchewan,250,,no CGN-verifiable coordinates
+SK-1359,Lakewood Suburban Centre,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1360,University Heights Suburban Centre,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1361,Blairmore Suburban Centre,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1362,Holmwood Suburban Centre,Neighborhood,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1363,Bexhill,Locality,Southern Saskatchewan,32,37.7,unified score 37.7 below 50
+SK-1364,Brisbin,Locality,West Central Saskatchewan,30,39.3,unified score 39.3 below 50
+SK-1365,Buffalo Gap,Locality,Southern Saskatchewan,32,37.3,unified score 37.3 below 50
+SK-1366,Carlyle Lake Resort,Locality,Southeast Saskatchewan,26,36.1,unified score 36.1 below 50
+SK-1367,Colfax,Locality,Southeast Saskatchewan,53,40.9,unified score 40.9 below 50
+SK-1368,Druid,Locality,West Central Saskatchewan,29,37.3,unified score 37.3 below 50
+SK-1369,Ens,Locality,Central Saskatchewan,18,38.1,unified score 38.1 below 50
+SK-1370,Eskbank,Locality,Southern Saskatchewan,25,38.2,unified score 38.2 below 50
+SK-1371,Ettington,Locality,Southern Saskatchewan,39,38.7,unified score 38.7 below 50
+SK-1372,Fenton,Locality,Central Saskatchewan,34,38.5,unified score 38.5 below 50
+SK-1373,Fir Mountain,Locality,Southern Saskatchewan,42,37.3,unified score 37.3 below 50
+SK-1374,Glasnevin,Locality,Southern Saskatchewan,11,36.7,unified score 36.7 below 50
+SK-1375,Grandora,Locality,Saskatoon Region,26,41,unified score 41 below 50
+SK-1376,KC Beach,Locality,Southwest Saskatchewan,36,,no CGN-verifiable coordinates
+SK-1377,Lac La Plonge,Locality,Northern Saskatchewan,34,,no CGN-verifiable coordinates
+SK-1378,Mitchellton,Locality,Southern Saskatchewan,14,37.4,unified score 37.4 below 50
+SK-1379,Moose Range,Locality,Northwest Saskatchewan,41,38.4,unified score 38.4 below 50
+SK-1380,Nashlyn,Locality,Southwest Saskatchewan,5,26.9,unified score 26.9 below 50
+SK-1381,Palmer,Locality,Southwest Saskatchewan,5,34,unified score 34 below 50
+SK-1382,Portreeve,Locality,West Central Saskatchewan,13,33.6,unified score 33.6 below 50
+SK-1383,Readlyn,Locality,Southern Saskatchewan,41,38.8,unified score 38.8 below 50
+SK-1384,Rheinfeld,Locality,Southwest Saskatchewan,35,35.8,unified score 35.8 below 50
+SK-1385,Rosefield,Locality,Southwest Saskatchewan,31,34.1,unified score 34.1 below 50
+SK-1386,Sanctuary,Locality,West Central Saskatchewan,40,37.7,unified score 37.7 below 50
+SK-1387,St. Joseph's Colony,Locality,Southeast Saskatchewan,54,,no CGN-verifiable coordinates
+SK-1388,Tyvan,Locality,Southeast Saskatchewan,34,39.8,unified score 39.8 below 50
+SK-1389,Venn,Locality,Central Saskatchewan,5,34.9,unified score 34.9 below 50
+SK-1390,West Poplar,Locality,Southern Saskatchewan,28,35.6,unified score 35.6 below 50
+SK-1391,Wordsworth,Locality,Southeast Saskatchewan,13,34.5,unified score 34.5 below 50
+SK-1392,Unity East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1393,Auvergne,Locality,Regina Region,5,,no CGN-verifiable coordinates
+SK-1394,Belbeck,Locality,Southern Saskatchewan,24,39.4,unified score 39.4 below 50
+SK-1395,Bergheim,Locality,Saskatoon Region,24,40.8,unified score 40.8 below 50
+SK-1396,Bonnyville Junction,Locality,West Central Saskatchewan,9,,no CGN-verifiable coordinates
+SK-1397,Buchanan East,Locality,Regina Region,4,,no CGN-verifiable coordinates
+SK-1398,Carlton Trail,Locality,Central Saskatchewan,7,,no CGN-verifiable coordinates
+SK-1399,Clarkboro,Locality,Saskatoon Region,25,40.8,unified score 40.8 below 50
+SK-1400,Cluny,Locality,Northwest Saskatchewan,31,,no CGN-verifiable coordinates
+SK-1401,Conquest South,Locality,Regina Region,4,,no CGN-verifiable coordinates
+SK-1402,Eastend East,Locality,Southern Saskatchewan,5,,no CGN-verifiable coordinates
+SK-1403,Elfros East,Locality,West Central Saskatchewan,9,,no CGN-verifiable coordinates
+SK-1404,Filmore East,Locality,West Central Saskatchewan,9,,no CGN-verifiable coordinates
+SK-1405,Gerald East,Locality,Central Saskatchewan,7,,no CGN-verifiable coordinates
+SK-1406,Grand Coulee West,Locality,Regina Region,3,,no CGN-verifiable coordinates
+SK-1407,Hillmond East,Locality,Regina Region,4,,no CGN-verifiable coordinates
+SK-1408,Insinger East,Locality,Southwest Saskatchewan,26,,no CGN-verifiable coordinates
+SK-1409,Ituna Station,Locality,Central Saskatchewan,7,,no CGN-verifiable coordinates
+SK-1410,Keeler East,Locality,Northwest Saskatchewan,24,,no CGN-verifiable coordinates
+SK-1411,Kelliher Station,Locality,West Central Saskatchewan,10,,no CGN-verifiable coordinates
+SK-1412,Langbank East,Locality,Southern Saskatchewan,5,,no CGN-verifiable coordinates
+SK-1413,Langenburg East,Locality,West Central Saskatchewan,10,,no CGN-verifiable coordinates
+SK-1414,Lisle,Locality,Regina Region,13,,no CGN-verifiable coordinates
+SK-1415,Love East,Locality,Central Saskatchewan,6,,no CGN-verifiable coordinates
+SK-1416,MacNutt East,Locality,Regina Region,4,,no CGN-verifiable coordinates
+SK-1417,Wheatlands,Rural Municipality,Southern Saskatchewan,157,45.9,unified score 45.9 below 50
+SK-1418,Sun Valley,Resort Village,Southern Saskatchewan,154,45.1,unified score 45.1 below 50
+SK-1419,Hillsborough,Rural Municipality,Southern Saskatchewan,97,45.4,unified score 45.4 below 50
+SK-1420,Zealandia,Town,West Central Saskatchewan,75,44.9,unified score 44.9 below 50
+SK-1421,Echo Bay,Resort Village,Central Saskatchewan,68,41.8,unified score 41.8 below 50
+SK-1422,Consul,Village,Southwest Saskatchewan,50,33.7,unified score 33.7 below 50
+SK-1423,Fenwood,Village,Southeast Saskatchewan,42,40.8,unified score 40.8 below 50
+SK-1424,Heward,Village,Southeast Saskatchewan,30,39.9,unified score 39.9 below 50
+SK-1425,Valparaiso,Village,Central Saskatchewan,25,37.9,unified score 37.9 below 50
+SK-1426,Greig Lake,Resort Village,Northern Saskatchewan,24,34.8,unified score 34.8 below 50
+SK-1427,Clearwater River Dene Nation,First Nations Reserve,Northern Saskatchewan,600,,no CGN-verifiable coordinates
+SK-1428,Hatchet Lake Denesuline Nation,First Nations Reserve,Northern Saskatchewan,800,,no CGN-verifiable coordinates
+SK-1429,Adanac,Locality,Northwest Saskatchewan,5,33.3,unified score 33.3 below 50
+SK-1430,Argo,Locality,West Central Saskatchewan,10,36.7,unified score 36.7 below 50
+SK-1431,Burnham,Locality,Southwest Saskatchewan,9,33.3,unified score 33.3 below 50
+SK-1432,Cantuar,Locality,Southwest Saskatchewan,18,34.3,unified score 34.3 below 50
+SK-1433,Canuck,Locality,Southwest Saskatchewan,32,33.2,unified score 33.2 below 50
+SK-1434,Chipperfield,Locality,West Central Saskatchewan,53,38.7,unified score 38.7 below 50
+SK-1435,Chitek,Locality,Northwest Saskatchewan,41,36.6,unified score 36.6 below 50
+SK-1436,Crystal Hill,Locality,Southern Saskatchewan,5,35.8,unified score 35.8 below 50
+SK-1437,Danbury,Locality,Southeast Saskatchewan,20,33.8,unified score 33.8 below 50
+SK-1438,Elswick,Locality,Southwest Saskatchewan,22,,no CGN-verifiable coordinates
+SK-1439,Halcro,Locality,Southwest Saskatchewan,14,,no CGN-verifiable coordinates
+SK-1440,Hallonquist,Locality,Southwest Saskatchewan,28,36,unified score 36 below 50
+SK-1441,Illerbrun,Locality,Southwest Saskatchewan,23,33.2,unified score 33.2 below 50
+SK-1442,Inchkeith,Locality,Southeast Saskatchewan,11,35.1,unified score 35.1 below 50
+SK-1443,Little Amyot Lake,Locality,West Central Saskatchewan,8,,no CGN-verifiable coordinates
+SK-1444,Loverna,Locality,West Central Saskatchewan,8,32.2,unified score 32.2 below 50
+SK-1445,Mount Carmel,Locality,Northern Saskatchewan,35,,no CGN-verifiable coordinates
+SK-1446,Nut Mountain,Locality,Southeast Saskatchewan,14,34.2,unified score 34.2 below 50
+SK-1447,Parkerview,Locality,Southeast Saskatchewan,5,34.1,unified score 34.1 below 50
+SK-1448,Rangeview,Locality,Southwest Saskatchewan,7,27.9,unified score 27.9 below 50
+SK-1449,Richlea,Locality,West Central Saskatchewan,50,37.8,unified score 37.8 below 50
+SK-1450,Rutland,Locality,Northwest Saskatchewan,33,36.1,unified score 36.1 below 50
+SK-1451,Sand Point Beach,Locality,Southwest Saskatchewan,25,,no CGN-verifiable coordinates
+SK-1452,Stranraer,Locality,West Central Saskatchewan,6,34.7,unified score 34.7 below 50
+SK-1453,Tiny,Locality,Southeast Saskatchewan,19,35.1,unified score 35.1 below 50
+SK-1454,Vidora,Locality,Southwest Saskatchewan,28,30.8,unified score 30.8 below 50
+SK-1455,White Bear,Locality,Southwest Saskatchewan,49,37.6,unified score 37.6 below 50
+SK-1456,Delisle East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1457,Radisson Station,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1458,Zealandia East,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1459,Viscount East,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1460,Lanigan East,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1461,Loreburn East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1462,Moose Jaw East,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1463,Davidson East,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1464,Main Centre,Organized Hamlet,Southwest Saskatchewan,50,37.5,unified score 37.5 below 50
+SK-1465,Timber Bay Métis Community,Métis Community,Northern Saskatchewan,200,,no CGN-verifiable coordinates
+SK-1466,Benito Junction,Locality,Southern Saskatchewan,4,,no CGN-verifiable coordinates
+SK-1467,Blaine Lake East,Locality,Southwest Saskatchewan,10,,no CGN-verifiable coordinates
+SK-1468,Bone Creek,Locality,Central Saskatchewan,8,,no CGN-verifiable coordinates
+SK-1469,Braecroft,Locality,Regina Region,13,,no CGN-verifiable coordinates
+SK-1470,Chaplin East,Locality,Southwest Saskatchewan,11,,no CGN-verifiable coordinates
+SK-1471,Chatsworth,Locality,Southeast Saskatchewan,14,,no CGN-verifiable coordinates
+SK-1472,Childs,Locality,Southwest Saskatchewan,27,,no CGN-verifiable coordinates
+SK-1473,Clemenceau,Locality,Central Saskatchewan,26,33.1,unified score 33.1 below 50
+SK-1474,Corman Park East,Locality,West Central Saskatchewan,9,,no CGN-verifiable coordinates
+SK-1475,Dollard East,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1476,Eagle Creek,Locality,Northwest Saskatchewan,16,,no CGN-verifiable coordinates
+SK-1477,Eston East,Locality,Southern Saskatchewan,4,,no CGN-verifiable coordinates
+SK-1478,Flintoft,Locality,Southern Saskatchewan,13,35.2,unified score 35.2 below 50
+SK-1479,Goodwater East,Locality,Regina Region,3,,no CGN-verifiable coordinates
+SK-1480,Indian Grave,Locality,West Central Saskatchewan,25,,no CGN-verifiable coordinates
+SK-1481,Invermay East,Locality,Northern Saskatchewan,32,,no CGN-verifiable coordinates
+SK-1482,Killdeer East,Locality,Regina Region,4,,no CGN-verifiable coordinates
+SK-1483,Kuroki East,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1484,Lebret East,Locality,Regina Region,3,,no CGN-verifiable coordinates
+SK-1485,Lipton East,Locality,Southwest Saskatchewan,10,,no CGN-verifiable coordinates
+SK-1486,Lucky Lake East,Locality,Southeast Saskatchewan,14,,no CGN-verifiable coordinates
+SK-1487,Lumsden South,Locality,Southwest Saskatchewan,12,,no CGN-verifiable coordinates
+SK-1488,Maidstone East,Locality,Southern Saskatchewan,3,,no CGN-verifiable coordinates
+SK-1489,Marsden East,Locality,Southwest Saskatchewan,26,,no CGN-verifiable coordinates
+SK-1490,Tullymet,Rural Municipality,Southeast Saskatchewan,183,46.5,unified score 46.5 below 50
+SK-1491,Rosemount,Rural Municipality,West Central Saskatchewan,175,46.2,unified score 46.2 below 50
+SK-1492,Silton,Village,Regina Region,95,44.9,unified score 44.9 below 50
+SK-1493,Richard,Village,Northwest Saskatchewan,25,40.7,unified score 40.7 below 50
+SK-1494,Arran,Village,Southeast Saskatchewan,20,35.3,unified score 35.3 below 50
+SK-1495,Alta Vista,Organized Hamlet,Regina Region,,,no real census population
+SK-1496,Amsterdam,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1497,Arlington Beach,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1498,Balone Beach,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1499,Barrier Ford,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1500,Bayard,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1501,Bayview Heights,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1502,Beaubier,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1503,Beaver Creek,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1504,Bellegarde,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1505,Big Beaver,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1506,Blumenthal,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1507,Brancepeth,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1508,Burgis Beach,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1509,Candiac,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1510,Cannington Lake,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1511,Caron,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1512,Casa Rio,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1513,Cathedral Bluffs,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1514,Cedar Villa Estates,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1515,Chelan,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1516,Claybank,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1517,Congress,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1518,Corning,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1519,Crawford Estates,Organized Hamlet,Regina Region,,,no CGN-verifiable coordinates
+SK-1520,Crutwell,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1521,Crystal Bay-Sunset,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1522,Crystal Lake,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1523,Crystal Springs,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1524,Darlings Beach,Organized Hamlet,Southwest Saskatchewan,,,no real census population
+SK-1525,Davin,Organized Hamlet,Regina Region,,,no real census population
+SK-1526,Deer Valley,Organized Hamlet,Regina Region,,,no real census population
+SK-1527,Delmas,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1528,Demaine,Organized Hamlet,Southwest Saskatchewan,,,no real census population
+SK-1529,Discovery Ridge,Organized Hamlet,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1530,Eagle Ridge Country Estates,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1531,Edgeley,Organized Hamlet,Regina Region,,,no real census population
+SK-1532,Elbow Lake,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1533,Elk Ridge,Organized Hamlet,Northern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1534,Erwood,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1535,Evergreen Acres,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1536,Evergreen Beach,Organized Hamlet,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1537,Fairholme,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1538,Fairy Glen,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1539,Fiske,Organized Hamlet,West Central Saskatchewan,,,no real census population
+SK-1540,Frenchman Butte,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1541,Furdale,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1542,Garrick,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1543,Good Spirit Acres,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1544,Gray,Organized Hamlet,Regina Region,,,no real census population
+SK-1545,Gronlid,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1546,Guernsey,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1547,Hagen,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1548,Hazel Dell,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1549,Hendon,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1550,Hitchcock Bay,Organized Hamlet,West Central Saskatchewan,,,no real census population
+SK-1551,Hoey,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1552,Holbein,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1553,Kandahar,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1554,Kronau,Organized Hamlet,Regina Region,,,no real census population
+SK-1555,Kuroki,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1556,Livelong,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1557,Lone Rock,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1558,MacDowall,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1559,McCord,Organized Hamlet,Southwest Saskatchewan,,,no real census population
+SK-1560,Meskanaw,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1561,Mozart,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1562,Neuanlage,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1563,Neuhorst,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1564,North Weyburn,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1565,Northside,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1566,Ormiston,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1567,Parkview,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1568,Parry,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1569,Pelican Cove,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1570,Prairie River,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1571,Riceton,Organized Hamlet,Regina Region,,,no real census population
+SK-1572,Runnymede,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1573,Scout Lake,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1574,Snowden,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1575,Spruce Bay,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1576,St. Isidore-de-Bellevue,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1577,Swan Plain,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1578,Sylvania,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1579,Tadmore,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1580,Trossachs,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1581,Tuffnell,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1582,Tway,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1583,Wishart,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1584,Wymark,Organized Hamlet,Southwest Saskatchewan,,,no real census population
+SK-1585,Colesdale Park,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1586,Collingwood Lakeshore Estates,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1587,Cudsaskwa Beach,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1588,Day's Beach,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1589,Greenspot,Organized Hamlet,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1590,Horseshoe Bay,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1591,Little Fishing Lake,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1592,Little Swan River,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1593,Maymont Beach,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1594,Mohr's Beach,Organized Hamlet,Regina Region,,,no real census population
+SK-1595,Moose Bay,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1596,Mullingar,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1597,Nesslin Lake,Organized Hamlet,Central Saskatchewan,,,no real census population
+SK-1598,North Colesdale Park,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1599,North Shore Fishing Lake,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1600,Okla,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1601,Pelican Point,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1602,Pelican Shores,Organized Hamlet,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1603,Phillips Grove,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1604,River's Edge,Organized Hamlet,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1605,Riverside Estates,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1606,Sarnia Beach,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1607,Sorensen Beach,Organized Hamlet,Regina Region,,,no real census population
+SK-1608,Spring Bay,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1609,Spruce Lake,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1610,Summerfield Beach,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1611,Sunset Beach,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1612,Sunset View Beach,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1613,Taylor Beach,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1614,Uhl's Bay,Organized Hamlet,Southern Saskatchewan,,,no real census population
+SK-1615,Usherville,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1616,West Chatfield Beach,Organized Hamlet,Northwest Saskatchewan,,,no real census population
+SK-1617,Ketchen,Organized Hamlet,Southeast Saskatchewan,,,no real census population
+SK-1618,Merrill Hills,Organized Hamlet,Saskatoon Region,,,no real census population
+SK-1619,Grandview,Neighborhood,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1620,Barthel,Locality,Northwest Saskatchewan,24,33.8,unified score 33.8 below 50
+SK-1621,Bonne Madone,Locality,Central Saskatchewan,36,39.2,unified score 39.2 below 50
+SK-1622,Cavell,Locality,Northwest Saskatchewan,23,37.4,unified score 37.4 below 50
+SK-1623,Clair,Locality,Central Saskatchewan,16,35.3,unified score 35.3 below 50
+SK-1624,Fertile,Locality,Southeast Saskatchewan,5,30.6,unified score 30.6 below 50
+SK-1625,Feudal,Locality,West Central Saskatchewan,22,39.2,unified score 39.2 below 50
+SK-1626,Fry's,Locality,Central Saskatchewan,5,,no CGN-verifiable coordinates
+SK-1627,Grasswood,Locality,Saskatoon Region,21,40.9,unified score 40.9 below 50
+SK-1628,Kenlis,Locality,Southeast Saskatchewan,20,38.5,unified score 38.5 below 50
+SK-1629,Lepine,Locality,Central Saskatchewan,45,39.9,unified score 39.9 below 50
+SK-1630,Neidpath,Locality,Southwest Saskatchewan,37,36.6,unified score 36.6 below 50
+SK-1631,North Battleford Crown Colony,Locality,Northwest Saskatchewan,19,,no CGN-verifiable coordinates
+SK-1632,Rosenort,Locality,Southwest Saskatchewan,11,33.4,unified score 33.4 below 50
+SK-1633,Surbiton,Locality,West Central Saskatchewan,5,35.5,unified score 35.5 below 50
+SK-1634,Cabri South,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1635,Jansen Junction,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1636,Drake Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1637,Milden Station,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1638,Fiske Station,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1639,Dodsland East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1640,Major Station,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1641,Borden East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1642,Richard Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1643,Reward Station,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1644,Harris Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1645,Tessier East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1646,Domremy East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1647,Naicam East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1648,Nokomis East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1649,Allan East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1650,Colonsay East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1651,Elbow East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1652,Pense East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1653,Grand Coulee East,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1654,Stockholm Station,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1655,Kelvington East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1656,Rose Valley East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1657,Choiceland East,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1658,Domremy West,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1659,Prud'homme East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1660,Vonda East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1661,Kenaston East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1662,Bethune East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1663,Michel Village Métis Community,Métis Community,Northern Saskatchewan,150,,no CGN-verifiable coordinates
+SK-1664,Abbotsford,Locality,West Central Saskatchewan,9,,no CGN-verifiable coordinates
+SK-1665,Annaheim East,Locality,Southwest Saskatchewan,11,,no CGN-verifiable coordinates
+SK-1666,Balcarres East,Locality,Southern Saskatchewan,3,,no CGN-verifiable coordinates
+SK-1667,Bankend,Locality,Southeast Saskatchewan,31,38.1,unified score 38.1 below 50
+SK-1668,Blue Hill,Locality,Southern Saskatchewan,4,,no CGN-verifiable coordinates
+SK-1669,Canwood East,Locality,Southwest Saskatchewan,27,,no CGN-verifiable coordinates
+SK-1670,Cape Lake,Locality,Southwest Saskatchewan,12,,no CGN-verifiable coordinates
+SK-1671,Diefenbaker,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1672,Elstow East,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1673,Etomami,Locality,Central Saskatchewan,27,32.7,unified score 32.7 below 50
+SK-1674,Gronlid East,Locality,Northern Saskatchewan,32,,no CGN-verifiable coordinates
+SK-1675,Gull Lake East,Locality,West Central Saskatchewan,10,,no CGN-verifiable coordinates
+SK-1676,Lake Alma East,Locality,Southwest Saskatchewan,26,,no CGN-verifiable coordinates
+SK-1677,Leask East,Locality,Southern Saskatchewan,3,,no CGN-verifiable coordinates
+SK-1678,Macoun East,Locality,Southeast Saskatchewan,14,,no CGN-verifiable coordinates
+SK-1679,Senlac,Village,Northwest Saskatchewan,36,38,unified score 38 below 50
+SK-1680,West Terrace,Neighborhood,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1681,East Heights,Neighborhood,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1682,Killdeer Park,Neighborhood,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1683,Fairview Heights,Neighborhood,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1684,South Centre,Neighborhood,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1685,South Weyburn,Neighborhood,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1686,Crescent Heights,Neighborhood,Southern Saskatchewan,,,no real census population
+SK-1687,North End,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1688,South End,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1689,West Side,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1690,Bapaume,Locality,Northwest Saskatchewan,47,38.2,unified score 38.2 below 50
+SK-1691,Benson,Locality,Southeast Saskatchewan,12,35.3,unified score 35.3 below 50
+SK-1692,Beverley,Locality,Southwest Saskatchewan,6,31.8,unified score 31.8 below 50
+SK-1693,Black Lake Denesuline First Nation,Locality,Northern Saskatchewan,22,,no CGN-verifiable coordinates
+SK-1694,Canoe Lake 165,Locality,Southwest Saskatchewan,36,,no CGN-verifiable coordinates
+SK-1695,Dollard,Locality,Southwest Saskatchewan,10,30.7,unified score 30.7 below 50
+SK-1696,Domremy Beach,Locality,Central Saskatchewan,11,36.9,unified score 36.9 below 50
+SK-1697,Ferland,Locality,Southwest Saskatchewan,36,36.2,unified score 36.2 below 50
+SK-1698,Fusilier,Locality,West Central Saskatchewan,18,34.5,unified score 34.5 below 50
+SK-1699,Gledhow,Locality,Saskatoon Region,25,40.3,unified score 40.3 below 50
+SK-1700,Govenlock,Locality,Southwest Saskatchewan,26,29.8,unified score 29.8 below 50
+SK-1701,Jan Lake,Locality,Northern Saskatchewan,24,29.5,unified score 29.5 below 50
+SK-1702,Katepwa South,Locality,Northern Saskatchewan,9,,no CGN-verifiable coordinates
+SK-1703,Kinookimaw,Locality,Northern Saskatchewan,34,,no CGN-verifiable coordinates
+SK-1704,Lemsford,Locality,West Central Saskatchewan,14,33.7,unified score 33.7 below 50
+SK-1705,Phippen,Locality,Northwest Saskatchewan,22,36.7,unified score 36.7 below 50
+SK-1706,Serath,Locality,Central Saskatchewan,44,40.2,unified score 40.2 below 50
+SK-1707,South Gnadenthal,Locality,Southwest Saskatchewan,23,35,unified score 35 below 50
+SK-1708,Woodrow,Locality,Southwest Saskatchewan,26,36.4,unified score 36.4 below 50
+SK-1709,Altawan,Locality,Southwest Saskatchewan,,,no real census population
+SK-1710,Ceepee,Locality,Saskatoon Region,,,no real census population
+SK-1711,Orkney,Locality,Southwest Saskatchewan,,,no real census population
+SK-1712,Guernsey Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1713,Strongfield East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1714,Wiseton East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1715,Kelfield Station,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1716,Netherhill Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1717,Plenty East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1718,Kerrobert Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1719,Luseland East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1720,Langham Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1721,Tramping South,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1722,Sovereign,Locality,West Central Saskatchewan,,,no real census population
+SK-1723,Martensville East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1724,Hague East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1725,Duck Lake East,Locality,Saskatoon Region,,,no CGN-verifiable coordinates
+SK-1726,St. Brieux Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1727,Spalding Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1728,Raymore Station,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1729,Watrous East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1730,Jansen East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1731,Balgonie East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1732,Sintaluta East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1733,Grenfell East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1734,Moosomin East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1735,Kelliher East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1736,Porcupine Plain East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1737,Hudson Bay East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1738,Reserve East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1739,Craik East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1740,Birch Hills East,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1741,Bruno East,Locality,Southeast Saskatchewan,4,,no CGN-verifiable coordinates
+SK-1742,Coleville East,Locality,West Central Saskatchewan,10,,no CGN-verifiable coordinates
+SK-1743,Craven East,Locality,Southwest Saskatchewan,11,,no CGN-verifiable coordinates
+SK-1744,Deer Ridge,Locality,Central Saskatchewan,11,35.3,unified score 35.3 below 50
+SK-1745,Dubuc East,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1746,Francis East,Locality,Southwest Saskatchewan,11,,no CGN-verifiable coordinates
+SK-1747,Gladmar East,Locality,Northern Saskatchewan,16,,no CGN-verifiable coordinates
+SK-1748,Glen Ewen East,Locality,Southwest Saskatchewan,12,,no CGN-verifiable coordinates
+SK-1749,Handel East,Locality,West Central Saskatchewan,10,,no CGN-verifiable coordinates
+SK-1750,Kinistino East,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1751,Lampman East,Locality,Southern Saskatchewan,3,,no CGN-verifiable coordinates
+SK-1752,Melfort East,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1753,Dana,Locality,Central Saskatchewan,80,41.8,unified score 41.8 below 50
+SK-1754,Uranium City,Locality,Northern Saskatchewan,60,28.3,unified score 28.3 below 50
+SK-1755,Leslie,Locality,Central Saskatchewan,60,,no CGN-verifiable coordinates
+SK-1756,Cypress Hills,Locality,Southwest Saskatchewan,50,,no CGN-verifiable coordinates
+SK-1757,Missinipe,Locality,Northern Saskatchewan,50,30.8,unified score 30.8 below 50
+SK-1758,D'Arcy,Locality,West Central Saskatchewan,50,38.5,unified score 38.5 below 50
+SK-1759,Rockhaven,Locality,Northwest Saskatchewan,50,38.1,unified score 38.1 below 50
+SK-1760,Reward,Locality,Northwest Saskatchewan,50,37.4,unified score 37.4 below 50
+SK-1761,Lockwood,Locality,Central Saskatchewan,50,39.1,unified score 39.1 below 50
+SK-1762,Chamberlain,Locality,Southern Saskatchewan,50,40.5,unified score 40.5 below 50
+SK-1763,Sask River Forks,Locality,Central Saskatchewan,50,,no CGN-verifiable coordinates
+SK-1764,Fielding,Locality,Northwest Saskatchewan,50,40.7,unified score 40.7 below 50
+SK-1765,Liebenthal,Locality,Southwest Saskatchewan,50,35.2,unified score 35.2 below 50
+SK-1766,Piapot,Locality,Southwest Saskatchewan,50,34.1,unified score 34.1 below 50
+SK-1767,Grasslands,Locality,Southwest Saskatchewan,30,,no CGN-verifiable coordinates
+SK-1768,Batoche,Locality,Central Saskatchewan,30,39.6,unified score 39.6 below 50
+SK-1769,Antler,Locality,Southeast Saskatchewan,30,34.5,unified score 34.5 below 50
+SK-1770,East Melfort,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1771,West Melfort,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1772,Crescent Park,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1773,Bremen,Locality,Central Saskatchewan,16,38.4,unified score 38.4 below 50
+SK-1774,Coothill,Locality,Southeast Saskatchewan,18,35,unified score 35 below 50
+SK-1775,Lake Valley,Locality,Southern Saskatchewan,35,39.1,unified score 39.1 below 50
+SK-1776,Masefield,Locality,Southwest Saskatchewan,5,30.1,unified score 30.1 below 50
+SK-1777,Mawer,Locality,Southern Saskatchewan,10,35.8,unified score 35.8 below 50
+SK-1778,Roseray,Locality,Southwest Saskatchewan,29,35.1,unified score 35.1 below 50
+SK-1779,Sonningdale,Locality,West Central Saskatchewan,10,37.5,unified score 37.5 below 50
+SK-1780,Hazlet Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1781,Elbow South,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1782,Conquest East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1783,Primate,Locality,Northwest Saskatchewan,,,no real census population
+SK-1784,Maymont Station,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1785,Paradise Hill East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1786,Frenchman Butte Station,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1787,St. Walburg East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1788,Paynton East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1789,Hepburn East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1790,Imperial Station,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1791,Riverhurst East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1792,Tugaske East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1793,Pilot Butte East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1794,Whitewood East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1795,Rocanville East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1796,Melville East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1797,Foam Lake East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1798,White Fox East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1799,Bellevue,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1800,Clavet East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1801,Aylesbury East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1802,Buena Vista East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1803,Jans Bay Métis Community,Métis Community,Northern Saskatchewan,100,,no CGN-verifiable coordinates
+SK-1804,Bach,Locality,Southwest Saskatchewan,12,,no CGN-verifiable coordinates
+SK-1805,Broderick East,Locality,Southwest Saskatchewan,26,,no CGN-verifiable coordinates
+SK-1806,Ruddell,Village,Northwest Saskatchewan,20,40.2,unified score 40.2 below 50
+SK-1807,North Yorkton,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1808,South Yorkton,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1809,Weinmaster Park,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1810,Parkland,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1811,Logan Park,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1812,York Colony,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1813,Yorkdale,Neighborhood,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1814,Hillcrest,Neighborhood,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1815,Woodlawn,Neighborhood,Saskatoon Region,,,no real census population
+SK-1816,Baldwinton,Locality,Northwest Saskatchewan,12,34.4,unified score 34.4 below 50
+SK-1817,Horizon,Locality,Southern Saskatchewan,10,36.3,unified score 36.3 below 50
+SK-1818,Lac La Peche,Locality,Northern Saskatchewan,9,,no CGN-verifiable coordinates
+SK-1819,Mennon,Locality,Saskatoon Region,30,40.9,unified score 40.9 below 50
+SK-1820,Zehner,Locality,Regina Region,22,40.7,unified score 40.7 below 50
+SK-1821,Bladworth East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1822,Girvin North,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1823,Cactus Lake East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1824,Kindersley East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1825,North Battleford East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1826,Macklin East,Locality,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1827,Salvador East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1828,Springwater,Locality,West Central Saskatchewan,,,no real census population
+SK-1829,Osler East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1830,Laird East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1831,Strongfield West,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1832,Eyebrow East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1833,Marquis East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1834,Qu'Appelle East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1835,Dubuc Station,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1836,Killaly East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1837,Wadena East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1838,Nipawin East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1839,Paddockwood East,Locality,Southern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1840,Wakaw North,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1841,Dundurn East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1842,Halbrite East,Locality,Northern Saskatchewan,32,,no CGN-verifiable coordinates
+SK-1843,North Hill,Neighborhood,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1844,South Hill,Neighborhood,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1845,Riverside,Neighborhood,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1846,Elmwood,Neighborhood,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1847,Northcote,Neighborhood,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1848,Southview,Neighborhood,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1849,Fairview East,Neighborhood,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1850,Besant,Locality,Southwest Saskatchewan,16,,no CGN-verifiable coordinates
+SK-1851,Birmingham,Locality,Southeast Saskatchewan,5,34.3,unified score 34.3 below 50
+SK-1852,Loomis,Locality,Southwest Saskatchewan,19,31.1,unified score 31.1 below 50
+SK-1853,Vosnesenya,Locality,Northern Saskatchewan,7,,no CGN-verifiable coordinates
+SK-1854,Dafoe,Locality,Central Saskatchewan,,,no real census population
+SK-1855,Wilkie East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1856,Landis Station,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1857,Denholm Station,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1858,Warman East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1859,Waldheim Station,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1860,Watson East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1861,Simpson East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1862,McLean East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1863,Esterhazy East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1864,Meath Park East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1865,Hoodoo,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1866,Lumsden East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1867,Cressman,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1868,Cupar East,Locality,Northern Saskatchewan,17,,no CGN-verifiable coordinates
+SK-1869,Kamsack East,Locality,Southwest Saskatchewan,12,,no CGN-verifiable coordinates
+SK-1870,Colonial Park,Neighborhood,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1871,Lakeside,Neighborhood,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1872,Southridge,Neighborhood,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1873,Bresaylor,Locality,Northwest Saskatchewan,5,33.2,unified score 33.2 below 50
+SK-1874,Davis,Locality,Central Saskatchewan,12,36.2,unified score 36.2 below 50
+SK-1875,Laura,Locality,Saskatoon Region,5,36.7,unified score 36.7 below 50
+SK-1876,Thackeray,Locality,Northwest Saskatchewan,6,34.2,unified score 34.2 below 50
+SK-1877,Sceptre Junction,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1878,Herschel North,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1879,Biggar East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1880,Asquith East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1881,Maidstone Station,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1882,Wilbert,Locality,Northwest Saskatchewan,,,no real census population
+SK-1883,Laura Station,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1884,Ardath East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1885,Rosthern East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1886,Young Station,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1887,Liberty East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1888,Outlook East,Locality,Regina Region,,,no CGN-verifiable coordinates
+SK-1889,Keeler,Locality,Southern Saskatchewan,,,no real census population
+SK-1890,Wolseley East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1891,Broadview East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1892,Ituna East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1893,Wynyard East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1894,Christopher Lake East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1895,Candle Lake East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1896,Hanley East,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1897,Arbuthnot,Locality,Southwest Saskatchewan,8,33.9,unified score 33.9 below 50
+SK-1898,Baljennie,Locality,Northwest Saskatchewan,6,35.8,unified score 35.8 below 50
+SK-1899,Glenbain,Locality,Southwest Saskatchewan,6,33.1,unified score 33.1 below 50
+SK-1900,Old Wives,Locality,Southern Saskatchewan,8,36.1,unified score 36.1 below 50
+SK-1901,Neville South,Locality,West Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1902,Hawarden Station,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1903,Outlook West,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1904,Vanscoy Station,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1905,Hillmond,Locality,Northwest Saskatchewan,,,no real census population
+SK-1906,Lashburn East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1907,Cut Knife East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1908,Denzil Station,Locality,Northern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1909,Dalmeny East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1910,Wakaw East,Locality,Northwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1911,Drake East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1912,Carrot River East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1913,Smeaton East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1914,Regina Beach East,Locality,Southeast Saskatchewan,,,no CGN-verifiable coordinates
+SK-1915,Glentworth,Locality,Southwest Saskatchewan,5,32.6,unified score 32.6 below 50
+SK-1916,Pambrun,Locality,Southwest Saskatchewan,6,32.3,unified score 32.3 below 50
+SK-1917,Yonker,Locality,Northwest Saskatchewan,6,32.3,unified score 32.3 below 50
+SK-1918,Prongua,Locality,Northwest Saskatchewan,,,no real census population
+SK-1919,Prince Albert East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1920,Turtle View,Resort Village,Central Saskatchewan,,,no CGN-verifiable coordinates
+SK-1921,Burr West,Locality,Northern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1922,Flaxcombe Station,Locality,Northern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1923,Perdue Station,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1924,St. Louis East,Locality,Northern Saskatchewan,,,no CGN-verifiable coordinates
+SK-1925,Aberdeen East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-1926,Indian Head East,Locality,Southwest Saskatchewan,,,no CGN-verifiable coordinates
+SK-0172,Lajord,Rural Municipality,Regina Region,985,53.8,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0488,McKillop,Rural Municipality,Southern Saskatchewan,897,52.9,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0740,North Qu'Appelle,Rural Municipality,Southeast Saskatchewan,918,52.9,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0551,Montrose,Rural Municipality,Saskatoon Region,647,52.6,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0495,Francis,Rural Municipality,Regina Region,701,52.5,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0553,Eagle Creek,Rural Municipality,West Central Saskatchewan,643,52.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0564,Pense,Rural Municipality,Regina Region,441,52.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0623,Cupar,Rural Municipality,Regina Region,516,52.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-1103,Grant,Rural Municipality,Saskatoon Region,525,52.1,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0616,Hoodoo,Rural Municipality,Central Saskatchewan,802,52,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0422,Baildon,Rural Municipality,Southern Saskatchewan,583,51.8,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0628,Perdue,Rural Municipality,Saskatoon Region,471,51.8,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0865,Rosedale,Rural Municipality,Central Saskatchewan,542,51.8,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0242,Bratt's Lake,Rural Municipality,Regina Region,328,51.7,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0544,Leask,Rural Municipality,Central Saskatchewan,857,51.7,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0484,Humboldt,Rural Municipality,Central Saskatchewan,961,51.6,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0638,Great Bend,Rural Municipality,Saskatoon Region,381,51.6,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0615,Biggar,Rural Municipality,West Central Saskatchewan,805,51.5,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0630,Dufferin,Rural Municipality,Southern Saskatchewan,454,51.5,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0555,Fertile Valley,Rural Municipality,West Central Saskatchewan,604,51.3,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0627,Rudy,Rural Municipality,West Central Saskatchewan,475,51.3,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0546,Three Lakes,Rural Municipality,Central Saskatchewan,725,51.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0870,Bayne,Rural Municipality,Central Saskatchewan,461,51.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0999,Caron,Rural Municipality,Southern Saskatchewan,603,51.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0354,Redburn,Rural Municipality,Regina Region,253,50.8,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-1005,Lipton,Rural Municipality,Southeast Saskatchewan,388,50.8,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-1209,Fish Creek,Rural Municipality,Central Saskatchewan,364,50.8,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0880,Sarnia,Rural Municipality,Southern Saskatchewan,326,50.7,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-1010,Indian Head,Rural Municipality,Southeast Saskatchewan,362,50.6,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-1218,Colonsay,Rural Municipality,Saskatoon Region,260,50.6,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0494,St. Peter,Rural Municipality,Central Saskatchewan,723,50.5,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0618,North Battleford,Rural Municipality,Northwest Saskatchewan,687,50.5,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0625,Wolverine,Rural Municipality,Central Saskatchewan,511,50.5,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0640,Redberry,Rural Municipality,Northwest Saskatchewan,372,50.5,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-1016,Marquis,Rural Municipality,Southern Saskatchewan,303,50.5,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-1109,Lost River,Rural Municipality,Saskatoon Region,252,50.5,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0561,Mount Hope,Rural Municipality,Central Saskatchewan,531,50.3,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0636,Mayfield,Rural Municipality,Northwest Saskatchewan,391,50.3,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0878,Montmartre,Rural Municipality,Southeast Saskatchewan,350,50.3,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-1212,Abernethy,Rural Municipality,Southeast Saskatchewan,337,50.3,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0487,Cana,Rural Municipality,Southeast Saskatchewan,904,50.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0548,Birch Hills,Rural Municipality,Central Saskatchewan,658,50.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0624,Usborne,Rural Municipality,Central Saskatchewan,511,50.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0754,Touchwood,Rural Municipality,Central Saskatchewan,373,50.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0883,Blaine Lake,Rural Municipality,Central Saskatchewan,301,50.2,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0134,Caledonia,Rural Municipality,Southeast Saskatchewan,225,50.1,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0557,Invergordon,Rural Municipality,Central Saskatchewan,563,50.1,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0745,Stanley,Rural Municipality,Southeast Saskatchewan,508,50.1,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0871,St. Andrews,Rural Municipality,West Central Saskatchewan,461,50.1,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0753,Loreburn,Rural Municipality,West Central Saskatchewan,380,50,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0759,Douglas,Rural Municipality,Northwest Saskatchewan,342,50,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0879,Marriott,Rural Municipality,West Central Saskatchewan,349,50,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-0881,Viscount,Rural Municipality,Central Saskatchewan,320,50,"Rural Municipality below tier-1 viability floor (population < 1,000)"
+SK-1004,Kellross,Rural Municipality,Southeast Saskatchewan,396,50,"Rural Municipality below tier-1 viability floor (population < 1,000)"
