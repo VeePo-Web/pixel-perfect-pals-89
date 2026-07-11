@@ -1,0 +1,301 @@
+[
+  {
+    "Location_ID": "AB-0001",
+    "file": "calgary-calgary-region-ab.webp",
+    "alt_geo": "Calgary, Calgary Region Alberta — skyline at the confluence of the Bow and Elbow rivers where prairie meets foothills",
+    "alt_rendered": "{SERVICE_CATEGORY} in Calgary, Alberta — Calgary, Calgary Region Alberta — skyline at the confluence of the Bow and Elbow rivers where prairie meets foothills",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.0458,
+      "lng": -114.0575,
+      "place": "Calgary, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0002",
+    "file": "edmonton-edmonton-region-ab.webp",
+    "alt_geo": "Edmonton, Edmonton Region Alberta — North Saskatchewan River valley parkland through the provincial capital",
+    "alt_rendered": "{SERVICE_CATEGORY} in Edmonton, Alberta — Edmonton, Edmonton Region Alberta — North Saskatchewan River valley parkland through the provincial capital",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.5344,
+      "lng": -113.4903,
+      "place": "Edmonton, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0007",
+    "file": "st-albert-edmonton-region-ab.webp",
+    "alt_geo": "St. Albert, Edmonton Region Alberta — Sturgeon River mission city with preserved riverside grain elevators",
+    "alt_rendered": "{SERVICE_CATEGORY} in St. Albert, Alberta — St. Albert, Edmonton Region Alberta — Sturgeon River mission city with preserved riverside grain elevators",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.6369,
+      "lng": -113.6203,
+      "place": "St. Albert, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0003",
+    "file": "airdrie-calgary-region-ab.webp",
+    "alt_geo": "Airdrie, Calgary Region Alberta — fast-growing prairie city on Nose Creek along the QEII corridor north of Calgary",
+    "alt_rendered": "{SERVICE_CATEGORY} in Airdrie, Alberta — Airdrie, Calgary Region Alberta — fast-growing prairie city on Nose Creek along the QEII corridor north of Calgary",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.2922,
+      "lng": -114.0142,
+      "place": "Airdrie, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0013",
+    "file": "spruce-grove-edmonton-region-ab.webp",
+    "alt_geo": "Spruce Grove, Edmonton Region Alberta — Yellowhead-corridor city with a preserved trackside grain elevator",
+    "alt_rendered": "{SERVICE_CATEGORY} in Spruce Grove, Alberta — Spruce Grove, Edmonton Region Alberta — Yellowhead-corridor city with a preserved trackside grain elevator",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.5539,
+      "lng": -113.9022,
+      "place": "Spruce Grove, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0005",
+    "file": "red-deer-central-alberta-ab.webp",
+    "alt_geo": "Red Deer, Central Alberta — Red Deer River valley city at the midpoint of the QE2 corridor",
+    "alt_rendered": "{SERVICE_CATEGORY} in Red Deer, Alberta — Red Deer, Central Alberta — Red Deer River valley city at the midpoint of the QE2 corridor",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.2686,
+      "lng": -113.8103,
+      "place": "Red Deer, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0014",
+    "file": "leduc-edmonton-region-ab.webp",
+    "alt_geo": "Leduc, Edmonton Region Alberta — Telford Lake city beside Edmonton International Airport and the Leduc No. 1 oil discovery site",
+    "alt_rendered": "{SERVICE_CATEGORY} in Leduc, Alberta — Leduc, Edmonton Region Alberta — Telford Lake city beside Edmonton International Airport and the Leduc No. 1 oil discovery site",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.2667,
+      "lng": -113.5458,
+      "place": "Leduc, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0012",
+    "file": "chestermere-calgary-region-ab.webp",
+    "alt_geo": "Chestermere, Calgary Region Alberta — lakeside city on a Western Irrigation District reservoir east of Calgary",
+    "alt_rendered": "{SERVICE_CATEGORY} in Chestermere, Alberta — Chestermere, Calgary Region Alberta — lakeside city on a Western Irrigation District reservoir east of Calgary",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.0333,
+      "lng": -113.8167,
+      "place": "Chestermere, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0017",
+    "file": "fort-saskatchewan-edmonton-region-ab.webp",
+    "alt_geo": "Fort Saskatchewan, Edmonton Region Alberta — North Saskatchewan River city at the edge of Alberta's Industrial Heartland",
+    "alt_rendered": "{SERVICE_CATEGORY} in Fort Saskatchewan, Alberta — Fort Saskatchewan, Edmonton Region Alberta — North Saskatchewan River city at the edge of Alberta's Industrial Heartland",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.7111,
+      "lng": -113.2178,
+      "place": "Fort Saskatchewan, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0015",
+    "file": "beaumont-edmonton-region-ab.webp",
+    "alt_geo": "Beaumont, Edmonton Region Alberta — hilltop St. Vital church steeple over a French-heritage prairie city",
+    "alt_rendered": "{SERVICE_CATEGORY} in Beaumont, Alberta — Beaumont, Edmonton Region Alberta — hilltop St. Vital church steeple over a French-heritage prairie city",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.3525,
+      "lng": -113.4153,
+      "place": "Beaumont, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0006",
+    "file": "sherwood-park-edmonton-region-ab.webp",
+    "alt_geo": "Sherwood Park, Edmonton Region Alberta — Canada's largest hamlet beside the Refinery Row corridor of Strathcona County",
+    "alt_rendered": "{SERVICE_CATEGORY} in Sherwood Park, Alberta — Sherwood Park, Edmonton Region Alberta — Canada's largest hamlet beside the Refinery Row corridor of Strathcona County",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.5339,
+      "lng": -113.2903,
+      "place": "Sherwood Park, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0009",
+    "file": "cochrane-calgary-region-ab.webp",
+    "alt_geo": "Cochrane, Calgary Region Alberta — Bow River valley town at the foot of the Big Hill in the foothills",
+    "alt_rendered": "{SERVICE_CATEGORY} in Cochrane, Alberta — Cochrane, Calgary Region Alberta — Bow River valley town at the foot of the Big Hill in the foothills",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.2067,
+      "lng": -114.4669,
+      "place": "Cochrane, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0011",
+    "file": "okotoks-calgary-region-ab.webp",
+    "alt_geo": "Okotoks, Calgary Region Alberta — Sheep River town near the Big Rock glacial erratic in the foothills",
+    "alt_rendered": "{SERVICE_CATEGORY} in Okotoks, Alberta — Okotoks, Calgary Region Alberta — Sheep River town near the Big Rock glacial erratic in the foothills",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.7261,
+      "lng": -113.9775,
+      "place": "Okotoks, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0027",
+    "file": "camrose-central-alberta-ab.webp",
+    "alt_geo": "Camrose, Central Alberta — Mirror Lake swan ponds and the Augustana campus in the Battle River parkland",
+    "alt_rendered": "{SERVICE_CATEGORY} in Camrose, Alberta — Camrose, Central Alberta — Mirror Lake swan ponds and the Augustana campus in the Battle River parkland",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.0247,
+      "lng": -112.8242,
+      "place": "Camrose, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0025",
+    "file": "wetaskiwin-central-alberta-ab.webp",
+    "alt_geo": "Wetaskiwin, Central Alberta — 1906 courthouse city of the Peace Hills parkland south of Edmonton",
+    "alt_rendered": "{SERVICE_CATEGORY} in Wetaskiwin, Alberta — Wetaskiwin, Central Alberta — 1906 courthouse city of the Peace Hills parkland south of Edmonton",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.9691667,
+      "lng": -113.3769444,
+      "place": "Wetaskiwin, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0024",
+    "file": "stony-plain-edmonton-region-ab.webp",
+    "alt_geo": "Stony Plain, Edmonton Region Alberta — mural-lined Main Street town of the Painted Past west of Edmonton",
+    "alt_rendered": "{SERVICE_CATEGORY} in Stony Plain, Alberta — Stony Plain, Edmonton Region Alberta — mural-lined Main Street town of the Painted Past west of Edmonton",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.5263889,
+      "lng": -114.0069444,
+      "place": "Stony Plain, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0029",
+    "file": "lacombe-central-alberta-ab.webp",
+    "alt_geo": "Lacombe, Central Alberta — 1904 Flatiron Building on one of Alberta's best-preserved Edwardian main streets",
+    "alt_rendered": "{SERVICE_CATEGORY} in Lacombe, Alberta — Lacombe, Central Alberta — 1904 Flatiron Building on one of Alberta's best-preserved Edwardian main streets",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.464444,
+      "lng": -113.734167,
+      "place": "Lacombe, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0023",
+    "file": "morinville-edmonton-region-ab.webp",
+    "alt_geo": "Morinville, Edmonton Region Alberta — 1891 French-Canadian parish town amid Sturgeon County grain country",
+    "alt_rendered": "{SERVICE_CATEGORY} in Morinville, Alberta — Morinville, Edmonton Region Alberta — 1891 French-Canadian parish town amid Sturgeon County grain country",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.8027778,
+      "lng": -113.6438889,
+      "place": "Morinville, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0028",
+    "file": "devon-edmonton-region-ab.webp",
+    "alt_geo": "Devon, Edmonton Region Alberta — Imperial Oil's 1947 Model Town on the North Saskatchewan River bench",
+    "alt_rendered": "{SERVICE_CATEGORY} in Devon, Alberta — Devon, Edmonton Region Alberta — Imperial Oil's 1947 Model Town on the North Saskatchewan River bench",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.3622223,
+      "lng": -113.7225,
+      "place": "Devon, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0032",
+    "file": "olds-central-alberta-ab.webp",
+    "alt_geo": "Olds, Central Alberta — agricultural college town on the QE2 corridor in Mountain View County",
+    "alt_rendered": "{SERVICE_CATEGORY} in Olds, Alberta — Olds, Central Alberta — agricultural college town on the QE2 corridor in Mountain View County",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.7919444,
+      "lng": -114.1075,
+      "place": "Olds, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0020",
+    "file": "sylvan-lake-central-alberta-ab.webp",
+    "alt_geo": "Sylvan Lake, Central Alberta — east-shore beach-resort town with its landmark pier and boardwalk",
+    "alt_rendered": "{SERVICE_CATEGORY} in Sylvan Lake, Alberta — Sylvan Lake, Central Alberta — east-shore beach-resort town with its landmark pier and boardwalk",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.3089,
+      "lng": -114.0978,
+      "place": "Sylvan Lake, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0049",
+    "file": "vegreville-edmonton-region-ab.webp",
+    "alt_geo": "Vegreville, Edmonton Region Alberta — Pysanka landmark town of the Ukrainian settlement block east of Edmonton",
+    "alt_rendered": "{SERVICE_CATEGORY} in Vegreville, Alberta — Vegreville, Edmonton Region Alberta — Pysanka landmark town of the Ukrainian settlement block east of Edmonton",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.4955555,
+      "lng": -112.0516667,
+      "place": "Vegreville, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0054",
+    "file": "gibbons-edmonton-region-ab.webp",
+    "alt_geo": "Gibbons, Edmonton Region Alberta — Sturgeon River valley town at the historic Athabasca Landing Trail crossing",
+    "alt_rendered": "{SERVICE_CATEGORY} in Gibbons, Alberta — Gibbons, Edmonton Region Alberta — Sturgeon River valley town at the historic Athabasca Landing Trail crossing",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.8297222,
+      "lng": -113.3283333,
+      "place": "Gibbons, Alberta"
+    }
+  }
+]
