@@ -1,0 +1,416 @@
+{
+ "batch": 25,
+ "region": "Windsor-Essex",
+ "count": 9,
+ "rows": [
+  {
+   "id": "ON-0040",
+   "name": "Windsor",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Windsor-Essex",
+   "slug": "windsor",
+   "lat": 42.3149,
+   "lng": -83.0364,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 332,
+   "distOttawaKm": 682,
+   "pop2021": 229660,
+   "pop2025": 241143,
+   "unifiedScore": 66,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1892, located on the Detroit River directly across from Detroit, Michigan",
+    "landmarks": "Caesars Windsor, Dieppe Gardens, Ojibway Nature Centre, Ambassador Bridge, Windsor Sculpture Park, Coventry Gardens",
+    "notable": "Canada's southernmost city on the mainland — automotive capital, gateway to the United States via the Ambassador Bridge and Windsor-Detroit Tunnel",
+    "economy": "automotive capital of Canada (FCA/Stellantis), cross-border trade, University of Windsor, agriculture, NextStar EV battery plant",
+    "entityDesc": "Windsor is a city in Windsor-Essex, Ontario, Canada, with a population of approximately 229,660. Automotive capital of canada (fca/stellantis), cross-border trade, university of windsor, agriculture, nextstar ev battery plant.",
+    "longDesc": "Windsor isn't just Ontario's city — it's a place where ambition meets opportunity. Founded located on the Detroit River directly across from Detroit, Michigan, this city has transformed into a thriving community of over ~230,000 people.\n\nWhat makes Windsor remarkable for {BUSINESS_TYPE}? Scale and diversity. The city encompasses everything from international waterfront, Freedom Festival, multicultural downtown, Pelee Island wineries nearby, point of entry for 25% of Canada-US trade. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by automotive capital of Canada (FCA/Stellantis), cross-border trade, University of Windsor, agriculture, NextStar EV battery plant. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Caesars Windsor, Dieppe Gardens, Ojibway Nature Centre, Ambassador Bridge, Windsor Sculpture Park, Coventry Gardens, which give Windsor its distinctive character.\n\nWindsor benefits from its location in Windsor-Essex. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Windsor properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Windsor residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 9
+    },
+    {
+     "name": "LaSalle",
+     "slug": "lasalle",
+     "km": 11
+    },
+    {
+     "name": "Amherstburg",
+     "slug": "amherstburg",
+     "km": 24
+    },
+    {
+     "name": "Lakeshore",
+     "slug": "lakeshore",
+     "km": 33
+    }
+   ]
+  },
+  {
+   "id": "ON-0127",
+   "name": "Chatham-Kent",
+   "type": "Municipality",
+   "parentMuni": null,
+   "region": "Windsor-Essex",
+   "slug": "chatham-kent",
+   "lat": 42.4048,
+   "lng": -82.191,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 267,
+   "distOttawaKm": 619,
+   "pop2021": 103988,
+   "pop2025": 109187,
+   "unifiedScore": 63.3,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Lakeshore",
+     "slug": "lakeshore",
+     "km": 42
+    },
+    {
+     "name": "Leamington",
+     "slug": "leamington",
+     "km": 51
+    },
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 61
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 62
+    }
+   ]
+  },
+  {
+   "id": "ON-0172",
+   "name": "Lakeshore",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "lakeshore",
+   "lat": 42.2389,
+   "lng": -82.6494,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 309,
+   "distOttawaKm": 660,
+   "pop2021": 40410,
+   "pop2025": 42430,
+   "unifiedScore": 59.2,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Leamington",
+     "slug": "leamington",
+     "km": 21
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 24
+    },
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 24
+    },
+    {
+     "name": "Windsor",
+     "slug": "windsor",
+     "km": 33
+    }
+   ]
+  },
+  {
+   "id": "ON-0590",
+   "name": "Leamington",
+   "type": "Municipality",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "leamington",
+   "lat": 42.0591,
+   "lng": -82.5935,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 316,
+   "distOttawaKm": 668,
+   "pop2021": 29680,
+   "pop2025": 31164,
+   "unifiedScore": 58.3,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 12
+    },
+    {
+     "name": "Lakeshore",
+     "slug": "lakeshore",
+     "km": 21
+    },
+    {
+     "name": "Essex",
+     "slug": "essex",
+     "km": 33
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 39
+    }
+   ]
+  },
+  {
+   "id": "ON-0377",
+   "name": "LaSalle",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "lasalle",
+   "lat": 42.2181,
+   "lng": -83.0635,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 339,
+   "distOttawaKm": 690,
+   "pop2021": 32721,
+   "pop2025": 34357,
+   "unifiedScore": 57.8,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Windsor",
+     "slug": "windsor",
+     "km": 11
+    },
+    {
+     "name": "Amherstburg",
+     "slug": "amherstburg",
+     "km": 14
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 15
+    },
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 33
+    }
+   ]
+  },
+  {
+   "id": "ON-0389",
+   "name": "Tecumseh",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "tecumseh",
+   "lat": 42.3052,
+   "lng": -82.9279,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 325,
+   "distOttawaKm": 675,
+   "pop2021": 23300,
+   "pop2025": 24465,
+   "unifiedScore": 57.6,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Windsor",
+     "slug": "windsor",
+     "km": 9
+    },
+    {
+     "name": "LaSalle",
+     "slug": "lasalle",
+     "km": 15
+    },
+    {
+     "name": "Lakeshore",
+     "slug": "lakeshore",
+     "km": 24
+    },
+    {
+     "name": "Amherstburg",
+     "slug": "amherstburg",
+     "km": 27
+    }
+   ]
+  },
+  {
+   "id": "ON-0375",
+   "name": "Kingsville",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "kingsville",
+   "lat": 42.0384,
+   "lng": -82.7399,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 327,
+   "distOttawaKm": 679,
+   "pop2021": 22119,
+   "pop2025": 23224,
+   "unifiedScore": 57.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Leamington",
+     "slug": "leamington",
+     "km": 12
+    },
+    {
+     "name": "Essex",
+     "slug": "essex",
+     "km": 23
+    },
+    {
+     "name": "Lakeshore",
+     "slug": "lakeshore",
+     "km": 24
+    },
+    {
+     "name": "Amherstburg",
+     "slug": "amherstburg",
+     "km": 31
+    }
+   ]
+  },
+  {
+   "id": "ON-0466",
+   "name": "Amherstburg",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "amherstburg",
+   "lat": 42.1004,
+   "lng": -83.1038,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 349,
+   "distOttawaKm": 700,
+   "pop2021": 23524,
+   "pop2025": 24700,
+   "unifiedScore": 56.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "LaSalle",
+     "slug": "lasalle",
+     "km": 14
+    },
+    {
+     "name": "Windsor",
+     "slug": "windsor",
+     "km": 24
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 27
+    },
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 31
+    }
+   ]
+  },
+  {
+   "id": "ON-0475",
+   "name": "Essex",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "essex",
+   "lat": 41.8575,
+   "lng": -82.882,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 348,
+   "distOttawaKm": 701,
+   "pop2021": 21216,
+   "pop2025": 22276,
+   "unifiedScore": 56.7,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 23
+    },
+    {
+     "name": "Leamington",
+     "slug": "leamington",
+     "km": 33
+    },
+    {
+     "name": "Amherstburg",
+     "slug": "amherstburg",
+     "km": 33
+    },
+    {
+     "name": "LaSalle",
+     "slug": "lasalle",
+     "km": 43
+    }
+   ]
+  }
+ ]
+}

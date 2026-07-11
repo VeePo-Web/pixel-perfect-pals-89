@@ -1,0 +1,559 @@
+{
+ "batch": 23,
+ "region": "Hamilton-Niagara",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0090",
+   "name": "Hamilton",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Hamilton-Niagara",
+   "slug": "hamilton",
+   "lat": 43.2557,
+   "lng": -79.8711,
+   "coordNote": null,
+   "fixNote": "re-identified as City of Hamilton (was mislabeled Township/Northumberland); pop corrected 11,059→569,353 (StatCan 2021 CSD); township split to ON-2515",
+   "distTorontoKm": 59,
+   "distOttawaKm": 410,
+   "pop2021": 569353,
+   "pop2025": null,
+   "unifiedScore": 76,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1846, founded by George Hamilton in 1816",
+    "landmarks": "Dundurn Castle, Royal Botanical Gardens, HMCS Haida, Art Gallery of Hamilton, Hamilton Waterfront Trail",
+    "notable": "known as 'The Ambitious City' and 'Waterfall Capital of the World' — more than 100 waterfalls cascade along the Niagara Escarpment within city limits",
+    "economy": "steel industry (Stelco, Dofasco/ArcelorMittal), healthcare (McMaster Medical Centre, St. Joseph's), advanced manufacturing, arts, education",
+    "entityDesc": "Hamilton is a township in Central Ontario, Ontario, Canada, with a population of approximately 11,059. Steel industry (stelco, dofasco/arcelormittal), healthcare (mcmaster medical centre, st. joseph's), advanced manufacturing, arts, education.",
+    "longDesc": "Hamilton isn't just a township — it's a place where ambition meets opportunity. Founded founded by George Hamilton in 1816, this community has transformed into a thriving community of ~570,000 people.\n\nWhat makes Hamilton remarkable for {BUSINESS_TYPE}? Character and community. The area encompasses everything from McMaster University, Bruce Trail, Gage Park, International Village, vibrant James Street North arts district, Locke Street boutiques. Each area has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by steel industry (Stelco, Dofasco/ArcelorMittal), healthcare (McMaster Medical Centre, St. Joseph's), advanced manufacturing, arts, education. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Dundurn Castle, Royal Botanical Gardens, HMCS Haida, Art Gallery of Hamilton, Hamilton Waterfront Trail, which give Hamilton its distinctive character.\n\nHamilton benefits from its location in Central Ontario. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Hamilton properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Hamilton residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Grimsby",
+     "slug": "grimsby",
+     "km": 26
+    },
+    {
+     "name": "Lincoln",
+     "slug": "lincoln",
+     "km": 37
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 50
+    },
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 52
+    }
+   ]
+  },
+  {
+   "id": "ON-0013",
+   "name": "St. Catharines",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Hamilton-Niagara",
+   "slug": "st-catharines",
+   "lat": 43.1594,
+   "lng": -79.2469,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 56,
+   "distOttawaKm": 378,
+   "pop2021": 136803,
+   "pop2025": 143643,
+   "unifiedScore": 73.2,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1876, named after St. Catharine of Alexandria",
+    "landmarks": "Welland Canal, Port Dalhousie, Montebello Park, Morningstar Mill, Brock University, FirstOntario Performing Arts Centre",
+    "notable": "known as 'The Garden City' — heart of the Niagara wine region with award-winning wineries, charming Port Dalhousie waterfront, and access to world-class attractions",
+    "economy": "wine industry (Niagara wine region), education (Brock University), tourism, automotive parts, food processing",
+    "entityDesc": "St. Catharines is a city in Hamilton-Niagara, Ontario, Canada, with a population of approximately 136,803. Wine industry (niagara wine region), education (brock university), tourism, automotive parts, food processing.",
+    "longDesc": "St. Catharines isn't just Ontario's city — it's a place where ambition meets opportunity. Founded named after St. Catharine of Alexandria, this city has transformed into a thriving community of over ~137,000 people.\n\nWhat makes St. Catharines remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from Welland Canal ship-watching, Niagara wine trail, Royal Henley Regatta, Grape and Wine Festival, Port Dalhousie carousel. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by wine industry (Niagara wine region), education (Brock University), tourism, automotive parts, food processing. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Welland Canal, Port Dalhousie, Montebello Park, Morningstar Mill, Brock University, FirstOntario Performing Arts Centre, which give St. Catharines its distinctive character.\n\nSt. Catharines benefits from its location in Hamilton-Niagara. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what St. Catharines properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why St. Catharines residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Thorold",
+     "slug": "thorold",
+     "km": 6
+    },
+    {
+     "name": "Niagara Falls",
+     "slug": "niagara-falls",
+     "km": 15
+    },
+    {
+     "name": "Lincoln",
+     "slug": "lincoln",
+     "km": 15
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 16
+    }
+   ]
+  },
+  {
+   "id": "ON-0019",
+   "name": "Niagara Falls",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Hamilton-Niagara",
+   "slug": "niagara-falls",
+   "lat": 43.0896,
+   "lng": -79.0849,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 67,
+   "distOttawaKm": 374,
+   "pop2021": 94415,
+   "pop2025": 99135,
+   "unifiedScore": 71.1,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1904, named after the world-famous waterfalls (Haudenosaunee origin)",
+    "landmarks": "Niagara Falls (Horseshoe, American, Bridal Veil), Clifton Hill, Skylon Tower, Fallsview Casino, Journey Behind the Falls",
+    "notable": "home to one of the most iconic natural wonders on Earth — the city balances world-class tourism with a vibrant residential community",
+    "economy": "tourism (14 million+ annual visitors), gaming (Fallsview Casino, Casino Niagara), hydroelectric power, hospitality",
+    "entityDesc": "Niagara Falls is a city in Hamilton-Niagara, Ontario, Canada, with a population of approximately 94,415. Tourism (14 million+ annual visitors), gaming (fallsview casino, casino niagara), hydroelectric power, hospitality.",
+    "longDesc": "Niagara Falls isn't just Ontario's city — it's a place where ambition meets opportunity. Founded named after the world-famous waterfalls (Haudenosaunee origin), this city has transformed into a thriving community of ~95,000 people.\n\nWhat makes Niagara Falls remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from Niagara Parks, Botanical Gardens, Whirlpool Jet Boat Tours, Niagara Skywheel, Bird Kingdom, IMAX Theatre. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by tourism (14 million+ annual visitors), gaming (Fallsview Casino, Casino Niagara), hydroelectric power, hospitality. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Niagara Falls (Horseshoe, American, Bridal Veil), Clifton Hill, Skylon Tower, Fallsview Casino, Journey Behind the Falls, which give Niagara Falls its distinctive character.\n\nNiagara Falls benefits from its location in Hamilton-Niagara. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Niagara Falls properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Niagara Falls residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Thorold",
+     "slug": "thorold",
+     "km": 10
+    },
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 15
+    },
+    {
+     "name": "Welland",
+     "slug": "welland",
+     "km": 18
+    },
+    {
+     "name": "Fort Erie",
+     "slug": "fort-erie",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0023",
+   "name": "Welland",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Hamilton-Niagara",
+   "slug": "welland",
+   "lat": 42.9869,
+   "lng": -79.2484,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 75,
+   "distOttawaKm": 392,
+   "pop2021": 55750,
+   "pop2025": 58537,
+   "unifiedScore": 69.8,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 9
+    },
+    {
+     "name": "Port Colborne",
+     "slug": "port-colborne",
+     "km": 11
+    },
+    {
+     "name": "Thorold",
+     "slug": "thorold",
+     "km": 15
+    },
+    {
+     "name": "Niagara Falls",
+     "slug": "niagara-falls",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0026",
+   "name": "Thorold",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Hamilton-Niagara",
+   "slug": "thorold",
+   "lat": 43.1167,
+   "lng": -79.2,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 61,
+   "distOttawaKm": 379,
+   "pop2021": 23816,
+   "pop2025": 25006,
+   "unifiedScore": 68.5,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 6
+    },
+    {
+     "name": "Niagara Falls",
+     "slug": "niagara-falls",
+     "km": 10
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 14
+    },
+    {
+     "name": "Welland",
+     "slug": "welland",
+     "km": 15
+    }
+   ]
+  },
+  {
+   "id": "ON-0033",
+   "name": "Port Colborne",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Hamilton-Niagara",
+   "slug": "port-colborne",
+   "lat": 42.8844,
+   "lng": -79.2506,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 86,
+   "distOttawaKm": 400,
+   "pop2021": 20033,
+   "pop2025": 21034,
+   "unifiedScore": 67.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Welland",
+     "slug": "welland",
+     "km": 11
+    },
+    {
+     "name": "Fort Erie",
+     "slug": "fort-erie",
+     "km": 17
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 18
+    },
+    {
+     "name": "West Lincoln",
+     "slug": "west-lincoln",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0059",
+   "name": "Grimsby",
+   "type": "Town",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "grimsby",
+   "lat": 43.1936,
+   "lng": -79.5564,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 53,
+   "distOttawaKm": 394,
+   "pop2021": 28883,
+   "pop2025": 30327,
+   "unifiedScore": 66.2,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Lincoln",
+     "slug": "lincoln",
+     "km": 11
+    },
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 25
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 25
+    },
+    {
+     "name": "Hamilton",
+     "slug": "hamilton",
+     "km": 26
+    }
+   ]
+  },
+  {
+   "id": "ON-0063",
+   "name": "Lincoln",
+   "type": "Town",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "lincoln",
+   "lat": 43.1625,
+   "lng": -79.4292,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 55,
+   "distOttawaKm": 389,
+   "pop2021": 25719,
+   "pop2025": 27004,
+   "unifiedScore": 65.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Grimsby",
+     "slug": "grimsby",
+     "km": 11
+    },
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 15
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 16
+    },
+    {
+     "name": "Thorold",
+     "slug": "thorold",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0062",
+   "name": "Fort Erie",
+   "type": "Town",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "fort-erie",
+   "lat": 42.9015,
+   "lng": -79.0474,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 88,
+   "distOttawaKm": 387,
+   "pop2021": 32901,
+   "pop2025": 34546,
+   "unifiedScore": 65.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Port Colborne",
+     "slug": "port-colborne",
+     "km": 17
+    },
+    {
+     "name": "West Lincoln",
+     "slug": "west-lincoln",
+     "km": 17
+    },
+    {
+     "name": "Welland",
+     "slug": "welland",
+     "km": 19
+    },
+    {
+     "name": "Niagara Falls",
+     "slug": "niagara-falls",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0072",
+   "name": "Pelham",
+   "type": "Town",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "pelham",
+   "lat": 43.0333,
+   "lng": -79.3333,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 69,
+   "distOttawaKm": 393,
+   "pop2021": 18192,
+   "pop2025": 19101,
+   "unifiedScore": 63.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Welland",
+     "slug": "welland",
+     "km": 9
+    },
+    {
+     "name": "Thorold",
+     "slug": "thorold",
+     "km": 14
+    },
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 16
+    },
+    {
+     "name": "Lincoln",
+     "slug": "lincoln",
+     "km": 16
+    }
+   ]
+  },
+  {
+   "id": "ON-0122",
+   "name": "Wainfleet",
+   "type": "Township",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "wainfleet",
+   "lat": 43.8175,
+   "lng": -79.198,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 24,
+   "distOttawaKm": 329,
+   "pop2021": 6887,
+   "pop2025": 7231,
+   "unifiedScore": 63.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 73
+    },
+    {
+     "name": "Grimsby",
+     "slug": "grimsby",
+     "km": 75
+    },
+    {
+     "name": "Lincoln",
+     "slug": "lincoln",
+     "km": 75
+    },
+    {
+     "name": "Thorold",
+     "slug": "thorold",
+     "km": 78
+    }
+   ]
+  },
+  {
+   "id": "ON-0124",
+   "name": "West Lincoln",
+   "type": "Township",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "west-lincoln",
+   "lat": 42.748,
+   "lng": -79.066,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 104,
+   "distOttawaKm": 401,
+   "pop2021": 15454,
+   "pop2025": 16226,
+   "unifiedScore": 62.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Fort Erie",
+     "slug": "fort-erie",
+     "km": 17
+    },
+    {
+     "name": "Port Colborne",
+     "slug": "port-colborne",
+     "km": 21
+    },
+    {
+     "name": "Welland",
+     "slug": "welland",
+     "km": 30
+    },
+    {
+     "name": "Niagara Falls",
+     "slug": "niagara-falls",
+     "km": 38
+    }
+   ]
+  }
+ ]
+}

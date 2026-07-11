@@ -1,0 +1,551 @@
+{
+ "batch": 5,
+ "region": "Grey-Bruce-Simcoe",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0010",
+   "name": "Barrie",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "barrie",
+   "lat": 44.3894,
+   "lng": -79.6903,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 85,
+   "distOttawaKm": 335,
+   "pop2021": 147829,
+   "pop2025": 155220,
+   "unifiedScore": 72.5,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1959 (city status), founded 1833, named after Sir Robert Barrie",
+    "landmarks": "Barrie Waterfront, Spirit Catcher sculpture, Simcoe County Museum, Sunnidale Park, Centennial Park",
+    "notable": "gateway to Ontario's 'Cottage Country' — located on Kempenfelt Bay of Lake Simcoe, one of Canada's fastest-growing cities",
+    "economy": "gateway to cottage country, healthcare (Royal Victoria Regional Health Centre), retail, light manufacturing, CFB Borden",
+    "entityDesc": "Barrie is a city in Grey-Bruce-Simcoe, Ontario, Canada, with a population of approximately 147,829. Gateway to cottage country, healthcare (royal victoria regional health centre), retail, light manufacturing, cfb borden.",
+    "longDesc": "Barrie isn't just Ontario's city — it's a place where ambition meets opportunity. Founded founded 1833, named after Sir Robert Barrie, this city has transformed into a thriving community of over ~150,000 people.\n\nWhat makes Barrie remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from stunning waterfront boardwalk, ski resorts nearby (Horseshoe, Snow Valley), Lake Simcoe recreation, Maclaren Art Centre. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by gateway to cottage country, healthcare (Royal Victoria Regional Health Centre), retail, light manufacturing, CFB Borden. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Barrie Waterfront, Spirit Catcher sculpture, Simcoe County Museum, Sunnidale Park, Centennial Park, which give Barrie its distinctive character.\n\nBarrie benefits from its location in Grey-Bruce-Simcoe. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Barrie properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Barrie residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Springwater",
+     "slug": "springwater",
+     "km": 10
+    },
+    {
+     "name": "Innisfil",
+     "slug": "innisfil",
+     "km": 13
+    },
+    {
+     "name": "Oro-Medonte",
+     "slug": "oro-medonte",
+     "km": 17
+    },
+    {
+     "name": "Essa",
+     "slug": "essa",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0028",
+   "name": "Orillia",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "orillia",
+   "lat": 44.6082,
+   "lng": -79.4197,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 106,
+   "distOttawaKm": 306,
+   "pop2021": 33411,
+   "pop2025": 35081,
+   "unifiedScore": 67.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Oro-Medonte",
+     "slug": "oro-medonte",
+     "km": 16
+    },
+    {
+     "name": "Ramara",
+     "slug": "ramara",
+     "km": 16
+    },
+    {
+     "name": "Severn",
+     "slug": "severn",
+     "km": 18
+    },
+    {
+     "name": "Tay",
+     "slug": "tay",
+     "km": 30
+    }
+   ]
+  },
+  {
+   "id": "ON-0053",
+   "name": "Bradford West Gwillimbury",
+   "type": "Town",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "bradford-west-gwillimbury",
+   "lat": 44.1147,
+   "lng": -79.5625,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 53,
+   "distOttawaKm": 338,
+   "pop2021": 42880,
+   "pop2025": 45024,
+   "unifiedScore": 67,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "New Tecumseth",
+     "slug": "new-tecumseth",
+     "km": 17
+    },
+    {
+     "name": "Innisfil",
+     "slug": "innisfil",
+     "km": 21
+    },
+    {
+     "name": "Essa",
+     "slug": "essa",
+     "km": 25
+    },
+    {
+     "name": "Barrie",
+     "slug": "barrie",
+     "km": 32
+    }
+   ]
+  },
+  {
+   "id": "ON-0054",
+   "name": "New Tecumseth",
+   "type": "Town",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "new-tecumseth",
+   "lat": 44.0833,
+   "lng": -79.7667,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 57,
+   "distOttawaKm": 354,
+   "pop2021": 43948,
+   "pop2025": 46145,
+   "unifiedScore": 66.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Bradford West Gwillimbury",
+     "slug": "bradford-west-gwillimbury",
+     "km": 17
+    },
+    {
+     "name": "Essa",
+     "slug": "essa",
+     "km": 19
+    },
+    {
+     "name": "Mono",
+     "slug": "mono",
+     "km": 25
+    },
+    {
+     "name": "Innisfil",
+     "slug": "innisfil",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0060",
+   "name": "Innisfil",
+   "type": "Town",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "innisfil",
+   "lat": 44.3017,
+   "lng": -79.5837,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 74,
+   "distOttawaKm": 331,
+   "pop2021": 43326,
+   "pop2025": 45492,
+   "unifiedScore": 66.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Barrie",
+     "slug": "barrie",
+     "km": 13
+    },
+    {
+     "name": "Essa",
+     "slug": "essa",
+     "km": 19
+    },
+    {
+     "name": "Bradford West Gwillimbury",
+     "slug": "bradford-west-gwillimbury",
+     "km": 21
+    },
+    {
+     "name": "Springwater",
+     "slug": "springwater",
+     "km": 23
+    }
+   ]
+  },
+  {
+   "id": "ON-0061",
+   "name": "Orangeville",
+   "type": "Town",
+   "parentMuni": "Dufferin",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "orangeville",
+   "lat": 43.92,
+   "lng": -80.0942,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 64,
+   "distOttawaKm": 386,
+   "pop2021": 30167,
+   "pop2025": 31675,
+   "unifiedScore": 65.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Mono",
+     "slug": "mono",
+     "km": 13
+    },
+    {
+     "name": "Shelburne",
+     "slug": "shelburne",
+     "km": 20
+    },
+    {
+     "name": "New Tecumseth",
+     "slug": "new-tecumseth",
+     "km": 32
+    },
+    {
+     "name": "Essa",
+     "slug": "essa",
+     "km": 43
+    }
+   ]
+  },
+  {
+   "id": "ON-0043",
+   "name": "Owen Sound",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "owen-sound",
+   "lat": 44.5697,
+   "lng": -80.9433,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 161,
+   "distOttawaKm": 423,
+   "pop2021": 21612,
+   "pop2025": 22692,
+   "unifiedScore": 65.3,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Georgian Bluffs",
+     "slug": "georgian-bluffs",
+     "km": 14
+    },
+    {
+     "name": "Chatsworth",
+     "slug": "chatsworth",
+     "km": 17
+    },
+    {
+     "name": "South Bruce Peninsula",
+     "slug": "south-bruce-peninsula",
+     "km": 27
+    },
+    {
+     "name": "Meaford",
+     "slug": "meaford",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0079",
+   "name": "Essa",
+   "type": "Township",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "essa",
+   "lat": 44.25,
+   "lng": -79.8167,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 75,
+   "distOttawaKm": 350,
+   "pop2021": 22970,
+   "pop2025": 24118,
+   "unifiedScore": 65,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Barrie",
+     "slug": "barrie",
+     "km": 18
+    },
+    {
+     "name": "New Tecumseth",
+     "slug": "new-tecumseth",
+     "km": 19
+    },
+    {
+     "name": "Innisfil",
+     "slug": "innisfil",
+     "km": 19
+    },
+    {
+     "name": "Springwater",
+     "slug": "springwater",
+     "km": 22
+    }
+   ]
+  },
+  {
+   "id": "ON-0094",
+   "name": "Oro-Medonte",
+   "type": "Township",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "oro-medonte",
+   "lat": 44.5167,
+   "lng": -79.5833,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 97,
+   "distOttawaKm": 322,
+   "pop2021": 23017,
+   "pop2025": 24167,
+   "unifiedScore": 64.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Orillia",
+     "slug": "orillia",
+     "km": 16
+    },
+    {
+     "name": "Barrie",
+     "slug": "barrie",
+     "km": 17
+    },
+    {
+     "name": "Springwater",
+     "slug": "springwater",
+     "km": 18
+    },
+    {
+     "name": "Innisfil",
+     "slug": "innisfil",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0100",
+   "name": "Springwater",
+   "type": "Township",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "springwater",
+   "lat": 44.45,
+   "lng": -79.7833,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 94,
+   "distOttawaKm": 339,
+   "pop2021": 21701,
+   "pop2025": 22786,
+   "unifiedScore": 64.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Barrie",
+     "slug": "barrie",
+     "km": 10
+    },
+    {
+     "name": "Oro-Medonte",
+     "slug": "oro-medonte",
+     "km": 18
+    },
+    {
+     "name": "Wasaga Beach",
+     "slug": "wasaga-beach",
+     "km": 20
+    },
+    {
+     "name": "Northern Bruce Peninsula",
+     "slug": "northern-bruce-peninsula",
+     "km": 20
+    }
+   ]
+  },
+  {
+   "id": "ON-0075",
+   "name": "Wasaga Beach",
+   "type": "Town",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "wasaga-beach",
+   "lat": 44.5214,
+   "lng": -80.0167,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 109,
+   "distOttawaKm": 354,
+   "pop2021": 24862,
+   "pop2025": 26105,
+   "unifiedScore": 64.2,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Northern Bruce Peninsula",
+     "slug": "northern-bruce-peninsula",
+     "km": 10
+    },
+    {
+     "name": "Arran–Elderslie",
+     "slug": "arran-elderslie",
+     "km": 12
+    },
+    {
+     "name": "Collingwood",
+     "slug": "collingwood",
+     "km": 16
+    },
+    {
+     "name": "Clearview",
+     "slug": "clearview",
+     "km": 16
+    }
+   ]
+  },
+  {
+   "id": "ON-0068",
+   "name": "Collingwood",
+   "type": "Town",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "collingwood",
+   "lat": 44.5014,
+   "lng": -80.2169,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 115,
+   "distOttawaKm": 370,
+   "pop2021": 24811,
+   "pop2025": 26051,
+   "unifiedScore": 64,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "The Blue Mountains",
+     "slug": "the-blue-mountains",
+     "km": 8
+    },
+    {
+     "name": "Wasaga Beach",
+     "slug": "wasaga-beach",
+     "km": 16
+    },
+    {
+     "name": "Clearview",
+     "slug": "clearview",
+     "km": 17
+    },
+    {
+     "name": "Arran–Elderslie",
+     "slug": "arran-elderslie",
+     "km": 20
+    }
+   ]
+  }
+ ]
+}

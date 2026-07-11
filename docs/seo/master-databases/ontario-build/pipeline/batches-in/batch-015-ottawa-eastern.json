@@ -1,0 +1,555 @@
+{
+ "batch": 15,
+ "region": "Ottawa-Eastern",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0002",
+   "name": "Ottawa",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Ottawa-Eastern",
+   "slug": "ottawa",
+   "lat": 45.4215,
+   "lng": -75.6972,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 352,
+   "distOttawaKm": 0,
+   "pop2021": 1017449,
+   "pop2025": 1068321,
+   "unifiedScore": 79,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1855, chosen as capital by Queen Victoria in 1857, originally named Bytown",
+    "landmarks": "Parliament Hill, Rideau Canal (UNESCO World Heritage Site), National Gallery of Canada, ByWard Market, Canadian War Museum, Gatineau Park",
+    "notable": "bilingual capital city straddling the Ottawa River — home to 130+ embassies and high commissions, the Rideau Canal becomes the world's largest skating rink each winter",
+    "economy": "national capital, federal government employment, tech sector ('Silicon Valley North'), Shopify HQ, tourism, education (U of Ottawa, Carleton)",
+    "entityDesc": "Ottawa is a city in Ottawa-Eastern, Ontario, Canada, with a population of approximately 1,017,449. National capital, federal government employment, tech sector ('silicon valley north'), shopify hq, tourism, education (u of ottawa, carleton).",
+    "longDesc": "Ottawa isn't just Ontario's capital — it's a place where ambition meets opportunity. Founded chosen as capital by Queen Victoria in 1857, originally named Bytown, this city has transformed into a world-class metropolis of over ~1.0 million (city), ~1.5 million (metro) people.\n\nWhat makes Ottawa remarkable for {BUSINESS_TYPE}? Scale and diversity. The city encompasses everything from Winterlude festival, Tulip Festival (1 million+ tulips), vibrant ByWard Market, extensive cycling network, gateway to Gatineau Hills. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by national capital, federal government employment, tech sector ('Silicon Valley North'), Shopify HQ, tourism, education (U of Ottawa, Carleton). This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Parliament Hill, Rideau Canal (UNESCO World Heritage Site), National Gallery of Canada, ByWard Market, Canadian War Museum, Gatineau Park, which give Ottawa its distinctive character.\n\nOttawa benefits from its location in Ottawa-Eastern. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Ottawa properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Ottawa residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Russell",
+     "slug": "russell",
+     "km": 32
+    },
+    {
+     "name": "Clarence-Rockland",
+     "slug": "clarence-rockland",
+     "km": 39
+    },
+    {
+     "name": "Alfred and Plantagenet",
+     "slug": "alfred-and-plantagenet",
+     "km": 42
+    },
+    {
+     "name": "North Dundas",
+     "slug": "north-dundas",
+     "km": 46
+    }
+   ]
+  },
+  {
+   "id": "ON-0024",
+   "name": "Clarence-Rockland",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Ottawa-Eastern",
+   "slug": "clarence-rockland",
+   "lat": 45.4833,
+   "lng": -75.2,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 389,
+   "distOttawaKm": 39,
+   "pop2021": 26505,
+   "pop2025": 27830,
+   "unifiedScore": 69.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "McNab/Braeside",
+     "slug": "mcnab-braeside",
+     "km": 12
+    },
+    {
+     "name": "Russell",
+     "slug": "russell",
+     "km": 28
+    },
+    {
+     "name": "Ottawa",
+     "slug": "ottawa",
+     "km": 39
+    },
+    {
+     "name": "North Glengarry",
+     "slug": "north-glengarry",
+     "km": 40
+    }
+   ]
+  },
+  {
+   "id": "ON-0025",
+   "name": "Cornwall",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Ottawa-Eastern",
+   "slug": "cornwall",
+   "lat": 45.0181,
+   "lng": -74.7307,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 400,
+   "distOttawaKm": 88,
+   "pop2021": 47845,
+   "pop2025": 50237,
+   "unifiedScore": 69.1,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1945 (city status), one of the first United Empire Loyalist settlements (1784)",
+    "landmarks": "Cornwall Community Museum, St. Lawrence River Institute, Lamoureux Park, Long Sault Parkway, Upper Canada Village nearby",
+    "notable": "a bilingual city on the St. Lawrence River at the US border — one of Ontario's oldest communities with both English and French heritage",
+    "economy": "logistics (border crossing), healthcare, manufacturing, bilingual service centre, trucking industry",
+    "entityDesc": "Cornwall is a city in Ottawa-Eastern, Ontario, Canada, with a population of approximately 47,845. Logistics (border crossing), healthcare, manufacturing, bilingual service centre, trucking industry.",
+    "longDesc": "Cornwall isn't just Ontario's city — it's a place where ambition meets opportunity. Founded one of the first United Empire Loyalist settlements (1784), this city has transformed into a thriving community of ~48,000 people.\n\nWhat makes Cornwall remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from Cornwall Canal, Waterfront Trail, Akwesasne border crossing, bilingual community services, proximity to Montreal (100km). Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by logistics (border crossing), healthcare, manufacturing, bilingual service centre, trucking industry. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Cornwall Community Museum, St. Lawrence River Institute, Lamoureux Park, Long Sault Parkway, Upper Canada Village nearby, which give Cornwall its distinctive character.\n\nCornwall benefits from its location in Ottawa-Eastern. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Cornwall properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Cornwall residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Akwesasne",
+     "slug": "akwesasne",
+     "km": 4
+    },
+    {
+     "name": "South Glengarry",
+     "slug": "south-glengarry",
+     "km": 22
+    },
+    {
+     "name": "South Stormont",
+     "slug": "south-stormont",
+     "km": 29
+    },
+    {
+     "name": "North Glengarry",
+     "slug": "north-glengarry",
+     "km": 35
+    }
+   ]
+  },
+  {
+   "id": "ON-0073",
+   "name": "Russell",
+   "type": "Township",
+   "parentMuni": "Prescott and Russell",
+   "region": "Ottawa-Eastern",
+   "slug": "russell",
+   "lat": 45.2557,
+   "lng": -75.3583,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 366,
+   "distOttawaKm": 32,
+   "pop2021": 19598,
+   "pop2025": 20577,
+   "unifiedScore": 65,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "North Dundas",
+     "slug": "north-dundas",
+     "km": 19
+    },
+    {
+     "name": "Clarence-Rockland",
+     "slug": "clarence-rockland",
+     "km": 28
+    },
+    {
+     "name": "Champlain",
+     "slug": "champlain",
+     "km": 28
+    },
+    {
+     "name": "McNab/Braeside",
+     "slug": "mcnab-braeside",
+     "km": 29
+    }
+   ]
+  },
+  {
+   "id": "ON-0038",
+   "name": "Pembroke",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Ottawa-Eastern",
+   "slug": "pembroke",
+   "lat": 45.8256,
+   "lng": -77.1102,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 301,
+   "distOttawaKm": 119,
+   "pop2021": 14364,
+   "pop2025": 15082,
+   "unifiedScore": 64.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Laurentian Valley",
+     "slug": "laurentian-valley",
+     "km": 6
+    },
+    {
+     "name": "Petawawa",
+     "slug": "petawawa",
+     "km": 15
+    },
+    {
+     "name": "Deep River",
+     "slug": "deep-river",
+     "km": 43
+    },
+    {
+     "name": "Renfrew",
+     "slug": "renfrew",
+     "km": 51
+    }
+   ]
+  },
+  {
+   "id": "ON-0093",
+   "name": "North Dundas",
+   "type": "Township",
+   "parentMuni": "Stormont, Dundas and Glengarry",
+   "region": "Ottawa-Eastern",
+   "slug": "north-dundas",
+   "lat": 45.0833,
+   "lng": -75.3667,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 357,
+   "distOttawaKm": 46,
+   "pop2021": 11304,
+   "pop2025": 11869,
+   "unifiedScore": 63.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Champlain",
+     "slug": "champlain",
+     "km": 10
+    },
+    {
+     "name": "South Dundas",
+     "slug": "south-dundas",
+     "km": 17
+    },
+    {
+     "name": "Russell",
+     "slug": "russell",
+     "km": 19
+    },
+    {
+     "name": "South Stormont",
+     "slug": "south-stormont",
+     "km": 23
+    }
+   ]
+  },
+  {
+   "id": "ON-0105",
+   "name": "Alfred and Plantagenet",
+   "type": "Township",
+   "parentMuni": "Prescott and Russell",
+   "region": "Ottawa-Eastern",
+   "slug": "alfred-and-plantagenet",
+   "lat": 45.7645,
+   "lng": -75.922,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 360,
+   "distOttawaKm": 42,
+   "pop2021": 9949,
+   "pop2025": 10446,
+   "unifiedScore": 63.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "North Stormont",
+     "slug": "north-stormont",
+     "km": 28
+    },
+    {
+     "name": "Ottawa",
+     "slug": "ottawa",
+     "km": 42
+    },
+    {
+     "name": "Arnprior",
+     "slug": "arnprior",
+     "km": 50
+    },
+    {
+     "name": "NationThe Nation",
+     "slug": "nationthe-nation",
+     "km": 57
+    }
+   ]
+  },
+  {
+   "id": "ON-0099",
+   "name": "South Stormont",
+   "type": "Township",
+   "parentMuni": "Stormont, Dundas and Glengarry",
+   "region": "Ottawa-Eastern",
+   "slug": "south-stormont",
+   "lat": 45,
+   "lng": -75.1,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 372,
+   "distOttawaKm": 66,
+   "pop2021": 13570,
+   "pop2025": 14248,
+   "unifiedScore": 63.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Champlain",
+     "slug": "champlain",
+     "km": 16
+    },
+    {
+     "name": "South Dundas",
+     "slug": "south-dundas",
+     "km": 22
+    },
+    {
+     "name": "North Dundas",
+     "slug": "north-dundas",
+     "km": 23
+    },
+    {
+     "name": "Cornwall",
+     "slug": "cornwall",
+     "km": 29
+    }
+   ]
+  },
+  {
+   "id": "ON-0076",
+   "name": "Arnprior",
+   "type": "Town",
+   "parentMuni": "Renfrew",
+   "region": "Ottawa-Eastern",
+   "slug": "arnprior",
+   "lat": 45.4333,
+   "lng": -76.35,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 311,
+   "distOttawaKm": 51,
+   "pop2021": 9629,
+   "pop2025": 10110,
+   "unifiedScore": 63,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Renfrew",
+     "slug": "renfrew",
+     "km": 26
+    },
+    {
+     "name": "Alfred and Plantagenet",
+     "slug": "alfred-and-plantagenet",
+     "km": 50
+    },
+    {
+     "name": "Ottawa",
+     "slug": "ottawa",
+     "km": 51
+    },
+    {
+     "name": "Pembroke",
+     "slug": "pembroke",
+     "km": 73
+    }
+   ]
+  },
+  {
+   "id": "ON-0135",
+   "name": "NationThe Nation",
+   "type": "Municipality",
+   "parentMuni": "Prescott and Russell",
+   "region": "Ottawa-Eastern",
+   "slug": "nationthe-nation",
+   "lat": 46.0285,
+   "lng": -75.286,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 417,
+   "distOttawaKm": 75,
+   "pop2021": 13350,
+   "pop2025": 14017,
+   "unifiedScore": 63,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Whitewater",
+     "slug": "whitewater",
+     "km": 37
+    },
+    {
+     "name": "North Stormont",
+     "slug": "north-stormont",
+     "km": 43
+    },
+    {
+     "name": "Alfred and Plantagenet",
+     "slug": "alfred-and-plantagenet",
+     "km": 57
+    },
+    {
+     "name": "Clarence-Rockland",
+     "slug": "clarence-rockland",
+     "km": 61
+    }
+   ]
+  },
+  {
+   "id": "ON-0145",
+   "name": "South Dundas",
+   "type": "Municipality",
+   "parentMuni": "Stormont, Dundas and Glengarry",
+   "region": "Ottawa-Eastern",
+   "slug": "south-dundas",
+   "lat": 44.9333,
+   "lng": -75.3667,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 350,
+   "distOttawaKm": 60,
+   "pop2021": 11044,
+   "pop2025": 11596,
+   "unifiedScore": 63,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Champlain",
+     "slug": "champlain",
+     "km": 10
+    },
+    {
+     "name": "North Dundas",
+     "slug": "north-dundas",
+     "km": 17
+    },
+    {
+     "name": "South Stormont",
+     "slug": "south-stormont",
+     "km": 22
+    },
+    {
+     "name": "Russell",
+     "slug": "russell",
+     "km": 36
+    }
+   ]
+  },
+  {
+   "id": "ON-0108",
+   "name": "Champlain",
+   "type": "Township",
+   "parentMuni": "Prescott and Russell",
+   "region": "Ottawa-Eastern",
+   "slug": "champlain",
+   "lat": 45.0085,
+   "lng": -75.298,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 358,
+   "distOttawaKm": 56,
+   "pop2021": 8665,
+   "pop2025": 9098,
+   "unifiedScore": 62.7,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "North Dundas",
+     "slug": "north-dundas",
+     "km": 10
+    },
+    {
+     "name": "South Dundas",
+     "slug": "south-dundas",
+     "km": 10
+    },
+    {
+     "name": "South Stormont",
+     "slug": "south-stormont",
+     "km": 16
+    },
+    {
+     "name": "Russell",
+     "slug": "russell",
+     "km": 28
+    }
+   ]
+  }
+ ]
+}

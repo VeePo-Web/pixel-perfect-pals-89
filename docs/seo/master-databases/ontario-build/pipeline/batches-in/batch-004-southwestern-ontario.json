@@ -1,0 +1,502 @@
+{
+ "batch": 4,
+ "region": "Southwestern Ontario",
+ "count": 11,
+ "rows": [
+  {
+   "id": "ON-0149",
+   "name": "Six Nations of the Grand River",
+   "type": "First Nations Reserve",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "six-nations-of-the-grand-river",
+   "lat": 43.06,
+   "lng": -80.1,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 88,
+   "distOttawaKm": 438,
+   "pop2021": 12783,
+   "pop2025": 13422,
+   "unifiedScore": 58.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Petrolia",
+     "slug": "petrolia",
+     "km": 10
+    },
+    {
+     "name": "Brantford",
+     "slug": "brantford",
+     "km": 16
+    },
+    {
+     "name": "Zorra",
+     "slug": "zorra",
+     "km": 20
+    },
+    {
+     "name": "Bayham",
+     "slug": "bayham",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0179",
+   "name": "Southwold",
+   "type": "Township",
+   "parentMuni": "Elgin",
+   "region": "Southwestern Ontario",
+   "slug": "southwold",
+   "lat": 43.561,
+   "lng": -80.144,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 62,
+   "distOttawaKm": 409,
+   "pop2021": 4851,
+   "pop2025": 5093,
+   "unifiedScore": 58.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Bayham",
+     "slug": "bayham",
+     "km": 33
+    },
+    {
+     "name": "Southwest Middlesex",
+     "slug": "southwest-middlesex",
+     "km": 36
+    },
+    {
+     "name": "West Elgin",
+     "slug": "west-elgin",
+     "km": 44
+    },
+    {
+     "name": "Brantford",
+     "slug": "brantford",
+     "km": 48
+    }
+   ]
+  },
+  {
+   "id": "ON-0273",
+   "name": "Plympton–Wyoming",
+   "type": "Town",
+   "parentMuni": "Lambton",
+   "region": "Southwestern Ontario",
+   "slug": "plympton-wyoming",
+   "lat": 42.5485,
+   "lng": -81.366,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 202,
+   "distOttawaKm": 555,
+   "pop2021": 8308,
+   "pop2025": 8723,
+   "unifiedScore": 58.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Lucan Biddulph",
+     "slug": "lucan-biddulph",
+     "km": 19
+    },
+    {
+     "name": "St. Marys",
+     "slug": "st-marys",
+     "km": 23
+    },
+    {
+     "name": "Ashfield–Colborne–Wawanosh",
+     "slug": "ashfield-colborne-wawanosh",
+     "km": 26
+    },
+    {
+     "name": "Oneida Nation of the Thames",
+     "slug": "oneida-nation-of-the-thames",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0275",
+   "name": "St. Marys",
+   "type": "Town",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "st-marys",
+   "lat": 42.4495,
+   "lng": -81.126,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 195,
+   "distOttawaKm": 546,
+   "pop2021": 7386,
+   "pop2025": 7755,
+   "unifiedScore": 58.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Plympton–Wyoming",
+     "slug": "plympton-wyoming",
+     "km": 23
+    },
+    {
+     "name": "St. Thomas",
+     "slug": "st-thomas",
+     "km": 37
+    },
+    {
+     "name": "Lucan Biddulph",
+     "slug": "lucan-biddulph",
+     "km": 41
+    },
+    {
+     "name": "Blandford-Blenheim",
+     "slug": "blandford-blenheim",
+     "km": 43
+    }
+   ]
+  },
+  {
+   "id": "ON-0467",
+   "name": "Ashfield–Colborne–Wawanosh",
+   "type": "Township",
+   "parentMuni": "Huron",
+   "region": "Southwestern Ontario",
+   "slug": "ashfield-colborne-wawanosh",
+   "lat": 42.7735,
+   "lng": -81.444,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 194,
+   "distOttawaKm": 545,
+   "pop2021": 5884,
+   "pop2025": 6178,
+   "unifiedScore": 57.7,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Oneida Nation of the Thames",
+     "slug": "oneida-nation-of-the-thames",
+     "km": 5
+    },
+    {
+     "name": "Lucan Biddulph",
+     "slug": "lucan-biddulph",
+     "km": 12
+    },
+    {
+     "name": "Norwich",
+     "slug": "norwich",
+     "km": 13
+    },
+    {
+     "name": "St. Thomas",
+     "slug": "st-thomas",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0591",
+   "name": "Lucan Biddulph",
+   "type": "Township",
+   "parentMuni": "Middlesex",
+   "region": "Southwestern Ontario",
+   "slug": "lucan-biddulph",
+   "lat": 42.676,
+   "lng": -81.516,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 204,
+   "distOttawaKm": 556,
+   "pop2021": 5680,
+   "pop2025": 5964,
+   "unifiedScore": 57.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Ashfield–Colborne–Wawanosh",
+     "slug": "ashfield-colborne-wawanosh",
+     "km": 12
+    },
+    {
+     "name": "Oneida Nation of the Thames",
+     "slug": "oneida-nation-of-the-thames",
+     "km": 17
+    },
+    {
+     "name": "Plympton–Wyoming",
+     "slug": "plympton-wyoming",
+     "km": 19
+    },
+    {
+     "name": "Norwich",
+     "slug": "norwich",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0683",
+   "name": "North Middlesex",
+   "type": "Municipality",
+   "parentMuni": "Middlesex",
+   "region": "Southwestern Ontario",
+   "slug": "north-middlesex",
+   "lat": 43.2085,
+   "lng": -81.93,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 212,
+   "distOttawaKm": 553,
+   "pop2021": 6307,
+   "pop2025": 6622,
+   "unifiedScore": 57.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Middlesex Centre",
+     "slug": "middlesex-centre",
+     "km": 20
+    },
+    {
+     "name": "Howick",
+     "slug": "howick",
+     "km": 30
+    },
+    {
+     "name": "South Huron",
+     "slug": "south-huron",
+     "km": 37
+    },
+    {
+     "name": "Aylmer",
+     "slug": "aylmer",
+     "km": 38
+    }
+   ]
+  },
+  {
+   "id": "ON-0371",
+   "name": "Goderich",
+   "type": "Town",
+   "parentMuni": "Huron",
+   "region": "Southwestern Ontario",
+   "slug": "goderich",
+   "lat": 42.676,
+   "lng": -81.948,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 235,
+   "distOttawaKm": 585,
+   "pop2021": 7881,
+   "pop2025": 8275,
+   "unifiedScore": 57.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Strathroy-Caradoc",
+     "slug": "strathroy-caradoc",
+     "km": 10
+    },
+    {
+     "name": "Lucan Biddulph",
+     "slug": "lucan-biddulph",
+     "km": 35
+    },
+    {
+     "name": "Thames Centre",
+     "slug": "thames-centre",
+     "km": 39
+    },
+    {
+     "name": "Middlesex Centre",
+     "slug": "middlesex-centre",
+     "km": 40
+    }
+   ]
+  },
+  {
+   "id": "ON-0472",
+   "name": "Dutton/Dunwich",
+   "type": "Municipality",
+   "parentMuni": "Elgin",
+   "region": "Southwestern Ontario",
+   "slug": "dutton-dunwich",
+   "lat": 43.705,
+   "lng": -80.78,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 112,
+   "distOttawaKm": 446,
+   "pop2021": 4152,
+   "pop2025": 4359,
+   "unifiedScore": 56.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "North Perth",
+     "slug": "north-perth",
+     "km": 11
+    },
+    {
+     "name": "Perth East",
+     "slug": "perth-east",
+     "km": 25
+    },
+    {
+     "name": "Huron East",
+     "slug": "huron-east",
+     "km": 28
+    },
+    {
+     "name": "Lambton Shores",
+     "slug": "lambton-shores",
+     "km": 40
+    }
+   ]
+  },
+  {
+   "id": "ON-0686",
+   "name": "Oneida Nation of the Thames",
+   "type": "First Nations Reserve",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "oneida-nation-of-the-thames",
+   "lat": 42.8,
+   "lng": -81.4,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 189,
+   "distOttawaKm": 540,
+   "pop2021": 6000,
+   "pop2025": 6300,
+   "unifiedScore": 53.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Ashfield–Colborne–Wawanosh",
+     "slug": "ashfield-colborne-wawanosh",
+     "km": 5
+    },
+    {
+     "name": "Norwich",
+     "slug": "norwich",
+     "km": 11
+    },
+    {
+     "name": "Lucan Biddulph",
+     "slug": "lucan-biddulph",
+     "km": 17
+    },
+    {
+     "name": "St. Thomas",
+     "slug": "st-thomas",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0589",
+   "name": "Howick",
+   "type": "Township",
+   "parentMuni": "Huron",
+   "region": "Southwestern Ontario",
+   "slug": "howick",
+   "lat": 43.474,
+   "lng": -81.914,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 205,
+   "distOttawaKm": 539,
+   "pop2021": 4045,
+   "pop2025": 4247,
+   "unifiedScore": 53.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Haldimand",
+     "slug": "haldimand",
+     "km": 25
+    },
+    {
+     "name": "Bluewater",
+     "slug": "bluewater",
+     "km": 25
+    },
+    {
+     "name": "North Middlesex",
+     "slug": "north-middlesex",
+     "km": 30
+    },
+    {
+     "name": "South Huron",
+     "slug": "south-huron",
+     "km": 37
+    }
+   ]
+  }
+ ]
+}

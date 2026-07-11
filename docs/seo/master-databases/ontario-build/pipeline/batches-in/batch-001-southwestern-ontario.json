@@ -1,0 +1,559 @@
+{
+ "batch": 1,
+ "region": "Southwestern Ontario",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0016",
+   "name": "London",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "london",
+   "lat": 42.9849,
+   "lng": -81.2453,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 168,
+   "distOttawaKm": 518,
+   "pop2021": 422324,
+   "pop2025": 443440,
+   "unifiedScore": 72.1,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1855, named after London, England; known as 'The Forest City'",
+    "landmarks": "Covent Garden Market, Banting House, Eldon House, Fanshawe Pioneer Village, Grand Theatre, Museum London",
+    "notable": "known as 'The Forest City' — a university city with strong healthcare and education sectors driving innovation and growth",
+    "economy": "education (Western University, Fanshawe College), healthcare (London Health Sciences Centre), insurance, digital media, food processing",
+    "entityDesc": "London is a city in Southwestern Ontario, Ontario, Canada, with a population of approximately 422,324. Education (western university, fanshawe college), healthcare (london health sciences centre), insurance, digital media, food processing.",
+    "longDesc": "London isn't just Ontario's city — it's a place where ambition meets opportunity. Founded named after London, England; known as 'The Forest City', this city has transformed into a thriving community of over ~420,000 people.\n\nWhat makes London remarkable for {BUSINESS_TYPE}? Scale and diversity. The city encompasses everything from Victoria Park, Storybook Gardens, Western Fair, vibrant Old East Village, Thames River corridor, London Music Hall of Fame. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by education (Western University, Fanshawe College), healthcare (London Health Sciences Centre), insurance, digital media, food processing. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Covent Garden Market, Banting House, Eldon House, Fanshawe Pioneer Village, Grand Theatre, Museum London, which give London its distinctive character.\n\nLondon benefits from its location in Southwestern Ontario. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what London properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why London residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "West Perth",
+     "slug": "west-perth",
+     "km": 3
+    },
+    {
+     "name": "Norwich",
+     "slug": "norwich",
+     "km": 20
+    },
+    {
+     "name": "St. Thomas",
+     "slug": "st-thomas",
+     "km": 24
+    },
+    {
+     "name": "Oneida Nation of the Thames",
+     "slug": "oneida-nation-of-the-thames",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0014",
+   "name": "Brantford",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "brantford",
+   "lat": 43.1394,
+   "lng": -80.2644,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 91,
+   "distOttawaKm": 443,
+   "pop2021": 104688,
+   "pop2025": 109922,
+   "unifiedScore": 71.6,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1877, named after Joseph Brant (Thayendanegea), Mohawk war chief",
+    "landmarks": "Bell Homestead National Historic Site, Woodland Cultural Centre, Glenhyrst Art Gallery, Brant County Museum",
+    "notable": "the 'Telephone City' — birthplace of Alexander Graham Bell's telephone, with deep Indigenous heritage from the nearby Six Nations of the Grand River",
+    "economy": "manufacturing, agriculture, education (Wilfrid Laurier University Brantford), healthcare, digital media",
+    "entityDesc": "Brantford is a city in Southwestern Ontario, Ontario, Canada, with a population of approximately 104,688. Manufacturing, agriculture, education (wilfrid laurier university brantford), healthcare, digital media.",
+    "longDesc": "Brantford isn't just Ontario's city — it's a place where ambition meets opportunity. Founded named after Joseph Brant (Thayendanegea), Mohawk war chief, this city has transformed into a thriving community of over ~104,000 people.\n\nWhat makes Brantford remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from Wayne Gretzky's birthplace, Grand River heritage corridor, Laurier Brantford campus, Harmony Square events. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by manufacturing, agriculture, education (Wilfrid Laurier University Brantford), healthcare, digital media. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Bell Homestead National Historic Site, Woodland Cultural Centre, Glenhyrst Art Gallery, Brant County Museum, which give Brantford its distinctive character.\n\nBrantford benefits from its location in Southwestern Ontario. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Brantford properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Brantford residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Petrolia",
+     "slug": "petrolia",
+     "km": 7
+    },
+    {
+     "name": "Zorra",
+     "slug": "zorra",
+     "km": 13
+    },
+    {
+     "name": "Six Nations of the Grand River",
+     "slug": "six-nations-of-the-grand-river",
+     "km": 16
+    },
+    {
+     "name": "West Elgin",
+     "slug": "west-elgin",
+     "km": 17
+    }
+   ]
+  },
+  {
+   "id": "ON-0027",
+   "name": "Norfolk",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "norfolk",
+   "lat": 42.4585,
+   "lng": -80.244,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 150,
+   "distOttawaKm": 491,
+   "pop2021": 67490,
+   "pop2025": 70864,
+   "unifiedScore": 68,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "South-West Oxford",
+     "slug": "south-west-oxford",
+     "km": 19
+    },
+    {
+     "name": "Brant",
+     "slug": "brant",
+     "km": 25
+    },
+    {
+     "name": "Malahide",
+     "slug": "malahide",
+     "km": 26
+    },
+    {
+     "name": "Blandford-Blenheim",
+     "slug": "blandford-blenheim",
+     "km": 58
+    }
+   ]
+  },
+  {
+   "id": "ON-0029",
+   "name": "Woodstock",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "woodstock",
+   "lat": 43.1306,
+   "lng": -80.7468,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 125,
+   "distOttawaKm": 476,
+   "pop2021": 46705,
+   "pop2025": 49040,
+   "unifiedScore": 68,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "East Zorra-Tavistock",
+     "slug": "east-zorra-tavistock",
+     "km": 9
+    },
+    {
+     "name": "Ingersoll",
+     "slug": "ingersoll",
+     "km": 15
+    },
+    {
+     "name": "St. Clair",
+     "slug": "st-clair",
+     "km": 17
+    },
+    {
+     "name": "West Elgin",
+     "slug": "west-elgin",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0036",
+   "name": "Stratford",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "stratford",
+   "lat": 43.37,
+   "lng": -80.9823,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 133,
+   "distOttawaKm": 478,
+   "pop2021": 33232,
+   "pop2025": 34893,
+   "unifiedScore": 67.1,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Lambton Shores",
+     "slug": "lambton-shores",
+     "km": 1
+    },
+    {
+     "name": "Perth East",
+     "slug": "perth-east",
+     "km": 17
+    },
+    {
+     "name": "St. Clair",
+     "slug": "st-clair",
+     "km": 18
+    },
+    {
+     "name": "East Zorra-Tavistock",
+     "slug": "east-zorra-tavistock",
+     "km": 26
+    }
+   ]
+  },
+  {
+   "id": "ON-0031",
+   "name": "Brant",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "brant",
+   "lat": 42.3295,
+   "lng": -80.002,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 156,
+   "distOttawaKm": 487,
+   "pop2021": 39474,
+   "pop2025": 41447,
+   "unifiedScore": 66.7,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Norfolk",
+     "slug": "norfolk",
+     "km": 25
+    },
+    {
+     "name": "South-West Oxford",
+     "slug": "south-west-oxford",
+     "km": 37
+    },
+    {
+     "name": "Malahide",
+     "slug": "malahide",
+     "km": 50
+    },
+    {
+     "name": "Six Nations of the Grand River",
+     "slug": "six-nations-of-the-grand-river",
+     "km": 82
+    }
+   ]
+  },
+  {
+   "id": "ON-0039",
+   "name": "St. Thomas",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "st-thomas",
+   "lat": 42.7753,
+   "lng": -81.1819,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 175,
+   "distOttawaKm": 527,
+   "pop2021": 42840,
+   "pop2025": 44982,
+   "unifiedScore": 66.3,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Oneida Nation of the Thames",
+     "slug": "oneida-nation-of-the-thames",
+     "km": 18
+    },
+    {
+     "name": "Ashfield–Colborne–Wawanosh",
+     "slug": "ashfield-colborne-wawanosh",
+     "km": 21
+    },
+    {
+     "name": "London",
+     "slug": "london",
+     "km": 24
+    },
+    {
+     "name": "Norwich",
+     "slug": "norwich",
+     "km": 25
+    }
+   ]
+  },
+  {
+   "id": "ON-0037",
+   "name": "Haldimand",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "haldimand",
+   "lat": 43.6975,
+   "lng": -81.886,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 201,
+   "distOttawaKm": 526,
+   "pop2021": 49216,
+   "pop2025": 51676,
+   "unifiedScore": 65.8,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Howick",
+     "slug": "howick",
+     "km": 25
+    },
+    {
+     "name": "Central Huron",
+     "slug": "central-huron",
+     "km": 31
+    },
+    {
+     "name": "Bluewater",
+     "slug": "bluewater",
+     "km": 34
+    },
+    {
+     "name": "South Huron",
+     "slug": "south-huron",
+     "km": 51
+    }
+   ]
+  },
+  {
+   "id": "ON-0044",
+   "name": "Sarnia",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Southwestern Ontario",
+   "slug": "sarnia",
+   "lat": 42.9745,
+   "lng": -82.4066,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 256,
+   "distOttawaKm": 600,
+   "pop2021": 72047,
+   "pop2025": 75649,
+   "unifiedScore": 64.9,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1914, named by Sir John Colborne after Guernsey's Roman name",
+    "landmarks": "Canatara Park, Blue Water Bridge, Sarnia Waterfront, Stones 'N Bones Museum, Lambton Heritage Museum",
+    "notable": "known as the gateway to the Blue Water region — 'Chemical Valley' houses 40% of Canada's chemical industry along the St. Clair River",
+    "economy": "petrochemical industry ('Chemical Valley'), manufacturing, agriculture, border crossing, healthcare",
+    "entityDesc": "Sarnia is a city in Southwestern Ontario, Ontario, Canada, with a population of approximately 72,047. Petrochemical industry ('chemical valley'), manufacturing, agriculture, border crossing, healthcare.",
+    "longDesc": "Sarnia isn't just Ontario's city — it's a place where ambition meets opportunity. Founded named by Sir John Colborne after Guernsey's Roman name, this city has transformed into a thriving community of ~72,000 people.\n\nWhat makes Sarnia remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from Blue Water Bridge to Michigan, Canatara Beach, petrochemical sector, Sarnia Bayfest, Point Edward Casino. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by petrochemical industry ('Chemical Valley'), manufacturing, agriculture, border crossing, healthcare. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Canatara Park, Blue Water Bridge, Sarnia Waterfront, Stones 'N Bones Museum, Lambton Heritage Museum, which give Sarnia its distinctive character.\n\nSarnia benefits from its location in Southwestern Ontario. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Sarnia properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Sarnia residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Middlesex Centre",
+     "slug": "middlesex-centre",
+     "km": 39
+    },
+    {
+     "name": "North Middlesex",
+     "slug": "north-middlesex",
+     "km": 47
+    },
+    {
+     "name": "Goderich",
+     "slug": "goderich",
+     "km": 50
+    },
+    {
+     "name": "Strathroy-Caradoc",
+     "slug": "strathroy-caradoc",
+     "km": 60
+    }
+   ]
+  },
+  {
+   "id": "ON-0250",
+   "name": "Bayham",
+   "type": "Municipality",
+   "parentMuni": "Elgin",
+   "region": "Southwestern Ontario",
+   "slug": "bayham",
+   "lat": 43.276,
+   "lng": -80.046,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 68,
+   "distOttawaKm": 420,
+   "pop2021": 7096,
+   "pop2025": 7450,
+   "unifiedScore": 61.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Brantford",
+     "slug": "brantford",
+     "km": 23
+    },
+    {
+     "name": "Six Nations of the Grand River",
+     "slug": "six-nations-of-the-grand-river",
+     "km": 24
+    },
+    {
+     "name": "Petrolia",
+     "slug": "petrolia",
+     "km": 26
+    },
+    {
+     "name": "West Elgin",
+     "slug": "west-elgin",
+     "km": 32
+    }
+   ]
+  },
+  {
+   "id": "ON-0177",
+   "name": "North Perth",
+   "type": "Municipality",
+   "parentMuni": "Perth",
+   "region": "Southwestern Ontario",
+   "slug": "north-perth",
+   "lat": 43.7333,
+   "lng": -80.9167,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 124,
+   "distOttawaKm": 454,
+   "pop2021": 15538,
+   "pop2025": 16314,
+   "unifiedScore": 61.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Dutton/Dunwich",
+     "slug": "dutton-dunwich",
+     "km": 11
+    },
+    {
+     "name": "Huron East",
+     "slug": "huron-east",
+     "km": 21
+    },
+    {
+     "name": "Perth East",
+     "slug": "perth-east",
+     "km": 28
+    },
+    {
+     "name": "North Huron",
+     "slug": "north-huron",
+     "km": 34
+    }
+   ]
+  },
+  {
+   "id": "ON-0102",
+   "name": "Tillsonburg",
+   "type": "Town",
+   "parentMuni": "Oxford",
+   "region": "Southwestern Ontario",
+   "slug": "tillsonburg",
+   "lat": 42.864,
+   "lng": -80.7264,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 140,
+   "distOttawaKm": 492,
+   "pop2021": 18615,
+   "pop2025": 19545,
+   "unifiedScore": 61.7,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Blandford-Blenheim",
+     "slug": "blandford-blenheim",
+     "km": 14
+    },
+    {
+     "name": "Ingersoll",
+     "slug": "ingersoll",
+     "km": 23
+    },
+    {
+     "name": "Woodstock",
+     "slug": "woodstock",
+     "km": 30
+    },
+    {
+     "name": "Zorra",
+     "slug": "zorra",
+     "km": 36
+    }
+   ]
+  }
+ ]
+}

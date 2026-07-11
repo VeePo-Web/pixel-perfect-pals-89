@@ -1,0 +1,502 @@
+{
+ "batch": 16,
+ "region": "Ottawa-Eastern",
+ "count": 11,
+ "rows": [
+  {
+   "id": "ON-0133",
+   "name": "McNab/Braeside",
+   "type": "Township",
+   "parentMuni": "Renfrew",
+   "region": "Ottawa-Eastern",
+   "slug": "mcnab-braeside",
+   "lat": 45.4255,
+   "lng": -75.076,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 394,
+   "distOttawaKm": 48,
+   "pop2021": 7591,
+   "pop2025": 7970,
+   "unifiedScore": 62.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Clarence-Rockland",
+     "slug": "clarence-rockland",
+     "km": 12
+    },
+    {
+     "name": "Russell",
+     "slug": "russell",
+     "km": 29
+    },
+    {
+     "name": "North Glengarry",
+     "slug": "north-glengarry",
+     "km": 29
+    },
+    {
+     "name": "Hawkesbury",
+     "slug": "hawkesbury",
+     "km": 42
+    }
+   ]
+  },
+  {
+   "id": "ON-0120",
+   "name": "South Glengarry",
+   "type": "Township",
+   "parentMuni": "Stormont, Dundas and Glengarry",
+   "region": "Ottawa-Eastern",
+   "slug": "south-glengarry",
+   "lat": 45.1833,
+   "lng": -74.5833,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 417,
+   "distOttawaKm": 91,
+   "pop2021": 13330,
+   "pop2025": 13996,
+   "unifiedScore": 62.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "North Glengarry",
+     "slug": "north-glengarry",
+     "km": 20
+    },
+    {
+     "name": "Cornwall",
+     "slug": "cornwall",
+     "km": 22
+    },
+    {
+     "name": "Akwesasne",
+     "slug": "akwesasne",
+     "km": 25
+    },
+    {
+     "name": "South Stormont",
+     "slug": "south-stormont",
+     "km": 45
+    }
+   ]
+  },
+  {
+   "id": "ON-0114",
+   "name": "North Glengarry",
+   "type": "Township",
+   "parentMuni": "Stormont, Dundas and Glengarry",
+   "region": "Ottawa-Eastern",
+   "slug": "north-glengarry",
+   "lat": 45.3333,
+   "lng": -74.7333,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 413,
+   "distOttawaKm": 76,
+   "pop2021": 10144,
+   "pop2025": 10651,
+   "unifiedScore": 62.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "South Glengarry",
+     "slug": "south-glengarry",
+     "km": 20
+    },
+    {
+     "name": "McNab/Braeside",
+     "slug": "mcnab-braeside",
+     "km": 29
+    },
+    {
+     "name": "Hawkesbury",
+     "slug": "hawkesbury",
+     "km": 32
+    },
+    {
+     "name": "Cornwall",
+     "slug": "cornwall",
+     "km": 35
+    }
+   ]
+  },
+  {
+   "id": "ON-0080",
+   "name": "Hawkesbury",
+   "type": "Town",
+   "parentMuni": "Prescott and Russell",
+   "region": "Ottawa-Eastern",
+   "slug": "hawkesbury",
+   "lat": 45.6108,
+   "lng": -74.6108,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 436,
+   "distOttawaKm": 87,
+   "pop2021": 10194,
+   "pop2025": 10703,
+   "unifiedScore": 62,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "North Glengarry",
+     "slug": "north-glengarry",
+     "km": 32
+    },
+    {
+     "name": "McNab/Braeside",
+     "slug": "mcnab-braeside",
+     "km": 42
+    },
+    {
+     "name": "Clarence-Rockland",
+     "slug": "clarence-rockland",
+     "km": 48
+    },
+    {
+     "name": "South Glengarry",
+     "slug": "south-glengarry",
+     "km": 48
+    }
+   ]
+  },
+  {
+   "id": "ON-0136",
+   "name": "North Stormont",
+   "type": "Township",
+   "parentMuni": "Stormont, Dundas and Glengarry",
+   "region": "Ottawa-Eastern",
+   "slug": "north-stormont",
+   "lat": 46.0075,
+   "lng": -75.842,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 383,
+   "distOttawaKm": 66,
+   "pop2021": 7400,
+   "pop2025": 7770,
+   "unifiedScore": 62,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Alfred and Plantagenet",
+     "slug": "alfred-and-plantagenet",
+     "km": 28
+    },
+    {
+     "name": "NationThe Nation",
+     "slug": "nationthe-nation",
+     "km": 43
+    },
+    {
+     "name": "Ottawa",
+     "slug": "ottawa",
+     "km": 66
+    },
+    {
+     "name": "Arnprior",
+     "slug": "arnprior",
+     "km": 75
+    }
+   ]
+  },
+  {
+   "id": "ON-0096",
+   "name": "Renfrew",
+   "type": "Town",
+   "parentMuni": "Renfrew",
+   "region": "Ottawa-Eastern",
+   "slug": "renfrew",
+   "lat": 45.4719,
+   "lng": -76.6839,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 294,
+   "distOttawaKm": 77,
+   "pop2021": 8190,
+   "pop2025": 8599,
+   "unifiedScore": 61.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Arnprior",
+     "slug": "arnprior",
+     "km": 26
+    },
+    {
+     "name": "Pembroke",
+     "slug": "pembroke",
+     "km": 51
+    },
+    {
+     "name": "Laurentian Valley",
+     "slug": "laurentian-valley",
+     "km": 55
+    },
+    {
+     "name": "Petawawa",
+     "slug": "petawawa",
+     "km": 66
+    }
+   ]
+  },
+  {
+   "id": "ON-0095",
+   "name": "Petawawa",
+   "type": "Town",
+   "parentMuni": "Renfrew",
+   "region": "Ottawa-Eastern",
+   "slug": "petawawa",
+   "lat": 45.8953,
+   "lng": -77.2806,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 299,
+   "distOttawaKm": 134,
+   "pop2021": 18160,
+   "pop2025": 19068,
+   "unifiedScore": 61.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Laurentian Valley",
+     "slug": "laurentian-valley",
+     "km": 12
+    },
+    {
+     "name": "Pembroke",
+     "slug": "pembroke",
+     "km": 15
+    },
+    {
+     "name": "Deep River",
+     "slug": "deep-river",
+     "km": 28
+    },
+    {
+     "name": "Renfrew",
+     "slug": "renfrew",
+     "km": 66
+    }
+   ]
+  },
+  {
+   "id": "ON-0181",
+   "name": "Whitewater",
+   "type": "Township",
+   "parentMuni": "Renfrew",
+   "region": "Ottawa-Eastern",
+   "slug": "whitewater",
+   "lat": 46.078,
+   "lng": -74.808,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 450,
+   "distOttawaKm": 100,
+   "pop2021": 7225,
+   "pop2025": 7586,
+   "unifiedScore": 60.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "NationThe Nation",
+     "slug": "nationthe-nation",
+     "km": 37
+    },
+    {
+     "name": "Hawkesbury",
+     "slug": "hawkesbury",
+     "km": 54
+    },
+    {
+     "name": "Clarence-Rockland",
+     "slug": "clarence-rockland",
+     "km": 73
+    },
+    {
+     "name": "McNab/Braeside",
+     "slug": "mcnab-braeside",
+     "km": 75
+    }
+   ]
+  },
+  {
+   "id": "ON-0175",
+   "name": "Laurentian Valley",
+   "type": "Township",
+   "parentMuni": "Renfrew",
+   "region": "Ottawa-Eastern",
+   "slug": "laurentian-valley",
+   "lat": 45.8167,
+   "lng": -77.1833,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 297,
+   "distOttawaKm": 124,
+   "pop2021": 9450,
+   "pop2025": 9922,
+   "unifiedScore": 60.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Pembroke",
+     "slug": "pembroke",
+     "km": 6
+    },
+    {
+     "name": "Petawawa",
+     "slug": "petawawa",
+     "km": 12
+    },
+    {
+     "name": "Deep River",
+     "slug": "deep-river",
+     "km": 40
+    },
+    {
+     "name": "Renfrew",
+     "slug": "renfrew",
+     "km": 55
+    }
+   ]
+  },
+  {
+   "id": "ON-0150",
+   "name": "Akwesasne",
+   "type": "First Nations Reserve",
+   "parentMuni": null,
+   "region": "Ottawa-Eastern",
+   "slug": "akwesasne",
+   "lat": 44.98,
+   "lng": -74.73,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 398,
+   "distOttawaKm": 90,
+   "pop2021": 11500,
+   "pop2025": 12075,
+   "unifiedScore": 58.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Cornwall",
+     "slug": "cornwall",
+     "km": 4
+    },
+    {
+     "name": "South Glengarry",
+     "slug": "south-glengarry",
+     "km": 25
+    },
+    {
+     "name": "South Stormont",
+     "slug": "south-stormont",
+     "km": 29
+    },
+    {
+     "name": "North Glengarry",
+     "slug": "north-glengarry",
+     "km": 39
+    }
+   ]
+  },
+  {
+   "id": "ON-0255",
+   "name": "Deep River",
+   "type": "Town",
+   "parentMuni": "Renfrew",
+   "region": "Ottawa-Eastern",
+   "slug": "deep-river",
+   "lat": 46.0986,
+   "lng": -77.4999,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 310,
+   "distOttawaKm": 159,
+   "pop2021": 4175,
+   "pop2025": 4383,
+   "unifiedScore": 55.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "Petawawa",
+     "slug": "petawawa",
+     "km": 28
+    },
+    {
+     "name": "Laurentian Valley",
+     "slug": "laurentian-valley",
+     "km": 40
+    },
+    {
+     "name": "Pembroke",
+     "slug": "pembroke",
+     "km": 43
+    },
+    {
+     "name": "Renfrew",
+     "slug": "renfrew",
+     "km": 94
+    }
+   ]
+  }
+ ]
+}

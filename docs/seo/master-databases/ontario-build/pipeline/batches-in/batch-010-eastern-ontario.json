@@ -1,0 +1,547 @@
+{
+ "batch": 10,
+ "region": "Eastern Ontario",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0116",
+   "name": "Perth",
+   "type": "Town",
+   "parentMuni": "Lanark",
+   "region": "Eastern Ontario",
+   "slug": "perth",
+   "lat": 44.8987,
+   "lng": -76.2489,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 285,
+   "distOttawaKm": 72,
+   "pop2021": 6469,
+   "pop2025": 6792,
+   "unifiedScore": 61.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Smiths Falls",
+     "slug": "smiths-falls",
+     "km": 17
+    },
+    {
+     "name": "Centre Hastings",
+     "slug": "centre-hastings",
+     "km": 20
+    },
+    {
+     "name": "Lanark Highlands",
+     "slug": "lanark-highlands",
+     "km": 23
+    },
+    {
+     "name": "Beckwith",
+     "slug": "beckwith",
+     "km": 26
+    }
+   ]
+  },
+  {
+   "id": "ON-0132",
+   "name": "Loyalist",
+   "type": "Township",
+   "parentMuni": "Lennox and Addington",
+   "region": "Eastern Ontario",
+   "slug": "loyalist",
+   "lat": 44.25,
+   "lng": -76.7,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 225,
+   "distOttawaKm": 152,
+   "pop2021": 17943,
+   "pop2025": 18840,
+   "unifiedScore": 61.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Kingston",
+     "slug": "kingston",
+     "km": 17
+    },
+    {
+     "name": "Leeds and the Thousand Islands",
+     "slug": "leeds-and-the-thousand-islands",
+     "km": 18
+    },
+    {
+     "name": "Tweed",
+     "slug": "tweed",
+     "km": 19
+    },
+    {
+     "name": "Stirling-Rawdon",
+     "slug": "stirling-rawdon",
+     "km": 22
+    }
+   ]
+  },
+  {
+   "id": "ON-0173",
+   "name": "Lanark Highlands",
+   "type": "Township",
+   "parentMuni": "Lanark",
+   "region": "Eastern Ontario",
+   "slug": "lanark-highlands",
+   "lat": 45,
+   "lng": -76.5,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 274,
+   "distOttawaKm": 78,
+   "pop2021": 5737,
+   "pop2025": 6023,
+   "unifiedScore": 61.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Centre Hastings",
+     "slug": "centre-hastings",
+     "km": 19
+    },
+    {
+     "name": "Perth",
+     "slug": "perth",
+     "km": 23
+    },
+    {
+     "name": "Carleton Place",
+     "slug": "carleton-place",
+     "km": 32
+    },
+    {
+     "name": "Mississippi Mills",
+     "slug": "mississippi-mills",
+     "km": 34
+    }
+   ]
+  },
+  {
+   "id": "ON-0144",
+   "name": "Rideau Lakes",
+   "type": "Township",
+   "parentMuni": "Leeds and Grenville",
+   "region": "Eastern Ontario",
+   "slug": "rideau-lakes",
+   "lat": 45.0305,
+   "lng": -77.338,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 223,
+   "distOttawaKm": 136,
+   "pop2021": 10883,
+   "pop2025": 11427,
+   "unifiedScore": 60.7,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Prince Edward",
+     "slug": "prince-edward",
+     "km": 53
+    },
+    {
+     "name": "Central Frontenac",
+     "slug": "central-frontenac",
+     "km": 56
+    },
+    {
+     "name": "Hastings Highlands",
+     "slug": "hastings-highlands",
+     "km": 57
+    },
+    {
+     "name": "Lanark Highlands",
+     "slug": "lanark-highlands",
+     "km": 66
+    }
+   ]
+  },
+  {
+   "id": "ON-0277",
+   "name": "Tay Valley",
+   "type": "Township",
+   "parentMuni": "Lanark",
+   "region": "Eastern Ontario",
+   "slug": "tay-valley",
+   "lat": 44.555,
+   "lng": -75.976,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 290,
+   "distOttawaKm": 99,
+   "pop2021": 5925,
+   "pop2025": 6221,
+   "unifiedScore": 60.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Brockville",
+     "slug": "brockville",
+     "km": 23
+    },
+    {
+     "name": "Gananoque",
+     "slug": "gananoque",
+     "km": 29
+    },
+    {
+     "name": "Drummond/North Elmsley",
+     "slug": "drummond-north-elmsley",
+     "km": 30
+    },
+    {
+     "name": "Marmora and Lake",
+     "slug": "marmora-and-lake",
+     "km": 31
+    }
+   ]
+  },
+  {
+   "id": "ON-0261",
+   "name": "Elizabethtown-Kitley",
+   "type": "Township",
+   "parentMuni": "Leeds and Grenville",
+   "region": "Eastern Ontario",
+   "slug": "elizabethtown-kitley",
+   "lat": 44.198,
+   "lng": -75.972,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 280,
+   "distOttawaKm": 138,
+   "pop2021": 9545,
+   "pop2025": 10022,
+   "unifiedScore": 60.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Drummond/North Elmsley",
+     "slug": "drummond-north-elmsley",
+     "km": 15
+    },
+    {
+     "name": "Marmora and Lake",
+     "slug": "marmora-and-lake",
+     "km": 16
+    },
+    {
+     "name": "Gananoque",
+     "slug": "gananoque",
+     "km": 21
+    },
+    {
+     "name": "Tay Valley",
+     "slug": "tay-valley",
+     "km": 40
+    }
+   ]
+  },
+  {
+   "id": "ON-0257",
+   "name": "Drummond/North Elmsley",
+   "type": "Township",
+   "parentMuni": "Lanark",
+   "region": "Eastern Ontario",
+   "slug": "drummond-north-elmsley",
+   "lat": 44.297,
+   "lng": -76.096,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 273,
+   "distOttawaKm": 129,
+   "pop2021": 8183,
+   "pop2025": 8592,
+   "unifiedScore": 60.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Marmora and Lake",
+     "slug": "marmora-and-lake",
+     "km": 2
+    },
+    {
+     "name": "Gananoque",
+     "slug": "gananoque",
+     "km": 6
+    },
+    {
+     "name": "Elizabethtown-Kitley",
+     "slug": "elizabethtown-kitley",
+     "km": 15
+    },
+    {
+     "name": "Tay Valley",
+     "slug": "tay-valley",
+     "km": 30
+    }
+   ]
+  },
+  {
+   "id": "ON-0266",
+   "name": "Leeds and the Thousand Islands",
+   "type": "Township",
+   "parentMuni": "Leeds and Grenville",
+   "region": "Eastern Ontario",
+   "slug": "leeds-and-the-thousand-islands",
+   "lat": 44.3825,
+   "lng": -76.832,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 220,
+   "distOttawaKm": 146,
+   "pop2021": 9804,
+   "pop2025": 10294,
+   "unifiedScore": 60.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Stone Mills",
+     "slug": "stone-mills",
+     "km": 14
+    },
+    {
+     "name": "North Grenville",
+     "slug": "north-grenville",
+     "km": 18
+    },
+    {
+     "name": "Loyalist",
+     "slug": "loyalist",
+     "km": 18
+    },
+    {
+     "name": "Stirling-Rawdon",
+     "slug": "stirling-rawdon",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0276",
+   "name": "Stone Mills",
+   "type": "Township",
+   "parentMuni": "Lennox and Addington",
+   "region": "Eastern Ontario",
+   "slug": "stone-mills",
+   "lat": 44.5,
+   "lng": -76.9,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 220,
+   "distOttawaKm": 139,
+   "pop2021": 7826,
+   "pop2025": 8217,
+   "unifiedScore": 59.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Leeds and the Thousand Islands",
+     "slug": "leeds-and-the-thousand-islands",
+     "km": 14
+    },
+    {
+     "name": "Prince Edward",
+     "slug": "prince-edward",
+     "km": 16
+    },
+    {
+     "name": "Hastings Highlands",
+     "slug": "hastings-highlands",
+     "km": 18
+    },
+    {
+     "name": "North Grenville",
+     "slug": "north-grenville",
+     "km": 20
+    }
+   ]
+  },
+  {
+   "id": "ON-0168",
+   "name": "Gananoque",
+   "type": "Town",
+   "parentMuni": null,
+   "region": "Eastern Ontario",
+   "slug": "gananoque",
+   "lat": 44.3304,
+   "lng": -76.1621,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 268,
+   "distOttawaKm": 127,
+   "pop2021": 5383,
+   "pop2025": 5652,
+   "unifiedScore": 59.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Marmora and Lake",
+     "slug": "marmora-and-lake",
+     "km": 5
+    },
+    {
+     "name": "Drummond/North Elmsley",
+     "slug": "drummond-north-elmsley",
+     "km": 6
+    },
+    {
+     "name": "Elizabethtown-Kitley",
+     "slug": "elizabethtown-kitley",
+     "km": 21
+    },
+    {
+     "name": "Kingston",
+     "slug": "kingston",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0485",
+   "name": "Tweed",
+   "type": "Municipality",
+   "parentMuni": "Hastings",
+   "region": "Eastern Ontario",
+   "slug": "tweed",
+   "lat": 44.3885,
+   "lng": -76.562,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 240,
+   "distOttawaKm": 134,
+   "pop2021": 6067,
+   "pop2025": 6370,
+   "unifiedScore": 59.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "North Grenville",
+     "slug": "north-grenville",
+     "km": 12
+    },
+    {
+     "name": "South Frontenac",
+     "slug": "south-frontenac",
+     "km": 13
+    },
+    {
+     "name": "Kingston",
+     "slug": "kingston",
+     "km": 19
+    },
+    {
+     "name": "Loyalist",
+     "slug": "loyalist",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0474",
+   "name": "Edwardsburgh/Cardinal",
+   "type": "Township",
+   "parentMuni": "Leeds and Grenville",
+   "region": "Eastern Ontario",
+   "slug": "edwardsburgh-cardinal",
+   "lat": 43.7255,
+   "lng": -75.54,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 309,
+   "distOttawaKm": 189,
+   "pop2021": 7505,
+   "pop2025": 7880,
+   "unifiedScore": 58.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Elizabethtown-Kitley",
+     "slug": "elizabethtown-kitley",
+     "km": 63
+    },
+    {
+     "name": "Bancroft",
+     "slug": "bancroft",
+     "km": 69
+    },
+    {
+     "name": "Drummond/North Elmsley",
+     "slug": "drummond-north-elmsley",
+     "km": 78
+    },
+    {
+     "name": "Marmora and Lake",
+     "slug": "marmora-and-lake",
+     "km": 78
+    }
+   ]
+  }
+ ]
+}

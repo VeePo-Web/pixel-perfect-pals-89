@@ -1,0 +1,547 @@
+{
+ "batch": 2,
+ "region": "Southwestern Ontario",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0121",
+   "name": "St. Clair",
+   "type": "Township",
+   "parentMuni": "Lambton",
+   "region": "Southwestern Ontario",
+   "slug": "st-clair",
+   "lat": 43.2745,
+   "lng": -80.804,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 122,
+   "distOttawaKm": 471,
+   "pop2021": 14659,
+   "pop2025": 15391,
+   "unifiedScore": 61.7,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "East Zorra-Tavistock",
+     "slug": "east-zorra-tavistock",
+     "km": 9
+    },
+    {
+     "name": "Woodstock",
+     "slug": "woodstock",
+     "km": 17
+    },
+    {
+     "name": "Stratford",
+     "slug": "stratford",
+     "km": 18
+    },
+    {
+     "name": "Lambton Shores",
+     "slug": "lambton-shores",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0138",
+   "name": "Perth East",
+   "type": "Township",
+   "parentMuni": "Perth",
+   "region": "Southwestern Ontario",
+   "slug": "perth-east",
+   "lat": 43.4833,
+   "lng": -80.85,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 120,
+   "distOttawaKm": 462,
+   "pop2021": 12595,
+   "pop2025": 13224,
+   "unifiedScore": 61.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Lambton Shores",
+     "slug": "lambton-shores",
+     "km": 16
+    },
+    {
+     "name": "Stratford",
+     "slug": "stratford",
+     "km": 17
+    },
+    {
+     "name": "St. Clair",
+     "slug": "st-clair",
+     "km": 24
+    },
+    {
+     "name": "Huron East",
+     "slug": "huron-east",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0182",
+   "name": "Zorra",
+   "type": "Township",
+   "parentMuni": "Oxford",
+   "region": "Southwestern Ontario",
+   "slug": "zorra",
+   "lat": 43.0345,
+   "lng": -80.344,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 104,
+   "distOttawaKm": 455,
+   "pop2021": 8628,
+   "pop2025": 9059,
+   "unifiedScore": 61.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Petrolia",
+     "slug": "petrolia",
+     "km": 12
+    },
+    {
+     "name": "Brantford",
+     "slug": "brantford",
+     "km": 13
+    },
+    {
+     "name": "Six Nations of the Grand River",
+     "slug": "six-nations-of-the-grand-river",
+     "km": 20
+    },
+    {
+     "name": "West Elgin",
+     "slug": "west-elgin",
+     "km": 23
+    }
+   ]
+  },
+  {
+   "id": "ON-0091",
+   "name": "Ingersoll",
+   "type": "Town",
+   "parentMuni": "Oxford",
+   "region": "Southwestern Ontario",
+   "slug": "ingersoll",
+   "lat": 43.0394,
+   "lng": -80.8838,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 139,
+   "distOttawaKm": 491,
+   "pop2021": 13693,
+   "pop2025": 14377,
+   "unifiedScore": 61.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Woodstock",
+     "slug": "woodstock",
+     "km": 15
+    },
+    {
+     "name": "East Zorra-Tavistock",
+     "slug": "east-zorra-tavistock",
+     "km": 22
+    },
+    {
+     "name": "Tillsonburg",
+     "slug": "tillsonburg",
+     "km": 23
+    },
+    {
+     "name": "St. Clair",
+     "slug": "st-clair",
+     "km": 27
+    }
+   ]
+  },
+  {
+   "id": "ON-0265",
+   "name": "Lambton Shores",
+   "type": "Municipality",
+   "parentMuni": "Lambton",
+   "region": "Southwestern Ontario",
+   "slug": "lambton-shores",
+   "lat": 43.381,
+   "lng": -80.984,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 133,
+   "distOttawaKm": 477,
+   "pop2021": 11876,
+   "pop2025": 12469,
+   "unifiedScore": 61,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Stratford",
+     "slug": "stratford",
+     "km": 1
+    },
+    {
+     "name": "Perth East",
+     "slug": "perth-east",
+     "km": 16
+    },
+    {
+     "name": "St. Clair",
+     "slug": "st-clair",
+     "km": 19
+    },
+    {
+     "name": "Huron East",
+     "slug": "huron-east",
+     "km": 26
+    }
+   ]
+  },
+  {
+   "id": "ON-0139",
+   "name": "Petrolia",
+   "type": "Town",
+   "parentMuni": "Lambton",
+   "region": "Southwestern Ontario",
+   "slug": "petrolia",
+   "lat": 43.084,
+   "lng": -80.218,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 93,
+   "distOttawaKm": 444,
+   "pop2021": 6013,
+   "pop2025": 6313,
+   "unifiedScore": 60.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Brantford",
+     "slug": "brantford",
+     "km": 7
+    },
+    {
+     "name": "Six Nations of the Grand River",
+     "slug": "six-nations-of-the-grand-river",
+     "km": 10
+    },
+    {
+     "name": "Zorra",
+     "slug": "zorra",
+     "km": 12
+    },
+    {
+     "name": "West Elgin",
+     "slug": "west-elgin",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0386",
+   "name": "Southwest Middlesex",
+   "type": "Municipality",
+   "parentMuni": "Middlesex",
+   "region": "Southwestern Ontario",
+   "slug": "southwest-middlesex",
+   "lat": 43.351,
+   "lng": -80.488,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 95,
+   "distOttawaKm": 445,
+   "pop2021": 5893,
+   "pop2025": 6187,
+   "unifiedScore": 60.7,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "West Elgin",
+     "slug": "west-elgin",
+     "km": 14
+    },
+    {
+     "name": "East Zorra-Tavistock",
+     "slug": "east-zorra-tavistock",
+     "km": 26
+    },
+    {
+     "name": "St. Clair",
+     "slug": "st-clair",
+     "km": 27
+    },
+    {
+     "name": "Brantford",
+     "slug": "brantford",
+     "km": 30
+    }
+   ]
+  },
+  {
+   "id": "ON-0260",
+   "name": "East Zorra-Tavistock",
+   "type": "Township",
+   "parentMuni": "Oxford",
+   "region": "Southwestern Ontario",
+   "slug": "east-zorra-tavistock",
+   "lat": 43.2085,
+   "lng": -80.744,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 120,
+   "distOttawaKm": 471,
+   "pop2021": 7841,
+   "pop2025": 8233,
+   "unifiedScore": 60.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Woodstock",
+     "slug": "woodstock",
+     "km": 9
+    },
+    {
+     "name": "St. Clair",
+     "slug": "st-clair",
+     "km": 9
+    },
+    {
+     "name": "Ingersoll",
+     "slug": "ingersoll",
+     "km": 22
+    },
+    {
+     "name": "West Elgin",
+     "slug": "west-elgin",
+     "km": 25
+    }
+   ]
+  },
+  {
+   "id": "ON-0372",
+   "name": "Huron East",
+   "type": "Municipality",
+   "parentMuni": "Huron",
+   "region": "Southwestern Ontario",
+   "slug": "huron-east",
+   "lat": 43.6,
+   "lng": -81.1,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 138,
+   "distOttawaKm": 474,
+   "pop2021": 9512,
+   "pop2025": 9987,
+   "unifiedScore": 60.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "North Perth",
+     "slug": "north-perth",
+     "km": 21
+    },
+    {
+     "name": "Perth East",
+     "slug": "perth-east",
+     "km": 24
+    },
+    {
+     "name": "Lambton Shores",
+     "slug": "lambton-shores",
+     "km": 26
+    },
+    {
+     "name": "Stratford",
+     "slug": "stratford",
+     "km": 27
+    }
+   ]
+  },
+  {
+   "id": "ON-0388",
+   "name": "Strathroy-Caradoc",
+   "type": "Municipality",
+   "parentMuni": "Middlesex",
+   "region": "Southwestern Ontario",
+   "slug": "strathroy-caradoc",
+   "lat": 42.6085,
+   "lng": -81.86,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 232,
+   "distOttawaKm": 583,
+   "pop2021": 23871,
+   "pop2025": 25064,
+   "unifiedScore": 60.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Goderich",
+     "slug": "goderich",
+     "km": 10
+    },
+    {
+     "name": "Lucan Biddulph",
+     "slug": "lucan-biddulph",
+     "km": 29
+    },
+    {
+     "name": "Ashfield–Colborne–Wawanosh",
+     "slug": "ashfield-colborne-wawanosh",
+     "km": 39
+    },
+    {
+     "name": "Thames Centre",
+     "slug": "thames-centre",
+     "km": 40
+    }
+   ]
+  },
+  {
+   "id": "ON-0253",
+   "name": "Central Elgin",
+   "type": "Municipality",
+   "parentMuni": "Elgin",
+   "region": "Southwestern Ontario",
+   "slug": "central-elgin",
+   "lat": 43.222,
+   "lng": -81.34,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 165,
+   "distOttawaKm": 511,
+   "pop2021": 13746,
+   "pop2025": 14433,
+   "unifiedScore": 60.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Aylmer",
+     "slug": "aylmer",
+     "km": 12
+    },
+    {
+     "name": "South Huron",
+     "slug": "south-huron",
+     "km": 18
+    },
+    {
+     "name": "West Perth",
+     "slug": "west-perth",
+     "km": 25
+    },
+    {
+     "name": "London",
+     "slug": "london",
+     "km": 27
+    }
+   ]
+  },
+  {
+   "id": "ON-0393",
+   "name": "West Elgin",
+   "type": "Municipality",
+   "parentMuni": "Elgin",
+   "region": "Southwestern Ontario",
+   "slug": "west-elgin",
+   "lat": 43.2295,
+   "lng": -80.432,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 97,
+   "distOttawaKm": 449,
+   "pop2021": 5060,
+   "pop2025": 5313,
+   "unifiedScore": 60.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Southwest Middlesex",
+     "slug": "southwest-middlesex",
+     "km": 14
+    },
+    {
+     "name": "Brantford",
+     "slug": "brantford",
+     "km": 17
+    },
+    {
+     "name": "Zorra",
+     "slug": "zorra",
+     "km": 23
+    },
+    {
+     "name": "Petrolia",
+     "slug": "petrolia",
+     "km": 24
+    }
+   ]
+  }
+ ]
+}

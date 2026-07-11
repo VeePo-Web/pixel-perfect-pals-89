@@ -1,0 +1,52 @@
+{
+ "batch": 14,
+ "region": "Greater Toronto Area",
+ "count": 1,
+ "rows": [
+  {
+   "id": "ON-0088",
+   "name": "Brock",
+   "type": "Township",
+   "parentMuni": "Durham",
+   "region": "Greater Toronto Area",
+   "slug": "brock",
+   "lat": 44.3167,
+   "lng": -79.1167,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 77,
+   "distOttawaKm": 296,
+   "pop2021": 12567,
+   "pop2025": 13195,
+   "unifiedScore": 62.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Uxbridge",
+     "slug": "uxbridge",
+     "km": 23
+    },
+    {
+     "name": "Georgina",
+     "slug": "georgina",
+     "km": 25
+    },
+    {
+     "name": "East Gwillimbury",
+     "slug": "east-gwillimbury",
+     "km": 30
+    },
+    {
+     "name": "Scugog",
+     "slug": "scugog",
+     "km": 30
+    }
+   ]
+  }
+ ]
+}

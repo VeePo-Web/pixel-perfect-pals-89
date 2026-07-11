@@ -1,0 +1,559 @@
+{
+ "batch": 19,
+ "region": "Kitchener-Waterloo",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0012",
+   "name": "Kitchener",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Kitchener-Waterloo",
+   "slug": "kitchener",
+   "lat": 43.4516,
+   "lng": -80.4925,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 92,
+   "distOttawaKm": 439,
+   "pop2021": 256885,
+   "pop2025": 269729,
+   "unifiedScore": 73.4,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1912, originally named Berlin, renamed during WWI after Field Marshal Kitchener",
+    "landmarks": "Kitchener Market, THEMUSEUM, Centre in the Square, Victoria Park, Schneider Haus, Doon Heritage Village",
+    "notable": "part of the Waterloo Region tech triangle — home to the largest Bavarian festival outside of Germany (Kitchener-Waterloo Oktoberfest, 700,000+ attendees annually)",
+    "economy": "tech startup hub (Communitech, Google), insurance (Manulife, Sun Life), manufacturing, Waterloo Region innovation corridor",
+    "entityDesc": "Kitchener is a city in Kitchener-Waterloo, Ontario, Canada, with a population of approximately 256,885. Tech startup hub (communitech, google), insurance (manulife, sun life), manufacturing, waterloo region innovation corridor.",
+    "longDesc": "Kitchener isn't just Ontario's city — it's a place where ambition meets opportunity. Founded originally named Berlin, renamed during WWI after Field Marshal Kitchener, this city has transformed into a thriving community of over ~260,000 people.\n\nWhat makes Kitchener remarkable for {BUSINESS_TYPE}? Scale and diversity. The city encompasses everything from ION LRT rapid transit, vibrant downtown arts district, Iron Horse Trail, Grand River cycling, thriving craft brewery scene. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by tech startup hub (Communitech, Google), insurance (Manulife, Sun Life), manufacturing, Waterloo Region innovation corridor. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Kitchener Market, THEMUSEUM, Centre in the Square, Victoria Park, Schneider Haus, Doon Heritage Village, which give Kitchener its distinctive character.\n\nKitchener benefits from its location in Kitchener-Waterloo. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Kitchener properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Kitchener residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Waterloo",
+     "slug": "waterloo",
+     "km": 3
+    },
+    {
+     "name": "Wilmot",
+     "slug": "wilmot",
+     "km": 14
+    },
+    {
+     "name": "Woolwich",
+     "slug": "woolwich",
+     "km": 15
+    },
+    {
+     "name": "North Dumfries",
+     "slug": "north-dumfries",
+     "km": 16
+    }
+   ]
+  },
+  {
+   "id": "ON-0011",
+   "name": "Guelph",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Kitchener-Waterloo",
+   "slug": "guelph",
+   "lat": 43.5448,
+   "lng": -80.2482,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 71,
+   "distOttawaKm": 417,
+   "pop2021": 143740,
+   "pop2025": 150927,
+   "unifiedScore": 72.9,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1855, founded 1827 by John Galt of the Canada Company, named after the House of Guelph",
+    "landmarks": "Basilica of Our Lady Immaculate, McCrae House (In Flanders Fields poet), Riverside Park, Speed River trails",
+    "notable": "known as 'The Royal City' — a university city with one of Canada's lowest unemployment rates, strong environmental focus, and vibrant local food scene",
+    "economy": "education (University of Guelph — Canada's food university), agri-food innovation, manufacturing, Linamar, Co-operators Group",
+    "entityDesc": "Guelph is a city in Kitchener-Waterloo, Ontario, Canada, with a population of approximately 143,740. Education (university of guelph — canada's food university), agri-food innovation, manufacturing, linamar, co-operators group.",
+    "longDesc": "Guelph isn't just Ontario's city — it's a place where ambition meets opportunity. Founded founded 1827 by John Galt of the Canada Company, named after the House of Guelph, this city has transformed into a thriving community of over ~144,000 people.\n\nWhat makes Guelph remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from Guelph Jazz Festival, Royal City Musical Theatre, extensive trail system, farmers' market, thriving downtown core. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by education (University of Guelph — Canada's food university), agri-food innovation, manufacturing, Linamar, Co-operators Group. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Basilica of Our Lady Immaculate, McCrae House (In Flanders Fields poet), Riverside Park, Speed River trails, which give Guelph its distinctive character.\n\nGuelph benefits from its location in Kitchener-Waterloo. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Guelph properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Guelph residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Guelph/Eramosa",
+     "slug": "guelph-eramosa",
+     "km": 11
+    },
+    {
+     "name": "Puslinch",
+     "slug": "puslinch",
+     "km": 12
+    },
+    {
+     "name": "Cambridge",
+     "slug": "cambridge",
+     "km": 21
+    },
+    {
+     "name": "Kitchener",
+     "slug": "kitchener",
+     "km": 22
+    }
+   ]
+  },
+  {
+   "id": "ON-0015",
+   "name": "Cambridge",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Kitchener-Waterloo",
+   "slug": "cambridge",
+   "lat": 43.3616,
+   "lng": -80.3144,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 82,
+   "distOttawaKm": 432,
+   "pop2021": 138479,
+   "pop2025": 145402,
+   "unifiedScore": 72.5,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1973, formed by amalgamation of Galt, Preston, and Hespeler",
+    "landmarks": "Cambridge Butterfly Conservatory, Fashion History Museum, Galt Gardens, Mill Race Trail, Grand River",
+    "notable": "the meeting place of three historic communities (Galt, Preston, Hespeler) — each with its own distinct downtown, heritage architecture, and community identity",
+    "economy": "automotive manufacturing (Toyota), advanced manufacturing, tech, construction, food processing",
+    "entityDesc": "Cambridge is a city in Kitchener-Waterloo, Ontario, Canada, with a population of approximately 138,479. Automotive manufacturing (toyota), advanced manufacturing, tech, construction, food processing.",
+    "longDesc": "Cambridge isn't just Ontario's city — it's a place where ambition meets opportunity. Founded formed by amalgamation of Galt, Preston, and Hespeler, this city has transformed into a thriving community of over ~140,000 people.\n\nWhat makes Cambridge remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from Grand River heritage paddle, downtown Galt revitalization, Cambridge Centre for the Arts, outdoor recreation corridor. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by automotive manufacturing (Toyota), advanced manufacturing, tech, construction, food processing. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Cambridge Butterfly Conservatory, Fashion History Museum, Galt Gardens, Mill Race Trail, Grand River, which give Cambridge its distinctive character.\n\nCambridge benefits from its location in Kitchener-Waterloo. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Cambridge properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Cambridge residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "North Dumfries",
+     "slug": "north-dumfries",
+     "km": 6
+    },
+    {
+     "name": "Puslinch",
+     "slug": "puslinch",
+     "km": 15
+    },
+    {
+     "name": "Kitchener",
+     "slug": "kitchener",
+     "km": 18
+    },
+    {
+     "name": "Waterloo",
+     "slug": "waterloo",
+     "km": 20
+    }
+   ]
+  },
+  {
+   "id": "ON-0018",
+   "name": "Waterloo",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Kitchener-Waterloo",
+   "slug": "waterloo",
+   "lat": 43.4643,
+   "lng": -80.5204,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 94,
+   "distOttawaKm": 440,
+   "pop2021": 121436,
+   "pop2025": 127507,
+   "unifiedScore": 71.8,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Kitchener",
+     "slug": "kitchener",
+     "km": 3
+    },
+    {
+     "name": "Woolwich",
+     "slug": "woolwich",
+     "km": 13
+    },
+    {
+     "name": "Wilmot",
+     "slug": "wilmot",
+     "km": 13
+    },
+    {
+     "name": "North Dumfries",
+     "slug": "north-dumfries",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0077",
+   "name": "Centre Wellington",
+   "type": "Township",
+   "parentMuni": "Wellington",
+   "region": "Kitchener-Waterloo",
+   "slug": "centre-wellington",
+   "lat": 43.7333,
+   "lng": -80.3667,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 80,
+   "distOttawaKm": 415,
+   "pop2021": 31093,
+   "pop2025": 32647,
+   "unifiedScore": 65.5,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Woolwich",
+     "slug": "woolwich",
+     "km": 21
+    },
+    {
+     "name": "Guelph/Eramosa",
+     "slug": "guelph-eramosa",
+     "km": 22
+    },
+    {
+     "name": "Guelph",
+     "slug": "guelph",
+     "km": 23
+    },
+    {
+     "name": "Erin",
+     "slug": "erin",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0086",
+   "name": "Woolwich",
+   "type": "Township",
+   "parentMuni": "Waterloo",
+   "region": "Kitchener-Waterloo",
+   "slug": "woolwich",
+   "lat": 43.5833,
+   "lng": -80.5167,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 92,
+   "distOttawaKm": 433,
+   "pop2021": 26999,
+   "pop2025": 28348,
+   "unifiedScore": 64.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Waterloo",
+     "slug": "waterloo",
+     "km": 13
+    },
+    {
+     "name": "Kitchener",
+     "slug": "kitchener",
+     "km": 15
+    },
+    {
+     "name": "Wellesley",
+     "slug": "wellesley",
+     "km": 18
+    },
+    {
+     "name": "Centre Wellington",
+     "slug": "centre-wellington",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0104",
+   "name": "Wilmot",
+   "type": "Township",
+   "parentMuni": "Waterloo",
+   "region": "Kitchener-Waterloo",
+   "slug": "wilmot",
+   "lat": 43.4,
+   "lng": -80.65,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 106,
+   "distOttawaKm": 453,
+   "pop2021": 21429,
+   "pop2025": 22500,
+   "unifiedScore": 64,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Waterloo",
+     "slug": "waterloo",
+     "km": 13
+    },
+    {
+     "name": "Kitchener",
+     "slug": "kitchener",
+     "km": 14
+    },
+    {
+     "name": "Wellesley",
+     "slug": "wellesley",
+     "km": 18
+    },
+    {
+     "name": "Woolwich",
+     "slug": "woolwich",
+     "km": 23
+    }
+   ]
+  },
+  {
+   "id": "ON-0110",
+   "name": "Guelph/Eramosa",
+   "type": "Township",
+   "parentMuni": "Wellington",
+   "region": "Kitchener-Waterloo",
+   "slug": "guelph-eramosa",
+   "lat": 43.617,
+   "lng": -80.15,
+   "coordNote": "coords corrected (original 42.775,-79.558 fell in Lake Erie); centred near Rockwood — verify vs CGN",
+   "fixNote": null,
+   "distTorontoKm": 99,
+   "distOttawaKm": 426,
+   "pop2021": 13904,
+   "pop2025": 14599,
+   "unifiedScore": 63.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Guelph",
+     "slug": "guelph",
+     "km": 11
+    },
+    {
+     "name": "Erin",
+     "slug": "erin",
+     "km": 18
+    },
+    {
+     "name": "Puslinch",
+     "slug": "puslinch",
+     "km": 19
+    },
+    {
+     "name": "Centre Wellington",
+     "slug": "centre-wellington",
+     "km": 22
+    }
+   ]
+  },
+  {
+   "id": "ON-0069",
+   "name": "Erin",
+   "type": "Town",
+   "parentMuni": "Wellington",
+   "region": "Kitchener-Waterloo",
+   "slug": "erin",
+   "lat": 43.7667,
+   "lng": -80.0667,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 56,
+   "distOttawaKm": 392,
+   "pop2021": 11981,
+   "pop2025": 12580,
+   "unifiedScore": 63.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Guelph/Eramosa",
+     "slug": "guelph-eramosa",
+     "km": 18
+    },
+    {
+     "name": "Centre Wellington",
+     "slug": "centre-wellington",
+     "km": 24
+    },
+    {
+     "name": "Guelph",
+     "slug": "guelph",
+     "km": 29
+    },
+    {
+     "name": "Puslinch",
+     "slug": "puslinch",
+     "km": 36
+    }
+   ]
+  },
+  {
+   "id": "ON-0113",
+   "name": "North Dumfries",
+   "type": "Township",
+   "parentMuni": "Waterloo",
+   "region": "Kitchener-Waterloo",
+   "slug": "north-dumfries",
+   "lat": 43.3333,
+   "lng": -80.3833,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 88,
+   "distOttawaKm": 439,
+   "pop2021": 10619,
+   "pop2025": 11149,
+   "unifiedScore": 62.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Cambridge",
+     "slug": "cambridge",
+     "km": 6
+    },
+    {
+     "name": "Kitchener",
+     "slug": "kitchener",
+     "km": 16
+    },
+    {
+     "name": "Waterloo",
+     "slug": "waterloo",
+     "km": 18
+    },
+    {
+     "name": "Puslinch",
+     "slug": "puslinch",
+     "km": 22
+    }
+   ]
+  },
+  {
+   "id": "ON-0123",
+   "name": "Wellington North",
+   "type": "Township",
+   "parentMuni": "Wellington",
+   "region": "Kitchener-Waterloo",
+   "slug": "wellington-north",
+   "lat": 43.9167,
+   "lng": -80.5667,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 99,
+   "distOttawaKm": 420,
+   "pop2021": 12431,
+   "pop2025": 13052,
+   "unifiedScore": 62.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Mapleton",
+     "slug": "mapleton",
+     "km": 21
+    },
+    {
+     "name": "Minto",
+     "slug": "minto",
+     "km": 24
+    },
+    {
+     "name": "Centre Wellington",
+     "slug": "centre-wellington",
+     "km": 26
+    },
+    {
+     "name": "Woolwich",
+     "slug": "woolwich",
+     "km": 37
+    }
+   ]
+  },
+  {
+   "id": "ON-0142",
+   "name": "Puslinch",
+   "type": "Township",
+   "parentMuni": "Wellington",
+   "region": "Kitchener-Waterloo",
+   "slug": "puslinch",
+   "lat": 43.45,
+   "lng": -80.1667,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 67,
+   "distOttawaKm": 417,
+   "pop2021": 7944,
+   "pop2025": 8341,
+   "unifiedScore": 62.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Guelph",
+     "slug": "guelph",
+     "km": 12
+    },
+    {
+     "name": "Cambridge",
+     "slug": "cambridge",
+     "km": 15
+    },
+    {
+     "name": "Guelph/Eramosa",
+     "slug": "guelph-eramosa",
+     "km": 19
+    },
+    {
+     "name": "North Dumfries",
+     "slug": "north-dumfries",
+     "km": 22
+    }
+   ]
+  }
+ ]
+}

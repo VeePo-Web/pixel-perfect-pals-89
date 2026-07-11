@@ -1,0 +1,52 @@
+{
+ "batch": 24,
+ "region": "Hamilton-Niagara",
+ "count": 1,
+ "rows": [
+  {
+   "id": "ON-0082",
+   "name": "Niagara-on-the-Lake",
+   "type": "Town",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "niagara-on-the-lake",
+   "lat": 42.706,
+   "lng": -80.114,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 121,
+   "distOttawaKm": 464,
+   "pop2021": 19088,
+   "pop2025": 20042,
+   "unifiedScore": 62.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Hamilton",
+     "slug": "hamilton",
+     "km": 64
+    },
+    {
+     "name": "Grimsby",
+     "slug": "grimsby",
+     "km": 71
+    },
+    {
+     "name": "Port Colborne",
+     "slug": "port-colborne",
+     "km": 73
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 73
+    }
+   ]
+  }
+ ]
+}

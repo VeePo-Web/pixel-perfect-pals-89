@@ -1,0 +1,563 @@
+{
+ "batch": 21,
+ "region": "Northern Ontario",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0041",
+   "name": "Greater Sudbury",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "greater-sudbury",
+   "lat": 46.4917,
+   "lng": -80.993,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 340,
+   "distOttawaKm": 426,
+   "pop2021": 166004,
+   "pop2025": 174304,
+   "unifiedScore": 65.1,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "2001 (amalgamation), mining since 1883, created by merger of regional municipality",
+    "landmarks": "Science North, Dynamic Earth, Big Nickel (9m tall), Bell Park, Lake Ramsey, Sudbury Basin",
+    "notable": "known as 'The Nickel Capital' — largest city in Northern Ontario, dramatically transformed from barren mining landscape to green city through world-renowned regreening program",
+    "economy": "mining capital of Canada (nickel, copper) — Vale, Glencore, Laurentian University, Northern Ontario School of Medicine, mining technology",
+    "entityDesc": "Greater Sudbury is a city in Northern Ontario, Ontario, Canada, with a population of approximately 166,004. Mining capital of canada (nickel, copper) — vale, glencore, laurentian university, northern ontario school of medicine, mining technology.",
+    "longDesc": "Greater Sudbury isn't just Ontario's city — it's a place where ambition meets opportunity. Founded mining since 1883, created by merger of regional municipality, this city has transformed into a thriving community of over ~166,000 people.\n\nWhat makes Greater Sudbury remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from over 330 lakes within city limits, extensive trail system, vibrant Franco-Ontarian culture, Northern Film & Music Festival. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by mining capital of Canada (nickel, copper) — Vale, Glencore, Laurentian University, Northern Ontario School of Medicine, mining technology. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Science North, Dynamic Earth, Big Nickel (9m tall), Bell Park, Lake Ramsey, Sudbury Basin, which give Greater Sudbury its distinctive character.\n\nGreater Sudbury benefits from its location in Northern Ontario. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Greater Sudbury properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Greater Sudbury residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 53
+    },
+    {
+     "name": "Espanola",
+     "slug": "espanola",
+     "km": 65
+    },
+    {
+     "name": "Kirkland Lake",
+     "slug": "kirkland-lake",
+     "km": 85
+    },
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 89
+    }
+   ]
+  },
+  {
+   "id": "ON-0048",
+   "name": "North Bay",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "north-bay",
+   "lat": 46.3091,
+   "lng": -79.4608,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 295,
+   "distOttawaKm": 308,
+   "pop2021": 52662,
+   "pop2025": 55295,
+   "unifiedScore": 63.1,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1925, named for its location on the north bay of Lake Nipissing",
+    "landmarks": "North Bay Waterfront, Discovery North Bay Museum, Chief Commanda II cruise ship, Duchesnay Falls",
+    "notable": "the 'Gateway to the North' — birthplace of the Dionne quintuplets (1934), stunning location between Lake Nipissing and Trout Lake",
+    "economy": "government services, education (Nipissing University, Canadore College), tourism, healthcare, military (22 Wing/CFB North Bay)",
+    "entityDesc": "North Bay is a city in Northern Ontario, Ontario, Canada, with a population of approximately 52,662. Government services, education (nipissing university, canadore college), tourism, healthcare, military (22 wing/cfb north bay).",
+    "longDesc": "North Bay isn't just Ontario's city — it's a place where ambition meets opportunity. Founded named for its location on the north bay of Lake Nipissing, this city has transformed into a thriving community of ~52,000 people.\n\nWhat makes North Bay remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from Kate Pace Way waterfront trail, Ski Laurentian, Capitol Centre, Lake Nipissing fishing, North Bay Jack Garland Airport. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by government services, education (Nipissing University, Canadore College), tourism, healthcare, military (22 Wing/CFB North Bay). This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include North Bay Waterfront, Discovery North Bay Museum, Chief Commanda II cruise ship, Duchesnay Falls, which give North Bay its distinctive character.\n\nNorth Bay benefits from its location in Northern Ontario. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what North Bay properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why North Bay residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Kirkland Lake",
+     "slug": "kirkland-lake",
+     "km": 93
+    },
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 104
+    },
+    {
+     "name": "Parry Sound",
+     "slug": "parry-sound",
+     "km": 116
+    },
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 119
+    }
+   ]
+  },
+  {
+   "id": "ON-0065",
+   "name": "Thunder Bay",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "thunder-bay",
+   "lat": 48.3809,
+   "lng": -89.2477,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 924,
+   "distOttawaKm": 1079,
+   "pop2021": 108843,
+   "pop2025": 114285,
+   "unifiedScore": 59.4,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1970, created by merger of Fort William and Port Arthur on Lake Superior",
+    "landmarks": "Sleeping Giant Provincial Park, Terry Fox Memorial, Fort William Historical Park, Kakabeka Falls, Hillcrest Park lookout",
+    "notable": "Northwestern Ontario's largest city — known as 'The Lakehead', spectacular natural setting on Lake Superior with strong Finnish heritage community",
+    "economy": "forestry, grain handling (world's largest inland grain port), mining support, Bombardier, healthcare, education (Lakehead University)",
+    "entityDesc": "Thunder Bay is a city in Northern Ontario, Ontario, Canada, with a population of approximately 108,843. Forestry, grain handling (world's largest inland grain port), mining support, bombardier, healthcare, education (lakehead university).",
+    "longDesc": "Thunder Bay isn't just Ontario's city — it's a place where ambition meets opportunity. Founded created by merger of Fort William and Port Arthur on Lake Superior, this city has transformed into a thriving community of over ~115,000 people.\n\nWhat makes Thunder Bay remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from world-class outdoor recreation, Finnish-style saunas, Persian pastry tradition, Sleeping Giant formation, Thunder Bay Symphony Orchestra. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by forestry, grain handling (world's largest inland grain port), mining support, Bombardier, healthcare, education (Lakehead University). This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Sleeping Giant Provincial Park, Terry Fox Memorial, Fort William Historical Park, Kakabeka Falls, Hillcrest Park lookout, which give Thunder Bay its distinctive character.\n\nThunder Bay benefits from its location in Northern Ontario. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Thunder Bay properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Thunder Bay residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Dryden",
+     "slug": "dryden",
+     "km": 304
+    },
+    {
+     "name": "Kenora",
+     "slug": "kenora",
+     "km": 412
+    },
+    {
+     "name": "Sault Ste. Marie",
+     "slug": "sault-ste-marie",
+     "km": 422
+    },
+    {
+     "name": "Elliot Lake",
+     "slug": "elliot-lake",
+     "km": 544
+    }
+   ]
+  },
+  {
+   "id": "ON-0272",
+   "name": "Parry Sound",
+   "type": "Town",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "parry-sound",
+   "lat": 45.3439,
+   "lng": -80.0362,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 195,
+   "distOttawaKm": 339,
+   "pop2021": 6879,
+   "pop2025": 7222,
+   "unifiedScore": 58,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "North Bay",
+     "slug": "north-bay",
+     "km": 116
+    },
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 148
+    },
+    {
+     "name": "Espanola",
+     "slug": "espanola",
+     "km": 168
+    },
+    {
+     "name": "Kirkland Lake",
+     "slug": "kirkland-lake",
+     "km": 184
+    }
+   ]
+  },
+  {
+   "id": "ON-0074",
+   "name": "Sault Ste. Marie",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "sault-ste-marie",
+   "lat": 46.5338,
+   "lng": -84.3458,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 504,
+   "distOttawaKm": 679,
+   "pop2021": 72051,
+   "pop2025": 75653,
+   "unifiedScore": 57.6,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1912, one of North America's oldest European settlements, named by French missionaries",
+    "landmarks": "Agawa Canyon, Canadian Bushplane Heritage Centre, Ermatinger-Clergue National Historic Site, Sault Ste. Marie Canal",
+    "notable": "known as 'The Soo' — gateway to Northern Ontario's wilderness, connected to Sault Ste. Marie, Michigan by the International Bridge",
+    "economy": "steel (Algoma Steel), forestry, tourism (Agawa Canyon Tour Train), healthcare, education (Algoma University)",
+    "entityDesc": "Sault Ste. Marie is a city in Northern Ontario, Ontario, Canada, with a population of approximately 72,051. Steel (algoma steel), forestry, tourism (agawa canyon tour train), healthcare, education (algoma university).",
+    "longDesc": "Sault Ste. Marie isn't just Ontario's city — it's a place where ambition meets opportunity. Founded one of North America's oldest European settlements, named by French missionaries, this city has transformed into a thriving community of ~73,000 people.\n\nWhat makes Sault Ste. Marie remarkable for {BUSINESS_TYPE}? Character and community. The city encompasses everything from Agawa Canyon Tour Train, Boardwalk along St. Marys River, Hub Trail, Bon Soo Winter Carnival, Roberta Bondar Park. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by steel (Algoma Steel), forestry, tourism (Agawa Canyon Tour Train), healthcare, education (Algoma University). This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Agawa Canyon, Canadian Bushplane Heritage Centre, Ermatinger-Clergue National Historic Site, Sault Ste. Marie Canal, which give Sault Ste. Marie its distinctive character.\n\nSault Ste. Marie benefits from its location in Northern Ontario. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Sault Ste. Marie properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Sault Ste. Marie residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Elliot Lake",
+     "slug": "elliot-lake",
+     "km": 131
+    },
+    {
+     "name": "Seguin",
+     "slug": "seguin",
+     "km": 187
+    },
+    {
+     "name": "Espanola",
+     "slug": "espanola",
+     "km": 200
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 239
+    }
+   ]
+  },
+  {
+   "id": "ON-0103",
+   "name": "Timmins",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "timmins",
+   "lat": 48.4758,
+   "lng": -81.3305,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 557,
+   "distOttawaKm": 546,
+   "pop2021": 41145,
+   "pop2025": 43202,
+   "unifiedScore": 56.5,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Temiskaming Shores",
+     "slug": "temiskaming-shores",
+     "km": 162
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 172
+    },
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 175
+    },
+    {
+     "name": "Seguin",
+     "slug": "seguin",
+     "km": 178
+    }
+   ]
+  },
+  {
+   "id": "ON-0101",
+   "name": "Temiskaming Shores",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "temiskaming-shores",
+   "lat": 47.5167,
+   "lng": -79.6833,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 430,
+   "distOttawaKm": 384,
+   "pop2021": 9634,
+   "pop2025": 10115,
+   "unifiedScore": 56,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 62
+    },
+    {
+     "name": "Kirkland Lake",
+     "slug": "kirkland-lake",
+     "km": 68
+    },
+    {
+     "name": "North Bay",
+     "slug": "north-bay",
+     "km": 135
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 136
+    }
+   ]
+  },
+  {
+   "id": "ON-0078",
+   "name": "Elliot Lake",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "elliot-lake",
+   "lat": 46.3833,
+   "lng": -82.65,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 398,
+   "distOttawaKm": 548,
+   "pop2021": 11372,
+   "pop2025": 11940,
+   "unifiedScore": 55.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Espanola",
+     "slug": "espanola",
+     "km": 69
+    },
+    {
+     "name": "Seguin",
+     "slug": "seguin",
+     "km": 81
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 122
+    },
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 128
+    }
+   ]
+  },
+  {
+   "id": "ON-1064",
+   "name": "West Nipissing",
+   "type": "Municipality",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "west-nipissing",
+   "lat": 46.934,
+   "lng": -81.262,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 393,
+   "distOttawaKm": 460,
+   "pop2021": 14583,
+   "pop2025": 15312,
+   "unifiedScore": 53.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 53
+    },
+    {
+     "name": "Seguin",
+     "slug": "seguin",
+     "km": 53
+    },
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 81
+    },
+    {
+     "name": "Espanola",
+     "slug": "espanola",
+     "km": 85
+    }
+   ]
+  },
+  {
+   "id": "ON-0131",
+   "name": "Kenora",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "kenora",
+   "lat": 49.7666,
+   "lng": -94.4894,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 1334,
+   "distOttawaKm": 1485,
+   "pop2021": 14967,
+   "pop2025": 15715,
+   "unifiedScore": 53.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Dryden",
+     "slug": "dryden",
+     "km": 119
+    },
+    {
+     "name": "Thunder Bay",
+     "slug": "thunder-bay",
+     "km": 412
+    },
+    {
+     "name": "Sault Ste. Marie",
+     "slug": "sault-ste-marie",
+     "km": 833
+    },
+    {
+     "name": "Elliot Lake",
+     "slug": "elliot-lake",
+     "km": 955
+    }
+   ]
+  },
+  {
+   "id": "ON-0808",
+   "name": "Espanola",
+   "type": "Town",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "espanola",
+   "lat": 46.255,
+   "lng": -81.7667,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 345,
+   "distOttawaKm": 479,
+   "pop2021": 5185,
+   "pop2025": 5444,
+   "unifiedScore": 52.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 65
+    },
+    {
+     "name": "Elliot Lake",
+     "slug": "elliot-lake",
+     "km": 69
+    },
+    {
+     "name": "Seguin",
+     "slug": "seguin",
+     "km": 77
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 85
+    }
+   ]
+  },
+  {
+   "id": "ON-0926",
+   "name": "Kirkland Lake",
+   "type": "Town",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "kirkland-lake",
+   "lat": 46.9955,
+   "lng": -80.148,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 376,
+   "distOttawaKm": 385,
+   "pop2021": 7750,
+   "pop2025": 8137,
+   "unifiedScore": 52.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 12
+    },
+    {
+     "name": "Temiskaming Shores",
+     "slug": "temiskaming-shores",
+     "km": 68
+    },
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 85
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 85
+    }
+   ]
+  }
+ ]
+}

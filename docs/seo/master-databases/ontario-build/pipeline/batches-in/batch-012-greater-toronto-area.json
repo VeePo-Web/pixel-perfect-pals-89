@@ -1,0 +1,567 @@
+{
+ "batch": 12,
+ "region": "Greater Toronto Area",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0001",
+   "name": "Toronto",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "toronto",
+   "lat": 43.6532,
+   "lng": -79.3832,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 0,
+   "distOttawaKm": 352,
+   "pop2021": 2794356,
+   "pop2025": 2934073,
+   "unifiedScore": 81,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1834, originally named York (1793), renamed Toronto in 1834",
+    "landmarks": "CN Tower, Royal Ontario Museum, Distillery District, Toronto Islands, Eaton Centre, Kensington Market, St. Lawrence Market, Hockey Hall of Fame",
+    "notable": "Canada's largest city and the most multicultural city in the world — over 200 distinct ethnic groups, 140+ languages spoken, and half the population born outside Canada",
+    "economy": "financial capital of Canada, Bay Street, Toronto Stock Exchange, tech hub, film industry ('Hollywood North'), healthcare, education (U of T, Ryerson, York)",
+    "entityDesc": "Toronto is the largest city in Ontario and a city in Greater Toronto Area, Ontario, Canada, with a population of approximately 2,794,356. Financial capital of canada, bay street, toronto stock exchange, tech hub, film industry ('hollywood north'), healthcare, education (u of t, ryerson, york).",
+    "longDesc": "Toronto isn't just Ontario's city — it's a place where ambition meets opportunity. Founded originally named York (1793), renamed Toronto in 1834, this city has transformed into a world-class metropolis of over ~2.9 million (city), ~6.2 million (GTA metro) people.\n\nWhat makes Toronto remarkable for {BUSINESS_TYPE}? Scale and diversity. The city encompasses everything from world-class dining, vibrant arts scene, 1,600+ parks, the PATH underground walkway (30km), and professional sports teams (Maple Leafs, Raptors, Blue Jays, TFC). Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by financial capital of Canada, Bay Street, Toronto Stock Exchange, tech hub, film industry ('Hollywood North'), healthcare, education (U of T, Ryerson, York). This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include CN Tower, Royal Ontario Museum, Distillery District, Toronto Islands, Eaton Centre, Kensington Market, St. Lawrence Market, Hockey Hall of Fame, which give Toronto its distinctive character.\n\nToronto benefits from its location in Greater Toronto Area. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Toronto properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Toronto residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Mississauga",
+     "slug": "mississauga",
+     "km": 22
+    },
+    {
+     "name": "Vaughan",
+     "slug": "vaughan",
+     "km": 22
+    },
+    {
+     "name": "Markham",
+     "slug": "markham",
+     "km": 23
+    },
+    {
+     "name": "Richmond Hill",
+     "slug": "richmond-hill",
+     "km": 26
+    }
+   ]
+  },
+  {
+   "id": "ON-0003",
+   "name": "Mississauga",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "mississauga",
+   "lat": 43.589,
+   "lng": -79.6441,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 22,
+   "distOttawaKm": 373,
+   "pop2021": 717961,
+   "pop2025": 753859,
+   "unifiedScore": 77.6,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1974, named after the Mississaugas of the Credit First Nation",
+    "landmarks": "Square One Shopping Centre, Celebration Square, Port Credit Lighthouse, Absolute World Towers ('Marilyn Monroe' towers), Credit River Valley",
+    "notable": "Canada's 6th-largest city — a major business hub with 93,000+ businesses and a diverse population from 180+ countries",
+    "economy": "over 60 Fortune 500 Canadian HQs, Pearson International Airport, advanced manufacturing, logistics, pharmaceuticals, fintech",
+    "entityDesc": "Mississauga is a city in Greater Toronto Area, Ontario, Canada, with a population of approximately 717,961. Over 60 fortune 500 canadian hqs, pearson international airport, advanced manufacturing, logistics, pharmaceuticals, fintech.",
+    "longDesc": "Mississauga isn't just Ontario's city — it's a place where ambition meets opportunity. Founded named after the Mississaugas of the Credit First Nation, this city has transformed into a world-class metropolis of over ~720,000 people.\n\nWhat makes Mississauga remarkable for {BUSINESS_TYPE}? Scale and diversity. The city encompasses everything from Port Credit waterfront, Streetsville village, extensive trail system, Mississauga Celebration Square events year-round. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by over 60 Fortune 500 Canadian HQs, Pearson International Airport, advanced manufacturing, logistics, pharmaceuticals, fintech. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Square One Shopping Centre, Celebration Square, Port Credit Lighthouse, Absolute World Towers ('Marilyn Monroe' towers), Credit River Valley, which give Mississauga its distinctive character.\n\nMississauga benefits from its location in Greater Toronto Area. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Mississauga properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Mississauga residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Oakville",
+     "slug": "oakville",
+     "km": 14
+    },
+    {
+     "name": "Brampton",
+     "slug": "brampton",
+     "km": 18
+    },
+    {
+     "name": "Milton",
+     "slug": "milton",
+     "km": 21
+    },
+    {
+     "name": "Toronto",
+     "slug": "toronto",
+     "km": 22
+    }
+   ]
+  },
+  {
+   "id": "ON-0004",
+   "name": "Brampton",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "brampton",
+   "lat": 43.7315,
+   "lng": -79.7624,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 32,
+   "distOttawaKm": 373,
+   "pop2021": 656480,
+   "pop2025": 689304,
+   "unifiedScore": 77.1,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1974, originally settled in the 1830s, named after Brampton, England",
+    "landmarks": "Gage Park, Rose Theatre, Chinguacousy Park, Heart Lake Conservation Area, Peel Art Gallery Museum and Archives",
+    "notable": "known as 'The Flower Town of Canada' for its historic greenhouse industry — one of Canada's fastest-growing and most diverse cities",
+    "economy": "advanced manufacturing, logistics (CN rail intermodal hub), Loblaw Companies, Chrysler Canada HQ, Rogers Communications",
+    "entityDesc": "Brampton is a city in Greater Toronto Area, Ontario, Canada, with a population of approximately 656,480. Advanced manufacturing, logistics (cn rail intermodal hub), loblaw companies, chrysler canada hq, rogers communications.",
+    "longDesc": "Brampton isn't just Ontario's city — it's a place where ambition meets opportunity. Founded originally settled in the 1830s, named after Brampton, England, this city has transformed into a world-class metropolis of over ~660,000 people.\n\nWhat makes Brampton remarkable for {BUSINESS_TYPE}? Scale and diversity. The city encompasses everything from annual Carabram multicultural festival, extensive trail network, historic downtown, growing arts and culinary scene. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by advanced manufacturing, logistics (CN rail intermodal hub), Loblaw Companies, Chrysler Canada HQ, Rogers Communications. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Gage Park, Rose Theatre, Chinguacousy Park, Heart Lake Conservation Area, Peel Art Gallery Museum and Archives, which give Brampton its distinctive character.\n\nBrampton benefits from its location in Greater Toronto Area. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Brampton properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Brampton residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Caledon",
+     "slug": "caledon",
+     "km": 17
+    },
+    {
+     "name": "Mississauga",
+     "slug": "mississauga",
+     "km": 18
+    },
+    {
+     "name": "Halton Hills",
+     "slug": "halton-hills",
+     "km": 19
+    },
+    {
+     "name": "Vaughan",
+     "slug": "vaughan",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0005",
+   "name": "Markham",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "markham",
+   "lat": 43.8561,
+   "lng": -79.337,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 23,
+   "distOttawaKm": 336,
+   "pop2021": 338503,
+   "pop2025": 355428,
+   "unifiedScore": 76,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "2012 (city status), original settlement dates to 1794, named after Archbishop of York",
+    "landmarks": "Markham Museum, Pacific Mall, Markville Shopping Centre, Varley Art Gallery, Unionville Main Street",
+    "notable": "known as 'Canada's High-Tech Capital' — historic heritage districts in Markham Village and Unionville combined with cutting-edge technology sector",
+    "economy": "Canada's high-tech capital with 1,500+ tech and life science companies including IBM Canada, AMD, Qualcomm, Honeywell",
+    "entityDesc": "Markham is a city in Greater Toronto Area, Ontario, Canada, with a population of approximately 338,503. Canada's high-tech capital with 1,500+ tech and life science companies including ibm canada, amd, qualcomm, honeywell.",
+    "longDesc": "Markham isn't just Ontario's city — it's a place where ambition meets opportunity. Founded original settlement dates to 1794, named after Archbishop of York, this city has transformed into a thriving community of over ~340,000 people.\n\nWhat makes Markham remarkable for {BUSINESS_TYPE}? Scale and diversity. The city encompasses everything from Unionville Festival, Markham Fair, Rouge National Urban Park, Main Street Unionville heritage shopping. Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by Canada's high-tech capital with 1,500+ tech and life science companies including IBM Canada, AMD, Qualcomm, Honeywell. This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Markham Museum, Pacific Mall, Markville Shopping Centre, Varley Art Gallery, Unionville Main Street, which give Markham its distinctive character.\n\nMarkham benefits from its location in Greater Toronto Area. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Markham properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Markham residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Richmond Hill",
+     "slug": "richmond-hill",
+     "km": 9
+    },
+    {
+     "name": "Vaughan",
+     "slug": "vaughan",
+     "km": 13
+    },
+    {
+     "name": "Whitchurch-Stouffville",
+     "slug": "whitchurch-stouffville",
+     "km": 14
+    },
+    {
+     "name": "Aurora",
+     "slug": "aurora",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0006",
+   "name": "Vaughan",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "vaughan",
+   "lat": 43.8361,
+   "lng": -79.4981,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 22,
+   "distOttawaKm": 349,
+   "pop2021": 323103,
+   "pop2025": 339258,
+   "unifiedScore": 76,
+   "tier": "A",
+   "curatedFacts": {
+    "founded": "1991 (city status), named after Benjamin Vaughan, British diplomat",
+    "landmarks": "Canada's Wonderland, Vaughan Mills, McMichael Canadian Art Collection, Kortright Centre, Boyd Conservation Area",
+    "notable": "one of Canada's fastest-growing cities — transformed from rural township to major urban centre with the Vaughan Metropolitan Centre as its new downtown",
+    "economy": "Canada's Wonderland tourism, retail (Vaughan Mills), construction industry hub, healthcare (Cortellucci Vaughan Hospital)",
+    "entityDesc": "Vaughan is a city in Greater Toronto Area, Ontario, Canada, with a population of approximately 323,103. Canada's wonderland tourism, retail (vaughan mills), construction industry hub, healthcare (cortellucci vaughan hospital).",
+    "longDesc": "Vaughan isn't just Ontario's city — it's a place where ambition meets opportunity. Founded named after Benjamin Vaughan, British diplomat, this city has transformed into a thriving community of over ~325,000 people.\n\nWhat makes Vaughan remarkable for {BUSINESS_TYPE}? Scale and diversity. The city encompasses everything from Woodbridge heritage village, Kleinburg artist community, Maple community, new subway extension (TTC Line 1). Each neighborhood has its own character, its own needs, and its own expectations.\n\nThe local economy is driven by Canada's Wonderland tourism, retail (Vaughan Mills), construction industry hub, healthcare (Cortellucci Vaughan Hospital). This economic foundation creates steady demand for services and supports a community that takes pride in maintaining its properties and infrastructure.\n\nCommunity features include Canada's Wonderland, Vaughan Mills, McMichael Canadian Art Collection, Kortright Centre, Boyd Conservation Area, which give Vaughan its distinctive character.\n\nVaughan benefits from its location in Greater Toronto Area. Whether you need routine {SERVICE} maintenance or a major project, {COMPANY_NAME} understands what Vaughan properties need. We've invested the time to learn this community — the local building codes, the weather patterns, the neighbourhood expectations. That's why Vaughan residents keep choosing {COMPANY_NAME}.\n\nOur promise: transparent pricing, professional execution, results that last. Call {PHONE} for your {ESTIMATE_TYPE} estimate today."
+   },
+   "regionBoilerplate": null,
+   "neighbors": [
+    {
+     "name": "Richmond Hill",
+     "slug": "richmond-hill",
+     "km": 7
+    },
+    {
+     "name": "Markham",
+     "slug": "markham",
+     "km": 13
+    },
+    {
+     "name": "Aurora",
+     "slug": "aurora",
+     "km": 19
+    },
+    {
+     "name": "Toronto",
+     "slug": "toronto",
+     "km": 22
+    }
+   ]
+  },
+  {
+   "id": "ON-0007",
+   "name": "Richmond Hill",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "richmond-hill",
+   "lat": 43.8828,
+   "lng": -79.4403,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 26,
+   "distOttawaKm": 342,
+   "pop2021": 202022,
+   "pop2025": 212123,
+   "unifiedScore": 74.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Vaughan",
+     "slug": "vaughan",
+     "km": 7
+    },
+    {
+     "name": "Markham",
+     "slug": "markham",
+     "km": 9
+    },
+    {
+     "name": "Aurora",
+     "slug": "aurora",
+     "km": 14
+    },
+    {
+     "name": "Whitchurch-Stouffville",
+     "slug": "whitchurch-stouffville",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0008",
+   "name": "Burlington",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "burlington",
+   "lat": 43.3255,
+   "lng": -79.799,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 50,
+   "distOttawaKm": 401,
+   "pop2021": 186948,
+   "pop2025": 196295,
+   "unifiedScore": 74,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Oakville",
+     "slug": "oakville",
+     "km": 18
+    },
+    {
+     "name": "Milton",
+     "slug": "milton",
+     "km": 21
+    },
+    {
+     "name": "Mississauga",
+     "slug": "mississauga",
+     "km": 32
+    },
+    {
+     "name": "Halton Hills",
+     "slug": "halton-hills",
+     "km": 36
+    }
+   ]
+  },
+  {
+   "id": "ON-0009",
+   "name": "Oshawa",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "oshawa",
+   "lat": 43.8971,
+   "lng": -78.8658,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 50,
+   "distOttawaKm": 303,
+   "pop2021": 175383,
+   "pop2025": 184152,
+   "unifiedScore": 73.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Whitby",
+     "slug": "whitby",
+     "km": 6
+    },
+    {
+     "name": "Ajax",
+     "slug": "ajax",
+     "km": 13
+    },
+    {
+     "name": "Pickering",
+     "slug": "pickering",
+     "km": 19
+    },
+    {
+     "name": "Clarington",
+     "slug": "clarington",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0017",
+   "name": "Pickering",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "pickering",
+   "lat": 43.8384,
+   "lng": -79.0868,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 31,
+   "distOttawaKm": 321,
+   "pop2021": 99186,
+   "pop2025": 104145,
+   "unifiedScore": 72.3,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Ajax",
+     "slug": "ajax",
+     "km": 6
+    },
+    {
+     "name": "Whitby",
+     "slug": "whitby",
+     "km": 13
+    },
+    {
+     "name": "Oshawa",
+     "slug": "oshawa",
+     "km": 19
+    },
+    {
+     "name": "Whitchurch-Stouffville",
+     "slug": "whitchurch-stouffville",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0042",
+   "name": "Oakville",
+   "type": "Town",
+   "parentMuni": "Halton",
+   "region": "Greater Toronto Area",
+   "slug": "oakville",
+   "lat": 43.4675,
+   "lng": -79.6877,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 32,
+   "distOttawaKm": 384,
+   "pop2021": 213759,
+   "pop2025": 224446,
+   "unifiedScore": 71.8,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Mississauga",
+     "slug": "mississauga",
+     "km": 14
+    },
+    {
+     "name": "Milton",
+     "slug": "milton",
+     "km": 16
+    },
+    {
+     "name": "Burlington",
+     "slug": "burlington",
+     "km": 18
+    },
+    {
+     "name": "Halton Hills",
+     "slug": "halton-hills",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0045",
+   "name": "Ajax",
+   "type": "Town",
+   "parentMuni": "Durham",
+   "region": "Greater Toronto Area",
+   "slug": "ajax",
+   "lat": 43.8509,
+   "lng": -79.0204,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 37,
+   "distOttawaKm": 316,
+   "pop2021": 126666,
+   "pop2025": 132999,
+   "unifiedScore": 70.7,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Pickering",
+     "slug": "pickering",
+     "km": 6
+    },
+    {
+     "name": "Whitby",
+     "slug": "whitby",
+     "km": 8
+    },
+    {
+     "name": "Oshawa",
+     "slug": "oshawa",
+     "km": 13
+    },
+    {
+     "name": "Whitchurch-Stouffville",
+     "slug": "whitchurch-stouffville",
+     "km": 22
+    }
+   ]
+  },
+  {
+   "id": "ON-0047",
+   "name": "Whitby",
+   "type": "Town",
+   "parentMuni": "Durham",
+   "region": "Greater Toronto Area",
+   "slug": "whitby",
+   "lat": 43.8975,
+   "lng": -78.9429,
+   "coordNote": null,
+   "fixNote": null,
+   "distTorontoKm": 45,
+   "distOttawaKm": 308,
+   "pop2021": 138501,
+   "pop2025": 145426,
+   "unifiedScore": 70.6,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Oshawa",
+     "slug": "oshawa",
+     "km": 6
+    },
+    {
+     "name": "Ajax",
+     "slug": "ajax",
+     "km": 8
+    },
+    {
+     "name": "Pickering",
+     "slug": "pickering",
+     "km": 13
+    },
+    {
+     "name": "Scugog",
+     "slug": "scugog",
+     "km": 21
+    }
+   ]
+  }
+ ]
+}
