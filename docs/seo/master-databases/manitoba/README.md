@@ -12,10 +12,12 @@ Niche-agnostic: all business/service copy is single-curly `{TOKENS}`; every plac
 | `data/manitoba_master_locations.csv` | The 132 BUILD places (loc + neighborhood) with score, gate, coords, population, distances. |
 | `data/manitoba_communities_deferred.csv` | The 1,518 DEFERRED places, each with a one-line reason (the doorway-penalty firewall). |
 | `data/manitoba_full_enumeration_gate_ledger.csv` | Every enumerated place (1,650) with class, type, score, gate — the full INTENDED set. |
-| `data/image-manifest.csv` | Per-page image: tier, geographic filename, two-layer alt, license/attribution TODO tokens. |
+| `data/manitoba_image_manifest.csv` | Per-page image (141 rows): tier, geographic filename, two-layer alt, license/attribution TODO tokens, `Asset_Status`. |
+| `data/manitoba_pages_index.csv` | One row per built page (141): slug, URL, class, coords, population, score, info-gain element. |
 | `region-bundles.md` | The 8 region fact bundles (computed once, reused) + shared provincial facts. |
-| `WRITER-CONTRACT.md` | The binding per-page authoring contract. |
-| `AUDIT.md` | Coverage reconciliation (INTENDED = BUILT + DEFERRED), defect sweep, samples. |
+| `WRITER-CONTRACT.md` | The binding per-page **authoring** contract (input JSON). |
+| `PAGE-SPEC.md` | The rendered-page **output** spec: frontmatter, body sections, JSON-LD `@graph`, schema-type mapping, token-fill contract. |
+| `AUDIT.md` | Coverage reconciliation (INTENDED = BUILT + DEFERRED), defect sweep, distribution, samples. |
 
 ## Mode & grounding
 
