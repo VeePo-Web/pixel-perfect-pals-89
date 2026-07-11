@@ -1,0 +1,377 @@
+{
+  "countySums": {
+    "Kings County": 18327,
+    "Prince County": 46234,
+    "Queens County": 89770
+  },
+  "deferredCSDs": [
+    {
+      "id": "PE-1101030",
+      "name": "Annandale - Little Pond - Howe Bay",
+      "county": "Kings County",
+      "pop2021": 223,
+      "score": 48.3,
+      "reason": "score 48.3 < 50 threshold"
+    },
+    {
+      "id": "PE-1101020",
+      "name": "Cardigan",
+      "county": "Kings County",
+      "pop2021": 125,
+      "score": 45.6,
+      "reason": "score 45.6 < 50 threshold"
+    },
+    {
+      "id": "PE-1101025",
+      "name": "Central Kings",
+      "county": "Kings County",
+      "pop2021": 135,
+      "score": 45.4,
+      "reason": "score 45.4 < 50 threshold"
+    },
+    {
+      "id": "PE-1101027",
+      "name": "Central Kings",
+      "county": "Kings County",
+      "pop2021": 386,
+      "score": 49.6,
+      "reason": "score 49.6 < 50 threshold"
+    },
+    {
+      "id": "PE-1101052",
+      "name": "East River, Part 2",
+      "county": "Kings County",
+      "pop2021": 575,
+      "score": 34.8,
+      "reason": "CSD part — statistical fragment, covered by parent-name page context"
+    },
+    {
+      "id": "PE-1101040",
+      "name": "Eastern Kings",
+      "county": "Kings County",
+      "pop2021": 687,
+      "score": 49.7,
+      "reason": "score 49.7 < 50 threshold"
+    },
+    {
+      "id": "PE-1101050",
+      "name": "Morell 2",
+      "county": "Kings County",
+      "pop2021": 25,
+      "score": 28.5,
+      "reason": "no verified coordinates (GeoNames unmatched)"
+    },
+    {
+      "id": "PE-1101004",
+      "name": "Murray River",
+      "county": "Kings County",
+      "pop2021": 337,
+      "score": 49.4,
+      "reason": "score 49.4 < 50 threshold"
+    },
+    {
+      "id": "PE-1101005",
+      "name": "Murray River, Part 1",
+      "county": "Kings County",
+      "pop2021": 1422,
+      "score": 38.7,
+      "reason": "CSD part — statistical fragment, covered by parent-name page context"
+    },
+    {
+      "id": "PE-1101033",
+      "name": "Souris West",
+      "county": "Kings County",
+      "pop2021": 379,
+      "score": 49.1,
+      "reason": "score 49.1 < 50 threshold"
+    },
+    {
+      "id": "PE-1103015",
+      "name": "Bedeque and Area",
+      "county": "Prince County",
+      "pop2021": 311,
+      "score": 35.6,
+      "reason": "no verified coordinates (GeoNames unmatched)"
+    },
+    {
+      "id": "PE-1103043",
+      "name": "Central Prince",
+      "county": "Prince County",
+      "pop2021": 1129,
+      "score": 40.2,
+      "reason": "no verified coordinates (GeoNames unmatched)"
+    },
+    {
+      "id": "PE-1103004",
+      "name": "Crapaud, Part 2",
+      "county": "Prince County",
+      "pop2021": 548,
+      "score": 34.7,
+      "reason": "CSD part — statistical fragment, covered by parent-name page context"
+    },
+    {
+      "id": "PE-1103055",
+      "name": "Greenmount-Montrose",
+      "county": "Prince County",
+      "pop2021": 262,
+      "score": 48.5,
+      "reason": "score 48.5 < 50 threshold"
+    },
+    {
+      "id": "PE-1103067",
+      "name": "Kensington, Part 1",
+      "county": "Prince County",
+      "pop2021": 3090,
+      "score": 40.2,
+      "reason": "CSD part — statistical fragment, covered by parent-name page context"
+    },
+    {
+      "id": "PE-1103035",
+      "name": "Lennox Island 1",
+      "county": "Prince County",
+      "pop2021": 308,
+      "score": 35.6,
+      "reason": "no verified coordinates (GeoNames unmatched)"
+    },
+    {
+      "id": "PE-1103039",
+      "name": "Lot 11 and Area",
+      "county": "Prince County",
+      "pop2021": 617,
+      "score": 49,
+      "reason": "township lot CSD — not a community entity"
+    },
+    {
+      "id": "PE-1103050",
+      "name": "Northport",
+      "county": "Prince County",
+      "pop2021": 157,
+      "score": 32.2,
+      "reason": "no verified coordinates (GeoNames unmatched)"
+    },
+    {
+      "id": "PE-1103018",
+      "name": "Sherbrooke",
+      "county": "Prince County",
+      "pop2021": 178,
+      "score": 47.4,
+      "reason": "score 47.4 < 50 threshold"
+    },
+    {
+      "id": "PE-1103053",
+      "name": "St. Felix",
+      "county": "Prince County",
+      "pop2021": 314,
+      "score": 48.7,
+      "reason": "score 48.7 < 50 threshold"
+    },
+    {
+      "id": "PE-1103057",
+      "name": "St. Louis",
+      "county": "Prince County",
+      "pop2021": 69,
+      "score": 43.7,
+      "reason": "score 43.7 < 50 threshold"
+    },
+    {
+      "id": "PE-1103022",
+      "name": "St. Nicholas",
+      "county": "Prince County",
+      "pop2021": 218,
+      "score": 49.5,
+      "reason": "score 49.5 < 50 threshold"
+    },
+    {
+      "id": "PE-1103060",
+      "name": "Tignish Shore",
+      "county": "Prince County",
+      "pop2021": 64,
+      "score": 43.5,
+      "reason": "score 43.5 < 50 threshold"
+    },
+    {
+      "id": "PE-1103066",
+      "name": "West Point",
+      "county": "Prince County",
+      "pop2021": 235,
+      "score": 48.5,
+      "reason": "score 48.5 < 50 threshold"
+    },
+    {
+      "id": "PE-1102013",
+      "name": "Alexandra",
+      "county": "Queens County",
+      "pop2021": 252,
+      "score": 49.9,
+      "reason": "score 49.9 < 50 threshold"
+    },
+    {
+      "id": "PE-1102051",
+      "name": "Breadalbane",
+      "county": "Queens County",
+      "pop2021": 170,
+      "score": 46.7,
+      "reason": "score 46.7 < 50 threshold"
+    },
+    {
+      "id": "PE-1102018",
+      "name": "Crapaud, Part 1",
+      "county": "Queens County",
+      "pop2021": 1564,
+      "score": 38.9,
+      "reason": "CSD part — statistical fragment, covered by parent-name page context"
+    },
+    {
+      "id": "PE-1102010",
+      "name": "Crossroads",
+      "county": "Queens County",
+      "pop2021": 1859,
+      "score": 41.2,
+      "reason": "no verified coordinates (GeoNames unmatched)"
+    },
+    {
+      "id": "PE-1102035",
+      "name": "Darlington",
+      "county": "Queens County",
+      "pop2021": 99,
+      "score": 45.8,
+      "reason": "score 45.8 < 50 threshold"
+    },
+    {
+      "id": "PE-1102064",
+      "name": "East River, Part 1",
+      "county": "Queens County",
+      "pop2021": 2307,
+      "score": 39.7,
+      "reason": "CSD part — statistical fragment, covered by parent-name page context"
+    },
+    {
+      "id": "PE-1102021",
+      "name": "Hampshire",
+      "county": "Queens County",
+      "pop2021": 339,
+      "score": 50.4,
+      "reason": "score >= 50 but <4 groundable local signals — next-tier candidate"
+    },
+    {
+      "id": "PE-1102011",
+      "name": "Hazelbrook",
+      "county": "Queens County",
+      "pop2021": 220,
+      "score": 49.6,
+      "reason": "score 49.6 < 50 threshold"
+    },
+    {
+      "id": "PE-1102015",
+      "name": "Johnstons River",
+      "county": "Queens County",
+      "pop2021": 371,
+      "score": 50.7,
+      "reason": "score >= 50 but <4 groundable local signals — next-tier candidate"
+    },
+    {
+      "id": "PE-1102066",
+      "name": "Kensington, Part 2",
+      "county": "Queens County",
+      "pop2021": 549,
+      "score": 34.7,
+      "reason": "CSD part — statistical fragment, covered by parent-name page context"
+    },
+    {
+      "id": "PE-1102022",
+      "name": "Kingston",
+      "county": "Queens County",
+      "pop2021": 1111,
+      "score": 54.7,
+      "reason": "score >= 50 but <4 groundable local signals — next-tier candidate"
+    },
+    {
+      "id": "PE-1102005",
+      "name": "Montague",
+      "county": "Queens County",
+      "pop2021": 74,
+      "score": 44.6,
+      "reason": "score 44.6 < 50 threshold"
+    },
+    {
+      "id": "PE-1102059",
+      "name": "Mount Stewart",
+      "county": "Queens County",
+      "pop2021": 226,
+      "score": 49.2,
+      "reason": "score 49.2 < 50 threshold"
+    },
+    {
+      "id": "PE-1102003",
+      "name": "Murray River, Part 2",
+      "county": "Queens County",
+      "pop2021": 346,
+      "score": 33.8,
+      "reason": "CSD part — statistical fragment, covered by parent-name page context"
+    },
+    {
+      "id": "PE-1102072",
+      "name": "North River",
+      "county": "Queens County",
+      "pop2021": 157,
+      "score": 47,
+      "reason": "score 47 < 50 threshold"
+    },
+    {
+      "id": "PE-1102020",
+      "name": "North Wiltshire",
+      "county": "Queens County",
+      "pop2021": 176,
+      "score": 47,
+      "reason": "score 47 < 50 threshold"
+    },
+    {
+      "id": "PE-1102030",
+      "name": "Rocky Point 3",
+      "county": "Queens County",
+      "pop2021": 47,
+      "score": 29.8,
+      "reason": "no verified coordinates (GeoNames unmatched)"
+    },
+    {
+      "id": "PE-1102057",
+      "name": "Scotchfort 4",
+      "county": "Queens County",
+      "pop2021": 230,
+      "score": 35,
+      "reason": "no verified coordinates (GeoNames unmatched)"
+    },
+    {
+      "id": "PE-1102050",
+      "name": "Union Road",
+      "county": "Queens County",
+      "pop2021": 213,
+      "score": 49.5,
+      "reason": "score 49.5 < 50 threshold"
+    },
+    {
+      "id": "PE-1102070",
+      "name": "Warren Grove",
+      "county": "Queens County",
+      "pop2021": 374,
+      "score": 50.7,
+      "reason": "score >= 50 but <4 groundable local signals — next-tier candidate"
+    },
+    {
+      "id": "PE-1102069",
+      "name": "Winsloe North",
+      "county": "Queens County",
+      "pop2021": 337,
+      "score": 50.3,
+      "reason": "score >= 50 but <4 groundable local signals — next-tier candidate"
+    },
+    {
+      "id": "PE-1102061",
+      "name": "York",
+      "county": "Queens County",
+      "pop2021": 387,
+      "score": 50.8,
+      "reason": "score >= 50 but <4 groundable local signals — next-tier candidate"
+    }
+  ]
+}

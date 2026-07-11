@@ -1,0 +1,1030 @@
+{
+  "province": "Prince Edward Island",
+  "mode": "B (no vendor spreadsheet — enumerated from open data)",
+  "generated": "2026-07-11",
+  "sources": {
+    "population": "StatCan 2021 Census Table 98-10-0002 (OGL-Canada)",
+    "coordinates": "GeoNames CA gazetteer (CC BY 4.0)"
+  },
+  "scoreFormula": "unified SEO_Priority_Score (Population30 + SearchVol25 + Competition20 + Proximity15 + Economic10); hubs = Charlottetown, Summerside",
+  "gate": "score >= 50 AND real coords AND real 2021 population AND >=4 grounded local signals",
+  "coverage": {
+    "intendedPlaces": 618,
+    "intendedBreakdown": {
+      "statcanCSDs": 98,
+      "geonamesOnlyLocalities": 520
+    },
+    "builtPages": 45,
+    "builtBreakdown": {
+      "statcanCSDsMergedInto36Pages": 52,
+      "geonamesNeighbourhoods": 9
+    },
+    "deferred": 557,
+    "deferredBreakdown": {
+      "csdPartsLotsSubGate": 46,
+      "geonamesLocalitiesBelowGate": 511
+    },
+    "identity": "618 = 61 promoted places (45 pages) + 557 deferred"
+  },
+  "regions": [
+    {
+      "slug": "queens-county",
+      "name": "Queens County",
+      "heroImage": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cavendish_Beach%2C_Prince_Edward_Island_%28471066%29_%289447867103%29.jpg"
+    },
+    {
+      "slug": "prince-county",
+      "name": "Prince County",
+      "heroImage": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Confederation_Bridge.jpg"
+    },
+    {
+      "slug": "kings-county",
+      "name": "Kings County",
+      "heroImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Prince_Edward_Island_009_%287893580298%29.jpg"
+    }
+  ],
+  "build": [
+    {
+      "slug": "charlottetown",
+      "name": "Charlottetown",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 1,
+      "coordinates": {
+        "lat": 46.2346,
+        "lng": -63.1256
+      },
+      "streets": 6,
+      "landmarks": 7,
+      "nearest": [
+        "stratford",
+        "cornwall",
+        "brackley",
+        "clyde-river",
+        "sherwood"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "stratford",
+      "name": "Stratford",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 1,
+      "coordinates": {
+        "lat": 46.2179,
+        "lng": -63.0795
+      },
+      "streets": 5,
+      "landmarks": 5,
+      "nearest": [
+        "charlottetown",
+        "cornwall",
+        "brackley",
+        "clyde-river",
+        "belfast"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "cornwall",
+      "name": "Cornwall",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 1,
+      "coordinates": {
+        "lat": 46.2265,
+        "lng": -63.2181
+      },
+      "streets": 5,
+      "landmarks": 5,
+      "nearest": [
+        "clyde-river",
+        "charlottetown",
+        "west-river",
+        "miltonvale-park",
+        "stratford"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "new-glasgow",
+      "name": "New Glasgow",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.4168,
+        "lng": -63.3487
+      },
+      "streets": 3,
+      "landmarks": 5,
+      "nearest": [
+        "north-rustico",
+        "hunter-river",
+        "cavendish",
+        "new-london",
+        "north-shore"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "north-shore",
+      "name": "North Shore",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.3834,
+        "lng": -63.1154
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "brackley",
+        "miltonvale-park",
+        "charlottetown",
+        "north-rustico",
+        "hunter-river"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "west-river",
+      "name": "West River",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.1668,
+        "lng": -63.2987
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "clyde-river",
+        "cornwall",
+        "victoria",
+        "charlottetown",
+        "crapaud"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "vernon-river",
+      "name": "Vernon River",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.2001,
+        "lng": -62.832
+      },
+      "streets": 4,
+      "landmarks": 4,
+      "nearest": [
+        "belfast",
+        "stratford",
+        "three-rivers",
+        "charlottetown",
+        "clyde-river"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "belfast",
+      "name": "Belfast",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.0668,
+        "lng": -62.882
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "vernon-river",
+        "stratford",
+        "charlottetown",
+        "three-rivers",
+        "clyde-river"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "new-london",
+      "name": "New London",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.4668,
+        "lng": -63.5154
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "cavendish",
+        "kensington",
+        "malpeque-bay",
+        "new-glasgow",
+        "north-rustico"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "miltonvale-park",
+      "name": "Miltonvale Park",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.3168,
+        "lng": -63.2154
+      },
+      "streets": 4,
+      "landmarks": 4,
+      "nearest": [
+        "brackley",
+        "cornwall",
+        "north-shore",
+        "hunter-river",
+        "charlottetown"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "brackley",
+      "name": "Brackley",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.3168,
+        "lng": -63.1487
+      },
+      "streets": 3,
+      "landmarks": 5,
+      "nearest": [
+        "miltonvale-park",
+        "north-shore",
+        "charlottetown",
+        "cornwall",
+        "hunter-river"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "clyde-river",
+      "name": "Clyde River",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.2168,
+        "lng": -63.2654
+      },
+      "streets": 3,
+      "landmarks": 4,
+      "nearest": [
+        "cornwall",
+        "west-river",
+        "charlottetown",
+        "miltonvale-park",
+        "crapaud"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "hunter-river",
+      "name": "Hunter River",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.3501,
+        "lng": -63.3487
+      },
+      "streets": 3,
+      "landmarks": 4,
+      "nearest": [
+        "new-glasgow",
+        "miltonvale-park",
+        "north-rustico",
+        "cavendish",
+        "brackley"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "north-rustico",
+      "name": "North Rustico",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.4501,
+        "lng": -63.3154
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "new-glasgow",
+        "cavendish",
+        "hunter-river",
+        "new-london",
+        "north-shore"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "cavendish",
+      "name": "Cavendish",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.4807,
+        "lng": -63.3909
+      },
+      "streets": 3,
+      "landmarks": 5,
+      "nearest": [
+        "north-rustico",
+        "new-glasgow",
+        "new-london",
+        "hunter-river",
+        "north-shore"
+      ],
+      "hero": "community"
+    },
+    {
+      "slug": "crapaud",
+      "name": "Crapaud",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.2334,
+        "lng": -63.4987
+      },
+      "streets": 4,
+      "landmarks": 4,
+      "nearest": [
+        "victoria",
+        "kinkora",
+        "borden-carleton",
+        "west-river",
+        "clyde-river"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "victoria",
+      "name": "Victoria",
+      "region": "queens-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.2168,
+        "lng": -63.482
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "crapaud",
+        "kinkora",
+        "west-river",
+        "borden-carleton",
+        "clyde-river"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "downtown-charlottetown",
+      "name": "Downtown Charlottetown",
+      "region": "queens-county",
+      "city": "Charlottetown",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.2325,
+        "lng": -63.1273
+      },
+      "streets": 6,
+      "landmarks": 6,
+      "nearest": [
+        "charlottetown",
+        "brighton",
+        "spring-park",
+        "parkdale",
+        "sherwood"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "sherwood",
+      "name": "Sherwood",
+      "region": "queens-county",
+      "city": "Charlottetown",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.2682,
+        "lng": -63.1284
+      },
+      "streets": 5,
+      "landmarks": 4,
+      "nearest": [
+        "charlottetown",
+        "west-royalty",
+        "east-royalty",
+        "parkdale",
+        "downtown-charlottetown"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "west-royalty",
+      "name": "West Royalty",
+      "region": "queens-county",
+      "city": "Charlottetown",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.2584,
+        "lng": -63.1626
+      },
+      "streets": 5,
+      "landmarks": 4,
+      "nearest": [
+        "charlottetown",
+        "sherwood",
+        "parkdale",
+        "cornwall",
+        "east-royalty"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "east-royalty",
+      "name": "East Royalty",
+      "region": "queens-county",
+      "city": "Charlottetown",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.2779,
+        "lng": -63.1023
+      },
+      "streets": 5,
+      "landmarks": 4,
+      "nearest": [
+        "charlottetown",
+        "sherwood",
+        "stratford",
+        "downtown-charlottetown",
+        "west-royalty"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "spring-park",
+      "name": "Spring Park",
+      "region": "queens-county",
+      "city": "Charlottetown",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.2496,
+        "lng": -63.144
+      },
+      "streets": 5,
+      "landmarks": 4,
+      "nearest": [
+        "charlottetown",
+        "downtown-charlottetown",
+        "brighton",
+        "parkdale",
+        "sherwood"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "brighton",
+      "name": "Brighton",
+      "region": "queens-county",
+      "city": "Charlottetown",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.2354,
+        "lng": -63.144
+      },
+      "streets": 5,
+      "landmarks": 5,
+      "nearest": [
+        "charlottetown",
+        "downtown-charlottetown",
+        "spring-park",
+        "parkdale",
+        "sherwood"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "parkdale",
+      "name": "Parkdale",
+      "region": "queens-county",
+      "city": "Charlottetown",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.252,
+        "lng": -63.1181
+      },
+      "streets": 5,
+      "landmarks": 4,
+      "nearest": [
+        "charlottetown",
+        "downtown-charlottetown",
+        "sherwood",
+        "spring-park",
+        "east-royalty"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "summerside",
+      "name": "Summerside",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 1,
+      "coordinates": {
+        "lat": 46.3912,
+        "lng": -63.7887
+      },
+      "streets": 6,
+      "landmarks": 7,
+      "nearest": [
+        "linkletter",
+        "miscouche",
+        "kensington",
+        "kinkora",
+        "wellington"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "kensington",
+      "name": "Kensington",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.4334,
+        "lng": -63.6487
+      },
+      "streets": 5,
+      "landmarks": 4,
+      "nearest": [
+        "malpeque-bay",
+        "new-london",
+        "summerside",
+        "kinkora",
+        "miscouche"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "borden-carleton",
+      "name": "Borden-Carleton",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.2618,
+        "lng": -63.6726
+      },
+      "streets": 4,
+      "landmarks": 4,
+      "nearest": [
+        "kinkora",
+        "crapaud",
+        "victoria",
+        "summerside",
+        "linkletter"
+      ],
+      "hero": "community"
+    },
+    {
+      "slug": "kinkora",
+      "name": "Kinkora",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.3168,
+        "lng": -63.5987
+      },
+      "streets": 3,
+      "landmarks": 3,
+      "nearest": [
+        "borden-carleton",
+        "crapaud",
+        "kensington",
+        "victoria",
+        "summerside"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "miscouche",
+      "name": "Miscouche",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.4334,
+        "lng": -63.8654
+      },
+      "streets": 3,
+      "landmarks": 4,
+      "nearest": [
+        "linkletter",
+        "summerside",
+        "wellington",
+        "kensington",
+        "abram-village"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "wellington",
+      "name": "Wellington",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.4501,
+        "lng": -63.9987
+      },
+      "streets": 4,
+      "landmarks": 4,
+      "nearest": [
+        "abram-village",
+        "miscouche",
+        "linkletter",
+        "tyne-valley",
+        "summerside"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "abram-village",
+      "name": "Abram-Village",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.4501,
+        "lng": -64.082
+      },
+      "streets": 3,
+      "landmarks": 4,
+      "nearest": [
+        "wellington",
+        "miscouche",
+        "tyne-valley",
+        "linkletter",
+        "summerside"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "linkletter",
+      "name": "Linkletter",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.4168,
+        "lng": -63.832
+      },
+      "streets": 3,
+      "landmarks": 4,
+      "nearest": [
+        "summerside",
+        "miscouche",
+        "wellington",
+        "kensington",
+        "abram-village"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "malpeque-bay",
+      "name": "Malpeque Bay",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.5168,
+        "lng": -63.6487
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "kensington",
+        "new-london",
+        "summerside",
+        "linkletter",
+        "tyne-valley"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "tyne-valley",
+      "name": "Tyne Valley",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.5834,
+        "lng": -63.932
+      },
+      "streets": 3,
+      "landmarks": 4,
+      "nearest": [
+        "wellington",
+        "miscouche",
+        "abram-village",
+        "malpeque-bay",
+        "linkletter"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "alberton",
+      "name": "Alberton",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.8168,
+        "lng": -64.0654
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "miminegash",
+        "tignish",
+        "oleary",
+        "tyne-valley",
+        "wellington"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "oleary",
+      "name": "O'Leary",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.7168,
+        "lng": -64.232
+      },
+      "streets": 4,
+      "landmarks": 4,
+      "nearest": [
+        "alberton",
+        "miminegash",
+        "tyne-valley",
+        "tignish",
+        "wellington"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "tignish",
+      "name": "Tignish",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.9501,
+        "lng": -64.032
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "alberton",
+        "miminegash",
+        "oleary",
+        "tyne-valley",
+        "wellington"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "miminegash",
+      "name": "Miminegash",
+      "region": "prince-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.8803,
+        "lng": -64.2282
+      },
+      "streets": 3,
+      "landmarks": 4,
+      "nearest": [
+        "alberton",
+        "tignish",
+        "oleary",
+        "tyne-valley",
+        "wellington"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "three-rivers",
+      "name": "Three Rivers",
+      "region": "kings-county",
+      "city": "Prince Edward Island",
+      "tier": 1,
+      "coordinates": {
+        "lat": 46.1845,
+        "lng": -62.5679
+      },
+      "streets": 5,
+      "landmarks": 6,
+      "nearest": [
+        "montague",
+        "georgetown",
+        "vernon-river",
+        "murray-harbour",
+        "st-peters-bay"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "montague",
+      "name": "Montague",
+      "region": "kings-county",
+      "city": "Three Rivers",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.1668,
+        "lng": -62.6487
+      },
+      "streets": 5,
+      "landmarks": 5,
+      "nearest": [
+        "three-rivers",
+        "georgetown",
+        "vernon-river",
+        "murray-harbour",
+        "belfast"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "georgetown",
+      "name": "Georgetown",
+      "region": "kings-county",
+      "city": "Three Rivers",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.1834,
+        "lng": -62.532
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "three-rivers",
+        "montague",
+        "murray-harbour",
+        "vernon-river",
+        "st-peters-bay"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "souris",
+      "name": "Souris",
+      "region": "kings-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.3501,
+        "lng": -62.2486
+      },
+      "streets": 5,
+      "landmarks": 5,
+      "nearest": [
+        "st-peters-bay",
+        "three-rivers",
+        "morell",
+        "murray-harbour",
+        "montague"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "morell",
+      "name": "Morell",
+      "region": "kings-county",
+      "city": "Prince Edward Island",
+      "tier": 2,
+      "coordinates": {
+        "lat": 46.4168,
+        "lng": -62.6987
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "st-peters-bay",
+        "vernon-river",
+        "three-rivers",
+        "souris",
+        "north-shore"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "st-peters-bay",
+      "name": "St. Peters Bay",
+      "region": "kings-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.4168,
+        "lng": -62.582
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "morell",
+        "three-rivers",
+        "souris",
+        "vernon-river",
+        "north-shore"
+      ],
+      "hero": "region-fallback"
+    },
+    {
+      "slug": "murray-harbour",
+      "name": "Murray Harbour",
+      "region": "kings-county",
+      "city": "Prince Edward Island",
+      "tier": 3,
+      "coordinates": {
+        "lat": 46.0001,
+        "lng": -62.5153
+      },
+      "streets": 4,
+      "landmarks": 5,
+      "nearest": [
+        "three-rivers",
+        "belfast",
+        "montague",
+        "souris",
+        "vernon-river"
+      ],
+      "hero": "region-fallback"
+    }
+  ],
+  "imageManifest": [
+    {
+      "scope": "region",
+      "slug": "queens-county",
+      "tier": "region",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cavendish_Beach%2C_Prince_Edward_Island_%28471066%29_%289447867103%29.jpg",
+      "altStored": "Red sandstone cliffs and Gulf of St. Lawrence beach at Cavendish, Queens County, Prince Edward Island"
+    },
+    {
+      "scope": "region",
+      "slug": "prince-county",
+      "tier": "region",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Confederation_Bridge.jpg",
+      "altStored": "The 12.9-kilometre Confederation Bridge crossing the Northumberland Strait to Borden-Carleton, Prince County, Prince Edward Island"
+    },
+    {
+      "scope": "region",
+      "slug": "kings-county",
+      "tier": "region",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Prince_Edward_Island_009_%287893580298%29.jpg",
+      "altStored": "Georgetown harbour and shoreline in eastern Kings County, Prince Edward Island"
+    },
+    {
+      "scope": "community",
+      "slug": "cavendish",
+      "tier": "real",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Cavendish_PE.jpg",
+      "altStored": "Cavendish farmland and Gulf shore, Queens County, Prince Edward Island — the Anne of Green Gables landscape"
+    },
+    {
+      "scope": "community",
+      "slug": "borden-carleton",
+      "tier": "real",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Confederation_Bridge.jpg",
+      "altStored": "Confederation Bridge landing at Borden-Carleton, Prince County — the fixed link across the Northumberland Strait to New Brunswick"
+    }
+  ]
+}
