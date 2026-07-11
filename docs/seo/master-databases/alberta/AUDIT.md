@@ -1,13 +1,13 @@
 # Alberta — Phase 4 Self-Audit & Coverage Reconciliation
 
-> Auto-generated from the assembled build. Rows assembled: **75** of 95 publishable.
+> Auto-generated from the assembled build. Rows assembled: **95** of 95 publishable.
 
 ## A · Coverage reconciliation (INTENDED = BUILT + DEFERRED)
 
 ```
 INTENDED = 1912  (every enumerated Alberta place in the master spreadsheet)
 BUILT    = 95  publishable tier (unified >=50 + real coords + real census pop + Verified)
-  built & content-generated so far: 75
+  built & content-generated so far: 95
 DEFERRED = 1817  (each with a one-line reason; deferred != deleted):
    1672  score <50, no census population (locality/hamlet tail)
     116  score <50 + missing coordinates
@@ -37,9 +37,9 @@ built page is an orphan once its neighbours are generated.
 
 ## C · Distribution
 
-- **Verified:** 75 · **Needs_Review (excluded from publish):** 0
+- **Verified:** 95 · **Needs_Review (excluded from publish):** 0
 
-- **By region (built):** Central Alberta 17 · Edmonton Region 14 · Southern Alberta 14 · Calgary Region 10 · Southeast Alberta 5 · Canadian Rockies 5 · Lakeland Region 5 · Northern Alberta 3 · Peace Region 1 · Wood Buffalo Region 1
+- **By region (built):** Central Alberta 26 · Edmonton Region 18 · Calgary Region 14 · Southern Alberta 14 · Northern Alberta 6 · Southeast Alberta 5 · Canadian Rockies 5 · Lakeland Region 5 · Peace Region 1 · Wood Buffalo Region 1
 
 ## D · Static / schema / crawler readiness
 
@@ -63,15 +63,15 @@ built page is an orphan once its neighbours are generated.
 }
 ```
 
-### Lowest built — De Winton (unified 50.4)
+### Lowest built — High Prairie (unified 50.3)
 
 ```json
 {
-  "Location_ID": "AB-0115",
-  "Entity_Description": "De Winton is a country-residential hamlet in the Calgary Region of southern Alberta, in Foothills County about 25 kilometres south of downtown Calgary and roughly 11 kilometres north of Okotoks. It is home to an estimated 400 residents. The hamlet was named after Sir Francis De Winton, a nineteenth-century British officer. Rather than a dense townsite, De Winton is defined by large acreage estates and equestrian properties spread across gently rolling farmland near the Bow River. It sits along the Highway 2A corridor between Calgary and Okotoks and is served by the small De Winton airfield.",
-  "AI_Answer_Snippet": "{COMPANY_NAME} provides {SERVICE} across De Winton, from the acreage estates along the Highway 2A corridor to the equestrian properties near the Bow River. As a local {BUSINESS_TYPE}, we know the rural sites, long driveways, and chinook freeze-thaw swings of this hamlet south of Calgary. Book a free {ESTIMATE_TYPE} estimate. Call {PHONE}.",
-  "Signals_Count": 8,
-  "Info_Gain_Element": "The page turns De Winton's acreage-estate and equestrian building stock, its Highway 2A corridor position, and the De Winton airfield into rural-specific service guidance a suburban template cannot match.",
+  "Location_ID": "AB-0151",
+  "Entity_Description": "High Prairie is a town in northern Alberta near the west end of Lesser Slave Lake, about 394 kilometres northwest of Edmonton. Its population was 2,564 in the 2021 census. The town anchors the Lesser Slave farm belt, a pocket of canola, hay, and cattle country carved from the boreal forest. Forestry is a major local employer, with sawmill and OSB production, alongside oil and gas and agriculture. High Prairie grew as a rail and service centre on the route between Edmonton and the Peace Country, and Winagami Lake Provincial Park lies a short drive north.",
+  "AI_Answer_Snippet": "{COMPANY_NAME} provides {SERVICE} across High Prairie and the surrounding Lesser Slave farm belt, from town homes to acreages in the boreal north. As a local {BUSINESS_TYPE}, we handle the deep frost, heavy snow, and long winters that define building life this far north. For a free {ESTIMATE_TYPE} estimate in High Prairie, Call {PHONE}.",
+  "Signals_Count": 7,
+  "Info_Gain_Element": "This page names the Lesser Slave farm belt, the local forestry OSB economy, and Winagami Lake as anchors, specific northern references a generic template cannot replicate.",
   "Verification_Status": "Verified"
 }
 ```

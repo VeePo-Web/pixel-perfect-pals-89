@@ -273,6 +273,19 @@
     }
   },
   {
+    "Location_ID": "AB-0030",
+    "file": "strathmore-calgary-region-ab.webp",
+    "alt_geo": "Strathmore, Calgary Region Alberta — a Wheatland County railway town on the Trans-Canada Highway amid irrigated prairie farmland east of Calgary",
+    "alt_rendered": "{SERVICE_CATEGORY} in Strathmore, Alberta — Strathmore, Calgary Region Alberta — a Wheatland County railway town on the Trans-Canada Highway amid irrigated prairie farmland east of Calgary",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.0455556,
+      "lng": -113.3930556,
+      "place": "Strathmore, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0045",
     "file": "brooks-southeast-alberta-ab.webp",
     "alt_geo": "Brooks, Southeast Alberta — irrigated farmland of the Eastern Irrigation District meeting badlands near Dinosaur Provincial Park",
@@ -494,6 +507,19 @@
     }
   },
   {
+    "Location_ID": "AB-0043",
+    "file": "langdon-calgary-region-ab.webp",
+    "alt_geo": "Langdon, Calgary Region Alberta — a fast-growing prairie hamlet in Rocky View County about 30 km east of Calgary",
+    "alt_rendered": "{SERVICE_CATEGORY} in Langdon, Alberta — Langdon, Calgary Region Alberta — a fast-growing prairie hamlet in Rocky View County about 30 km east of Calgary",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.9688889,
+      "lng": -113.6775,
+      "place": "Langdon, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0019",
     "file": "whitecourt-canadian-rockies-ab.webp",
     "alt_geo": "Whitecourt, Yellowhead foothills Alberta — forestry mill town at the confluence of the Athabasca and McLeod rivers",
@@ -598,6 +624,19 @@
     }
   },
   {
+    "Location_ID": "AB-0053",
+    "file": "crossfield-calgary-region-ab.webp",
+    "alt_geo": "Crossfield, Calgary Region Alberta — a prairie grain-and-gas town off Highway 2A north of Airdrie",
+    "alt_rendered": "{SERVICE_CATEGORY} in Crossfield, Alberta — Crossfield, Calgary Region Alberta — a prairie grain-and-gas town off Highway 2A north of Airdrie",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.4305556,
+      "lng": -114.0308333,
+      "place": "Crossfield, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0088",
     "file": "bonnyville-lakeland-region-ab.webp",
     "alt_geo": "Bonnyville, Lakeland Alberta — town wrapped around the Jessie Lake bird sanctuary and its lakeside boardwalk",
@@ -608,6 +647,19 @@
       "lat": 54.2672222,
       "lng": -110.7386111,
       "place": "Bonnyville, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0092",
+    "file": "wainwright-central-alberta-ab.webp",
+    "alt_geo": "Wainwright, Central Alberta - Battle River town beside CFB Wainwright near the Saskatchewan border",
+    "alt_rendered": "{SERVICE_CATEGORY} in Wainwright, Alberta — Wainwright, Central Alberta - Battle River town beside CFB Wainwright near the Saskatchewan border",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.8341666,
+      "lng": -110.8580556,
+      "place": "Wainwright, Alberta"
     }
   },
   {
@@ -663,6 +715,58 @@
     }
   },
   {
+    "Location_ID": "AB-0044",
+    "file": "bon-accord-edmonton-region-ab.webp",
+    "alt_geo": "Bon Accord, Edmonton Region Alberta — Canada's first Dark Sky Community in the Sturgeon County farmland north of Edmonton",
+    "alt_rendered": "{SERVICE_CATEGORY} in Bon Accord, Alberta — Bon Accord, Edmonton Region Alberta — Canada's first Dark Sky Community in the Sturgeon County farmland north of Edmonton",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.8369444,
+      "lng": -113.4122222,
+      "place": "Bon Accord, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0076",
+    "file": "tofield-edmonton-region-ab.webp",
+    "alt_geo": "Tofield, Edmonton Region Alberta — Beaverhill Lake bird-staging town on Highway 14 east of Edmonton",
+    "alt_rendered": "{SERVICE_CATEGORY} in Tofield, Alberta — Tofield, Edmonton Region Alberta — Beaverhill Lake bird-staging town on Highway 14 east of Edmonton",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.3708333,
+      "lng": -112.6658333,
+      "place": "Tofield, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0069",
+    "file": "three-hills-central-alberta-ab.webp",
+    "alt_geo": "Three Hills, Central Alberta - Kneehill County farm town and college community on Highway 21 named for three hills to the north",
+    "alt_rendered": "{SERVICE_CATEGORY} in Three Hills, Alberta — Three Hills, Central Alberta - Kneehill County farm town and college community on Highway 21 named for three hills to the north",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.7030555,
+      "lng": -113.2686111,
+      "place": "Three Hills, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0071",
+    "file": "balzac-calgary-region-ab.webp",
+    "alt_geo": "Balzac, Calgary Region Alberta — a Rocky View County hamlet and CrossIron Mills retail hub on the QEII Highway north of Calgary",
+    "alt_rendered": "{SERVICE_CATEGORY} in Balzac, Alberta — Balzac, Calgary Region Alberta — a Rocky View County hamlet and CrossIron Mills retail hub on the QEII Highway north of Calgary",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.2133334,
+      "lng": -114.0094444,
+      "place": "Balzac, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0037",
     "file": "hinton-canadian-rockies-ab.webp",
     "alt_geo": "Hinton, Yellowhead foothills Alberta — pulp-mill town on Highway 16 at the gateway to Jasper National Park",
@@ -673,6 +777,19 @@
       "lat": 53.4111111,
       "lng": -117.5627778,
       "place": "Hinton, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0059",
+    "file": "lamont-edmonton-region-ab.webp",
+    "alt_geo": "Lamont, Edmonton Region Alberta — historic church-country town on Highway 15 near Elk Island National Park",
+    "alt_rendered": "{SERVICE_CATEGORY} in Lamont, Alberta — Lamont, Edmonton Region Alberta — historic church-country town on Highway 15 near Elk Island National Park",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.7591666,
+      "lng": -112.7844444,
+      "place": "Lamont, Alberta"
     }
   },
   {
@@ -715,6 +832,32 @@
     }
   },
   {
+    "Location_ID": "AB-0068",
+    "file": "sundre-central-alberta-ab.webp",
+    "alt_geo": "Sundre, Central Alberta - foothills town on the Red Deer River and gateway to the West Country forest reserve",
+    "alt_rendered": "{SERVICE_CATEGORY} in Sundre, Alberta — Sundre, Central Alberta - foothills town on the Red Deer River and gateway to the West Country forest reserve",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.7955555,
+      "lng": -114.6377778,
+      "place": "Sundre, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0057",
+    "file": "bruderheim-edmonton-region-ab.webp",
+    "alt_geo": "Bruderheim, Edmonton Region Alberta — Moravian-founded town at the Highway 15 and 45 junction beside the Industrial Heartland",
+    "alt_rendered": "{SERVICE_CATEGORY} in Bruderheim, Alberta — Bruderheim, Edmonton Region Alberta — Moravian-founded town at the Highway 15 and 45 junction beside the Industrial Heartland",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.7997222,
+      "lng": -112.9283333,
+      "place": "Bruderheim, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0064",
     "file": "claresholm-southern-alberta-ab.webp",
     "alt_geo": "Claresholm, Southern Alberta — a foothills-edge prairie town on the Highway 2 corridor below the Porcupine Hills",
@@ -741,6 +884,19 @@
     }
   },
   {
+    "Location_ID": "AB-0066",
+    "file": "penhold-central-alberta-ab.webp",
+    "alt_geo": "Penhold, central Alberta — a fast-growing Highway 2A town on the parkland plain just south of Red Deer",
+    "alt_rendered": "{SERVICE_CATEGORY} in Penhold, Alberta — Penhold, central Alberta — a fast-growing Highway 2A town on the parkland plain just south of Red Deer",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.1369444,
+      "lng": -113.8730556,
+      "place": "Penhold, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0062",
     "file": "vulcan-southern-alberta-ab.webp",
     "alt_geo": "Vulcan, Southern Alberta - prairie grain town on Highway 23 marked by its starship-shaped tourism station",
@@ -751,6 +907,19 @@
       "lat": 50.4041666,
       "lng": -113.2605556,
       "place": "Vulcan, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0072",
+    "file": "athabasca-northern-alberta-ab.webp",
+    "alt_geo": "Athabasca, Northern Alberta — historic Gateway to the North river-landing town at the great bend of the Athabasca River",
+    "alt_rendered": "{SERVICE_CATEGORY} in Athabasca, Alberta — Athabasca, Northern Alberta — historic Gateway to the North river-landing town at the great bend of the Athabasca River",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 54.7166666,
+      "lng": -113.2841667,
+      "place": "Athabasca, Alberta"
     }
   },
   {
@@ -819,6 +988,32 @@
     }
   },
   {
+    "Location_ID": "AB-0111",
+    "file": "hanna-central-alberta-ab.webp",
+    "alt_geo": "Hanna, east-central Alberta — an open Special Areas prairie town where Highways 9 and 36 meet near the Hand Hills",
+    "alt_rendered": "{SERVICE_CATEGORY} in Hanna, Alberta — Hanna, east-central Alberta — an open Special Areas prairie town where Highways 9 and 36 meet near the Hand Hills",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.6458334,
+      "lng": -111.9252778,
+      "place": "Hanna, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0107",
+    "file": "trochu-central-alberta-ab.webp",
+    "alt_geo": "Trochu, central Alberta — a French-founded Kneehill County town near Three Hills and the Red Deer River badlands",
+    "alt_rendered": "{SERVICE_CATEGORY} in Trochu, Alberta — Trochu, central Alberta — a French-founded Kneehill County town near Three Hills and the Red Deer River badlands",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.8286111,
+      "lng": -113.2280556,
+      "place": "Trochu, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0105",
     "file": "raymond-southern-alberta-ab.webp",
     "alt_geo": "Raymond, Southern Alberta - historic Mormon-settled sugar-beet town on the irrigated flats southeast of Lethbridge",
@@ -829,6 +1024,32 @@
       "lat": 49.465,
       "lng": -112.6611111,
       "place": "Raymond, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0073",
+    "file": "bentley-central-alberta-ab.webp",
+    "alt_geo": "Bentley, central Alberta — a lake-country town between Gull Lake and Sylvan Lake above the Blindman River valley",
+    "alt_rendered": "{SERVICE_CATEGORY} in Bentley, Alberta — Bentley, central Alberta — a lake-country town between Gull Lake and Sylvan Lake above the Blindman River valley",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.4663889,
+      "lng": -114.0511111,
+      "place": "Bentley, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0100",
+    "file": "viking-central-alberta-ab.webp",
+    "alt_geo": "Viking, east-central Alberta — a Battle River farm town on Highway 14 near the ancient Viking Ribstones",
+    "alt_rendered": "{SERVICE_CATEGORY} in Viking, Alberta — Viking, east-central Alberta — a Battle River farm town on Highway 14 near the ancient Viking Ribstones",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.0947222,
+      "lng": -111.7755556,
+      "place": "Viking, Alberta"
     }
   },
   {
@@ -871,6 +1092,19 @@
     }
   },
   {
+    "Location_ID": "AB-0135",
+    "file": "peace-river-northern-alberta-ab.webp",
+    "alt_geo": "Peace River, northwest Alberta — town set deep in the Peace River valley where the Peace, Smoky, and Heart rivers meet",
+    "alt_rendered": "{SERVICE_CATEGORY} in Peace River, Alberta — Peace River, northwest Alberta — town set deep in the Peace River valley where the Peace, Smoky, and Heart rivers meet",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 56.2358334,
+      "lng": -117.2986111,
+      "place": "Peace River, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0116",
     "file": "lac-la-biche-lakeland-region-ab.webp",
     "alt_geo": "Lac La Biche, Lakeland Alberta — historic fur-trade lakeshore beside Sir Winston Churchill Provincial Park on Big Island",
@@ -907,6 +1141,19 @@
       "lat": 49.8672222,
       "lng": -111.3788889,
       "place": "Bow Island, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0102",
+    "file": "bashaw-central-alberta-ab.webp",
+    "alt_geo": "Bashaw, central Alberta — a parkland farm town at the Highway 21 and 53 crossroads near Buffalo Lake",
+    "alt_rendered": "{SERVICE_CATEGORY} in Bashaw, Alberta — Bashaw, central Alberta — a parkland farm town at the Highway 21 and 53 crossroads near Buffalo Lake",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.5830555,
+      "lng": -112.9702778,
+      "place": "Bashaw, Alberta"
     }
   },
   {
@@ -972,6 +1219,19 @@
       "lat": 50.8230555,
       "lng": -114.0186111,
       "place": "De Winton, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0151",
+    "file": "high-prairie-northern-alberta-ab.webp",
+    "alt_geo": "High Prairie, northern Alberta — farm-belt town near the west end of Lesser Slave Lake",
+    "alt_rendered": "{SERVICE_CATEGORY} in High Prairie, Alberta — High Prairie, northern Alberta — farm-belt town near the west end of Lesser Slave Lake",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 55.4322223,
+      "lng": -116.4944444,
+      "place": "High Prairie, Alberta"
     }
   }
 ]
