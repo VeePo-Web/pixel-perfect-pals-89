@@ -3,8 +3,15 @@
   <!-- {BRAND_URL} placeholder = production origin; area hub -->
   <url><loc>{BRAND_URL}/areas</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>{BRAND_URL}/areas/region/calgary-region</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>{BRAND_URL}/areas/region/canadian-rockies</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>{BRAND_URL}/areas/region/central-alberta</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>{BRAND_URL}/areas/region/edmonton-region</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>{BRAND_URL}/areas/region/lakeland-region</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>{BRAND_URL}/areas/region/northern-alberta</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>{BRAND_URL}/areas/region/peace-region</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>{BRAND_URL}/areas/region/southeast-alberta</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>{BRAND_URL}/areas/region/southern-alberta</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>{BRAND_URL}/areas/region/wood-buffalo-region</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>{BRAND_URL}/areas/calgary</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.79</priority></url>
   <url><loc>{BRAND_URL}/areas/edmonton</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.79</priority></url>
   <url><loc>{BRAND_URL}/areas/st-albert</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.72</priority></url>
@@ -15,6 +22,7 @@
   <url><loc>{BRAND_URL}/areas/chestermere</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.70</priority></url>
   <url><loc>{BRAND_URL}/areas/fort-saskatchewan</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.70</priority></url>
   <url><loc>{BRAND_URL}/areas/beaumont</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.69</priority></url>
+  <url><loc>{BRAND_URL}/areas/lethbridge</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.69</priority></url>
   <url><loc>{BRAND_URL}/areas/sherwood-park</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.67</priority></url>
   <url><loc>{BRAND_URL}/areas/cochrane</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.67</priority></url>
   <url><loc>{BRAND_URL}/areas/okotoks</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.67</priority></url>
@@ -22,10 +30,61 @@
   <url><loc>{BRAND_URL}/areas/wetaskiwin</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.66</priority></url>
   <url><loc>{BRAND_URL}/areas/stony-plain</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
   <url><loc>{BRAND_URL}/areas/lacombe</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>{BRAND_URL}/areas/medicine-hat</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.64</priority></url>
+  <url><loc>{BRAND_URL}/areas/high-river</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.64</priority></url>
   <url><loc>{BRAND_URL}/areas/morinville</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.64</priority></url>
+  <url><loc>{BRAND_URL}/areas/brooks</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.64</priority></url>
   <url><loc>{BRAND_URL}/areas/devon</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.63</priority></url>
+  <url><loc>{BRAND_URL}/areas/canmore</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.63</priority></url>
   <url><loc>{BRAND_URL}/areas/olds</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.62</priority></url>
+  <url><loc>{BRAND_URL}/areas/lloydminster</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.62</priority></url>
   <url><loc>{BRAND_URL}/areas/sylvan-lake</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/didsbury</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/cold-lake</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/banff</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/westlock</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/ponoka</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/drumheller</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/blackfalds</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/innisfail</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/drayton-valley</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/grande-prairie</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
   <url><loc>{BRAND_URL}/areas/vegreville</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.61</priority></url>
+  <url><loc>{BRAND_URL}/areas/whitecourt</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.60</priority></url>
+  <url><loc>{BRAND_URL}/areas/stettler</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.59</priority></url>
+  <url><loc>{BRAND_URL}/areas/rocky-mountain-house</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.59</priority></url>
+  <url><loc>{BRAND_URL}/areas/coaldale</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.59</priority></url>
+  <url><loc>{BRAND_URL}/areas/edson</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.58</priority></url>
+  <url><loc>{BRAND_URL}/areas/taber</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.58</priority></url>
   <url><loc>{BRAND_URL}/areas/gibbons</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.58</priority></url>
+  <url><loc>{BRAND_URL}/areas/carstairs</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.58</priority></url>
+  <url><loc>{BRAND_URL}/areas/bonnyville</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.58</priority></url>
+  <url><loc>{BRAND_URL}/areas/slave-lake</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.57</priority></url>
+  <url><loc>{BRAND_URL}/areas/calmar</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.57</priority></url>
+  <url><loc>{BRAND_URL}/areas/barrhead</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.57</priority></url>
+  <url><loc>{BRAND_URL}/areas/millet</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.57</priority></url>
+  <url><loc>{BRAND_URL}/areas/hinton</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.56</priority></url>
+  <url><loc>{BRAND_URL}/areas/fort-mcmurray</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.56</priority></url>
+  <url><loc>{BRAND_URL}/areas/irricana</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.56</priority></url>
+  <url><loc>{BRAND_URL}/areas/nanton</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.56</priority></url>
+  <url><loc>{BRAND_URL}/areas/claresholm</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.56</priority></url>
+  <url><loc>{BRAND_URL}/areas/redcliff</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.56</priority></url>
+  <url><loc>{BRAND_URL}/areas/vulcan</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.56</priority></url>
+  <url><loc>{BRAND_URL}/areas/fort-macleod</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.55</priority></url>
+  <url><loc>{BRAND_URL}/areas/vermilion</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.55</priority></url>
+  <url><loc>{BRAND_URL}/areas/pincher-creek</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.54</priority></url>
+  <url><loc>{BRAND_URL}/areas/bassano</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.54</priority></url>
+  <url><loc>{BRAND_URL}/areas/coalhurst</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.54</priority></url>
+  <url><loc>{BRAND_URL}/areas/raymond</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.54</priority></url>
+  <url><loc>{BRAND_URL}/areas/picture-butte</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.53</priority></url>
+  <url><loc>{BRAND_URL}/areas/cardston</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.53</priority></url>
+  <url><loc>{BRAND_URL}/areas/magrath</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.53</priority></url>
+  <url><loc>{BRAND_URL}/areas/lac-la-biche</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.52</priority></url>
+  <url><loc>{BRAND_URL}/areas/vauxhall</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.52</priority></url>
+  <url><loc>{BRAND_URL}/areas/bow-island</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.52</priority></url>
+  <url><loc>{BRAND_URL}/areas/beiseker</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.51</priority></url>
+  <url><loc>{BRAND_URL}/areas/bragg-creek</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.51</priority></url>
+  <url><loc>{BRAND_URL}/areas/killam</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.51</priority></url>
+  <url><loc>{BRAND_URL}/areas/provost</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.51</priority></url>
+  <url><loc>{BRAND_URL}/areas/de-winton</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.50</priority></url>
 </urlset>

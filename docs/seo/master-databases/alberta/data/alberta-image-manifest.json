@@ -130,6 +130,19 @@
     }
   },
   {
+    "Location_ID": "AB-0010",
+    "file": "lethbridge-southern-alberta-ab.webp",
+    "alt_geo": "Lethbridge, Southern Alberta — the High Level Bridge spanning the deep Oldman River coulees",
+    "alt_rendered": "{SERVICE_CATEGORY} in Lethbridge, Alberta — Lethbridge, Southern Alberta — the High Level Bridge spanning the deep Oldman River coulees",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.6936,
+      "lng": -112.8419,
+      "place": "Lethbridge, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0006",
     "file": "sherwood-park-edmonton-region-ab.webp",
     "alt_geo": "Sherwood Park, Edmonton Region Alberta — Canada's largest hamlet beside the Refinery Row corridor of Strathcona County",
@@ -221,6 +234,32 @@
     }
   },
   {
+    "Location_ID": "AB-0016",
+    "file": "medicine-hat-southeast-alberta-ab.webp",
+    "alt_geo": "Medicine Hat, Southeast Alberta — the Gas City spread across the South Saskatchewan River coulees under wide sunny skies",
+    "alt_rendered": "{SERVICE_CATEGORY} in Medicine Hat, Alberta — Medicine Hat, Southeast Alberta — the Gas City spread across the South Saskatchewan River coulees under wide sunny skies",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.0408,
+      "lng": -110.6767,
+      "place": "Medicine Hat, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0022",
+    "file": "high-river-calgary-region-ab.webp",
+    "alt_geo": "High River, Calgary Region Alberta — a foothills town on the banks of the flood-shaping Highwood River, 56 km south of Calgary",
+    "alt_rendered": "{SERVICE_CATEGORY} in High River, Alberta — High River, Calgary Region Alberta — a foothills town on the banks of the flood-shaping Highwood River, 56 km south of Calgary",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.5797223,
+      "lng": -113.8741667,
+      "place": "High River, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0023",
     "file": "morinville-edmonton-region-ab.webp",
     "alt_geo": "Morinville, Edmonton Region Alberta — 1891 French-Canadian parish town amid Sturgeon County grain country",
@@ -231,6 +270,19 @@
       "lat": 53.8027778,
       "lng": -113.6438889,
       "place": "Morinville, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0045",
+    "file": "brooks-southeast-alberta-ab.webp",
+    "alt_geo": "Brooks, Southeast Alberta — irrigated farmland of the Eastern Irrigation District meeting badlands near Dinosaur Provincial Park",
+    "alt_rendered": "{SERVICE_CATEGORY} in Brooks, Alberta — Brooks, Southeast Alberta — irrigated farmland of the Eastern Irrigation District meeting badlands near Dinosaur Provincial Park",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.567222,
+      "lng": -111.895,
+      "place": "Brooks, Alberta"
     }
   },
   {
@@ -247,6 +299,19 @@
     }
   },
   {
+    "Location_ID": "AB-0004",
+    "file": "canmore-canadian-rockies-ab.webp",
+    "alt_geo": "Canmore, Bow Valley Alberta — mountain-resort town beneath the Three Sisters peaks at the gates of Banff National Park",
+    "alt_rendered": "{SERVICE_CATEGORY} in Canmore, Alberta — Canmore, Bow Valley Alberta — mountain-resort town beneath the Three Sisters peaks at the gates of Banff National Park",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.0831,
+      "lng": -115.3683,
+      "place": "Canmore, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0032",
     "file": "olds-central-alberta-ab.webp",
     "alt_geo": "Olds, Central Alberta — agricultural college town on the QE2 corridor in Mountain View County",
@@ -257,6 +322,19 @@
       "lat": 51.7919444,
       "lng": -114.1075,
       "place": "Olds, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0085",
+    "file": "lloydminster-lakeland-region-ab.webp",
+    "alt_geo": "Lloydminster, Lakeland Alberta — the only Canadian city split by a provincial border down Meridian Avenue",
+    "alt_rendered": "{SERVICE_CATEGORY} in Lloydminster, Alberta — Lloydminster, Lakeland Alberta — the only Canadian city split by a provincial border down Meridian Avenue",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.2777778,
+      "lng": -110.0308333,
+      "place": "Lloydminster, Alberta"
     }
   },
   {
@@ -273,6 +351,136 @@
     }
   },
   {
+    "Location_ID": "AB-0036",
+    "file": "didsbury-central-alberta-ab.webp",
+    "alt_geo": "Didsbury, Central Alberta — heritage brick main street in Mountain View County's grain, canola, and cattle country",
+    "alt_rendered": "{SERVICE_CATEGORY} in Didsbury, Alberta — Didsbury, Central Alberta — heritage brick main street in Mountain View County's grain, canola, and cattle country",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.6594444,
+      "lng": -114.1375,
+      "place": "Didsbury, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0074",
+    "file": "cold-lake-lakeland-region-ab.webp",
+    "alt_geo": "Cold Lake, Lakeland Alberta — lakeshore city on Alberta's seventh-largest lake beside the 4 Wing air base",
+    "alt_rendered": "{SERVICE_CATEGORY} in Cold Lake, Alberta — Cold Lake, Lakeland Alberta — lakeshore city on Alberta's seventh-largest lake beside the 4 Wing air base",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 54.45,
+      "lng": -110.1666667,
+      "place": "Cold Lake, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0008",
+    "file": "banff-canadian-rockies-ab.webp",
+    "alt_geo": "Banff, Bow Valley Alberta — resort town set inside Banff National Park below Mount Rundle and Cascade Mountain",
+    "alt_rendered": "{SERVICE_CATEGORY} in Banff, Alberta — Banff, Bow Valley Alberta — resort town set inside Banff National Park below Mount Rundle and Cascade Mountain",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.1778,
+      "lng": -115.5736,
+      "place": "Banff, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0040",
+    "file": "westlock-northern-alberta-ab.webp",
+    "alt_geo": "Westlock, north-central Alberta — farmer-owned grain terminal town at the junction of Highways 44 and 18",
+    "alt_rendered": "{SERVICE_CATEGORY} in Westlock, Alberta — Westlock, north-central Alberta — farmer-owned grain terminal town at the junction of Highways 44 and 18",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 54.1552778,
+      "lng": -113.8569444,
+      "place": "Westlock, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0039",
+    "file": "ponoka-central-alberta-ab.webp",
+    "alt_geo": "Ponoka, Central Alberta — Battle River town in Blackfoot elk country along the Highway 2 corridor south of Edmonton",
+    "alt_rendered": "{SERVICE_CATEGORY} in Ponoka, Alberta — Ponoka, Central Alberta — Battle River town in Blackfoot elk country along the Highway 2 corridor south of Edmonton",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.675,
+      "lng": -113.58,
+      "place": "Ponoka, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0047",
+    "file": "drumheller-central-alberta-ab.webp",
+    "alt_geo": "Drumheller, Central Alberta — hoodoos and coal-seam cliffs of the Red Deer River badlands surrounding the valley town",
+    "alt_rendered": "{SERVICE_CATEGORY} in Drumheller, Alberta — Drumheller, Central Alberta — hoodoos and coal-seam cliffs of the Red Deer River badlands surrounding the valley town",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.4644444,
+      "lng": -112.7188889,
+      "place": "Drumheller, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0035",
+    "file": "blackfalds-central-alberta-ab.webp",
+    "alt_geo": "Blackfalds, Central Alberta — fast-growing Highway 2 corridor town midway between Red Deer and Lacombe",
+    "alt_rendered": "{SERVICE_CATEGORY} in Blackfalds, Alberta — Blackfalds, Central Alberta — fast-growing Highway 2 corridor town midway between Red Deer and Lacombe",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.3783333,
+      "lng": -113.7961111,
+      "place": "Blackfalds, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0038",
+    "file": "innisfail-central-alberta-ab.webp",
+    "alt_geo": "Innisfail, Central Alberta — aspen parkland town where the prairie rolls westward toward the foothills",
+    "alt_rendered": "{SERVICE_CATEGORY} in Innisfail, Alberta — Innisfail, Central Alberta — aspen parkland town where the prairie rolls westward toward the foothills",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.028139,
+      "lng": -113.950639,
+      "place": "Innisfail, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0046",
+    "file": "drayton-valley-central-alberta-ab.webp",
+    "alt_geo": "Drayton Valley, Central Alberta — Brazeau County town on the North Saskatchewan River where parkland meets boreal forest",
+    "alt_rendered": "{SERVICE_CATEGORY} in Drayton Valley, Alberta — Drayton Valley, Central Alberta — Brazeau County town on the North Saskatchewan River where parkland meets boreal forest",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.2241667,
+      "lng": -114.9808333,
+      "place": "Drayton Valley, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0018",
+    "file": "grande-prairie-peace-region-ab.webp",
+    "alt_geo": "Grande Prairie, Peace Region Alberta — Swan City on the world's northernmost major grain belt, edged by Muskoseepi Park",
+    "alt_rendered": "{SERVICE_CATEGORY} in Grande Prairie, Alberta — Grande Prairie, Peace Region Alberta — Swan City on the world's northernmost major grain belt, edged by Muskoseepi Park",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 55.1708,
+      "lng": -118.7961,
+      "place": "Grande Prairie, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0049",
     "file": "vegreville-edmonton-region-ab.webp",
     "alt_geo": "Vegreville, Edmonton Region Alberta — Pysanka landmark town of the Ukrainian settlement block east of Edmonton",
@@ -286,6 +494,84 @@
     }
   },
   {
+    "Location_ID": "AB-0019",
+    "file": "whitecourt-canadian-rockies-ab.webp",
+    "alt_geo": "Whitecourt, Yellowhead foothills Alberta — forestry mill town at the confluence of the Athabasca and McLeod rivers",
+    "alt_rendered": "{SERVICE_CATEGORY} in Whitecourt, Alberta — Whitecourt, Yellowhead foothills Alberta — forestry mill town at the confluence of the Athabasca and McLeod rivers",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 54.1411111,
+      "lng": -115.6841667,
+      "place": "Whitecourt, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0048",
+    "file": "stettler-central-alberta-ab.webp",
+    "alt_geo": "Stettler, Central Alberta - parkland railway town at the junction of Highways 12 and 56 near Buffalo Lake",
+    "alt_rendered": "{SERVICE_CATEGORY} in Stettler, Alberta — Stettler, Central Alberta - parkland railway town at the junction of Highways 12 and 56 near Buffalo Lake",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.3238889,
+      "lng": -112.7044444,
+      "place": "Stettler, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0056",
+    "file": "rocky-mountain-house-central-alberta-ab.webp",
+    "alt_geo": "Rocky Mountain House, Central Alberta - foothills town where the North Saskatchewan and Clearwater rivers meet at the gateway to the David Thompson Highway",
+    "alt_rendered": "{SERVICE_CATEGORY} in Rocky Mountain House, Alberta — Rocky Mountain House, Central Alberta - foothills town where the North Saskatchewan and Clearwater rivers meet at the gateway to the David Thompson Highway",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.3747222,
+      "lng": -114.9219444,
+      "place": "Rocky Mountain House, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0052",
+    "file": "coaldale-southern-alberta-ab.webp",
+    "alt_geo": "Coaldale, Southern Alberta — irrigated farmland and Feedlot Alley cattle country east of Lethbridge on Highway 3",
+    "alt_rendered": "{SERVICE_CATEGORY} in Coaldale, Alberta — Coaldale, Southern Alberta — irrigated farmland and Feedlot Alley cattle country east of Lethbridge on Highway 3",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.7277777,
+      "lng": -112.6186111,
+      "place": "Coaldale, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0021",
+    "file": "edson-canadian-rockies-ab.webp",
+    "alt_geo": "Edson, Yellowhead foothills Alberta — railway-founded town spread along Highway 16 west of Edmonton",
+    "alt_rendered": "{SERVICE_CATEGORY} in Edson, Alberta — Edson, Yellowhead foothills Alberta — railway-founded town spread along Highway 16 west of Edmonton",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.5836111,
+      "lng": -116.4327778,
+      "place": "Edson, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0061",
+    "file": "taber-southern-alberta-ab.webp",
+    "alt_geo": "Taber, Southern Alberta — irrigated corn and sugar-beet fields along the Oldman River",
+    "alt_rendered": "{SERVICE_CATEGORY} in Taber, Alberta — Taber, Southern Alberta — irrigated corn and sugar-beet fields along the Oldman River",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.78475,
+      "lng": -112.150972,
+      "place": "Taber, Alberta"
+    }
+  },
+  {
     "Location_ID": "AB-0054",
     "file": "gibbons-edmonton-region-ab.webp",
     "alt_geo": "Gibbons, Edmonton Region Alberta — Sturgeon River valley town at the historic Athabasca Landing Trail crossing",
@@ -296,6 +582,396 @@
       "lat": 53.8297222,
       "lng": -113.3283333,
       "place": "Gibbons, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0051",
+    "file": "carstairs-central-alberta-ab.webp",
+    "alt_geo": "Carstairs, Central Alberta - fast-growing commuter town on the QE2 corridor 58 km north of Calgary",
+    "alt_rendered": "{SERVICE_CATEGORY} in Carstairs, Alberta — Carstairs, Central Alberta - fast-growing commuter town on the QE2 corridor 58 km north of Calgary",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.5655555,
+      "lng": -114.0994444,
+      "place": "Carstairs, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0088",
+    "file": "bonnyville-lakeland-region-ab.webp",
+    "alt_geo": "Bonnyville, Lakeland Alberta — town wrapped around the Jessie Lake bird sanctuary and its lakeside boardwalk",
+    "alt_rendered": "{SERVICE_CATEGORY} in Bonnyville, Alberta — Bonnyville, Lakeland Alberta — town wrapped around the Jessie Lake bird sanctuary and its lakeside boardwalk",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 54.2672222,
+      "lng": -110.7386111,
+      "place": "Bonnyville, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0067",
+    "file": "slave-lake-northern-alberta-ab.webp",
+    "alt_geo": "Slave Lake, Northern Alberta — forestry town on the southeast shore of Lesser Slave Lake, rebuilt after the 2011 wildfire",
+    "alt_rendered": "{SERVICE_CATEGORY} in Slave Lake, Alberta — Slave Lake, Northern Alberta — forestry town on the southeast shore of Lesser Slave Lake, rebuilt after the 2011 wildfire",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 55.2822222,
+      "lng": -114.7702778,
+      "place": "Slave Lake, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0058",
+    "file": "calmar-edmonton-region-ab.webp",
+    "alt_geo": "Calmar, Edmonton Region Alberta — Swedish-named Leduc County farm town on Highway 39 near the historic Leduc oilfield",
+    "alt_rendered": "{SERVICE_CATEGORY} in Calmar, Alberta — Calmar, Edmonton Region Alberta — Swedish-named Leduc County farm town on Highway 39 near the historic Leduc oilfield",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.2577778,
+      "lng": -113.8108333,
+      "place": "Calmar, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0063",
+    "file": "barrhead-northern-alberta-ab.webp",
+    "alt_geo": "Barrhead, north-central Alberta — the Blue Heron Capital on the Paddle River near Thunder Lake",
+    "alt_rendered": "{SERVICE_CATEGORY} in Barrhead, Alberta — Barrhead, north-central Alberta — the Blue Heron Capital on the Paddle River near Thunder Lake",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 54.1216667,
+      "lng": -114.4036111,
+      "place": "Barrhead, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0060",
+    "file": "millet-edmonton-region-ab.webp",
+    "alt_geo": "Millet, Edmonton Region Alberta — historic 1891 rail town on Highway 2A between Leduc and Wetaskiwin",
+    "alt_rendered": "{SERVICE_CATEGORY} in Millet, Alberta — Millet, Edmonton Region Alberta — historic 1891 rail town on Highway 2A between Leduc and Wetaskiwin",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.0961111,
+      "lng": -113.4727778,
+      "place": "Millet, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0037",
+    "file": "hinton-canadian-rockies-ab.webp",
+    "alt_geo": "Hinton, Yellowhead foothills Alberta — pulp-mill town on Highway 16 at the gateway to Jasper National Park",
+    "alt_rendered": "{SERVICE_CATEGORY} in Hinton, Alberta — Hinton, Yellowhead foothills Alberta — pulp-mill town on Highway 16 at the gateway to Jasper National Park",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.4111111,
+      "lng": -117.5627778,
+      "place": "Hinton, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0041",
+    "file": "fort-mcmurray-wood-buffalo-region-ab.webp",
+    "alt_geo": "Fort McMurray, Wood Buffalo Region Alberta — boreal city at the confluence of the Athabasca and Clearwater rivers",
+    "alt_rendered": "{SERVICE_CATEGORY} in Fort McMurray, Alberta — Fort McMurray, Wood Buffalo Region Alberta — boreal city at the confluence of the Athabasca and Clearwater rivers",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 56.6963889,
+      "lng": -111.3608333,
+      "place": "Fort McMurray, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0055",
+    "file": "irricana-calgary-region-ab.webp",
+    "alt_geo": "Irricana, Calgary Region Alberta — prairie farm town named for a Canadian Pacific Railway irrigation canal",
+    "alt_rendered": "{SERVICE_CATEGORY} in Irricana, Alberta — Irricana, Calgary Region Alberta — prairie farm town named for a Canadian Pacific Railway irrigation canal",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.3236111,
+      "lng": -113.6080556,
+      "place": "Irricana, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0065",
+    "file": "nanton-southern-alberta-ab.webp",
+    "alt_geo": "Nanton, Southern Alberta — a row of historic wooden grain elevators at the foot of the Porcupine Hills",
+    "alt_rendered": "{SERVICE_CATEGORY} in Nanton, Alberta — Nanton, Southern Alberta — a row of historic wooden grain elevators at the foot of the Porcupine Hills",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.3469444,
+      "lng": -113.7733333,
+      "place": "Nanton, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0064",
+    "file": "claresholm-southern-alberta-ab.webp",
+    "alt_geo": "Claresholm, Southern Alberta — a foothills-edge prairie town on the Highway 2 corridor below the Porcupine Hills",
+    "alt_rendered": "{SERVICE_CATEGORY} in Claresholm, Alberta — Claresholm, Southern Alberta — a foothills-edge prairie town on the Highway 2 corridor below the Porcupine Hills",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.0197222,
+      "lng": -113.5827778,
+      "place": "Claresholm, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0106",
+    "file": "redcliff-southeast-alberta-ab.webp",
+    "alt_geo": "Redcliff, Southeast Alberta — a town on iron-red clay cliffs above the South Saskatchewan River near Medicine Hat",
+    "alt_rendered": "{SERVICE_CATEGORY} in Redcliff, Alberta — Redcliff, Southeast Alberta — a town on iron-red clay cliffs above the South Saskatchewan River near Medicine Hat",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.0775,
+      "lng": -110.7855556,
+      "place": "Redcliff, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0062",
+    "file": "vulcan-southern-alberta-ab.webp",
+    "alt_geo": "Vulcan, Southern Alberta - prairie grain town on Highway 23 marked by its starship-shaped tourism station",
+    "alt_rendered": "{SERVICE_CATEGORY} in Vulcan, Alberta — Vulcan, Southern Alberta - prairie grain town on Highway 23 marked by its starship-shaped tourism station",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.4041666,
+      "lng": -113.2605556,
+      "place": "Vulcan, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0089",
+    "file": "fort-macleod-southern-alberta-ab.webp",
+    "alt_geo": "Fort Macleod, Southern Alberta - historic brick Main Street town on the Oldman River near Head-Smashed-In Buffalo Jump",
+    "alt_rendered": "{SERVICE_CATEGORY} in Fort Macleod, Alberta — Fort Macleod, Southern Alberta - historic brick Main Street town on the Oldman River near Head-Smashed-In Buffalo Jump",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.7230555,
+      "lng": -113.4041667,
+      "place": "Fort Macleod, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0112",
+    "file": "vermilion-lakeland-region-ab.webp",
+    "alt_geo": "Vermilion, Lakeland Alberta — Yellowhead Highway college town in the Vermilion River valley",
+    "alt_rendered": "{SERVICE_CATEGORY} in Vermilion, Alberta — Vermilion, Lakeland Alberta — Yellowhead Highway college town in the Vermilion River valley",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 53.3547222,
+      "lng": -110.8527778,
+      "place": "Vermilion, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0091",
+    "file": "pincher-creek-southern-alberta-ab.webp",
+    "alt_geo": "Pincher Creek, Southern Alberta - windswept town at the Rocky Mountain front with wind turbines along the ridges",
+    "alt_rendered": "{SERVICE_CATEGORY} in Pincher Creek, Alberta — Pincher Creek, Southern Alberta - windswept town at the Rocky Mountain front with wind turbines along the ridges",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.4852778,
+      "lng": -113.9475,
+      "place": "Pincher Creek, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0087",
+    "file": "bassano-southeast-alberta-ab.webp",
+    "alt_geo": "Bassano, Southeast Alberta — a Bow River railway town beside the 1914 Bassano Dam and Eastern Irrigation District canals",
+    "alt_rendered": "{SERVICE_CATEGORY} in Bassano, Alberta — Bassano, Southeast Alberta — a Bow River railway town beside the 1914 Bassano Dam and Eastern Irrigation District canals",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.7875,
+      "lng": -112.4683333,
+      "place": "Bassano, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0099",
+    "file": "coalhurst-southern-alberta-ab.webp",
+    "alt_geo": "Coalhurst, Southern Alberta - fast-growing commuter town on the coulee-cut prairie just west of Lethbridge",
+    "alt_rendered": "{SERVICE_CATEGORY} in Coalhurst, Alberta — Coalhurst, Southern Alberta - fast-growing commuter town on the coulee-cut prairie just west of Lethbridge",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.7486111,
+      "lng": -112.9294444,
+      "place": "Coalhurst, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0105",
+    "file": "raymond-southern-alberta-ab.webp",
+    "alt_geo": "Raymond, Southern Alberta - historic Mormon-settled sugar-beet town on the irrigated flats southeast of Lethbridge",
+    "alt_rendered": "{SERVICE_CATEGORY} in Raymond, Alberta — Raymond, Southern Alberta - historic Mormon-settled sugar-beet town on the irrigated flats southeast of Lethbridge",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.465,
+      "lng": -112.6611111,
+      "place": "Raymond, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0090",
+    "file": "picture-butte-southern-alberta-ab.webp",
+    "alt_geo": "Picture Butte, Southern Alberta — flat irrigated prairie town at the heart of Feedlot Alley north of Lethbridge",
+    "alt_rendered": "{SERVICE_CATEGORY} in Picture Butte, Alberta — Picture Butte, Southern Alberta — flat irrigated prairie town at the heart of Feedlot Alley north of Lethbridge",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.8766667,
+      "lng": -112.7788889,
+      "place": "Picture Butte, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0098",
+    "file": "cardston-southern-alberta-ab.webp",
+    "alt_geo": "Cardston, Southern Alberta — historic town near the Rocky Mountain front where Lee's Creek meets the prairie edge",
+    "alt_rendered": "{SERVICE_CATEGORY} in Cardston, Alberta — Cardston, Southern Alberta — historic town near the Rocky Mountain front where Lee's Creek meets the prairie edge",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.2,
+      "lng": -113.3038889,
+      "place": "Cardston, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0104",
+    "file": "magrath-southern-alberta-ab.webp",
+    "alt_geo": "Magrath, Southern Alberta — tree-lined irrigation town on the semi-arid prairie south of Lethbridge",
+    "alt_rendered": "{SERVICE_CATEGORY} in Magrath, Alberta — Magrath, Southern Alberta — tree-lined irrigation town on the semi-arid prairie south of Lethbridge",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.4077778,
+      "lng": -112.8666667,
+      "place": "Magrath, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0116",
+    "file": "lac-la-biche-lakeland-region-ab.webp",
+    "alt_geo": "Lac La Biche, Lakeland Alberta — historic fur-trade lakeshore beside Sir Winston Churchill Provincial Park on Big Island",
+    "alt_rendered": "{SERVICE_CATEGORY} in Lac La Biche, Alberta — Lac La Biche, Lakeland Alberta — historic fur-trade lakeshore beside Sir Winston Churchill Provincial Park on Big Island",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 54.7702778,
+      "lng": -111.9791667,
+      "place": "Lac La Biche, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0108",
+    "file": "vauxhall-southern-alberta-ab.webp",
+    "alt_geo": "Vauxhall, Southern Alberta — flat irrigated potato-farming prairie town north of Taber",
+    "alt_rendered": "{SERVICE_CATEGORY} in Vauxhall, Alberta — Vauxhall, Southern Alberta — flat irrigated potato-farming prairie town north of Taber",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.0683333,
+      "lng": -112.1066667,
+      "place": "Vauxhall, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0132",
+    "file": "bow-island-southeast-alberta-ab.webp",
+    "alt_geo": "Bow Island, Southeast Alberta — a Crowsnest Highway bean-farming town on the dry, sunny irrigated prairie",
+    "alt_rendered": "{SERVICE_CATEGORY} in Bow Island, Alberta — Bow Island, Southeast Alberta — a Crowsnest Highway bean-farming town on the dry, sunny irrigated prairie",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 49.8672222,
+      "lng": -111.3788889,
+      "place": "Bow Island, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0103",
+    "file": "beiseker-calgary-region-ab.webp",
+    "alt_geo": "Beiseker, Calgary Region Alberta — prairie railway village at the junction of Highways 9 and 72 marked by grain elevators",
+    "alt_rendered": "{SERVICE_CATEGORY} in Beiseker, Alberta — Beiseker, Calgary Region Alberta — prairie railway village at the junction of Highways 9 and 72 marked by grain elevators",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 51.385,
+      "lng": -113.536111,
+      "place": "Beiseker, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0114",
+    "file": "bragg-creek-calgary-region-ab.webp",
+    "alt_geo": "Bragg Creek, Calgary Region Alberta — foothills hamlet on the Elbow River at the gateway to Kananaskis Country",
+    "alt_rendered": "{SERVICE_CATEGORY} in Bragg Creek, Alberta — Bragg Creek, Calgary Region Alberta — foothills hamlet on the Elbow River at the gateway to Kananaskis Country",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.9502778,
+      "lng": -114.5697222,
+      "place": "Bragg Creek, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0121",
+    "file": "killam-central-alberta-ab.webp",
+    "alt_geo": "Killam, Central Alberta — a Battle River farm town at the Highway 13 and Highway 36 crossroads",
+    "alt_rendered": "{SERVICE_CATEGORY} in Killam, Alberta — Killam, Central Alberta — a Battle River farm town at the Highway 13 and Highway 36 crossroads",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.7897223,
+      "lng": -111.8552778,
+      "place": "Killam, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0154",
+    "file": "provost-central-alberta-ab.webp",
+    "alt_geo": "Provost, Central Alberta — a border-country farm and oilfield town near the Bodo Archaeological Site",
+    "alt_rendered": "{SERVICE_CATEGORY} in Provost, Alberta — Provost, Central Alberta — a border-country farm and oilfield town near the Bodo Archaeological Site",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 52.3533333,
+      "lng": -110.2647222,
+      "place": "Provost, Alberta"
+    }
+  },
+  {
+    "Location_ID": "AB-0115",
+    "file": "de-winton-calgary-region-ab.webp",
+    "alt_geo": "De Winton, Calgary Region Alberta — country-residential acreage hamlet on rolling farmland south of Calgary",
+    "alt_rendered": "{SERVICE_CATEGORY} in De Winton, Alberta — De Winton, Calgary Region Alberta — country-residential acreage hamlet on rolling farmland south of Calgary",
+    "tier": "flag-fallback",
+    "license": "CC0/Public-Domain (official Alberta flag source) — upgrade to region/real photo when sourced",
+    "exif_geotag": {
+      "lat": 50.8230555,
+      "lng": -114.0186111,
+      "place": "De Winton, Alberta"
     }
   }
 ]
