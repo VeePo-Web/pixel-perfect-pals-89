@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0048",
+ "Location_Name": "Colwood",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Vancouver Island South",
+ "Province": "British Columbia",
+ "Latitude": 48.4236,
+ "Longitude": -123.4963,
+ "FSA": "V9C",
+ "Population_2021_Census": 18961,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 99,
+ "Distance_From_Victoria_KM": 10,
+ "Unified_Score": 65.6,
+ "URL_Slug": "colwood-bc",
+ "existing_Entity_Description": "Colwood is a municipality in Vancouver Island South, British Columbia, Canada, within the Capital. As of the 2021 Canadian Census, Colwood had a population of 18,961. The community is situated in the beautiful southern tip of Vancouver Island, home to BC's capital city. a desirable retirement and lifestyle destination with steady service demand. The region features the mildest climate in Canada — Mediterranean-like with minimal snow.",
+ "existing_Local_Facts": "• Population: 18,961 (2021 Census)\n• Region: Vancouver Island South\n• Regional District: Capital\n• Type: Municipality\n• Climate: the mildest climate in Canada — Mediterranean-like with minimal snow\n• Character: heritage architecture, government sector employment, and island-pace living\n• Distance from Vancouver: ~99 km",
+ "existing_Long_Description": "There's a reason Colwood keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nColwood is a community in Vancouver Island South, British Columbia with a population of 18,961 (2021 Census) From those origins, Colwood has evolved into a community where a desirable retirement and lifestyle destination with steady service demand.\n\nThe Vancouver Island South region is known for heritage architecture, government sector employment, and island-pace living. Colwood's the mildest climate in Canada — Mediterranean-like with minimal snow creates both opportunities and challenges for local service providers. This character defines what Colwood expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Colwood. We know that the landmarks and landscapes of Colwood — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 18,961, Colwood is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Colwood's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Colwood? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Colwood isn't just another dot on the BC map — it's the beautiful southern tip of Vancouver Island, home to BC's capital city. Every property and business here has unique needs, and cookie-cutter {SERVICE} won't cut it. {COMPANY_NAME} provides {SERVICE} tailored specifically for Colwood's market. With a population of approximately 18,961, Colwood is a market worth knowing. Ready to work with a {BUSINESS_TYPE} that knows Colwood? Contact us today.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "The mildest climate in Canada: sub-Mediterranean pattern with dry summers and wet winters; Victoria sits in the Olympic Mountains rain shadow with roughly half Vancouver's rainfall; ocean salt air affects exposed exteriors.",
+  "terrain": "Rocky Salish Sea coastline, Garry oak meadows, and the Saanich Peninsula's farmland; the Malahat ridge separates Greater Victoria from the Cowichan Valley.",
+  "economy": "Provincial government (Victoria is BC's capital), CFB Esquimalt (Pacific naval base), University of Victoria, tourism, marine industries, and tech ('Tectoria').",
+  "building_stock": "Canada's oldest housing stock profile by share of pre-1960 homes: heritage Victorian and Edwardian houses, post-war bungalows in Saanich, condo towers in the core, and acreage properties up the peninsula.",
+  "landmarks": [
+   "BC Legislature",
+   "Inner Harbour",
+   "Butchart Gardens",
+   "Mount Douglas (PKOLS)",
+   "Saanich Peninsula"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Langford",
+   "slug": "langford-bc",
+   "km": 3
+  },
+  {
+   "name": "Metchosin",
+   "slug": "metchosin-bc",
+   "km": 5
+  },
+  {
+   "name": "View Royal",
+   "slug": "view-royal-bc",
+   "km": 6
+  },
+  {
+   "name": "Esquimalt",
+   "slug": "esquimalt-bc",
+   "km": 7
+  },
+  {
+   "name": "Highlands",
+   "slug": "highlands-bc",
+   "km": 7
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Capital Regional District",
+  "slug": "capital-regional-district-bc"
+ }
+}

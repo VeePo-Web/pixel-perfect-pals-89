@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0355",
+ "Location_Name": "Texada Island",
+ "Location_Type": "Unincorporated Community",
+ "Parent_Municipality": null,
+ "Parent_Region": "Gulf Islands & Sunshine Coast",
+ "Province": "British Columbia",
+ "Latitude": 49.6833,
+ "Longitude": -124.4167,
+ "FSA": "V0N",
+ "Population_2021_Census": 1100,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 104,
+ "Distance_From_Victoria_KM": 159,
+ "Unified_Score": 52,
+ "URL_Slug": "texada-island-bc",
+ "existing_Entity_Description": "Texada Island is a unincorporated community in Gulf Islands & Sunshine Coast, British Columbia, Canada, within the qathet. As of the 2021 Canadian Census, Texada Island had a population of 1,100. The community is situated in idyllic island and coastal communities accessible only by ferry or boat. ferry-dependent communities with strong local loyalty and seasonal tourism. The region features mild Mediterranean-like microclimate — the warmest in Canada.",
+ "existing_Local_Facts": "• Population: 1,100 (2021 Census)\n• Region: Gulf Islands & Sunshine Coast\n• Regional District: qathet\n• Type: Unincorporated Community\n• Climate: mild Mediterranean-like microclimate — the warmest in Canada\n• Character: artists, retirees, and nature lovers drawn to island tranquility\n• Distance from Vancouver: ~104 km",
+ "existing_Long_Description": "There's a reason Texada Island keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nTexada Island is an unincorporated community in Gulf Islands & Sunshine Coast, BC with a population of 1,100 (2021 Census) From those origins, Texada Island has evolved into a community where ferry-dependent communities with strong local loyalty and seasonal tourism.\n\nThe Gulf Islands & Sunshine Coast region is known for artists, retirees, and nature lovers drawn to island tranquility. Texada Island's mild Mediterranean-like microclimate — the warmest in Canada creates both opportunities and challenges for local service providers. This character defines what Texada Island expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Texada Island. We know that the landmarks and landscapes of Texada Island — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 1,100, Texada Island is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Texada Island's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Texada Island? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Every community has a story, and Texada Island's is worth knowing. Texada Island is an unincorporated community in Gulf Islands & Sunshine Coast, BC with a population of 1,100 (2021 Census). Today, ferry-dependent communities with strong local loyalty and seasonal tourism. For {SERVICE}, that means working with a provider who understands the area's unique characteristics. {COMPANY_NAME} is that provider. With a population of approximately 1,100, Texada Island is a market worth knowing. Let's get started — call {PHONE}.",
+ "Notes": "Largest Gulf Island by area",
+ "REGION_BUNDLE": {
+  "climate": "Rain-shadow mildness on the southern Gulf Islands (among Canada's sunniest coastal spots); the Sunshine Coast lives up to its name with drier summers than Vancouver but still wet winters; everything is marine-exposed.",
+  "terrain": "An archipelago of forested islands in the Salish Sea and a mainland coast strip (the Sunshine Coast) reachable only by ferry or air despite being on the mainland; rocky shorelines, ferry-dependent logistics.",
+  "economy": "Tourism, arts communities, retirees, small-scale agriculture and aquaculture; ferry schedules shape all commerce; Salt Spring Island's Saturday Market and Powell River's converted mill economy are regional anchors.",
+  "building_stock": "Cottages and character homes, high-value waterfront properties, off-grid and rural systems (wells, septic), and older housing needing marine-climate upkeep; island logistics raise every project's complexity.",
+  "landmarks": [
+   "Salt Spring Island",
+   "Active Pass",
+   "Skookumchuck Narrows",
+   "Texada Island",
+   "BC Ferries routes"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Powell River",
+   "slug": "powell-river-bc",
+   "km": 19
+  },
+  {
+   "name": "qathet Regional District",
+   "slug": "qathet-regional-district-bc",
+   "km": 19
+  },
+  {
+   "name": "Hornby Island",
+   "slug": "hornby-island-bc",
+   "km": 25
+  },
+  {
+   "name": "Madeira Park",
+   "slug": "madeira-park-bc",
+   "km": 29
+  },
+  {
+   "name": "Denman Island",
+   "slug": "denman-island-bc",
+   "km": 33
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Sunshine Coast Regional District",
+  "slug": "sunshine-coast-regional-district-bc"
+ }
+}

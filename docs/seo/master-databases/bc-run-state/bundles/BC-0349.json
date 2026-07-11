@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0349",
+ "Location_Name": "Hornby Island",
+ "Location_Type": "Unincorporated Community",
+ "Parent_Municipality": null,
+ "Parent_Region": "Vancouver Island Central & North",
+ "Province": "British Columbia",
+ "Latitude": 49.5356,
+ "Longitude": -124.6743,
+ "FSA": null,
+ "Population_2021_Census": 1100,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 116,
+ "Distance_From_Victoria_KM": 156,
+ "Unified_Score": 51.7,
+ "URL_Slug": "hornby-island-bc",
+ "existing_Entity_Description": "Hornby Island is a unincorporated community in Vancouver Island Central & North, British Columbia, Canada, within the Comox Valley. As of the 2021 Canadian Census, Hornby Island had a population of 1,100. The community is situated in a stunning mix of coastal communities, old-growth forests, and rugged Pacific sh. a growing tourism economy with seasonal peaks in summer. The region features mild coastal climate tempered by the Pacific with abundant rainfall.",
+ "existing_Local_Facts": "• Population: 1,100 (2021 Census)\n• Region: Vancouver Island Central & North\n• Regional District: Comox Valley\n• Type: Unincorporated Community\n• Climate: mild coastal climate tempered by the Pacific with abundant rainfall\n• Character: outdoor recreation paradise — surfing, fishing, hiking, and wildlife viewing",
+ "existing_Long_Description": "Hornby Island isn't just another location on a map — it's a community with a story that shapes everything, including the {SERVICE} it needs.\n\nHornby Island is an unincorporated community in Vancouver Island Central & North, BC with a population of 1,100 (2021 Census) Today, with With a population of approximately 1,100, Hornby Island is a market worth knowing., Hornby Island stands as a vital community on Vancouver Island.\n\na growing tourism economy with seasonal peaks in summer. This economic base creates specific demands for {SERVICE} — demands that only a knowledgeable local {BUSINESS_TYPE} can meet.\n\nThe Vancouver Island Central & North region is known for outdoor recreation paradise — surfing, fishing, hiking, and wildlife viewing. Hornby Island's mild coastal climate tempered by the Pacific with abundant rainfall creates both opportunities and challenges for local service providers\n\nWhen you choose {COMPANY_NAME} for {SERVICE} in Hornby Island, you're choosing a team that understands this community. We know the landmarks and landscapes of Hornby Island — and we know the neighborhoods, the terrain, and the people who live here.\n\nOur commitment to Hornby Island goes beyond transactions. We deliver {SERVICE} that reflects the standards this community expects — on time, on budget, and done right.\n\nWhether you're in Hornby Island's core or surrounding areas, {COMPANY_NAME} has you covered. Contact us at {PHONE} or visit {CTA_URL} to get started.",
+ "existing_Short_Description": "Hornby Island deserves a {BUSINESS_TYPE} that shows up, delivers, and stands behind their work. a growing tourism economy with seasonal peaks in summer. {COMPANY_NAME} provides {SERVICE} with the professionalism and attention to detail that Hornby Island expects. With a population of approximately 1,100, Hornby Island is a market worth knowing. Request your free quote today at {CTA_URL}.",
+ "Notes": "Gulf island",
+ "REGION_BUNDLE": {
+  "climate": "Wet coastal temperate rainforest climate, wetter and windier moving north and to the outer coast; Tofino/Ucluelet face open-Pacific storms (storm-watching season); inland east-coast communities like the Comox Valley are drier and sunnier.",
+  "terrain": "The Vancouver Island Ranges spine, old-growth rainforest, long fjords and inlets, and the sheltered east-coast plain along the Strait of Georgia where most communities sit.",
+  "economy": "Forestry heritage transitioning to aquaculture, tourism, retirees and remote work; Nanaimo is the island's transport hub (two ferry terminals to the mainland); Comox hosts CFB Comox; Port Alberni, Campbell River and Port Hardy anchor resource industries.",
+  "building_stock": "Post-war mill-town houses, 1970s-90s ranchers, waterfront and view homes, and fast-growing retirement-driven subdivisions in Nanaimo, Parksville-Qualicum and the Comox Valley.",
+  "landmarks": [
+   "Strait of Georgia",
+   "Pacific Rim National Park Reserve",
+   "Mount Washington",
+   "Alberni Inlet",
+   "Departure Bay"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Denman Island",
+   "slug": "denman-island-bc",
+   "km": 10
+  },
+  {
+   "name": "Comox",
+   "slug": "comox-bc",
+   "km": 22
+  },
+  {
+   "name": "Royston",
+   "slug": "royston-bc",
+   "km": 23
+  },
+  {
+   "name": "Texada Island",
+   "slug": "texada-island-bc",
+   "km": 25
+  },
+  {
+   "name": "Qualicum Beach",
+   "slug": "qualicum-beach-bc",
+   "km": 27
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Nanaimo Regional District",
+  "slug": "nanaimo-regional-district-bc"
+ }
+}

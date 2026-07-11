@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0091",
+ "Location_Name": "Bowen Island",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Metro Vancouver",
+ "Province": "British Columbia",
+ "Latitude": 49.3837,
+ "Longitude": -123.3362,
+ "FSA": "V0N",
+ "Population_2021_Census": 4256,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 19,
+ "Distance_From_Victoria_KM": 106,
+ "Unified_Score": 59.3,
+ "URL_Slug": "bowen-island-bc",
+ "existing_Entity_Description": "Bowen Island is a municipality in Metro Vancouver, British Columbia, Canada, within the Metro Vancouver. As of the 2021 Canadian Census, Bowen Island had a population of 4,256. The community is situated in a vibrant, world-class metropolitan area where mountains meet the Pacific Ocean. one of Canada's most competitive markets with premium real estate values. The region features mild coastal climate with rainy winters and warm, dry summers.",
+ "existing_Local_Facts": "• Population: 4,256 (2021 Census)\n• Region: Metro Vancouver\n• Regional District: Metro Vancouver\n• Type: Municipality\n• Climate: mild coastal climate with rainy winters and warm, dry summers\n• Character: urban sophistication, cultural diversity, and unmatched access to nature\n• Distance from Vancouver: ~19 km",
+ "existing_Long_Description": "There's a reason Bowen Island keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nBowen Island is a community in Metro Vancouver, British Columbia with a population of 4,256 (2021 Census) From those origins, Bowen Island has evolved into a community where one of Canada's most competitive markets with premium real estate values.\n\nThe Metro Vancouver region is known for urban sophistication, cultural diversity, and unmatched access to nature. Bowen Island's mild coastal climate with rainy winters and warm, dry summers creates both opportunities and challenges for local service providers. This character defines what Bowen Island expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Bowen Island. We know that the landmarks and landscapes of Bowen Island — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 4,256, Bowen Island is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Bowen Island's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Bowen Island? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "What makes Bowen Island different from every other BC community? a vibrant, world-class metropolitan area where mountains meet the Pacific Ocean. That uniqueness demands a {BUSINESS_TYPE} that pays attention. {COMPANY_NAME} delivers {SERVICE} customized for Bowen Island's market — not generic solutions. With a population of approximately 4,256, Bowen Island is a market worth knowing. Experience the difference — call {PHONE}.",
+ "Notes": "Only island municipality in BC",
+ "REGION_BUNDLE": {
+  "climate": "Mild oceanic coastal climate: wet, mild winters (rain far more often than snow at sea level), warm dry summers; heavy November-March rainfall drives moisture, drainage and moss/algae issues on building exteriors; freeze-thaw is rare at sea level but real on the North Shore slopes.",
+  "terrain": "Delta and floodplain of the Fraser River meeting the Coast Mountains and the Salish Sea; North Shore municipalities climb steep forested mountain slopes; Richmond and Delta sit on low-lying river delta soils.",
+  "economy": "Canada's third-largest metropolitan economy: Port of Vancouver (Canada's largest port), film/TV production, tech, finance, construction and real estate; major institutions include UBC, SFU, Vancouver International Airport (YVR) in Richmond.",
+  "building_stock": "The widest mix in BC: pre-war character homes and Vancouver Specials, leaky-condo-era mid-rises now rehabilitated, glass high-rise towers, and large new master-planned suburbs (Surrey, Langley); strata-governed multi-family housing is a defining feature.",
+  "landmarks": [
+   "Stanley Park",
+   "Lions Gate Bridge",
+   "Grouse Mountain",
+   "Fraser River",
+   "Burrard Inlet"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Lions Bay",
+   "slug": "lions-bay-bc",
+   "km": 11
+  },
+  {
+   "name": "Gibsons",
+   "slug": "gibsons-bc",
+   "km": 12
+  },
+  {
+   "name": "West Vancouver",
+   "slug": "west-vancouver-bc",
+   "km": 14
+  },
+  {
+   "name": "University Endowment Lands",
+   "slug": "university-endowment-lands-bc",
+   "km": 15
+  },
+  {
+   "name": "Vancouver",
+   "slug": "vancouver-bc",
+   "km": 19
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Metro Vancouver Regional District",
+  "slug": "metro-vancouver-regional-district-bc"
+ }
+}

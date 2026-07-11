@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0133",
+ "Location_Name": "Cariboo Regional District",
+ "Location_Type": "Regional District",
+ "Parent_Municipality": null,
+ "Parent_Region": "Thompson-Nicola & Cariboo",
+ "Province": "British Columbia",
+ "Latitude": 52,
+ "Longitude": -122,
+ "FSA": null,
+ "Population_2021_Census": 63000,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 312,
+ "Distance_From_Victoria_KM": 409,
+ "Unified_Score": 63,
+ "URL_Slug": "cariboo-regional-district-bc",
+ "existing_Entity_Description": "Cariboo Regional District is a regional district in Thompson-Nicola & Cariboo, British Columbia, Canada, within the Cariboo. As of the 2021 Canadian Census, Cariboo Regional District had a population of 63,000. The community is situated in BC's rugged interior — ranching country, cowboy culture, and wide-open landscape. a resource-based economy with steady local service demand. The region features hot, arid summers and cold winters with dramatic seasonal shifts.",
+ "existing_Local_Facts": "• Population: 63,000 (2021 Census)\n• Region: Thompson-Nicola & Cariboo\n• Regional District: Cariboo\n• Type: Regional District\n• Climate: hot, arid summers and cold winters with dramatic seasonal shifts\n• Character: ranching heritage, outdoor recreation, and small-town community values\n• Distance from Vancouver: ~312 km",
+ "existing_Long_Description": "There's a reason Cariboo Regional District keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nThe Cariboo Regional District serves as the regional governance body for Thompson-Nicola & Cariboo with a population of 63,000 (2021 Census) From those origins, Cariboo Regional District has evolved into a community where a resource-based economy with steady local service demand.\n\nThe Thompson-Nicola & Cariboo region is known for ranching heritage, outdoor recreation, and small-town community values. Cariboo Regional District's hot, arid summers and cold winters with dramatic seasonal shifts creates both opportunities and challenges for local service providers. This character defines what Cariboo Regional District expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Cariboo Regional District. We know that the landmarks and landscapes of Cariboo Regional District — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 63,000, Cariboo Regional District is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Cariboo Regional District's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Cariboo Regional District? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "What makes Cariboo Regional District different from every other BC community? BC's rugged interior — ranching country, cowboy culture, and wide-open landscapes. That uniqueness demands a {BUSINESS_TYPE} that pays attention. {COMPANY_NAME} delivers {SERVICE} customized for Cariboo Regional District's market — not generic solutions. With a population of approximately 63,000, Cariboo Regional District is a market worth knowing. Experience the difference — call {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Dry interior continental climate: hot summers (Kamloops and Lytton record some of Canada's highest temperatures), cold winters, low precipitation; grassland wildfire risk and freeze-thaw cycles define exterior maintenance.",
+  "terrain": "Sagebrush grasslands and hoodoos where the North and South Thompson rivers meet at Kamloops, rising to the Cariboo Plateau's ranchland and lakes country further north.",
+  "economy": "Ranching country (the historic Cariboo Gold Rush trail), mining (Highland Valley Copper near Logan Lake is Canada's largest copper mine), forestry, and transport — Kamloops sits at the junction of the Trans-Canada and Yellowhead highways with Thompson Rivers University.",
+  "building_stock": "Ranch houses and acreages, post-war grid neighbourhoods in Kamloops and Williams Lake, lakefront cabins, and manufactured homes in rural areas.",
+  "landmarks": [
+   "Thompson River confluence",
+   "Kamloops Lake",
+   "Cariboo Highway 97",
+   "Wells Gray Provincial Park",
+   "Highland Valley"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Williams Lake",
+   "slug": "williams-lake-bc",
+   "km": 18
+  },
+  {
+   "name": "Quesnel",
+   "slug": "quesnel-bc",
+   "km": 114
+  },
+  {
+   "name": "Lillooet",
+   "slug": "lillooet-bc",
+   "km": 146
+  },
+  {
+   "name": "Ashcroft",
+   "slug": "ashcroft-bc",
+   "km": 150
+  },
+  {
+   "name": "Thompson-Nicola Regional District",
+   "slug": "thompson-nicola-regional-district-bc",
+   "km": 152
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Thompson-Nicola Regional District",
+  "slug": "thompson-nicola-regional-district-bc"
+ }
+}

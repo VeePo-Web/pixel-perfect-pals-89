@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0095",
+ "Location_Name": "Ladysmith",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Vancouver Island Central & North",
+ "Province": "British Columbia",
+ "Latitude": 48.9975,
+ "Longitude": -123.8183,
+ "FSA": "V9G",
+ "Population_2021_Census": 8990,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 60,
+ "Distance_From_Victoria_KM": 71,
+ "Unified_Score": 62.6,
+ "URL_Slug": "ladysmith-bc",
+ "existing_Entity_Description": "Ladysmith is a municipality in Vancouver Island Central & North, British Columbia, Canada, within the Cowichan Valley. As of the 2021 Canadian Census, Ladysmith had a population of 8,990. The community is situated in a stunning mix of coastal communities, old-growth forests, and rugged Pacific sh. a growing tourism economy with seasonal peaks in summer. The region features mild coastal climate tempered by the Pacific with abundant rainfall.",
+ "existing_Local_Facts": "• Population: 8,990 (2021 Census)\n• Region: Vancouver Island Central & North\n• Regional District: Cowichan Valley\n• Type: Municipality\n• Climate: mild coastal climate tempered by the Pacific with abundant rainfall\n• Character: outdoor recreation paradise — surfing, fishing, hiking, and wildlife viewing\n• Distance from Vancouver: ~60 km",
+ "existing_Long_Description": "Ladysmith isn't just another location on a map — it's a community with a story that shapes everything, including the {SERVICE} it needs.\n\nLadysmith is a community in Vancouver Island Central & North, British Columbia with a population of 8,990 (2021 Census) Today, with With a population of approximately 8,990, Ladysmith is a market worth knowing., Ladysmith stands as a vital community on Vancouver Island.\n\na growing tourism economy with seasonal peaks in summer. This economic base creates specific demands for {SERVICE} — demands that only a knowledgeable local {BUSINESS_TYPE} can meet.\n\nThe Vancouver Island Central & North region is known for outdoor recreation paradise — surfing, fishing, hiking, and wildlife viewing. Ladysmith's mild coastal climate tempered by the Pacific with abundant rainfall creates both opportunities and challenges for local service providers\n\nWhen you choose {COMPANY_NAME} for {SERVICE} in Ladysmith, you're choosing a team that understands this community. We know the landmarks and landscapes of Ladysmith — and we know the neighborhoods, the terrain, and the people who live here.\n\nOur commitment to Ladysmith goes beyond transactions. We deliver {SERVICE} that reflects the standards this community expects — on time, on budget, and done right.\n\nWhether you're in Ladysmith's core or surrounding areas, {COMPANY_NAME} has you covered. Contact us at {PHONE} or visit {CTA_URL} to get started.",
+ "existing_Short_Description": "Here's the truth about Ladysmith that most {SERVICE} providers won't tell you: a stunning mix of coastal communities, old-growth forests, and rugged Pacific shoreline. That means your {SERVICE} provider needs to understand this market inside and out. {COMPANY_NAME} doesn't just serve Ladysmith — we've built our reputation here. With a population of approximately 8,990, Ladysmith is a market worth knowing. When you're ready for {SERVICE} that actually delivers, call {COMPANY_NAME} at {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Wet coastal temperate rainforest climate, wetter and windier moving north and to the outer coast; Tofino/Ucluelet face open-Pacific storms (storm-watching season); inland east-coast communities like the Comox Valley are drier and sunnier.",
+  "terrain": "The Vancouver Island Ranges spine, old-growth rainforest, long fjords and inlets, and the sheltered east-coast plain along the Strait of Georgia where most communities sit.",
+  "economy": "Forestry heritage transitioning to aquaculture, tourism, retirees and remote work; Nanaimo is the island's transport hub (two ferry terminals to the mainland); Comox hosts CFB Comox; Port Alberni, Campbell River and Port Hardy anchor resource industries.",
+  "building_stock": "Post-war mill-town houses, 1970s-90s ranchers, waterfront and view homes, and fast-growing retirement-driven subdivisions in Nanaimo, Parksville-Qualicum and the Comox Valley.",
+  "landmarks": [
+   "Strait of Georgia",
+   "Pacific Rim National Park Reserve",
+   "Mount Washington",
+   "Alberni Inlet",
+   "Departure Bay"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Saltair",
+   "slug": "saltair-bc",
+   "km": 6
+  },
+  {
+   "name": "Cassidy",
+   "slug": "cassidy-bc",
+   "km": 8
+  },
+  {
+   "name": "Chemainus",
+   "slug": "chemainus-bc",
+   "km": 12
+  },
+  {
+   "name": "Cedar",
+   "slug": "cedar-bc",
+   "km": 13
+  },
+  {
+   "name": "Gabriola Island",
+   "slug": "gabriola-island-bc",
+   "km": 19
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Nanaimo Regional District",
+  "slug": "nanaimo-regional-district-bc"
+ }
+}

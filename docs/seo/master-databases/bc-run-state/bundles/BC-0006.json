@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0006",
+ "Location_Name": "Richmond",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Metro Vancouver",
+ "Province": "British Columbia",
+ "Latitude": 49.1666,
+ "Longitude": -123.1336,
+ "FSA": "V6X",
+ "Population_2021_Census": 209937,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 13,
+ "Distance_From_Victoria_KM": 84,
+ "Unified_Score": 72.4,
+ "URL_Slug": "richmond-bc",
+ "existing_Entity_Description": "Richmond is a municipality in Metro Vancouver, British Columbia, Canada, within the Metro Vancouver. As of the 2021 Canadian Census, Richmond had a population of 209,937. The community is situated in a vibrant, world-class metropolitan area where mountains meet the Pacific Ocean. one of Canada's most competitive markets with premium real estate values. The region features mild coastal climate with rainy winters and warm, dry summers.",
+ "existing_Local_Facts": "• Population: 209,937 (2021 Census)\n• Region: Metro Vancouver\n• Regional District: Metro Vancouver\n• Type: Municipality\n• Climate: mild coastal climate with rainy winters and warm, dry summers\n• Character: urban sophistication, cultural diversity, and unmatched access to nature\n• Distance from Vancouver: ~13 km",
+ "existing_Long_Description": "There's a reason Richmond keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nRichmond is a community in Metro Vancouver, British Columbia with a population of 209,937 (2021 Census) From those origins, Richmond has evolved into a community where one of Canada's most competitive markets with premium real estate values.\n\nThe Metro Vancouver region is known for urban sophistication, cultural diversity, and unmatched access to nature. Richmond's mild coastal climate with rainy winters and warm, dry summers creates both opportunities and challenges for local service providers. This character defines what Richmond expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Richmond. We know that the landmarks and landscapes of Richmond — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 209,937, Richmond is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Richmond's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Richmond? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Most {BUSINESS_TYPE} companies treat Richmond like any other BC community. That's a mistake. Richmond is a community in Metro Vancouver, British Columbia with a population of 209,937 (2021 Census). This community has character, and your {SERVICE} provider should respect that. {COMPANY_NAME} brings local expertise and proven results to every Richmond project. With a population of approximately 209,937, Richmond is a market worth knowing. Call {PHONE} for a consultation.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Mild oceanic coastal climate: wet, mild winters (rain far more often than snow at sea level), warm dry summers; heavy November-March rainfall drives moisture, drainage and moss/algae issues on building exteriors; freeze-thaw is rare at sea level but real on the North Shore slopes.",
+  "terrain": "Delta and floodplain of the Fraser River meeting the Coast Mountains and the Salish Sea; North Shore municipalities climb steep forested mountain slopes; Richmond and Delta sit on low-lying river delta soils.",
+  "economy": "Canada's third-largest metropolitan economy: Port of Vancouver (Canada's largest port), film/TV production, tech, finance, construction and real estate; major institutions include UBC, SFU, Vancouver International Airport (YVR) in Richmond.",
+  "building_stock": "The widest mix in BC: pre-war character homes and Vancouver Specials, leaky-condo-era mid-rises now rehabilitated, glass high-rise towers, and large new master-planned suburbs (Surrey, Langley); strata-governed multi-family housing is a defining feature.",
+  "landmarks": [
+   "Stanley Park",
+   "Lions Gate Bridge",
+   "Grouse Mountain",
+   "Fraser River",
+   "Burrard Inlet"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Musqueam (xʷməθkʷəy̓əm)",
+   "slug": "musqueam-xwm-thkw-y-m-bc",
+   "km": 8
+  },
+  {
+   "name": "Quilchena",
+   "slug": "quilchena-bc",
+   "km": 9
+  },
+  {
+   "name": "South Granville",
+   "slug": "south-granville-bc",
+   "km": 10
+  },
+  {
+   "name": "Delta",
+   "slug": "delta-bc",
+   "km": 11
+  },
+  {
+   "name": "Maywood",
+   "slug": "maywood-bc",
+   "km": 11
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Metro Vancouver Regional District",
+  "slug": "metro-vancouver-regional-district-bc"
+ }
+}

@@ -1,0 +1,1135 @@
+[
+ {
+  "region": "Metro Vancouver",
+  "url": "/areas/region/metro-vancouver",
+  "bundle": {
+   "climate": "Mild oceanic coastal climate: wet, mild winters (rain far more often than snow at sea level), warm dry summers; heavy November-March rainfall drives moisture, drainage and moss/algae issues on building exteriors; freeze-thaw is rare at sea level but real on the North Shore slopes.",
+   "terrain": "Delta and floodplain of the Fraser River meeting the Coast Mountains and the Salish Sea; North Shore municipalities climb steep forested mountain slopes; Richmond and Delta sit on low-lying river delta soils.",
+   "economy": "Canada's third-largest metropolitan economy: Port of Vancouver (Canada's largest port), film/TV production, tech, finance, construction and real estate; major institutions include UBC, SFU, Vancouver International Airport (YVR) in Richmond.",
+   "building_stock": "The widest mix in BC: pre-war character homes and Vancouver Specials, leaky-condo-era mid-rises now rehabilitated, glass high-rise towers, and large new master-planned suburbs (Surrey, Langley); strata-governed multi-family housing is a defining feature.",
+   "landmarks": [
+    "Stanley Park",
+    "Lions Gate Bridge",
+    "Grouse Mountain",
+    "Fraser River",
+    "Burrard Inlet"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Metro Vancouver Regional District",
+    "url": "/areas/metro-vancouver-regional-district-bc",
+    "score": 80.6
+   },
+   {
+    "name": "Vancouver",
+    "url": "/areas/vancouver-bc",
+    "score": 75.1
+   },
+   {
+    "name": "Surrey",
+    "url": "/areas/surrey-bc",
+    "score": 74.1
+   },
+   {
+    "name": "Burnaby",
+    "url": "/areas/burnaby-bc",
+    "score": 72.8
+   },
+   {
+    "name": "Richmond",
+    "url": "/areas/richmond-bc",
+    "score": 72.4
+   },
+   {
+    "name": "Coquitlam",
+    "url": "/areas/coquitlam-bc",
+    "score": 71.4
+   },
+   {
+    "name": "Delta",
+    "url": "/areas/delta-bc",
+    "score": 70.8
+   },
+   {
+    "name": "Langley (Township)",
+    "url": "/areas/langley-township-bc",
+    "score": 70.7
+   },
+   {
+    "name": "North Vancouver (District)",
+    "url": "/areas/north-vancouver-district-bc",
+    "score": 69.8
+   },
+   {
+    "name": "New Westminster",
+    "url": "/areas/new-westminster-bc",
+    "score": 69.3
+   },
+   {
+    "name": "North Vancouver (City)",
+    "url": "/areas/north-vancouver-city-bc",
+    "score": 69
+   },
+   {
+    "name": "Maple Ridge",
+    "url": "/areas/maple-ridge-bc",
+    "score": 68.9
+   },
+   {
+    "name": "West Vancouver",
+    "url": "/areas/west-vancouver-bc",
+    "score": 68.5
+   },
+   {
+    "name": "Port Coquitlam",
+    "url": "/areas/port-coquitlam-bc",
+    "score": 68.5
+   },
+   {
+    "name": "Port Moody",
+    "url": "/areas/port-moody-bc",
+    "score": 67.5
+   },
+   {
+    "name": "Langley (City)",
+    "url": "/areas/langley-city-bc",
+    "score": 66.4
+   },
+   {
+    "name": "White Rock",
+    "url": "/areas/white-rock-bc",
+    "score": 66.1
+   },
+   {
+    "name": "Strawberry Hill",
+    "url": "/areas/strawberry-hill-bc",
+    "score": 65.7
+   },
+   {
+    "name": "South Granville",
+    "url": "/areas/south-granville-bc",
+    "score": 65.4
+   },
+   {
+    "name": "Pitt Meadows",
+    "url": "/areas/pitt-meadows-bc",
+    "score": 65
+   },
+   {
+    "name": "Renfrew Heights",
+    "url": "/areas/renfrew-heights-bc",
+    "score": 64.9
+   },
+   {
+    "name": "Fraser Heights",
+    "url": "/areas/fraser-heights-bc",
+    "score": 64.7
+   },
+   {
+    "name": "Downtown Eastside",
+    "url": "/areas/downtown-eastside-bc",
+    "score": 63.8
+   },
+   {
+    "name": "Maywood",
+    "url": "/areas/maywood-bc",
+    "score": 63.7
+   },
+   {
+    "name": "Davie Village",
+    "url": "/areas/davie-village-bc",
+    "score": 63.2
+   },
+   {
+    "name": "Willingdon Heights",
+    "url": "/areas/willingdon-heights-bc",
+    "score": 62.8
+   },
+   {
+    "name": "South Slope",
+    "url": "/areas/south-slope-bc",
+    "score": 62.8
+   },
+   {
+    "name": "Olympic Village",
+    "url": "/areas/olympic-village-bc",
+    "score": 62.4
+   },
+   {
+    "name": "Burnaby Heights",
+    "url": "/areas/burnaby-heights-bc",
+    "score": 62
+   },
+   {
+    "name": "Quilchena",
+    "url": "/areas/quilchena-bc",
+    "score": 61.3
+   },
+   {
+    "name": "UniverCity (SFU)",
+    "url": "/areas/univercity-sfu-bc",
+    "score": 60.7
+   },
+   {
+    "name": "Bridgeview",
+    "url": "/areas/bridgeview-bc",
+    "score": 60.6
+   },
+   {
+    "name": "Bowen Island",
+    "url": "/areas/bowen-island-bc",
+    "score": 59.3
+   },
+   {
+    "name": "Anmore",
+    "url": "/areas/anmore-bc",
+    "score": 58.5
+   },
+   {
+    "name": "Lions Bay",
+    "url": "/areas/lions-bay-bc",
+    "score": 57.2
+   },
+   {
+    "name": "University Endowment Lands",
+    "url": "/areas/university-endowment-lands-bc",
+    "score": 56.9
+   },
+   {
+    "name": "Musqueam (xʷməθkʷəy̓əm)",
+    "url": "/areas/musqueam-xwm-thkw-y-m-bc",
+    "score": 56.6
+   },
+   {
+    "name": "Government Road",
+    "url": "/areas/government-road-bc",
+    "score": 56.3
+   },
+   {
+    "name": "Tsawwassen First Nation",
+    "url": "/areas/tsawwassen-first-nation-bc",
+    "score": 55.9
+   },
+   {
+    "name": "Tsawwassen First Nation",
+    "url": "/areas/tsawwassen-first-nation-metro-bc",
+    "score": 55.9
+   },
+   {
+    "name": "Tsleil-Waututh Nation",
+    "url": "/areas/tsleil-waututh-nation-bc",
+    "score": 55.9
+   },
+   {
+    "name": "Crescent Beach",
+    "url": "/areas/crescent-beach-bc",
+    "score": 54.4
+   },
+   {
+    "name": "Belcarra",
+    "url": "/areas/belcarra-bc",
+    "score": 53.7
+   }
+  ]
+ },
+ {
+  "region": "Vancouver Island South",
+  "url": "/areas/region/vancouver-island-south",
+  "bundle": {
+   "climate": "The mildest climate in Canada: sub-Mediterranean pattern with dry summers and wet winters; Victoria sits in the Olympic Mountains rain shadow with roughly half Vancouver's rainfall; ocean salt air affects exposed exteriors.",
+   "terrain": "Rocky Salish Sea coastline, Garry oak meadows, and the Saanich Peninsula's farmland; the Malahat ridge separates Greater Victoria from the Cowichan Valley.",
+   "economy": "Provincial government (Victoria is BC's capital), CFB Esquimalt (Pacific naval base), University of Victoria, tourism, marine industries, and tech ('Tectoria').",
+   "building_stock": "Canada's oldest housing stock profile by share of pre-1960 homes: heritage Victorian and Edwardian houses, post-war bungalows in Saanich, condo towers in the core, and acreage properties up the peninsula.",
+   "landmarks": [
+    "BC Legislature",
+    "Inner Harbour",
+    "Butchart Gardens",
+    "Mount Douglas (PKOLS)",
+    "Saanich Peninsula"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Capital Regional District",
+    "url": "/areas/capital-regional-district-bc",
+    "score": 76.8
+   },
+   {
+    "name": "Saanich",
+    "url": "/areas/saanich-bc",
+    "score": 71.4
+   },
+   {
+    "name": "Victoria",
+    "url": "/areas/victoria-bc",
+    "score": 70.1
+   },
+   {
+    "name": "Langford",
+    "url": "/areas/langford-bc",
+    "score": 68.4
+   },
+   {
+    "name": "Oak Bay",
+    "url": "/areas/oak-bay-bc",
+    "score": 65.7
+   },
+   {
+    "name": "Esquimalt",
+    "url": "/areas/esquimalt-bc",
+    "score": 65.7
+   },
+   {
+    "name": "Colwood",
+    "url": "/areas/colwood-bc",
+    "score": 65.6
+   },
+   {
+    "name": "Central Saanich",
+    "url": "/areas/central-saanich-bc",
+    "score": 65.4
+   },
+   {
+    "name": "Gordon Head",
+    "url": "/areas/gordon-head-bc",
+    "score": 64.8
+   },
+   {
+    "name": "View Royal",
+    "url": "/areas/view-royal-bc",
+    "score": 64.7
+   },
+   {
+    "name": "Sooke",
+    "url": "/areas/sooke-bc",
+    "score": 64.6
+   },
+   {
+    "name": "North Saanich",
+    "url": "/areas/north-saanich-bc",
+    "score": 64.4
+   },
+   {
+    "name": "Sidney",
+    "url": "/areas/sidney-bc",
+    "score": 64.3
+   },
+   {
+    "name": "Metchosin",
+    "url": "/areas/metchosin-bc",
+    "score": 62.9
+   },
+   {
+    "name": "Vic West",
+    "url": "/areas/vic-west-bc",
+    "score": 62.2
+   },
+   {
+    "name": "Cordova Bay",
+    "url": "/areas/cordova-bay-bc",
+    "score": 61.9
+   },
+   {
+    "name": "Highlands",
+    "url": "/areas/highlands-bc",
+    "score": 58.4
+   },
+   {
+    "name": "Brentwood Bay",
+    "url": "/areas/brentwood-bay-bc",
+    "score": 57
+   }
+  ]
+ },
+ {
+  "region": "Fraser Valley",
+  "url": "/areas/region/fraser-valley",
+  "bundle": {
+   "climate": "Coastal climate with more temperature range than Metro Vancouver: heavier winter rain, occasional outflow freezes and snow events, hot summers; the November 2021 atmospheric-river flooding of the Sumas Prairie made valley drainage a household topic.",
+   "terrain": "Broad, fertile Fraser River floodplain framed by the Cascade and Coast mountains; Sumas Prairie reclaimed lakebed; steep slopes above Chilliwack and Hope.",
+   "economy": "BC's agricultural heartland: dairy, berries (Abbotsford calls itself the Raspberry Capital of Canada), poultry; plus aerospace at Abbotsford International Airport, manufacturing, and rapid residential growth along Highway 1.",
+   "building_stock": "Farmhouses and rural acreages, big post-2000 suburban subdivisions in Abbotsford and Chilliwack, and new multi-family districts around urban centres; many properties on well and septic outside city cores.",
+   "landmarks": [
+    "Fraser River",
+    "Sumas Prairie",
+    "Cultus Lake",
+    "Mount Cheam",
+    "Abbotsford International Airport"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Fraser Valley Regional District",
+    "url": "/areas/fraser-valley-regional-district-bc",
+    "score": 74.2
+   },
+   {
+    "name": "Abbotsford",
+    "url": "/areas/abbotsford-bc",
+    "score": 70.2
+   },
+   {
+    "name": "Chilliwack",
+    "url": "/areas/chilliwack-bc",
+    "score": 67.5
+   },
+   {
+    "name": "Mission",
+    "url": "/areas/mission-bc",
+    "score": 66.7
+   },
+   {
+    "name": "Sardis",
+    "url": "/areas/sardis-bc",
+    "score": 62.4
+   },
+   {
+    "name": "Kent",
+    "url": "/areas/kent-bc",
+    "score": 60.7
+   },
+   {
+    "name": "Hope",
+    "url": "/areas/hope-bc",
+    "score": 60.1
+   },
+   {
+    "name": "Agassiz",
+    "url": "/areas/agassiz-bc",
+    "score": 58.3
+   },
+   {
+    "name": "Harrison Hot Springs",
+    "url": "/areas/harrison-hot-springs-bc",
+    "score": 55.2
+   },
+   {
+    "name": "Vedder Crossing",
+    "url": "/areas/vedder-crossing-bc",
+    "score": 54.6
+   },
+   {
+    "name": "Yarrow",
+    "url": "/areas/yarrow-bc",
+    "score": 50.1
+   },
+   {
+    "name": "Cultus Lake",
+    "url": "/areas/cultus-lake-bc",
+    "score": 50
+   }
+  ]
+ },
+ {
+  "region": "Vancouver Island Central & North",
+  "url": "/areas/region/vancouver-island-central-north",
+  "bundle": {
+   "climate": "Wet coastal temperate rainforest climate, wetter and windier moving north and to the outer coast; Tofino/Ucluelet face open-Pacific storms (storm-watching season); inland east-coast communities like the Comox Valley are drier and sunnier.",
+   "terrain": "The Vancouver Island Ranges spine, old-growth rainforest, long fjords and inlets, and the sheltered east-coast plain along the Strait of Georgia where most communities sit.",
+   "economy": "Forestry heritage transitioning to aquaculture, tourism, retirees and remote work; Nanaimo is the island's transport hub (two ferry terminals to the mainland); Comox hosts CFB Comox; Port Alberni, Campbell River and Port Hardy anchor resource industries.",
+   "building_stock": "Post-war mill-town houses, 1970s-90s ranchers, waterfront and view homes, and fast-growing retirement-driven subdivisions in Nanaimo, Parksville-Qualicum and the Comox Valley.",
+   "landmarks": [
+    "Strait of Georgia",
+    "Pacific Rim National Park Reserve",
+    "Mount Washington",
+    "Alberni Inlet",
+    "Departure Bay"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Nanaimo Regional District",
+    "url": "/areas/nanaimo-regional-district-bc",
+    "score": 73.4
+   },
+   {
+    "name": "Cowichan Valley Regional District",
+    "url": "/areas/cowichan-valley-regional-district-bc",
+    "score": 71.6
+   },
+   {
+    "name": "Nanaimo",
+    "url": "/areas/nanaimo-bc",
+    "score": 68.4
+   },
+   {
+    "name": "Comox Valley Regional District",
+    "url": "/areas/comox-valley-regional-district-bc",
+    "score": 68.3
+   },
+   {
+    "name": "North Cowichan",
+    "url": "/areas/north-cowichan-bc",
+    "score": 66.4
+   },
+   {
+    "name": "Alberni-Clayoquot Regional District",
+    "url": "/areas/alberni-clayoquot-regional-district-bc",
+    "score": 66.2
+   },
+   {
+    "name": "Strathcona Regional District",
+    "url": "/areas/strathcona-regional-district-bc",
+    "score": 66.1
+   },
+   {
+    "name": "Courtenay",
+    "url": "/areas/courtenay-bc",
+    "score": 63.4
+   },
+   {
+    "name": "Campbell River",
+    "url": "/areas/campbell-river-bc",
+    "score": 63
+   },
+   {
+    "name": "Parksville",
+    "url": "/areas/parksville-bc",
+    "score": 62.6
+   },
+   {
+    "name": "Ladysmith",
+    "url": "/areas/ladysmith-bc",
+    "score": 62.6
+   },
+   {
+    "name": "Port Alberni",
+    "url": "/areas/port-alberni-bc",
+    "score": 62.2
+   },
+   {
+    "name": "Duncan",
+    "url": "/areas/duncan-bc",
+    "score": 61.9
+   },
+   {
+    "name": "Qualicum Beach",
+    "url": "/areas/qualicum-beach-bc",
+    "score": 61.6
+   },
+   {
+    "name": "Comox",
+    "url": "/areas/comox-bc",
+    "score": 61.3
+   },
+   {
+    "name": "Shawnigan Lake",
+    "url": "/areas/shawnigan-lake-bc",
+    "score": 61.3
+   },
+   {
+    "name": "Cowichan Tribes",
+    "url": "/areas/cowichan-tribes-bc",
+    "score": 59.8
+   },
+   {
+    "name": "Nanoose Bay",
+    "url": "/areas/nanoose-bay-bc",
+    "score": 58.8
+   },
+   {
+    "name": "Mount Waddington Regional District",
+    "url": "/areas/mount-waddington-regional-district-bc",
+    "score": 58.4
+   },
+   {
+    "name": "Lantzville",
+    "url": "/areas/lantzville-bc",
+    "score": 57.6
+   },
+   {
+    "name": "Lake Cowichan",
+    "url": "/areas/lake-cowichan-bc",
+    "score": 57.4
+   },
+   {
+    "name": "Gabriola Island",
+    "url": "/areas/gabriola-island-bc",
+    "score": 56.5
+   },
+   {
+    "name": "Cobble Hill",
+    "url": "/areas/cobble-hill-bc",
+    "score": 56.5
+   },
+   {
+    "name": "Chemainus",
+    "url": "/areas/chemainus-bc",
+    "score": 56.2
+   },
+   {
+    "name": "Cedar",
+    "url": "/areas/cedar-bc",
+    "score": 55.8
+   },
+   {
+    "name": "Cumberland",
+    "url": "/areas/cumberland-bc",
+    "score": 55.7
+   },
+   {
+    "name": "Mill Bay",
+    "url": "/areas/mill-bay-bc",
+    "score": 55.3
+   },
+   {
+    "name": "Crofton",
+    "url": "/areas/crofton-bc",
+    "score": 55.2
+   },
+   {
+    "name": "Errington",
+    "url": "/areas/errington-bc",
+    "score": 54.1
+   },
+   {
+    "name": "Cassidy",
+    "url": "/areas/cassidy-bc",
+    "score": 54
+   },
+   {
+    "name": "Saltair",
+    "url": "/areas/saltair-bc",
+    "score": 53.5
+   },
+   {
+    "name": "Ucluelet",
+    "url": "/areas/ucluelet-bc",
+    "score": 53.3
+   },
+   {
+    "name": "Tofino",
+    "url": "/areas/tofino-bc",
+    "score": 52.7
+   },
+   {
+    "name": "Hornby Island",
+    "url": "/areas/hornby-island-bc",
+    "score": 51.7
+   },
+   {
+    "name": "Denman Island",
+    "url": "/areas/denman-island-bc",
+    "score": 51.6
+   },
+   {
+    "name": "Quadra Island",
+    "url": "/areas/quadra-island-bc",
+    "score": 51.4
+   },
+   {
+    "name": "Royston",
+    "url": "/areas/royston-bc",
+    "score": 51.2
+   },
+   {
+    "name": "Gold River",
+    "url": "/areas/gold-river-bc",
+    "score": 50.8
+   },
+   {
+    "name": "Cortes Island",
+    "url": "/areas/cortes-island-bc",
+    "score": 50.2
+   },
+   {
+    "name": "Black Creek",
+    "url": "/areas/black-creek-bc",
+    "score": 50.2
+   }
+  ]
+ },
+ {
+  "region": "Gulf Islands & Sunshine Coast",
+  "url": "/areas/region/gulf-islands-sunshine-coast",
+  "bundle": {
+   "climate": "Rain-shadow mildness on the southern Gulf Islands (among Canada's sunniest coastal spots); the Sunshine Coast lives up to its name with drier summers than Vancouver but still wet winters; everything is marine-exposed.",
+   "terrain": "An archipelago of forested islands in the Salish Sea and a mainland coast strip (the Sunshine Coast) reachable only by ferry or air despite being on the mainland; rocky shorelines, ferry-dependent logistics.",
+   "economy": "Tourism, arts communities, retirees, small-scale agriculture and aquaculture; ferry schedules shape all commerce; Salt Spring Island's Saturday Market and Powell River's converted mill economy are regional anchors.",
+   "building_stock": "Cottages and character homes, high-value waterfront properties, off-grid and rural systems (wells, septic), and older housing needing marine-climate upkeep; island logistics raise every project's complexity.",
+   "landmarks": [
+    "Salt Spring Island",
+    "Active Pass",
+    "Skookumchuck Narrows",
+    "Texada Island",
+    "BC Ferries routes"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Sunshine Coast Regional District",
+    "url": "/areas/sunshine-coast-regional-district-bc",
+    "score": 69.4
+   },
+   {
+    "name": "qathet Regional District",
+    "url": "/areas/qathet-regional-district-bc",
+    "score": 66.6
+   },
+   {
+    "name": "Sechelt",
+    "url": "/areas/sechelt-bc",
+    "score": 63.2
+   },
+   {
+    "name": "Powell River",
+    "url": "/areas/powell-river-bc",
+    "score": 61.7
+   },
+   {
+    "name": "Salt Spring Island",
+    "url": "/areas/salt-spring-island-bc",
+    "score": 61.5
+   },
+   {
+    "name": "Gibsons",
+    "url": "/areas/gibsons-bc",
+    "score": 59.2
+   },
+   {
+    "name": "Roberts Creek",
+    "url": "/areas/roberts-creek-bc",
+    "score": 56.3
+   },
+   {
+    "name": "Ganges",
+    "url": "/areas/ganges-bc",
+    "score": 55.4
+   },
+   {
+    "name": "Halfmoon Bay",
+    "url": "/areas/halfmoon-bay-bc",
+    "score": 55.2
+   },
+   {
+    "name": "Galiano Island",
+    "url": "/areas/galiano-island-bc",
+    "score": 54
+   },
+   {
+    "name": "Mayne Island",
+    "url": "/areas/mayne-island-bc",
+    "score": 53.7
+   },
+   {
+    "name": "Madeira Park",
+    "url": "/areas/madeira-park-bc",
+    "score": 53.5
+   },
+   {
+    "name": "Texada Island",
+    "url": "/areas/texada-island-bc",
+    "score": 52
+   }
+  ]
+ },
+ {
+  "region": "Sea-to-Sky",
+  "url": "/areas/region/sea-to-sky",
+  "bundle": {
+   "climate": "Steep climate gradient in 120 km: mild wet coastal at Squamish to alpine snow country at Whistler; heavy winter snow loads and freeze-thaw at elevation; intense short building seasons up-corridor.",
+   "terrain": "The Sea-to-Sky Highway (Highway 99) corridor from Howe Sound fjord through the Coast Mountains: granite walls (the Stawamus Chief), glacier-fed rivers, and alpine terrain around Whistler and Pemberton.",
+   "economy": "Whistler Blackcomb (North America's largest ski resort) drives a four-season tourism economy; Squamish is one of BC's fastest-growing municipalities with an outdoor-recreation and commuter economy; Pemberton anchors farming (famous seed potatoes).",
+   "building_stock": "Alpine chalets and lodges built for snow load, resort strata condos in Whistler, and new family subdivisions in Squamish; Pemberton mixes farm properties and new development.",
+   "landmarks": [
+    "Stawamus Chief",
+    "Whistler Blackcomb",
+    "Howe Sound",
+    "Shannon Falls",
+    "Highway 99 (Sea-to-Sky Highway)"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Squamish-Lillooet Regional District",
+    "url": "/areas/squamish-lillooet-regional-district-bc",
+    "score": 68.2
+   },
+   {
+    "name": "Squamish",
+    "url": "/areas/squamish-bc",
+    "score": 66
+   },
+   {
+    "name": "Whistler",
+    "url": "/areas/whistler-bc",
+    "score": 62.4
+   },
+   {
+    "name": "Pemberton",
+    "url": "/areas/pemberton-bc",
+    "score": 55.7
+   },
+   {
+    "name": "Lillooet",
+    "url": "/areas/lillooet-bc",
+    "score": 53.3
+   },
+   {
+    "name": "Britannia Beach",
+    "url": "/areas/britannia-beach-bc",
+    "score": 50.4
+   }
+  ]
+ },
+ {
+  "region": "Okanagan",
+  "url": "/areas/region/okanagan",
+  "bundle": {
+   "climate": "Semi-arid interior climate: hot dry summers regularly topping 35°C, cold but comparatively dry winters, and one of Canada's longest growing seasons; wildfire smoke and interface fire risk are annual realities; irrigation is essential.",
+   "terrain": "A chain of long lakes (Okanagan, Skaha, Osoyoos) in a dry valley between the Thompson Plateau and Monashee ranges; benchland terraces of orchards and vineyards above the lakeshore.",
+   "economy": "Canada's premier wine region (180+ wineries) and historic orchard belt; Kelowna is BC's largest interior city with UBC Okanagan, Kelowna International Airport, tech and healthcare; tourism and retirement migration drive growth.",
+   "building_stock": "Lakeshore and view homes, vineyard and orchard acreages, fast-built post-2000 suburbs (West Kelowna, Lake Country), and older single-storey homes in Penticton and Vernon; stucco and dry-climate exteriors dominate.",
+   "landmarks": [
+    "Okanagan Lake",
+    "Myra Canyon trestles",
+    "Knox Mountain",
+    "Skaha Bluffs",
+    "Osoyoos Lake"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Central Okanagan Regional District",
+    "url": "/areas/central-okanagan-regional-district-bc",
+    "score": 67.8
+   },
+   {
+    "name": "Okanagan-Similkameen Regional District",
+    "url": "/areas/okanagan-similkameen-regional-district-bc",
+    "score": 65.4
+   },
+   {
+    "name": "North Okanagan Regional District",
+    "url": "/areas/north-okanagan-regional-district-bc",
+    "score": 64
+   },
+   {
+    "name": "Kelowna",
+    "url": "/areas/kelowna-bc",
+    "score": 63.9
+   },
+   {
+    "name": "Penticton",
+    "url": "/areas/penticton-bc",
+    "score": 60.6
+   },
+   {
+    "name": "West Kelowna",
+    "url": "/areas/west-kelowna-bc",
+    "score": 60.3
+   },
+   {
+    "name": "Vernon",
+    "url": "/areas/vernon-bc",
+    "score": 59.7
+   },
+   {
+    "name": "Summerland",
+    "url": "/areas/summerland-bc",
+    "score": 57.4
+   },
+   {
+    "name": "Westbank",
+    "url": "/areas/westbank-bc",
+    "score": 57.2
+   },
+   {
+    "name": "Lake Country",
+    "url": "/areas/lake-country-bc",
+    "score": 57.1
+   },
+   {
+    "name": "Salmon Arm",
+    "url": "/areas/salmon-arm-bc",
+    "score": 56.4
+   },
+   {
+    "name": "Peachland",
+    "url": "/areas/peachland-bc",
+    "score": 56
+   },
+   {
+    "name": "Coldstream",
+    "url": "/areas/coldstream-bc",
+    "score": 55.7
+   },
+   {
+    "name": "Oliver",
+    "url": "/areas/oliver-bc",
+    "score": 55.5
+   },
+   {
+    "name": "Osoyoos",
+    "url": "/areas/osoyoos-bc",
+    "score": 55.4
+   },
+   {
+    "name": "Okanagan Mission",
+    "url": "/areas/okanagan-mission-bc",
+    "score": 55.4
+   },
+   {
+    "name": "Westbank First Nation",
+    "url": "/areas/westbank-first-nation-bc",
+    "score": 54.7
+   },
+   {
+    "name": "Westbank First Nation (WFN)",
+    "url": "/areas/westbank-first-nation-wfn-bc",
+    "score": 54.7
+   },
+   {
+    "name": "Spallumcheen",
+    "url": "/areas/spallumcheen-bc",
+    "score": 54.1
+   },
+   {
+    "name": "Armstrong",
+    "url": "/areas/armstrong-bc",
+    "score": 54
+   },
+   {
+    "name": "Princeton",
+    "url": "/areas/princeton-bc",
+    "score": 53.4
+   },
+   {
+    "name": "Keremeos",
+    "url": "/areas/keremeos-bc",
+    "score": 50.6
+   }
+  ]
+ },
+ {
+  "region": "Thompson-Nicola & Cariboo",
+  "url": "/areas/region/thompson-nicola-cariboo",
+  "bundle": {
+   "climate": "Dry interior continental climate: hot summers (Kamloops and Lytton record some of Canada's highest temperatures), cold winters, low precipitation; grassland wildfire risk and freeze-thaw cycles define exterior maintenance.",
+   "terrain": "Sagebrush grasslands and hoodoos where the North and South Thompson rivers meet at Kamloops, rising to the Cariboo Plateau's ranchland and lakes country further north.",
+   "economy": "Ranching country (the historic Cariboo Gold Rush trail), mining (Highland Valley Copper near Logan Lake is Canada's largest copper mine), forestry, and transport — Kamloops sits at the junction of the Trans-Canada and Yellowhead highways with Thompson Rivers University.",
+   "building_stock": "Ranch houses and acreages, post-war grid neighbourhoods in Kamloops and Williams Lake, lakefront cabins, and manufactured homes in rural areas.",
+   "landmarks": [
+    "Thompson River confluence",
+    "Kamloops Lake",
+    "Cariboo Highway 97",
+    "Wells Gray Provincial Park",
+    "Highland Valley"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Thompson-Nicola Regional District",
+    "url": "/areas/thompson-nicola-regional-district-bc",
+    "score": 67
+   },
+   {
+    "name": "Cariboo Regional District",
+    "url": "/areas/cariboo-regional-district-bc",
+    "score": 63
+   },
+   {
+    "name": "Kamloops",
+    "url": "/areas/kamloops-bc",
+    "score": 62.6
+   },
+   {
+    "name": "Merritt",
+    "url": "/areas/merritt-bc",
+    "score": 58.1
+   },
+   {
+    "name": "Williams Lake",
+    "url": "/areas/williams-lake-bc",
+    "score": 55
+   },
+   {
+    "name": "Quesnel",
+    "url": "/areas/quesnel-bc",
+    "score": 52.2
+   },
+   {
+    "name": "Logan Lake",
+    "url": "/areas/logan-lake-bc",
+    "score": 52.2
+   },
+   {
+    "name": "Ashcroft",
+    "url": "/areas/ashcroft-bc",
+    "score": 51.6
+   }
+  ]
+ },
+ {
+  "region": "Northern BC - Prince George",
+  "url": "/areas/region/northern-bc-prince-george",
+  "bundle": {
+   "climate": "Continental northern climate: long cold winters to -30°C, short warm summers; deep frost, ice damming and snow-load engineering are standard; spring breakup roughens roads and sites.",
+   "terrain": "Rolling Interior Plateau forest at the confluence of the Fraser and Nechako rivers; Prince George is the hub of a vast forested hinterland.",
+   "economy": "Prince George is northern BC's capital in all but name: forestry and pulp mills, the University of Northern British Columbia (UNBC), regional healthcare, and CN Rail's junction of north-south and east-west lines.",
+   "building_stock": "Post-war and 1970s-boom houses built for deep winter, newer subdivisions on the city's benches, and rural properties on large lots outside town.",
+   "landmarks": [
+    "Fraser-Nechako confluence",
+    "UNBC",
+    "Mr. PG",
+    "Cottonwood Island Park",
+    "Highway 16 (Yellowhead)"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Fraser-Fort George Regional District",
+    "url": "/areas/fraser-fort-george-regional-district-bc",
+    "score": 60.1
+   },
+   {
+    "name": "Prince George",
+    "url": "/areas/prince-george-bc",
+    "score": 54.7
+   }
+  ]
+ },
+ {
+  "region": "Kootenays",
+  "url": "/areas/region/kootenays",
+  "bundle": {
+   "climate": "Interior mountain climate with heavy snowfall (the Powder Highway ski belt), wet-cold winters and warm summers; steep freeze-thaw cycling and snow-shed engineering; lake-moderated pockets around Nelson and Creston are gentler.",
+   "terrain": "Parallel north-south ranges (Selkirks, Purcells, Monashees, Rockies) separated by long lakes (Kootenay, Arrow, Slocan) and river valleys; communities cling to lakeshores and valley floors.",
+   "economy": "Teck's smelter at Trail (one of the world's largest zinc-lead smelters), mining heritage towns, forestry, hydro dams on the Columbia, ski tourism (Revelstoke, Fernie, Rossland), and Nelson's arts economy.",
+   "building_stock": "Some of BC's best-preserved heritage streetscapes (Nelson, Rossland, Fernie), miners' cottages, lakefront cabins, and mountain homes built for metres of snow.",
+   "landmarks": [
+    "Kootenay Lake",
+    "Columbia River dams",
+    "Red Mountain",
+    "Fernie Alpine Resort",
+    "Nelson's Baker Street"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Columbia-Shuswap Regional District",
+    "url": "/areas/columbia-shuswap-regional-district-bc",
+    "score": 59.7
+   },
+   {
+    "name": "Central Kootenay Regional District",
+    "url": "/areas/central-kootenay-regional-district-bc",
+    "score": 59.6
+   },
+   {
+    "name": "Kootenay Boundary Regional District",
+    "url": "/areas/kootenay-boundary-regional-district-bc",
+    "score": 59.1
+   },
+   {
+    "name": "East Kootenay Regional District",
+    "url": "/areas/east-kootenay-regional-district-bc",
+    "score": 57.3
+   },
+   {
+    "name": "Castlegar",
+    "url": "/areas/castlegar-bc",
+    "score": 52.4
+   },
+   {
+    "name": "Revelstoke",
+    "url": "/areas/revelstoke-bc",
+    "score": 52.3
+   },
+   {
+    "name": "Trail",
+    "url": "/areas/trail-bc",
+    "score": 52.3
+   },
+   {
+    "name": "Nelson",
+    "url": "/areas/nelson-bc",
+    "score": 52.2
+   },
+   {
+    "name": "Cranbrook",
+    "url": "/areas/cranbrook-bc",
+    "score": 52.1
+   }
+  ]
+ },
+ {
+  "region": "Peace Region & Northeast",
+  "url": "/areas/region/peace-region-northeast",
+  "bundle": {
+   "climate": "BC's only true prairie-continental climate, east of the Rockies: winters can hit -40°C with chinook swings, summers are long-daylight and warm; permafrost-free but deep-frost construction rules apply.",
+   "terrain": "The Peace River country: rolling farmland (BC's only large-scale grain belt) cut by the deep Peace River valley, with the Rockies' foothills to the west and boreal muskeg north of Fort Nelson.",
+   "economy": "Natural gas (the Montney formation makes Fort St. John BC's energy capital), the Site C dam project, grain and canola farming around Dawson Creek — Mile 0 of the Alaska Highway — and forestry.",
+   "building_stock": "Farmhouses, energy-boom subdivisions in Fort St. John and Dawson Creek, worker housing, and rural shops/quonsets; buildings engineered for extreme cold.",
+   "landmarks": [
+    "Alaska Highway Mile 0",
+    "Peace River valley",
+    "Site C",
+    "Montney gas fields",
+    "W.A.C. Bennett Dam (nearby Hudson's Hope)"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Peace River Regional District",
+    "url": "/areas/peace-river-regional-district-bc",
+    "score": 57.3
+   },
+   {
+    "name": "Fort St. John",
+    "url": "/areas/fort-st-john-bc",
+    "score": 52.2
+   },
+   {
+    "name": "Dawson Creek",
+    "url": "/areas/dawson-creek-bc",
+    "score": 50
+   }
+  ]
+ },
+ {
+  "region": "Northern BC - Northwest",
+  "url": "/areas/region/northern-bc-northwest",
+  "bundle": {
+   "climate": "Coastal-to-interior gradient: Prince Rupert is one of Canada's wettest and cloudiest cities (about 2,600 mm of rain a year), while Terrace and the Bulkley Valley inland get real winters with heavy snow; Haida Gwaii is mild, wet and wind-battered.",
+   "terrain": "The Skeena and Bulkley river valleys cutting through the Coast Mountains to the North Coast fjords; Haida Gwaii archipelago offshore; vast wilderness north along the Stewart-Cassiar Highway.",
+   "economy": "The Port of Prince Rupert (North America's closest port to Asia, a fast-growing container terminal), LNG Canada at Kitimat (Canada's largest private-sector construction project), Rio Tinto's aluminium smelter, salmon fishing on the Skeena, and Indigenous-led economies including Haida Gwaii tourism.",
+   "building_stock": "Rain-screened coastal housing in Prince Rupert, company-town stock in Kitimat, valley homesteads around Smithers and Terrace, and remote off-grid properties; marine-grade materials matter on the coast.",
+   "landmarks": [
+    "Skeena River",
+    "Port of Prince Rupert",
+    "Hudson Bay Mountain (Smithers)",
+    "Douglas Channel (Kitimat)",
+    "Haida Gwaii"
+   ]
+  },
+  "child_locations": [
+   {
+    "name": "Bulkley-Nechako Regional District",
+    "url": "/areas/bulkley-nechako-regional-district-bc",
+    "score": 56.3
+   },
+   {
+    "name": "Kitimat-Stikine Regional District",
+    "url": "/areas/kitimat-stikine-regional-district-bc",
+    "score": 56.3
+   },
+   {
+    "name": "North Coast Regional District",
+    "url": "/areas/north-coast-regional-district-bc",
+    "score": 53.8
+   },
+   {
+    "name": "Terrace",
+    "url": "/areas/terrace-bc",
+    "score": 50
+   },
+   {
+    "name": "Prince Rupert",
+    "url": "/areas/prince-rupert-bc",
+    "score": 50
+   }
+  ]
+ }
+]

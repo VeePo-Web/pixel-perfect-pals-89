@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0135",
+ "Location_Name": "Fraser-Fort George Regional District",
+ "Location_Type": "Regional District",
+ "Parent_Municipality": null,
+ "Parent_Region": "Northern BC - Prince George",
+ "Province": "British Columbia",
+ "Latitude": 53.5,
+ "Longitude": -122.5,
+ "FSA": null,
+ "Population_2021_Census": 100000,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 471,
+ "Distance_From_Victoria_KM": 567,
+ "Unified_Score": 60.1,
+ "URL_Slug": "fraser-fort-george-regional-district-bc",
+ "existing_Entity_Description": "Fraser-Fort George Regional District is a regional district in Northern BC - Prince George, British Columbia, Canada, within the Fraser-Fort George. As of the 2021 Canadian Census, Fraser-Fort George Regional District had a population of 100,000. The community is situated in the hub of Northern BC — a gateway city serving a vast northern territory. a regional service centre with low competition and high opportunity. The region features cold winters and warm summers with significant seasonal temperature swings.",
+ "existing_Local_Facts": "• Population: 100,000 (2021 Census)\n• Region: Northern BC - Prince George\n• Regional District: Fraser-Fort George\n• Type: Regional District\n• Climate: cold winters and warm summers with significant seasonal temperature swings\n• Character: northern frontier living with access to wilderness and outdoor adventure\n• Distance from Vancouver: ~471 km",
+ "existing_Long_Description": "There's a reason Fraser-Fort George Regional District keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nThe Fraser-Fort George Regional District serves as the regional governance body for Northern BC - Prince George with a population of 100,000 (2021 Census) From those origins, Fraser-Fort George Regional District has evolved into a community where a regional service centre with low competition and high opportunity.\n\nThe Northern BC - Prince George region is known for northern frontier living with access to wilderness and outdoor adventure. Fraser-Fort George Regional District's cold winters and warm summers with significant seasonal temperature swings creates both opportunities and challenges for local service providers. This character defines what Fraser-Fort George Regional District expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Fraser-Fort George Regional District. We know that the landmarks and landscapes of Fraser-Fort George Regional District — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 100,000, Fraser-Fort George Regional District is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Fraser-Fort George Regional District's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Fraser-Fort George Regional District? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Fraser-Fort George Regional District isn't just another dot on the BC map — it's the hub of Northern BC — a gateway city serving a vast northern territory. Every property and business here has unique needs, and cookie-cutter {SERVICE} won't cut it. {COMPANY_NAME} provides {SERVICE} tailored specifically for Fraser-Fort George Regional District's market. With a population of approximately 100,000, Fraser-Fort George Regional District is a market worth knowing. Ready to work with a {BUSINESS_TYPE} that knows Fraser-Fort George Regional District? Contact us today.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Continental northern climate: long cold winters to -30°C, short warm summers; deep frost, ice damming and snow-load engineering are standard; spring breakup roughens roads and sites.",
+  "terrain": "Rolling Interior Plateau forest at the confluence of the Fraser and Nechako rivers; Prince George is the hub of a vast forested hinterland.",
+  "economy": "Prince George is northern BC's capital in all but name: forestry and pulp mills, the University of Northern British Columbia (UNBC), regional healthcare, and CN Rail's junction of north-south and east-west lines.",
+  "building_stock": "Post-war and 1970s-boom houses built for deep winter, newer subdivisions on the city's benches, and rural properties on large lots outside town.",
+  "landmarks": [
+   "Fraser-Nechako confluence",
+   "UNBC",
+   "Mr. PG",
+   "Cottonwood Island Park",
+   "Highway 16 (Yellowhead)"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Prince George",
+   "slug": "prince-george-bc",
+   "km": 49
+  },
+  {
+   "name": "Quesnel",
+   "slug": "quesnel-bc",
+   "km": 58
+  },
+  {
+   "name": "Williams Lake",
+   "slug": "williams-lake-bc",
+   "km": 153
+  },
+  {
+   "name": "Cariboo Regional District",
+   "slug": "cariboo-regional-district-bc",
+   "km": 170
+  },
+  {
+   "name": "Bulkley-Nechako Regional District",
+   "slug": "bulkley-nechako-regional-district-bc",
+   "km": 242
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Areas We Serve",
+  "slug": ""
+ }
+}

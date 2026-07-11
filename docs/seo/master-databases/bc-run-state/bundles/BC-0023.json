@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0023",
+ "Location_Name": "Squamish",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Sea-to-Sky",
+ "Province": "British Columbia",
+ "Latitude": 49.7016,
+ "Longitude": -123.1558,
+ "FSA": "V8B",
+ "Population_2021_Census": 23819,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 47,
+ "Distance_From_Victoria_KM": 142,
+ "Unified_Score": 66,
+ "URL_Slug": "squamish-bc",
+ "existing_Entity_Description": "Squamish is a municipality in Sea-to-Sky, British Columbia, Canada, within the Squamish-Lillooet. As of the 2021 Canadian Census, Squamish had a population of 23,819. The community is situated in the world-famous Sea-to-Sky corridor from Vancouver to Whistler and beyond. an international tourism destination with premium pricing potential. The region features coastal-mountain climate with legendary snowfalls at elevation.",
+ "existing_Local_Facts": "• Population: 23,819 (2021 Census)\n• Region: Sea-to-Sky\n• Regional District: Squamish-Lillooet\n• Type: Municipality\n• Climate: coastal-mountain climate with legendary snowfalls at elevation\n• Character: world-class skiing, mountain biking, rock climbing, and outdoor adventure\n• Distance from Vancouver: ~47 km",
+ "existing_Long_Description": "There's a reason Squamish keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nSquamish is a community in Sea-to-Sky, British Columbia with a population of 23,819 (2021 Census) From those origins, Squamish has evolved into a community where an international tourism destination with premium pricing potential.\n\nThe Sea-to-Sky region is known for world-class skiing, mountain biking, rock climbing, and outdoor adventure. Squamish's coastal-mountain climate with legendary snowfalls at elevation creates both opportunities and challenges for local service providers. This character defines what Squamish expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Squamish. We know that the landmarks and landscapes of Squamish — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 23,819, Squamish is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Squamish's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Squamish? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Looking for {SERVICE} in Squamish? You've found the right {BUSINESS_TYPE}. the world-famous Sea-to-Sky corridor from Vancouver to Whistler and beyond. {COMPANY_NAME} matches that standard with professional {SERVICE} built for Squamish's specific needs. With a population of approximately 23,819, Squamish is a market worth knowing. See why Squamish residents choose {COMPANY_NAME} — visit {CTA_URL} or call {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Steep climate gradient in 120 km: mild wet coastal at Squamish to alpine snow country at Whistler; heavy winter snow loads and freeze-thaw at elevation; intense short building seasons up-corridor.",
+  "terrain": "The Sea-to-Sky Highway (Highway 99) corridor from Howe Sound fjord through the Coast Mountains: granite walls (the Stawamus Chief), glacier-fed rivers, and alpine terrain around Whistler and Pemberton.",
+  "economy": "Whistler Blackcomb (North America's largest ski resort) drives a four-season tourism economy; Squamish is one of BC's fastest-growing municipalities with an outdoor-recreation and commuter economy; Pemberton anchors farming (famous seed potatoes).",
+  "building_stock": "Alpine chalets and lodges built for snow load, resort strata condos in Whistler, and new family subdivisions in Squamish; Pemberton mixes farm properties and new development.",
+  "landmarks": [
+   "Stawamus Chief",
+   "Whistler Blackcomb",
+   "Howe Sound",
+   "Shannon Falls",
+   "Highway 99 (Sea-to-Sky Highway)"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Britannia Beach",
+   "slug": "britannia-beach-bc",
+   "km": 9
+  },
+  {
+   "name": "Lions Bay",
+   "slug": "lions-bay-bc",
+   "km": 28
+  },
+  {
+   "name": "Bowen Island",
+   "slug": "bowen-island-bc",
+   "km": 38
+  },
+  {
+   "name": "North Vancouver (District)",
+   "slug": "north-vancouver-district-bc",
+   "km": 40
+  },
+  {
+   "name": "West Vancouver",
+   "slug": "west-vancouver-bc",
+   "km": 41
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Squamish-Lillooet Regional District",
+  "slug": "squamish-lillooet-regional-district-bc"
+ }
+}

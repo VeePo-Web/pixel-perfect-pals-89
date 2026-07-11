@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0099",
+ "Location_Name": "Terrace",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Northern BC - Northwest",
+ "Province": "British Columbia",
+ "Latitude": 54.5182,
+ "Longitude": -128.5965,
+ "FSA": "V8G",
+ "Population_2021_Census": 12017,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 692,
+ "Distance_From_Victoria_KM": 767,
+ "Unified_Score": 50,
+ "URL_Slug": "terrace-bc",
+ "existing_Entity_Description": "Terrace is a municipality in Northern BC - Northwest, British Columbia, Canada, within the Kitimat-Stikine. As of the 2021 Canadian Census, Terrace had a population of 12,017. The community is situated in remote, rugged, and resource-rich — the wild northwest coast and interior. underserved market with massive first-mover advantage for service providers. The region features coastal storms in the west, continental cold in the east, dramatic variation.",
+ "existing_Local_Facts": "• Population: 12,017 (2021 Census)\n• Region: Northern BC - Northwest\n• Regional District: Kitimat-Stikine\n• Type: Municipality\n• Climate: coastal storms in the west, continental cold in the east, dramatic variation\n• Character: resource industry employment, Indigenous culture, and frontier independence\n• Distance from Vancouver: ~692 km",
+ "existing_Long_Description": "There's a reason Terrace keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nTerrace is a community in Northern BC - Northwest, British Columbia with a population of 12,017 (2021 Census) From those origins, Terrace has evolved into a community where underserved market with massive first-mover advantage for service providers.\n\nThe Northern BC - Northwest region is known for resource industry employment, Indigenous culture, and frontier independence. Terrace's coastal storms in the west, continental cold in the east, dramatic variation creates both opportunities and challenges for local service providers. This character defines what Terrace expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Terrace. We know that the landmarks and landscapes of Terrace — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 12,017, Terrace is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Terrace's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Terrace? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Most {BUSINESS_TYPE} companies treat Terrace like any other BC community. That's a mistake. Terrace is a community in Northern BC - Northwest, British Columbia with a population of 12,017 (2021 Census). This community has character, and your {SERVICE} provider should respect that. {COMPANY_NAME} brings local expertise and proven results to every Terrace project. With a population of approximately 12,017, Terrace is a market worth knowing. Call {PHONE} for a consultation.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Coastal-to-interior gradient: Prince Rupert is one of Canada's wettest and cloudiest cities (about 2,600 mm of rain a year), while Terrace and the Bulkley Valley inland get real winters with heavy snow; Haida Gwaii is mild, wet and wind-battered.",
+  "terrain": "The Skeena and Bulkley river valleys cutting through the Coast Mountains to the North Coast fjords; Haida Gwaii archipelago offshore; vast wilderness north along the Stewart-Cassiar Highway.",
+  "economy": "The Port of Prince Rupert (North America's closest port to Asia, a fast-growing container terminal), LNG Canada at Kitimat (Canada's largest private-sector construction project), Rio Tinto's aluminium smelter, salmon fishing on the Skeena, and Indigenous-led economies including Haida Gwaii tourism.",
+  "building_stock": "Rain-screened coastal housing in Prince Rupert, company-town stock in Kitimat, valley homesteads around Smithers and Terrace, and remote off-grid properties; marine-grade materials matter on the coast.",
+  "landmarks": [
+   "Skeena River",
+   "Port of Prince Rupert",
+   "Hudson Bay Mountain (Smithers)",
+   "Douglas Channel (Kitimat)",
+   "Haida Gwaii"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Kitimat-Stikine Regional District",
+   "slug": "kitimat-stikine-regional-district-bc",
+   "km": 66
+  },
+  {
+   "name": "North Coast Regional District",
+   "slug": "north-coast-regional-district-bc",
+   "km": 113
+  },
+  {
+   "name": "Prince Rupert",
+   "slug": "prince-rupert-bc",
+   "km": 114
+  },
+  {
+   "name": "Bulkley-Nechako Regional District",
+   "slug": "bulkley-nechako-regional-district-bc",
+   "km": 172
+  },
+  {
+   "name": "Prince George",
+   "slug": "prince-george-bc",
+   "km": 386
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Bulkley-Nechako Regional District",
+  "slug": "bulkley-nechako-regional-district-bc"
+ }
+}

@@ -1,0 +1,86 @@
+{
+  "Metro Vancouver": {
+    "climate": "Mild oceanic coastal climate: wet, mild winters (rain far more often than snow at sea level), warm dry summers; heavy November-March rainfall drives moisture, drainage and moss/algae issues on building exteriors; freeze-thaw is rare at sea level but real on the North Shore slopes.",
+    "terrain": "Delta and floodplain of the Fraser River meeting the Coast Mountains and the Salish Sea; North Shore municipalities climb steep forested mountain slopes; Richmond and Delta sit on low-lying river delta soils.",
+    "economy": "Canada's third-largest metropolitan economy: Port of Vancouver (Canada's largest port), film/TV production, tech, finance, construction and real estate; major institutions include UBC, SFU, Vancouver International Airport (YVR) in Richmond.",
+    "building_stock": "The widest mix in BC: pre-war character homes and Vancouver Specials, leaky-condo-era mid-rises now rehabilitated, glass high-rise towers, and large new master-planned suburbs (Surrey, Langley); strata-governed multi-family housing is a defining feature.",
+    "landmarks": ["Stanley Park", "Lions Gate Bridge", "Grouse Mountain", "Fraser River", "Burrard Inlet"]
+  },
+  "Vancouver Island South": {
+    "climate": "The mildest climate in Canada: sub-Mediterranean pattern with dry summers and wet winters; Victoria sits in the Olympic Mountains rain shadow with roughly half Vancouver's rainfall; ocean salt air affects exposed exteriors.",
+    "terrain": "Rocky Salish Sea coastline, Garry oak meadows, and the Saanich Peninsula's farmland; the Malahat ridge separates Greater Victoria from the Cowichan Valley.",
+    "economy": "Provincial government (Victoria is BC's capital), CFB Esquimalt (Pacific naval base), University of Victoria, tourism, marine industries, and tech ('Tectoria').",
+    "building_stock": "Canada's oldest housing stock profile by share of pre-1960 homes: heritage Victorian and Edwardian houses, post-war bungalows in Saanich, condo towers in the core, and acreage properties up the peninsula.",
+    "landmarks": ["BC Legislature", "Inner Harbour", "Butchart Gardens", "Mount Douglas (PKOLS)", "Saanich Peninsula"]
+  },
+  "Fraser Valley": {
+    "climate": "Coastal climate with more temperature range than Metro Vancouver: heavier winter rain, occasional outflow freezes and snow events, hot summers; the November 2021 atmospheric-river flooding of the Sumas Prairie made valley drainage a household topic.",
+    "terrain": "Broad, fertile Fraser River floodplain framed by the Cascade and Coast mountains; Sumas Prairie reclaimed lakebed; steep slopes above Chilliwack and Hope.",
+    "economy": "BC's agricultural heartland: dairy, berries (Abbotsford calls itself the Raspberry Capital of Canada), poultry; plus aerospace at Abbotsford International Airport, manufacturing, and rapid residential growth along Highway 1.",
+    "building_stock": "Farmhouses and rural acreages, big post-2000 suburban subdivisions in Abbotsford and Chilliwack, and new multi-family districts around urban centres; many properties on well and septic outside city cores.",
+    "landmarks": ["Fraser River", "Sumas Prairie", "Cultus Lake", "Mount Cheam", "Abbotsford International Airport"]
+  },
+  "Vancouver Island Central & North": {
+    "climate": "Wet coastal temperate rainforest climate, wetter and windier moving north and to the outer coast; Tofino/Ucluelet face open-Pacific storms (storm-watching season); inland east-coast communities like the Comox Valley are drier and sunnier.",
+    "terrain": "The Vancouver Island Ranges spine, old-growth rainforest, long fjords and inlets, and the sheltered east-coast plain along the Strait of Georgia where most communities sit.",
+    "economy": "Forestry heritage transitioning to aquaculture, tourism, retirees and remote work; Nanaimo is the island's transport hub (two ferry terminals to the mainland); Comox hosts CFB Comox; Port Alberni, Campbell River and Port Hardy anchor resource industries.",
+    "building_stock": "Post-war mill-town houses, 1970s-90s ranchers, waterfront and view homes, and fast-growing retirement-driven subdivisions in Nanaimo, Parksville-Qualicum and the Comox Valley.",
+    "landmarks": ["Strait of Georgia", "Pacific Rim National Park Reserve", "Mount Washington", "Alberni Inlet", "Departure Bay"]
+  },
+  "Gulf Islands & Sunshine Coast": {
+    "climate": "Rain-shadow mildness on the southern Gulf Islands (among Canada's sunniest coastal spots); the Sunshine Coast lives up to its name with drier summers than Vancouver but still wet winters; everything is marine-exposed.",
+    "terrain": "An archipelago of forested islands in the Salish Sea and a mainland coast strip (the Sunshine Coast) reachable only by ferry or air despite being on the mainland; rocky shorelines, ferry-dependent logistics.",
+    "economy": "Tourism, arts communities, retirees, small-scale agriculture and aquaculture; ferry schedules shape all commerce; Salt Spring Island's Saturday Market and Powell River's converted mill economy are regional anchors.",
+    "building_stock": "Cottages and character homes, high-value waterfront properties, off-grid and rural systems (wells, septic), and older housing needing marine-climate upkeep; island logistics raise every project's complexity.",
+    "landmarks": ["Salt Spring Island", "Active Pass", "Skookumchuck Narrows", "Texada Island", "BC Ferries routes"]
+  },
+  "Sea-to-Sky": {
+    "climate": "Steep climate gradient in 120 km: mild wet coastal at Squamish to alpine snow country at Whistler; heavy winter snow loads and freeze-thaw at elevation; intense short building seasons up-corridor.",
+    "terrain": "The Sea-to-Sky Highway (Highway 99) corridor from Howe Sound fjord through the Coast Mountains: granite walls (the Stawamus Chief), glacier-fed rivers, and alpine terrain around Whistler and Pemberton.",
+    "economy": "Whistler Blackcomb (North America's largest ski resort) drives a four-season tourism economy; Squamish is one of BC's fastest-growing municipalities with an outdoor-recreation and commuter economy; Pemberton anchors farming (famous seed potatoes).",
+    "building_stock": "Alpine chalets and lodges built for snow load, resort strata condos in Whistler, and new family subdivisions in Squamish; Pemberton mixes farm properties and new development.",
+    "landmarks": ["Stawamus Chief", "Whistler Blackcomb", "Howe Sound", "Shannon Falls", "Highway 99 (Sea-to-Sky Highway)"]
+  },
+  "Okanagan": {
+    "climate": "Semi-arid interior climate: hot dry summers regularly topping 35°C, cold but comparatively dry winters, and one of Canada's longest growing seasons; wildfire smoke and interface fire risk are annual realities; irrigation is essential.",
+    "terrain": "A chain of long lakes (Okanagan, Skaha, Osoyoos) in a dry valley between the Thompson Plateau and Monashee ranges; benchland terraces of orchards and vineyards above the lakeshore.",
+    "economy": "Canada's premier wine region (180+ wineries) and historic orchard belt; Kelowna is BC's largest interior city with UBC Okanagan, Kelowna International Airport, tech and healthcare; tourism and retirement migration drive growth.",
+    "building_stock": "Lakeshore and view homes, vineyard and orchard acreages, fast-built post-2000 suburbs (West Kelowna, Lake Country), and older single-storey homes in Penticton and Vernon; stucco and dry-climate exteriors dominate.",
+    "landmarks": ["Okanagan Lake", "Myra Canyon trestles", "Knox Mountain", "Skaha Bluffs", "Osoyoos Lake"]
+  },
+  "Thompson-Nicola & Cariboo": {
+    "climate": "Dry interior continental climate: hot summers (Kamloops and Lytton record some of Canada's highest temperatures), cold winters, low precipitation; grassland wildfire risk and freeze-thaw cycles define exterior maintenance.",
+    "terrain": "Sagebrush grasslands and hoodoos where the North and South Thompson rivers meet at Kamloops, rising to the Cariboo Plateau's ranchland and lakes country further north.",
+    "economy": "Ranching country (the historic Cariboo Gold Rush trail), mining (Highland Valley Copper near Logan Lake is Canada's largest copper mine), forestry, and transport — Kamloops sits at the junction of the Trans-Canada and Yellowhead highways with Thompson Rivers University.",
+    "building_stock": "Ranch houses and acreages, post-war grid neighbourhoods in Kamloops and Williams Lake, lakefront cabins, and manufactured homes in rural areas.",
+    "landmarks": ["Thompson River confluence", "Kamloops Lake", "Cariboo Highway 97", "Wells Gray Provincial Park", "Highland Valley"]
+  },
+  "Northern BC - Prince George": {
+    "climate": "Continental northern climate: long cold winters to -30°C, short warm summers; deep frost, ice damming and snow-load engineering are standard; spring breakup roughens roads and sites.",
+    "terrain": "Rolling Interior Plateau forest at the confluence of the Fraser and Nechako rivers; Prince George is the hub of a vast forested hinterland.",
+    "economy": "Prince George is northern BC's capital in all but name: forestry and pulp mills, the University of Northern British Columbia (UNBC), regional healthcare, and CN Rail's junction of north-south and east-west lines.",
+    "building_stock": "Post-war and 1970s-boom houses built for deep winter, newer subdivisions on the city's benches, and rural properties on large lots outside town.",
+    "landmarks": ["Fraser-Nechako confluence", "UNBC", "Mr. PG", "Cottonwood Island Park", "Highway 16 (Yellowhead)"]
+  },
+  "Kootenays": {
+    "climate": "Interior mountain climate with heavy snowfall (the Powder Highway ski belt), wet-cold winters and warm summers; steep freeze-thaw cycling and snow-shed engineering; lake-moderated pockets around Nelson and Creston are gentler.",
+    "terrain": "Parallel north-south ranges (Selkirks, Purcells, Monashees, Rockies) separated by long lakes (Kootenay, Arrow, Slocan) and river valleys; communities cling to lakeshores and valley floors.",
+    "economy": "Teck's smelter at Trail (one of the world's largest zinc-lead smelters), mining heritage towns, forestry, hydro dams on the Columbia, ski tourism (Revelstoke, Fernie, Rossland), and Nelson's arts economy.",
+    "building_stock": "Some of BC's best-preserved heritage streetscapes (Nelson, Rossland, Fernie), miners' cottages, lakefront cabins, and mountain homes built for metres of snow.",
+    "landmarks": ["Kootenay Lake", "Columbia River dams", "Red Mountain", "Fernie Alpine Resort", "Nelson's Baker Street"]
+  },
+  "Peace Region & Northeast": {
+    "climate": "BC's only true prairie-continental climate, east of the Rockies: winters can hit -40°C with chinook swings, summers are long-daylight and warm; permafrost-free but deep-frost construction rules apply.",
+    "terrain": "The Peace River country: rolling farmland (BC's only large-scale grain belt) cut by the deep Peace River valley, with the Rockies' foothills to the west and boreal muskeg north of Fort Nelson.",
+    "economy": "Natural gas (the Montney formation makes Fort St. John BC's energy capital), the Site C dam project, grain and canola farming around Dawson Creek — Mile 0 of the Alaska Highway — and forestry.",
+    "building_stock": "Farmhouses, energy-boom subdivisions in Fort St. John and Dawson Creek, worker housing, and rural shops/quonsets; buildings engineered for extreme cold.",
+    "landmarks": ["Alaska Highway Mile 0", "Peace River valley", "Site C", "Montney gas fields", "W.A.C. Bennett Dam (nearby Hudson's Hope)"]
+  },
+  "Northern BC - Northwest": {
+    "climate": "Coastal-to-interior gradient: Prince Rupert is one of Canada's wettest and cloudiest cities (about 2,600 mm of rain a year), while Terrace and the Bulkley Valley inland get real winters with heavy snow; Haida Gwaii is mild, wet and wind-battered.",
+    "terrain": "The Skeena and Bulkley river valleys cutting through the Coast Mountains to the North Coast fjords; Haida Gwaii archipelago offshore; vast wilderness north along the Stewart-Cassiar Highway.",
+    "economy": "The Port of Prince Rupert (North America's closest port to Asia, a fast-growing container terminal), LNG Canada at Kitimat (Canada's largest private-sector construction project), Rio Tinto's aluminium smelter, salmon fishing on the Skeena, and Indigenous-led economies including Haida Gwaii tourism.",
+    "building_stock": "Rain-screened coastal housing in Prince Rupert, company-town stock in Kitimat, valley homesteads around Smithers and Terrace, and remote off-grid properties; marine-grade materials matter on the coast.",
+    "landmarks": ["Skeena River", "Port of Prince Rupert", "Hudson Bay Mountain (Smithers)", "Douglas Channel (Kitimat)", "Haida Gwaii"]
+  }
+}

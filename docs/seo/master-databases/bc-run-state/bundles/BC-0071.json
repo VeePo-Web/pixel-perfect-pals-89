@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0071",
+ "Location_Name": "Cranbrook",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Kootenays",
+ "Province": "British Columbia",
+ "Latitude": 49.5097,
+ "Longitude": -115.7695,
+ "FSA": "V1C",
+ "Population_2021_Census": 20499,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 532,
+ "Distance_From_Victoria_KM": 567,
+ "Unified_Score": 52.1,
+ "URL_Slug": "cranbrook-bc",
+ "existing_Entity_Description": "Cranbrook is a municipality in Kootenays, British Columbia, Canada, within the East Kootenay. As of the 2021 Canadian Census, Cranbrook had a population of 20,499. The community is situated in a mountain paradise of tight-knit communities nestled between dramatic peaks and. a niche market with loyal local clientele and growing tourism. The region features snowy winters ideal for skiing and warm summers for lake activities.",
+ "existing_Local_Facts": "• Population: 20,499 (2021 Census)\n• Region: Kootenays\n• Regional District: East Kootenay\n• Type: Municipality\n• Climate: snowy winters ideal for skiing and warm summers for lake activities\n• Character: independent mountain culture, arts communities, and world-class powder skiing\n• Distance from Vancouver: ~532 km",
+ "existing_Long_Description": "There's a reason Cranbrook keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nCranbrook is a community in Kootenays, British Columbia with a population of 20,499 (2021 Census) From those origins, Cranbrook has evolved into a community where a niche market with loyal local clientele and growing tourism.\n\nThe Kootenays region is known for independent mountain culture, arts communities, and world-class powder skiing. Cranbrook's snowy winters ideal for skiing and warm summers for lake activities creates both opportunities and challenges for local service providers. This character defines what Cranbrook expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Cranbrook. We know that the landmarks and landscapes of Cranbrook — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 20,499, Cranbrook is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Cranbrook's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Cranbrook? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Every community has a story, and Cranbrook's is worth knowing. Cranbrook is a community in Kootenays, British Columbia with a population of 20,499 (2021 Census). Today, a niche market with loyal local clientele and growing tourism. For {SERVICE}, that means working with a provider who understands the area's unique characteristics. {COMPANY_NAME} is that provider. With a population of approximately 20,499, Cranbrook is a market worth knowing. Let's get started — call {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Interior mountain climate with heavy snowfall (the Powder Highway ski belt), wet-cold winters and warm summers; steep freeze-thaw cycling and snow-shed engineering; lake-moderated pockets around Nelson and Creston are gentler.",
+  "terrain": "Parallel north-south ranges (Selkirks, Purcells, Monashees, Rockies) separated by long lakes (Kootenay, Arrow, Slocan) and river valleys; communities cling to lakeshores and valley floors.",
+  "economy": "Teck's smelter at Trail (one of the world's largest zinc-lead smelters), mining heritage towns, forestry, hydro dams on the Columbia, ski tourism (Revelstoke, Fernie, Rossland), and Nelson's arts economy.",
+  "building_stock": "Some of BC's best-preserved heritage streetscapes (Nelson, Rossland, Fernie), miners' cottages, lakefront cabins, and mountain homes built for metres of snow.",
+  "landmarks": [
+   "Kootenay Lake",
+   "Columbia River dams",
+   "Red Mountain",
+   "Fernie Alpine Resort",
+   "Nelson's Baker Street"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "East Kootenay Regional District",
+   "slug": "east-kootenay-regional-district-bc",
+   "km": 32
+  },
+  {
+   "name": "Nelson",
+   "slug": "nelson-bc",
+   "km": 110
+  },
+  {
+   "name": "Central Kootenay Regional District",
+   "slug": "central-kootenay-regional-district-bc",
+   "km": 111
+  },
+  {
+   "name": "Castlegar",
+   "slug": "castlegar-bc",
+   "km": 138
+  },
+  {
+   "name": "Kootenay Boundary Regional District",
+   "slug": "kootenay-boundary-regional-district-bc",
+   "km": 147
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Columbia-Shuswap Regional District",
+  "slug": "columbia-shuswap-regional-district-bc"
+ }
+}

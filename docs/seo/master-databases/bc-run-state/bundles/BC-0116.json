@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0116",
+ "Location_Name": "Williams Lake",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Thompson-Nicola & Cariboo",
+ "Province": "British Columbia",
+ "Latitude": 52.1417,
+ "Longitude": -122.1417,
+ "FSA": "V2G",
+ "Population_2021_Census": 10947,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 325,
+ "Distance_From_Victoria_KM": 422,
+ "Unified_Score": 55,
+ "URL_Slug": "williams-lake-bc",
+ "existing_Entity_Description": "Williams Lake is a municipality in Thompson-Nicola & Cariboo, British Columbia, Canada, within the Cariboo. As of the 2021 Canadian Census, Williams Lake had a population of 10,947. The community is situated in BC's rugged interior — ranching country, cowboy culture, and wide-open landscape. a resource-based economy with steady local service demand. The region features hot, arid summers and cold winters with dramatic seasonal shifts.",
+ "existing_Local_Facts": "• Population: 10,947 (2021 Census)\n• Region: Thompson-Nicola & Cariboo\n• Regional District: Cariboo\n• Type: Municipality\n• Climate: hot, arid summers and cold winters with dramatic seasonal shifts\n• Character: ranching heritage, outdoor recreation, and small-town community values\n• Distance from Vancouver: ~325 km",
+ "existing_Long_Description": "There's a reason Williams Lake keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nWilliams Lake is a community in Thompson-Nicola & Cariboo, British Columbia with a population of 10,947 (2021 Census) From those origins, Williams Lake has evolved into a community where a resource-based economy with steady local service demand.\n\nThe Thompson-Nicola & Cariboo region is known for ranching heritage, outdoor recreation, and small-town community values. Williams Lake's hot, arid summers and cold winters with dramatic seasonal shifts creates both opportunities and challenges for local service providers. This character defines what Williams Lake expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Williams Lake. We know that the landmarks and landscapes of Williams Lake — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 10,947, Williams Lake is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Williams Lake's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Williams Lake? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Most {BUSINESS_TYPE} companies treat Williams Lake like any other BC community. That's a mistake. Williams Lake is a community in Thompson-Nicola & Cariboo, British Columbia with a population of 10,947 (2021 Census). This community has character, and your {SERVICE} provider should respect that. {COMPANY_NAME} brings local expertise and proven results to every Williams Lake project. With a population of approximately 10,947, Williams Lake is a market worth knowing. Call {PHONE} for a consultation.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Dry interior continental climate: hot summers (Kamloops and Lytton record some of Canada's highest temperatures), cold winters, low precipitation; grassland wildfire risk and freeze-thaw cycles define exterior maintenance.",
+  "terrain": "Sagebrush grasslands and hoodoos where the North and South Thompson rivers meet at Kamloops, rising to the Cariboo Plateau's ranchland and lakes country further north.",
+  "economy": "Ranching country (the historic Cariboo Gold Rush trail), mining (Highland Valley Copper near Logan Lake is Canada's largest copper mine), forestry, and transport — Kamloops sits at the junction of the Trans-Canada and Yellowhead highways with Thompson Rivers University.",
+  "building_stock": "Ranch houses and acreages, post-war grid neighbourhoods in Kamloops and Williams Lake, lakefront cabins, and manufactured homes in rural areas.",
+  "landmarks": [
+   "Thompson River confluence",
+   "Kamloops Lake",
+   "Cariboo Highway 97",
+   "Wells Gray Provincial Park",
+   "Highland Valley"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Cariboo Regional District",
+   "slug": "cariboo-regional-district-bc",
+   "km": 18
+  },
+  {
+   "name": "Quesnel",
+   "slug": "quesnel-bc",
+   "km": 96
+  },
+  {
+   "name": "Fraser-Fort George Regional District",
+   "slug": "fraser-fort-george-regional-district-bc",
+   "km": 153
+  },
+  {
+   "name": "Lillooet",
+   "slug": "lillooet-bc",
+   "km": 163
+  },
+  {
+   "name": "Ashcroft",
+   "slug": "ashcroft-bc",
+   "km": 168
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Thompson-Nicola Regional District",
+  "slug": "thompson-nicola-regional-district-bc"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0012",
+ "Location_Name": "Delta",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Metro Vancouver",
+ "Province": "British Columbia",
+ "Latitude": 49.0847,
+ "Longitude": -123.0587,
+ "FSA": "V4K",
+ "Population_2021_Census": 108455,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 22,
+ "Distance_From_Victoria_KM": 76,
+ "Unified_Score": 70.8,
+ "URL_Slug": "delta-bc",
+ "existing_Entity_Description": "Delta is a municipality in Metro Vancouver, British Columbia, Canada, within the Metro Vancouver. As of the 2021 Canadian Census, Delta had a population of 108,455. The community is situated in a vibrant, world-class metropolitan area where mountains meet the Pacific Ocean. one of Canada's most competitive markets with premium real estate values. The region features mild coastal climate with rainy winters and warm, dry summers.",
+ "existing_Local_Facts": "• Population: 108,455 (2021 Census)\n• Region: Metro Vancouver\n• Regional District: Metro Vancouver\n• Type: Municipality\n• Climate: mild coastal climate with rainy winters and warm, dry summers\n• Character: urban sophistication, cultural diversity, and unmatched access to nature\n• Distance from Vancouver: ~22 km",
+ "existing_Long_Description": "There's a reason Delta keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nDelta is a community in Metro Vancouver, British Columbia with a population of 108,455 (2021 Census) From those origins, Delta has evolved into a community where one of Canada's most competitive markets with premium real estate values.\n\nThe Metro Vancouver region is known for urban sophistication, cultural diversity, and unmatched access to nature. Delta's mild coastal climate with rainy winters and warm, dry summers creates both opportunities and challenges for local service providers. This character defines what Delta expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Delta. We know that the landmarks and landscapes of Delta — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 108,455, Delta is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Delta's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Delta? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "What makes Delta different from every other BC community? a vibrant, world-class metropolitan area where mountains meet the Pacific Ocean. That uniqueness demands a {BUSINESS_TYPE} that pays attention. {COMPANY_NAME} delivers {SERVICE} customized for Delta's market — not generic solutions. With a population of approximately 108,455, Delta is a market worth knowing. Experience the difference — call {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Mild oceanic coastal climate: wet, mild winters (rain far more often than snow at sea level), warm dry summers; heavy November-March rainfall drives moisture, drainage and moss/algae issues on building exteriors; freeze-thaw is rare at sea level but real on the North Shore slopes.",
+  "terrain": "Delta and floodplain of the Fraser River meeting the Coast Mountains and the Salish Sea; North Shore municipalities climb steep forested mountain slopes; Richmond and Delta sit on low-lying river delta soils.",
+  "economy": "Canada's third-largest metropolitan economy: Port of Vancouver (Canada's largest port), film/TV production, tech, finance, construction and real estate; major institutions include UBC, SFU, Vancouver International Airport (YVR) in Richmond.",
+  "building_stock": "The widest mix in BC: pre-war character homes and Vancouver Specials, leaky-condo-era mid-rises now rehabilitated, glass high-rise towers, and large new master-planned suburbs (Surrey, Langley); strata-governed multi-family housing is a defining feature.",
+  "landmarks": [
+   "Stanley Park",
+   "Lions Gate Bridge",
+   "Grouse Mountain",
+   "Fraser River",
+   "Burrard Inlet"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Tsawwassen First Nation",
+   "slug": "tsawwassen-first-nation-bc",
+   "km": 8
+  },
+  {
+   "name": "Tsawwassen First Nation",
+   "slug": "tsawwassen-first-nation-metro-bc",
+   "km": 8
+  },
+  {
+   "name": "Richmond",
+   "slug": "richmond-bc",
+   "km": 11
+  },
+  {
+   "name": "Crescent Beach",
+   "slug": "crescent-beach-bc",
+   "km": 13
+  },
+  {
+   "name": "Strawberry Hill",
+   "slug": "strawberry-hill-bc",
+   "km": 14
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Metro Vancouver Regional District",
+  "slug": "metro-vancouver-regional-district-bc"
+ }
+}

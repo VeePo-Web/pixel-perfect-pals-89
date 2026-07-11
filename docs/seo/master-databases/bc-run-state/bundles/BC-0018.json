@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0018",
+ "Location_Name": "West Vancouver",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Metro Vancouver",
+ "Province": "British Columbia",
+ "Latitude": 49.3284,
+ "Longitude": -123.1603,
+ "FSA": "V7T",
+ "Population_2021_Census": 44456,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 6,
+ "Distance_From_Victoria_KM": 101,
+ "Unified_Score": 68.5,
+ "URL_Slug": "west-vancouver-bc",
+ "existing_Entity_Description": "West Vancouver is a municipality in Metro Vancouver, British Columbia, Canada, within the Metro Vancouver. As of the 2021 Canadian Census, West Vancouver had a population of 44,456. The community is situated in a vibrant, world-class metropolitan area where mountains meet the Pacific Ocean. one of Canada's most competitive markets with premium real estate values. The region features mild coastal climate with rainy winters and warm, dry summers.",
+ "existing_Local_Facts": "• Population: 44,456 (2021 Census)\n• Region: Metro Vancouver\n• Regional District: Metro Vancouver\n• Type: Municipality\n• Climate: mild coastal climate with rainy winters and warm, dry summers\n• Character: urban sophistication, cultural diversity, and unmatched access to nature\n• Distance from Vancouver: ~6 km",
+ "existing_Long_Description": "There's a reason West Vancouver keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nWest Vancouver is a community in Metro Vancouver, British Columbia with a population of 44,456 (2021 Census) From those origins, West Vancouver has evolved into a community where one of Canada's most competitive markets with premium real estate values.\n\nThe Metro Vancouver region is known for urban sophistication, cultural diversity, and unmatched access to nature. West Vancouver's mild coastal climate with rainy winters and warm, dry summers creates both opportunities and challenges for local service providers. This character defines what West Vancouver expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like West Vancouver. We know that the landmarks and landscapes of West Vancouver — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 44,456, West Vancouver is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets West Vancouver's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in West Vancouver? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "West Vancouver isn't just another dot on the BC map — it's a vibrant, world-class metropolitan area where mountains meet the Pacific Ocean. Every property and business here has unique needs, and cookie-cutter {SERVICE} won't cut it. {COMPANY_NAME} provides {SERVICE} tailored specifically for West Vancouver's market. With a population of approximately 44,456, West Vancouver is a market worth knowing. Ready to work with a {BUSINESS_TYPE} that knows West Vancouver? Contact us today.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Mild oceanic coastal climate: wet, mild winters (rain far more often than snow at sea level), warm dry summers; heavy November-March rainfall drives moisture, drainage and moss/algae issues on building exteriors; freeze-thaw is rare at sea level but real on the North Shore slopes.",
+  "terrain": "Delta and floodplain of the Fraser River meeting the Coast Mountains and the Salish Sea; North Shore municipalities climb steep forested mountain slopes; Richmond and Delta sit on low-lying river delta soils.",
+  "economy": "Canada's third-largest metropolitan economy: Port of Vancouver (Canada's largest port), film/TV production, tech, finance, construction and real estate; major institutions include UBC, SFU, Vancouver International Airport (YVR) in Richmond.",
+  "building_stock": "The widest mix in BC: pre-war character homes and Vancouver Specials, leaky-condo-era mid-rises now rehabilitated, glass high-rise towers, and large new master-planned suburbs (Surrey, Langley); strata-governed multi-family housing is a defining feature.",
+  "landmarks": [
+   "Stanley Park",
+   "Lions Gate Bridge",
+   "Grouse Mountain",
+   "Fraser River",
+   "Burrard Inlet"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Vancouver",
+   "slug": "vancouver-bc",
+   "km": 6
+  },
+  {
+   "name": "North Vancouver (City)",
+   "slug": "north-vancouver-city-bc",
+   "km": 6
+  },
+  {
+   "name": "Davie Village",
+   "slug": "davie-village-bc",
+   "km": 6
+  },
+  {
+   "name": "North Vancouver (District)",
+   "slug": "north-vancouver-district-bc",
+   "km": 7
+  },
+  {
+   "name": "Downtown Eastside",
+   "slug": "downtown-eastside-bc",
+   "km": 7
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Metro Vancouver Regional District",
+  "slug": "metro-vancouver-regional-district-bc"
+ }
+}

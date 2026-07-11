@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0139",
+ "Location_Name": "Sunshine Coast Regional District",
+ "Location_Type": "Regional District",
+ "Parent_Municipality": null,
+ "Parent_Region": "Gulf Islands & Sunshine Coast",
+ "Province": "British Columbia",
+ "Latitude": 49.5,
+ "Longitude": -123.8,
+ "FSA": null,
+ "Population_2021_Census": 33000,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 55,
+ "Distance_From_Victoria_KM": 123,
+ "Unified_Score": 69.4,
+ "URL_Slug": "sunshine-coast-regional-district-bc",
+ "existing_Entity_Description": "Sunshine Coast Regional District is a regional district in Gulf Islands & Sunshine Coast, British Columbia, Canada, within the Sunshine Coast. As of the 2021 Canadian Census, Sunshine Coast Regional District had a population of 33,000. The community is situated in idyllic island and coastal communities accessible only by ferry or boat. ferry-dependent communities with strong local loyalty and seasonal tourism. The region features mild Mediterranean-like microclimate — the warmest in Canada.",
+ "existing_Local_Facts": "• Population: 33,000 (2021 Census)\n• Region: Gulf Islands & Sunshine Coast\n• Regional District: Sunshine Coast\n• Type: Regional District\n• Climate: mild Mediterranean-like microclimate — the warmest in Canada\n• Character: artists, retirees, and nature lovers drawn to island tranquility\n• Distance from Vancouver: ~55 km",
+ "existing_Long_Description": "Sunshine Coast Regional District isn't just another location on a map — it's a community with a story that shapes everything, including the {SERVICE} it needs.\n\nThe Sunshine Coast Regional District serves as the regional governance body for Gulf Islands & Sunshine Coast with a population of 33,000 (2021 Census) Today, with With a population of approximately 33,000, Sunshine Coast Regional District is a market worth knowing., Sunshine Coast Regional District stands as part of the idyllic Gulf Islands and Sunshine Coast.\n\nferry-dependent communities with strong local loyalty and seasonal tourism. This economic base creates specific demands for {SERVICE} — demands that only a knowledgeable local {BUSINESS_TYPE} can meet.\n\nThe Gulf Islands & Sunshine Coast region is known for artists, retirees, and nature lovers drawn to island tranquility. Sunshine Coast Regional District's mild Mediterranean-like microclimate — the warmest in Canada creates both opportunities and challenges for local service providers\n\nWhen you choose {COMPANY_NAME} for {SERVICE} in Sunshine Coast Regional District, you're choosing a team that understands this community. We know the landmarks and landscapes of Sunshine Coast Regional District — and we know the neighborhoods, the terrain, and the people who live here.\n\nOur commitment to Sunshine Coast Regional District goes beyond transactions. We deliver {SERVICE} that reflects the standards this community expects — on time, on budget, and done right.\n\nWhether you're in Sunshine Coast Regional District's core or surrounding areas, {COMPANY_NAME} has you covered. Contact us at {PHONE} or visit {CTA_URL} to get started.",
+ "existing_Short_Description": "When Sunshine Coast Regional District property owners need {SERVICE}, they turn to providers who understand the local market. idyllic island and coastal communities accessible only by ferry or boat. {COMPANY_NAME} has been delivering top-tier {SERVICE} across Sunshine Coast Regional District, building trust one project at a time. With a population of approximately 33,000, Sunshine Coast Regional District is a market worth knowing. Don't settle for less — get the {BUSINESS_TYPE} that Sunshine Coast Regional District trusts.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Rain-shadow mildness on the southern Gulf Islands (among Canada's sunniest coastal spots); the Sunshine Coast lives up to its name with drier summers than Vancouver but still wet winters; everything is marine-exposed.",
+  "terrain": "An archipelago of forested islands in the Salish Sea and a mainland coast strip (the Sunshine Coast) reachable only by ferry or air despite being on the mainland; rocky shorelines, ferry-dependent logistics.",
+  "economy": "Tourism, arts communities, retirees, small-scale agriculture and aquaculture; ferry schedules shape all commerce; Salt Spring Island's Saturday Market and Powell River's converted mill economy are regional anchors.",
+  "building_stock": "Cottages and character homes, high-value waterfront properties, off-grid and rural systems (wells, septic), and older housing needing marine-climate upkeep; island logistics raise every project's complexity.",
+  "landmarks": [
+   "Salt Spring Island",
+   "Active Pass",
+   "Skookumchuck Narrows",
+   "Texada Island",
+   "BC Ferries routes"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Sechelt",
+   "slug": "sechelt-bc",
+   "km": 4
+  },
+  {
+   "name": "Halfmoon Bay",
+   "slug": "halfmoon-bay-bc",
+   "km": 8
+  },
+  {
+   "name": "Roberts Creek",
+   "slug": "roberts-creek-bc",
+   "km": 14
+  },
+  {
+   "name": "Madeira Park",
+   "slug": "madeira-park-bc",
+   "km": 21
+  },
+  {
+   "name": "Gibsons",
+   "slug": "gibsons-bc",
+   "km": 24
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Areas We Serve",
+  "slug": ""
+ }
+}

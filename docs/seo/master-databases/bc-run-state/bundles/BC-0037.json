@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0037",
+ "Location_Name": "Vernon",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Okanagan",
+ "Province": "British Columbia",
+ "Latitude": 50.267,
+ "Longitude": -119.272,
+ "FSA": "V1T",
+ "Population_2021_Census": 44519,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 297,
+ "Distance_From_Victoria_KM": 360,
+ "Unified_Score": 59.7,
+ "URL_Slug": "vernon-bc",
+ "existing_Entity_Description": "Vernon is a municipality in Okanagan, British Columbia, Canada, within the North Okanagan. As of the 2021 Canadian Census, Vernon had a population of 44,519. The community is situated in BC's sun-drenched wine country with stunning lake scenery and resort-style livin. a rapidly growing region with strong tourism and retirement appeal. The region features hot, dry summers and snowy winters — a four-season playground.",
+ "existing_Local_Facts": "• Population: 44,519 (2021 Census)\n• Region: Okanagan\n• Regional District: North Okanagan\n• Type: Municipality\n• Climate: hot, dry summers and snowy winters — a four-season playground\n• Character: wine touring, lake activities, skiing, and a thriving food scene\n• Distance from Vancouver: ~297 km",
+ "existing_Long_Description": "There's a reason Vernon keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nVernon is a community in Okanagan, British Columbia with a population of 44,519 (2021 Census) From those origins, Vernon has evolved into a community where a rapidly growing region with strong tourism and retirement appeal.\n\nThe Okanagan region is known for wine touring, lake activities, skiing, and a thriving food scene. Vernon's hot, dry summers and snowy winters — a four-season playground creates both opportunities and challenges for local service providers. This character defines what Vernon expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Vernon. We know that the landmarks and landscapes of Vernon — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 44,519, Vernon is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Vernon's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Vernon? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Every community has a story, and Vernon's is worth knowing. Vernon is a community in Okanagan, British Columbia with a population of 44,519 (2021 Census). Today, a rapidly growing region with strong tourism and retirement appeal. For {SERVICE}, that means working with a provider who understands the area's unique characteristics. {COMPANY_NAME} is that provider. With a population of approximately 44,519, Vernon is a market worth knowing. Let's get started — call {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Semi-arid interior climate: hot dry summers regularly topping 35°C, cold but comparatively dry winters, and one of Canada's longest growing seasons; wildfire smoke and interface fire risk are annual realities; irrigation is essential.",
+  "terrain": "A chain of long lakes (Okanagan, Skaha, Osoyoos) in a dry valley between the Thompson Plateau and Monashee ranges; benchland terraces of orchards and vineyards above the lakeshore.",
+  "economy": "Canada's premier wine region (180+ wineries) and historic orchard belt; Kelowna is BC's largest interior city with UBC Okanagan, Kelowna International Airport, tech and healthcare; tourism and retirement migration drive growth.",
+  "building_stock": "Lakeshore and view homes, vineyard and orchard acreages, fast-built post-2000 suburbs (West Kelowna, Lake Country), and older single-storey homes in Penticton and Vernon; stucco and dry-climate exteriors dominate.",
+  "landmarks": [
+   "Okanagan Lake",
+   "Myra Canyon trestles",
+   "Knox Mountain",
+   "Skaha Bluffs",
+   "Osoyoos Lake"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "North Okanagan Regional District",
+   "slug": "north-okanagan-regional-district-bc",
+   "km": 6
+  },
+  {
+   "name": "Coldstream",
+   "slug": "coldstream-bc",
+   "km": 9
+  },
+  {
+   "name": "Armstrong",
+   "slug": "armstrong-bc",
+   "km": 21
+  },
+  {
+   "name": "Spallumcheen",
+   "slug": "spallumcheen-bc",
+   "km": 21
+  },
+  {
+   "name": "Lake Country",
+   "slug": "lake-country-bc",
+   "km": 24
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Central Okanagan Regional District",
+  "slug": "central-okanagan-regional-district-bc"
+ }
+}

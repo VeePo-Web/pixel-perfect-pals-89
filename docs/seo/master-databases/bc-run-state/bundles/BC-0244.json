@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0244",
+ "Location_Name": "Willingdon Heights",
+ "Location_Type": "Neighborhood",
+ "Parent_Municipality": "Burnaby",
+ "Parent_Region": "Metro Vancouver",
+ "Province": "British Columbia",
+ "Latitude": 49.275,
+ "Longitude": -123.0083,
+ "FSA": null,
+ "Population_2021_Census": 12443,
+ "Population_Source": "GeoNames",
+ "Distance_From_Vancouver_KM": 8,
+ "Distance_From_Victoria_KM": 98,
+ "Unified_Score": 62.8,
+ "URL_Slug": "willingdon-heights-bc",
+ "existing_Entity_Description": "Willingdon Heights is a neighborhood in Metro Vancouver, British Columbia, Canada, within the Metro Vancouver. The community is situated in a vibrant, world-class metropolitan area where mountains meet the Pacific Ocean. one of Canada's most competitive markets with premium real estate values. The region features mild coastal climate with rainy winters and warm, dry summers.",
+ "existing_Local_Facts": "• Region: Metro Vancouver\n• Regional District: Metro Vancouver\n• Type: Neighborhood\n• Climate: mild coastal climate with rainy winters and warm, dry summers\n• Character: urban sophistication, cultural diversity, and unmatched access to nature",
+ "existing_Long_Description": "Willingdon Heights isn't just another location on a map — it's a community with a story that shapes everything, including the {SERVICE} it needs.\n\nWillingdon Heights is a distinctive neighborhood in Burnaby Today, with , Willingdon Heights stands as a key part of Metro Vancouver, Canada's third-largest metropolitan area.\n\none of Canada's most competitive markets with premium real estate values. This economic base creates specific demands for {SERVICE} — demands that only a knowledgeable local {BUSINESS_TYPE} can meet.\n\nThe Metro Vancouver region is known for urban sophistication, cultural diversity, and unmatched access to nature. Willingdon Heights's mild coastal climate with rainy winters and warm, dry summers creates both opportunities and challenges for local service providers\n\nWhen you choose {COMPANY_NAME} for {SERVICE} in Willingdon Heights, you're choosing a team that understands this community. We know the landmarks and landscapes of Willingdon Heights — and we know the neighborhoods, the terrain, and the people who live here.\n\nOur commitment to Willingdon Heights goes beyond transactions. We deliver {SERVICE} that reflects the standards this community expects — on time, on budget, and done right.\n\nWhether you're in Willingdon Heights's core or surrounding areas, {COMPANY_NAME} has you covered. Contact us at {PHONE} or visit {CTA_URL} to get started.",
+ "existing_Short_Description": "In Willingdon Heights, trust is earned through results. a vibrant, world-class metropolitan area where mountains meet the Pacific Ocean. This is a community that values quality, and {COMPANY_NAME} delivers nothing less with our {SERVICE}.  From initial consultation to final delivery, we treat every Willingdon Heights project like our reputation depends on it — because it does. Call {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Mild oceanic coastal climate: wet, mild winters (rain far more often than snow at sea level), warm dry summers; heavy November-March rainfall drives moisture, drainage and moss/algae issues on building exteriors; freeze-thaw is rare at sea level but real on the North Shore slopes.",
+  "terrain": "Delta and floodplain of the Fraser River meeting the Coast Mountains and the Salish Sea; North Shore municipalities climb steep forested mountain slopes; Richmond and Delta sit on low-lying river delta soils.",
+  "economy": "Canada's third-largest metropolitan economy: Port of Vancouver (Canada's largest port), film/TV production, tech, finance, construction and real estate; major institutions include UBC, SFU, Vancouver International Airport (YVR) in Richmond.",
+  "building_stock": "The widest mix in BC: pre-war character homes and Vancouver Specials, leaky-condo-era mid-rises now rehabilitated, glass high-rise towers, and large new master-planned suburbs (Surrey, Langley); strata-governed multi-family housing is a defining feature.",
+  "landmarks": [
+   "Stanley Park",
+   "Lions Gate Bridge",
+   "Grouse Mountain",
+   "Fraser River",
+   "Burrard Inlet"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Burnaby Heights",
+   "slug": "burnaby-heights-bc",
+   "km": 1
+  },
+  {
+   "name": "Renfrew Heights",
+   "slug": "renfrew-heights-bc",
+   "km": 3
+  },
+  {
+   "name": "Burnaby",
+   "slug": "burnaby-bc",
+   "km": 4
+  },
+  {
+   "name": "Tsleil-Waututh Nation",
+   "slug": "tsleil-waututh-nation-bc",
+   "km": 4
+  },
+  {
+   "name": "Government Road",
+   "slug": "government-road-bc",
+   "km": 5
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Metro Vancouver Regional District",
+  "slug": "metro-vancouver-regional-district-bc"
+ }
+}

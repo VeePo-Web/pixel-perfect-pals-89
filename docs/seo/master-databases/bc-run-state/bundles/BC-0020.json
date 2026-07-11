@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0020",
+ "Location_Name": "Langford",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Vancouver Island South",
+ "Province": "British Columbia",
+ "Latitude": 48.4477,
+ "Longitude": -123.5055,
+ "FSA": "V9B",
+ "Population_2021_Census": 46584,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 97,
+ "Distance_From_Victoria_KM": 11,
+ "Unified_Score": 68.4,
+ "URL_Slug": "langford-bc",
+ "existing_Entity_Description": "Langford is a municipality in Vancouver Island South, British Columbia, Canada, within the Capital. As of the 2021 Canadian Census, Langford had a population of 46,584. The community is situated in the beautiful southern tip of Vancouver Island, home to BC's capital city. a desirable retirement and lifestyle destination with steady service demand. The region features the mildest climate in Canada — Mediterranean-like with minimal snow.",
+ "existing_Local_Facts": "• Population: 46,584 (2021 Census)\n• Region: Vancouver Island South\n• Regional District: Capital\n• Type: Municipality\n• Climate: the mildest climate in Canada — Mediterranean-like with minimal snow\n• Character: heritage architecture, government sector employment, and island-pace living\n• Distance from Vancouver: ~97 km",
+ "existing_Long_Description": "There's a reason Langford keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nLangford is a community in Vancouver Island South, British Columbia with a population of 46,584 (2021 Census) From those origins, Langford has evolved into a community where a desirable retirement and lifestyle destination with steady service demand.\n\nThe Vancouver Island South region is known for heritage architecture, government sector employment, and island-pace living. Langford's the mildest climate in Canada — Mediterranean-like with minimal snow creates both opportunities and challenges for local service providers. This character defines what Langford expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Langford. We know that the landmarks and landscapes of Langford — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 46,584, Langford is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Langford's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Langford? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Looking for {SERVICE} in Langford? You've found the right {BUSINESS_TYPE}. the beautiful southern tip of Vancouver Island, home to BC's capital city. {COMPANY_NAME} matches that standard with professional {SERVICE} built for Langford's specific needs. With a population of approximately 46,584, Langford is a market worth knowing. See why Langford residents choose {COMPANY_NAME} — visit {CTA_URL} or call {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "The mildest climate in Canada: sub-Mediterranean pattern with dry summers and wet winters; Victoria sits in the Olympic Mountains rain shadow with roughly half Vancouver's rainfall; ocean salt air affects exposed exteriors.",
+  "terrain": "Rocky Salish Sea coastline, Garry oak meadows, and the Saanich Peninsula's farmland; the Malahat ridge separates Greater Victoria from the Cowichan Valley.",
+  "economy": "Provincial government (Victoria is BC's capital), CFB Esquimalt (Pacific naval base), University of Victoria, tourism, marine industries, and tech ('Tectoria').",
+  "building_stock": "Canada's oldest housing stock profile by share of pre-1960 homes: heritage Victorian and Edwardian houses, post-war bungalows in Saanich, condo towers in the core, and acreage properties up the peninsula.",
+  "landmarks": [
+   "BC Legislature",
+   "Inner Harbour",
+   "Butchart Gardens",
+   "Mount Douglas (PKOLS)",
+   "Saanich Peninsula"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Colwood",
+   "slug": "colwood-bc",
+   "km": 3
+  },
+  {
+   "name": "View Royal",
+   "slug": "view-royal-bc",
+   "km": 5
+  },
+  {
+   "name": "Highlands",
+   "slug": "highlands-bc",
+   "km": 5
+  },
+  {
+   "name": "Capital Regional District",
+   "slug": "capital-regional-district-bc",
+   "km": 6
+  },
+  {
+   "name": "Esquimalt",
+   "slug": "esquimalt-bc",
+   "km": 7
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Capital Regional District",
+  "slug": "capital-regional-district-bc"
+ }
+}

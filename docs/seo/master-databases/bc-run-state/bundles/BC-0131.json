@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0131",
+ "Location_Name": "Central Kootenay Regional District",
+ "Location_Type": "Regional District",
+ "Parent_Municipality": null,
+ "Parent_Region": "Kootenays",
+ "Province": "British Columbia",
+ "Latitude": 49.5,
+ "Longitude": -117.3,
+ "FSA": null,
+ "Population_2021_Census": 62000,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 422,
+ "Distance_From_Victoria_KM": 458,
+ "Unified_Score": 59.6,
+ "URL_Slug": "central-kootenay-regional-district-bc",
+ "existing_Entity_Description": "Central Kootenay Regional District is a regional district in Kootenays, British Columbia, Canada, within the Central Kootenay. As of the 2021 Canadian Census, Central Kootenay Regional District had a population of 62,000. The community is situated in a mountain paradise of tight-knit communities nestled between dramatic peaks and. a niche market with loyal local clientele and growing tourism. The region features snowy winters ideal for skiing and warm summers for lake activities.",
+ "existing_Local_Facts": "• Population: 62,000 (2021 Census)\n• Region: Kootenays\n• Regional District: Central Kootenay\n• Type: Regional District\n• Climate: snowy winters ideal for skiing and warm summers for lake activities\n• Character: independent mountain culture, arts communities, and world-class powder skiing\n• Distance from Vancouver: ~422 km",
+ "existing_Long_Description": "There's a reason Central Kootenay Regional District keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nThe Central Kootenay Regional District serves as the regional governance body for Kootenays with a population of 62,000 (2021 Census) From those origins, Central Kootenay Regional District has evolved into a community where a niche market with loyal local clientele and growing tourism.\n\nThe Kootenays region is known for independent mountain culture, arts communities, and world-class powder skiing. Central Kootenay Regional District's snowy winters ideal for skiing and warm summers for lake activities creates both opportunities and challenges for local service providers. This character defines what Central Kootenay Regional District expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Central Kootenay Regional District. We know that the landmarks and landscapes of Central Kootenay Regional District — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 62,000, Central Kootenay Regional District is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Central Kootenay Regional District's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Central Kootenay Regional District? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Central Kootenay Regional District isn't just another dot on the BC map — it's a mountain paradise of tight-knit communities nestled between dramatic peaks and. Every property and business here has unique needs, and cookie-cutter {SERVICE} won't cut it. {COMPANY_NAME} provides {SERVICE} tailored specifically for Central Kootenay Regional District's market. With a population of approximately 62,000, Central Kootenay Regional District is a market worth knowing. Ready to work with a {BUSINESS_TYPE} that knows Central Kootenay Regional District? Contact us today.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Interior mountain climate with heavy snowfall (the Powder Highway ski belt), wet-cold winters and warm summers; steep freeze-thaw cycling and snow-shed engineering; lake-moderated pockets around Nelson and Creston are gentler.",
+  "terrain": "Parallel north-south ranges (Selkirks, Purcells, Monashees, Rockies) separated by long lakes (Kootenay, Arrow, Slocan) and river valleys; communities cling to lakeshores and valley floors.",
+  "economy": "Teck's smelter at Trail (one of the world's largest zinc-lead smelters), mining heritage towns, forestry, hydro dams on the Columbia, ski tourism (Revelstoke, Fernie, Rossland), and Nelson's arts economy.",
+  "building_stock": "Some of BC's best-preserved heritage streetscapes (Nelson, Rossland, Fernie), miners' cottages, lakefront cabins, and mountain homes built for metres of snow.",
+  "landmarks": [
+   "Kootenay Lake",
+   "Columbia River dams",
+   "Red Mountain",
+   "Fernie Alpine Resort",
+   "Nelson's Baker Street"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Nelson",
+   "slug": "nelson-bc",
+   "km": 1
+  },
+  {
+   "name": "Castlegar",
+   "slug": "castlegar-bc",
+   "km": 32
+  },
+  {
+   "name": "Kootenay Boundary Regional District",
+   "slug": "kootenay-boundary-regional-district-bc",
+   "km": 53
+  },
+  {
+   "name": "Trail",
+   "slug": "trail-bc",
+   "km": 54
+  },
+  {
+   "name": "Cranbrook",
+   "slug": "cranbrook-bc",
+   "km": 111
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Columbia-Shuswap Regional District",
+  "slug": "columbia-shuswap-regional-district-bc"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0051",
+ "Location_Name": "Lake Country",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Okanagan",
+ "Province": "British Columbia",
+ "Latitude": 50.0722,
+ "Longitude": -119.4143,
+ "FSA": "V4V",
+ "Population_2021_Census": 15817,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 281,
+ "Distance_From_Victoria_KM": 340,
+ "Unified_Score": 57.1,
+ "URL_Slug": "lake-country-bc",
+ "existing_Entity_Description": "Lake Country is a municipality in Okanagan, British Columbia, Canada, within the Central Okanagan. As of the 2021 Canadian Census, Lake Country had a population of 15,817. The community is situated in BC's sun-drenched wine country with stunning lake scenery and resort-style livin. a rapidly growing region with strong tourism and retirement appeal. The region features hot, dry summers and snowy winters — a four-season playground.",
+ "existing_Local_Facts": "• Population: 15,817 (2021 Census)\n• Region: Okanagan\n• Regional District: Central Okanagan\n• Type: Municipality\n• Climate: hot, dry summers and snowy winters — a four-season playground\n• Character: wine touring, lake activities, skiing, and a thriving food scene\n• Distance from Vancouver: ~281 km",
+ "existing_Long_Description": "Lake Country isn't just another location on a map — it's a community with a story that shapes everything, including the {SERVICE} it needs.\n\nLake Country is a community in Okanagan, British Columbia with a population of 15,817 (2021 Census) Today, with With a population of approximately 15,817, Lake Country is a market worth knowing., Lake Country stands as part of the Okanagan — BC's wine and lake country.\n\na rapidly growing region with strong tourism and retirement appeal. This economic base creates specific demands for {SERVICE} — demands that only a knowledgeable local {BUSINESS_TYPE} can meet.\n\nThe Okanagan region is known for wine touring, lake activities, skiing, and a thriving food scene. Lake Country's hot, dry summers and snowy winters — a four-season playground creates both opportunities and challenges for local service providers\n\nWhen you choose {COMPANY_NAME} for {SERVICE} in Lake Country, you're choosing a team that understands this community. We know the landmarks and landscapes of Lake Country — and we know the neighborhoods, the terrain, and the people who live here.\n\nOur commitment to Lake Country goes beyond transactions. We deliver {SERVICE} that reflects the standards this community expects — on time, on budget, and done right.\n\nWhether you're in Lake Country's core or surrounding areas, {COMPANY_NAME} has you covered. Contact us at {PHONE} or visit {CTA_URL} to get started.",
+ "existing_Short_Description": "Lake Country deserves a {BUSINESS_TYPE} that shows up, delivers, and stands behind their work. a rapidly growing region with strong tourism and retirement appeal. {COMPANY_NAME} provides {SERVICE} with the professionalism and attention to detail that Lake Country expects. With a population of approximately 15,817, Lake Country is a market worth knowing. Request your free quote today at {CTA_URL}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Semi-arid interior climate: hot dry summers regularly topping 35°C, cold but comparatively dry winters, and one of Canada's longest growing seasons; wildfire smoke and interface fire risk are annual realities; irrigation is essential.",
+  "terrain": "A chain of long lakes (Okanagan, Skaha, Osoyoos) in a dry valley between the Thompson Plateau and Monashee ranges; benchland terraces of orchards and vineyards above the lakeshore.",
+  "economy": "Canada's premier wine region (180+ wineries) and historic orchard belt; Kelowna is BC's largest interior city with UBC Okanagan, Kelowna International Airport, tech and healthcare; tourism and retirement migration drive growth.",
+  "building_stock": "Lakeshore and view homes, vineyard and orchard acreages, fast-built post-2000 suburbs (West Kelowna, Lake Country), and older single-storey homes in Penticton and Vernon; stucco and dry-climate exteriors dominate.",
+  "landmarks": [
+   "Okanagan Lake",
+   "Myra Canyon trestles",
+   "Knox Mountain",
+   "Skaha Bluffs",
+   "Osoyoos Lake"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Central Okanagan Regional District",
+   "slug": "central-okanagan-regional-district-bc",
+   "km": 20
+  },
+  {
+   "name": "Kelowna",
+   "slug": "kelowna-bc",
+   "km": 21
+  },
+  {
+   "name": "Vernon",
+   "slug": "vernon-bc",
+   "km": 24
+  },
+  {
+   "name": "Coldstream",
+   "slug": "coldstream-bc",
+   "km": 24
+  },
+  {
+   "name": "West Kelowna",
+   "slug": "west-kelowna-bc",
+   "km": 26
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Central Okanagan Regional District",
+  "slug": "central-okanagan-regional-district-bc"
+ }
+}

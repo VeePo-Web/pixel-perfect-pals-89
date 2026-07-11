@@ -1,0 +1,45 @@
+{
+ "date": "2026-07-11",
+ "intended": 480,
+ "built": 181,
+ "needs_review_count": 1,
+ "deferred": 298,
+ "reconciliation_ok": true,
+ "defer_reasons": {
+  "no real census population": 90,
+  "unified score < 50": 161,
+  "no authoritative coords": 47
+ },
+ "needs_review": [
+  "BC-0358"
+ ],
+ "built_by_region": {
+  "Metro Vancouver": 43,
+  "Vancouver Island South": 18,
+  "Sea-to-Sky": 6,
+  "Okanagan": 22,
+  "Fraser Valley": 12,
+  "Vancouver Island Central & North": 40,
+  "Thompson-Nicola & Cariboo": 8,
+  "Northern BC - Prince George": 2,
+  "Gulf Islands & Sunshine Coast": 13,
+  "Kootenays": 9,
+  "Peace Region & Northeast": 3,
+  "Northern BC - Northwest": 5
+ },
+ "score_range_built": [
+  50,
+  80.6
+ ],
+ "defects": {
+  "duplicate_slugs": 0,
+  "double_curly": 0,
+  "duplicate_alts": 0,
+  "orphans": 0,
+  "missing_phone_cta": 0,
+  "opener_clashes": 0
+ },
+ "region_pages": 12,
+ "images": 181,
+ "sitemap_urls": 194
+}

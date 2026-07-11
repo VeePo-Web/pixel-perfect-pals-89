@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0153",
+ "Location_Name": "Spallumcheen",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Okanagan",
+ "Province": "British Columbia",
+ "Latitude": 50.4495,
+ "Longitude": -119.216,
+ "FSA": "V0E",
+ "Population_2021_Census": 5307,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 308,
+ "Distance_From_Victoria_KM": 375,
+ "Unified_Score": 54.1,
+ "URL_Slug": "spallumcheen-bc",
+ "existing_Entity_Description": "Spallumcheen is a municipality in Okanagan, British Columbia, Canada, within the North Okanagan. As of the 2021 Canadian Census, Spallumcheen had a population of 5,307. The community is situated in BC's sun-drenched wine country with stunning lake scenery and resort-style livin. a rapidly growing region with strong tourism and retirement appeal. The region features hot, dry summers and snowy winters — a four-season playground.",
+ "existing_Local_Facts": "• Population: 5,307 (2021 Census)\n• Region: Okanagan\n• Regional District: North Okanagan\n• Type: Municipality\n• Climate: hot, dry summers and snowy winters — a four-season playground\n• Character: wine touring, lake activities, skiing, and a thriving food scene\n• Distance from Vancouver: ~308 km",
+ "existing_Long_Description": "There's a reason Spallumcheen keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nSpallumcheen is a community in Okanagan, British Columbia with a population of 5,307 (2021 Census) From those origins, Spallumcheen has evolved into a community where a rapidly growing region with strong tourism and retirement appeal.\n\nThe Okanagan region is known for wine touring, lake activities, skiing, and a thriving food scene. Spallumcheen's hot, dry summers and snowy winters — a four-season playground creates both opportunities and challenges for local service providers. This character defines what Spallumcheen expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Spallumcheen. We know that the landmarks and landscapes of Spallumcheen — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 5,307, Spallumcheen is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Spallumcheen's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Spallumcheen? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Most {BUSINESS_TYPE} companies treat Spallumcheen like any other BC community. That's a mistake. Spallumcheen is a community in Okanagan, British Columbia with a population of 5,307 (2021 Census). This community has character, and your {SERVICE} provider should respect that. {COMPANY_NAME} brings local expertise and proven results to every Spallumcheen project. With a population of approximately 5,307, Spallumcheen is a market worth knowing. Call {PHONE} for a consultation.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Semi-arid interior climate: hot dry summers regularly topping 35°C, cold but comparatively dry winters, and one of Canada's longest growing seasons; wildfire smoke and interface fire risk are annual realities; irrigation is essential.",
+  "terrain": "A chain of long lakes (Okanagan, Skaha, Osoyoos) in a dry valley between the Thompson Plateau and Monashee ranges; benchland terraces of orchards and vineyards above the lakeshore.",
+  "economy": "Canada's premier wine region (180+ wineries) and historic orchard belt; Kelowna is BC's largest interior city with UBC Okanagan, Kelowna International Airport, tech and healthcare; tourism and retirement migration drive growth.",
+  "building_stock": "Lakeshore and view homes, vineyard and orchard acreages, fast-built post-2000 suburbs (West Kelowna, Lake Country), and older single-storey homes in Penticton and Vernon; stucco and dry-climate exteriors dominate.",
+  "landmarks": [
+   "Okanagan Lake",
+   "Myra Canyon trestles",
+   "Knox Mountain",
+   "Skaha Bluffs",
+   "Osoyoos Lake"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Armstrong",
+   "slug": "armstrong-bc",
+   "km": 1
+  },
+  {
+   "name": "North Okanagan Regional District",
+   "slug": "north-okanagan-regional-district-bc",
+   "km": 17
+  },
+  {
+   "name": "Vernon",
+   "slug": "vernon-bc",
+   "km": 21
+  },
+  {
+   "name": "Coldstream",
+   "slug": "coldstream-bc",
+   "km": 25
+  },
+  {
+   "name": "Salmon Arm",
+   "slug": "salmon-arm-bc",
+   "km": 28
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Central Okanagan Regional District",
+  "slug": "central-okanagan-regional-district-bc"
+ }
+}

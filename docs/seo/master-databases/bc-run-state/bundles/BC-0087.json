@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0087",
+ "Location_Name": "Summerland",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Okanagan",
+ "Province": "British Columbia",
+ "Latitude": 49.6004,
+ "Longitude": -119.6716,
+ "FSA": "V0H",
+ "Population_2021_Census": 12042,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 252,
+ "Distance_From_Victoria_KM": 299,
+ "Unified_Score": 57.4,
+ "URL_Slug": "summerland-bc",
+ "existing_Entity_Description": "Summerland is a municipality in Okanagan, British Columbia, Canada, within the Okanagan-Similkameen. As of the 2021 Canadian Census, Summerland had a population of 12,042. The community is situated in BC's sun-drenched wine country with stunning lake scenery and resort-style livin. a rapidly growing region with strong tourism and retirement appeal. The region features hot, dry summers and snowy winters — a four-season playground.",
+ "existing_Local_Facts": "• Population: 12,042 (2021 Census)\n• Region: Okanagan\n• Regional District: Okanagan-Similkameen\n• Type: Municipality\n• Climate: hot, dry summers and snowy winters — a four-season playground\n• Character: wine touring, lake activities, skiing, and a thriving food scene\n• Distance from Vancouver: ~252 km",
+ "existing_Long_Description": "Summerland isn't just another location on a map — it's a community with a story that shapes everything, including the {SERVICE} it needs.\n\nSummerland is a community in Okanagan, British Columbia with a population of 12,042 (2021 Census) Today, with With a population of approximately 12,042, Summerland is a market worth knowing., Summerland stands as part of the Okanagan — BC's wine and lake country.\n\na rapidly growing region with strong tourism and retirement appeal. This economic base creates specific demands for {SERVICE} — demands that only a knowledgeable local {BUSINESS_TYPE} can meet.\n\nThe Okanagan region is known for wine touring, lake activities, skiing, and a thriving food scene. Summerland's hot, dry summers and snowy winters — a four-season playground creates both opportunities and challenges for local service providers\n\nWhen you choose {COMPANY_NAME} for {SERVICE} in Summerland, you're choosing a team that understands this community. We know the landmarks and landscapes of Summerland — and we know the neighborhoods, the terrain, and the people who live here.\n\nOur commitment to Summerland goes beyond transactions. We deliver {SERVICE} that reflects the standards this community expects — on time, on budget, and done right.\n\nWhether you're in Summerland's core or surrounding areas, {COMPANY_NAME} has you covered. Contact us at {PHONE} or visit {CTA_URL} to get started.",
+ "existing_Short_Description": "If you're searching for {SERVICE} in Summerland, stop scrolling. BC's sun-drenched wine country with stunning lake scenery and resort-style living. That's exactly why {COMPANY_NAME} has invested in understanding this community. We know the neighborhoods, the landscape, and what Summerland residents actually need. With a population of approximately 12,042, Summerland is a market worth knowing. Get a free estimate at {CTA_URL}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Semi-arid interior climate: hot dry summers regularly topping 35°C, cold but comparatively dry winters, and one of Canada's longest growing seasons; wildfire smoke and interface fire risk are annual realities; irrigation is essential.",
+  "terrain": "A chain of long lakes (Okanagan, Skaha, Osoyoos) in a dry valley between the Thompson Plateau and Monashee ranges; benchland terraces of orchards and vineyards above the lakeshore.",
+  "economy": "Canada's premier wine region (180+ wineries) and historic orchard belt; Kelowna is BC's largest interior city with UBC Okanagan, Kelowna International Airport, tech and healthcare; tourism and retirement migration drive growth.",
+  "building_stock": "Lakeshore and view homes, vineyard and orchard acreages, fast-built post-2000 suburbs (West Kelowna, Lake Country), and older single-storey homes in Penticton and Vernon; stucco and dry-climate exteriors dominate.",
+  "landmarks": [
+   "Okanagan Lake",
+   "Myra Canyon trestles",
+   "Knox Mountain",
+   "Skaha Bluffs",
+   "Osoyoos Lake"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Penticton",
+   "slug": "penticton-bc",
+   "km": 13
+  },
+  {
+   "name": "Peachland",
+   "slug": "peachland-bc",
+   "km": 20
+  },
+  {
+   "name": "Westbank",
+   "slug": "westbank-bc",
+   "km": 26
+  },
+  {
+   "name": "Westbank First Nation (WFN)",
+   "slug": "westbank-first-nation-wfn-bc",
+   "km": 26
+  },
+  {
+   "name": "Okanagan Mission",
+   "slug": "okanagan-mission-bc",
+   "km": 28
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Central Okanagan Regional District",
+  "slug": "central-okanagan-regional-district-bc"
+ }
+}

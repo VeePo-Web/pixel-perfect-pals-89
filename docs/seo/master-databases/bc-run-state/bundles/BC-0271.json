@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0271",
+ "Location_Name": "Vic West",
+ "Location_Type": "Neighborhood",
+ "Parent_Municipality": "Victoria",
+ "Parent_Region": "Vancouver Island South",
+ "Province": "British Columbia",
+ "Latitude": 48.4319,
+ "Longitude": -123.3821,
+ "FSA": null,
+ "Population_2021_Census": 8365,
+ "Population_Source": "GeoNames",
+ "Distance_From_Vancouver_KM": 97,
+ "Distance_From_Victoria_KM": 1,
+ "Unified_Score": 62.2,
+ "URL_Slug": "vic-west-bc",
+ "existing_Entity_Description": "Vic West is a neighborhood in Vancouver Island South, British Columbia, Canada, within the Capital. The community is situated in the beautiful southern tip of Vancouver Island, home to BC's capital city. a desirable retirement and lifestyle destination with steady service demand. The region features the mildest climate in Canada — Mediterranean-like with minimal snow.",
+ "existing_Local_Facts": "• Region: Vancouver Island South\n• Regional District: Capital\n• Type: Neighborhood\n• Climate: the mildest climate in Canada — Mediterranean-like with minimal snow\n• Character: heritage architecture, government sector employment, and island-pace living",
+ "existing_Long_Description": "Vic West isn't just another location on a map — it's a community with a story that shapes everything, including the {SERVICE} it needs.\n\nVic West is a distinctive neighborhood in Victoria Today, with , Vic West stands as part of Greater Victoria, BC's capital region.\n\na desirable retirement and lifestyle destination with steady service demand. This economic base creates specific demands for {SERVICE} — demands that only a knowledgeable local {BUSINESS_TYPE} can meet.\n\nThe Vancouver Island South region is known for heritage architecture, government sector employment, and island-pace living. Vic West's the mildest climate in Canada — Mediterranean-like with minimal snow creates both opportunities and challenges for local service providers\n\nWhen you choose {COMPANY_NAME} for {SERVICE} in Vic West, you're choosing a team that understands this community. We know the landmarks and landscapes of Vic West — and we know the neighborhoods, the terrain, and the people who live here.\n\nOur commitment to Vic West goes beyond transactions. We deliver {SERVICE} that reflects the standards this community expects — on time, on budget, and done right.\n\nWhether you're in Vic West's core or surrounding areas, {COMPANY_NAME} has you covered. Contact us at {PHONE} or visit {CTA_URL} to get started.",
+ "existing_Short_Description": "If you're searching for {SERVICE} in Vic West, stop scrolling. the beautiful southern tip of Vancouver Island, home to BC's capital city. That's exactly why {COMPANY_NAME} has invested in understanding this community. We know the neighborhoods, the landscape, and what Vic West residents actually need.  Get a free estimate at {CTA_URL}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "The mildest climate in Canada: sub-Mediterranean pattern with dry summers and wet winters; Victoria sits in the Olympic Mountains rain shadow with roughly half Vancouver's rainfall; ocean salt air affects exposed exteriors.",
+  "terrain": "Rocky Salish Sea coastline, Garry oak meadows, and the Saanich Peninsula's farmland; the Malahat ridge separates Greater Victoria from the Cowichan Valley.",
+  "economy": "Provincial government (Victoria is BC's capital), CFB Esquimalt (Pacific naval base), University of Victoria, tourism, marine industries, and tech ('Tectoria').",
+  "building_stock": "Canada's oldest housing stock profile by share of pre-1960 homes: heritage Victorian and Edwardian houses, post-war bungalows in Saanich, condo towers in the core, and acreage properties up the peninsula.",
+  "landmarks": [
+   "BC Legislature",
+   "Inner Harbour",
+   "Butchart Gardens",
+   "Mount Douglas (PKOLS)",
+   "Saanich Peninsula"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Victoria",
+   "slug": "victoria-bc",
+   "km": 1
+  },
+  {
+   "name": "Esquimalt",
+   "slug": "esquimalt-bc",
+   "km": 2
+  },
+  {
+   "name": "View Royal",
+   "slug": "view-royal-bc",
+   "km": 4
+  },
+  {
+   "name": "Oak Bay",
+   "slug": "oak-bay-bc",
+   "km": 5
+  },
+  {
+   "name": "Saanich",
+   "slug": "saanich-bc",
+   "km": 6
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Capital Regional District",
+  "slug": "capital-regional-district-bc"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0063",
+ "Location_Name": "Qualicum Beach",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Vancouver Island Central & North",
+ "Province": "British Columbia",
+ "Latitude": 49.348,
+ "Longitude": -124.4342,
+ "FSA": "V9K",
+ "Population_2021_Census": 9303,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 95,
+ "Distance_From_Victoria_KM": 129,
+ "Unified_Score": 61.6,
+ "URL_Slug": "qualicum-beach-bc",
+ "existing_Entity_Description": "Qualicum Beach is a municipality in Vancouver Island Central & North, British Columbia, Canada, within the Nanaimo. As of the 2021 Canadian Census, Qualicum Beach had a population of 9,303. The community is situated in a stunning mix of coastal communities, old-growth forests, and rugged Pacific sh. a growing tourism economy with seasonal peaks in summer. The region features mild coastal climate tempered by the Pacific with abundant rainfall.",
+ "existing_Local_Facts": "• Population: 9,303 (2021 Census)\n• Region: Vancouver Island Central & North\n• Regional District: Nanaimo\n• Type: Municipality\n• Climate: mild coastal climate tempered by the Pacific with abundant rainfall\n• Character: outdoor recreation paradise — surfing, fishing, hiking, and wildlife viewing\n• Distance from Vancouver: ~95 km",
+ "existing_Long_Description": "Qualicum Beach isn't just another location on a map — it's a community with a story that shapes everything, including the {SERVICE} it needs.\n\nQualicum Beach is a community in Vancouver Island Central & North, British Columbia with a population of 9,303 (2021 Census) Today, with With a population of approximately 9,303, Qualicum Beach is a market worth knowing., Qualicum Beach stands as a vital community on Vancouver Island.\n\na growing tourism economy with seasonal peaks in summer. This economic base creates specific demands for {SERVICE} — demands that only a knowledgeable local {BUSINESS_TYPE} can meet.\n\nThe Vancouver Island Central & North region is known for outdoor recreation paradise — surfing, fishing, hiking, and wildlife viewing. Qualicum Beach's mild coastal climate tempered by the Pacific with abundant rainfall creates both opportunities and challenges for local service providers\n\nWhen you choose {COMPANY_NAME} for {SERVICE} in Qualicum Beach, you're choosing a team that understands this community. We know the landmarks and landscapes of Qualicum Beach — and we know the neighborhoods, the terrain, and the people who live here.\n\nOur commitment to Qualicum Beach goes beyond transactions. We deliver {SERVICE} that reflects the standards this community expects — on time, on budget, and done right.\n\nWhether you're in Qualicum Beach's core or surrounding areas, {COMPANY_NAME} has you covered. Contact us at {PHONE} or visit {CTA_URL} to get started.",
+ "existing_Short_Description": "When Qualicum Beach property owners need {SERVICE}, they turn to providers who understand the local market. a stunning mix of coastal communities, old-growth forests, and rugged Pacific shoreline. {COMPANY_NAME} has been delivering top-tier {SERVICE} across Qualicum Beach, building trust one project at a time. With a population of approximately 9,303, Qualicum Beach is a market worth knowing. Don't settle for less — get the {BUSINESS_TYPE} that Qualicum Beach trusts.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Wet coastal temperate rainforest climate, wetter and windier moving north and to the outer coast; Tofino/Ucluelet face open-Pacific storms (storm-watching season); inland east-coast communities like the Comox Valley are drier and sunnier.",
+  "terrain": "The Vancouver Island Ranges spine, old-growth rainforest, long fjords and inlets, and the sheltered east-coast plain along the Strait of Georgia where most communities sit.",
+  "economy": "Forestry heritage transitioning to aquaculture, tourism, retirees and remote work; Nanaimo is the island's transport hub (two ferry terminals to the mainland); Comox hosts CFB Comox; Port Alberni, Campbell River and Port Hardy anchor resource industries.",
+  "building_stock": "Post-war mill-town houses, 1970s-90s ranchers, waterfront and view homes, and fast-growing retirement-driven subdivisions in Nanaimo, Parksville-Qualicum and the Comox Valley.",
+  "landmarks": [
+   "Strait of Georgia",
+   "Pacific Rim National Park Reserve",
+   "Mount Washington",
+   "Alberni Inlet",
+   "Departure Bay"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Parksville",
+   "slug": "parksville-bc",
+   "km": 9
+  },
+  {
+   "name": "Errington",
+   "slug": "errington-bc",
+   "km": 9
+  },
+  {
+   "name": "Nanoose Bay",
+   "slug": "nanoose-bay-bc",
+   "km": 19
+  },
+  {
+   "name": "Hornby Island",
+   "slug": "hornby-island-bc",
+   "km": 27
+  },
+  {
+   "name": "Lantzville",
+   "slug": "lantzville-bc",
+   "km": 28
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Nanaimo Regional District",
+  "slug": "nanaimo-regional-district-bc"
+ }
+}

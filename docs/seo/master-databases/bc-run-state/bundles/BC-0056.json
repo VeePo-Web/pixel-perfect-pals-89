@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0056",
+ "Location_Name": "Revelstoke",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Kootenays",
+ "Province": "British Columbia",
+ "Latitude": 50.9981,
+ "Longitude": -118.1957,
+ "FSA": "V0E",
+ "Population_2021_Census": 8275,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 399,
+ "Distance_From_Victoria_KM": 469,
+ "Unified_Score": 52.3,
+ "URL_Slug": "revelstoke-bc",
+ "existing_Entity_Description": "Revelstoke is a municipality in Kootenays, British Columbia, Canada, within the Columbia-Shuswap. As of the 2021 Canadian Census, Revelstoke had a population of 8,275. The community is situated in a mountain paradise of tight-knit communities nestled between dramatic peaks and. a niche market with loyal local clientele and growing tourism. The region features snowy winters ideal for skiing and warm summers for lake activities.",
+ "existing_Local_Facts": "• Population: 8,275 (2021 Census)\n• Region: Kootenays\n• Regional District: Columbia-Shuswap\n• Type: Municipality\n• Climate: snowy winters ideal for skiing and warm summers for lake activities\n• Character: independent mountain culture, arts communities, and world-class powder skiing\n• Distance from Vancouver: ~399 km",
+ "existing_Long_Description": "Revelstoke isn't just another location on a map — it's a community with a story that shapes everything, including the {SERVICE} it needs.\n\nRevelstoke is a community in Kootenays, British Columbia with a population of 8,275 (2021 Census) Today, with With a population of approximately 8,275, Revelstoke is a market worth knowing., Revelstoke stands as a mountain community in the stunning Kootenay region.\n\na niche market with loyal local clientele and growing tourism. This economic base creates specific demands for {SERVICE} — demands that only a knowledgeable local {BUSINESS_TYPE} can meet.\n\nThe Kootenays region is known for independent mountain culture, arts communities, and world-class powder skiing. Revelstoke's snowy winters ideal for skiing and warm summers for lake activities creates both opportunities and challenges for local service providers\n\nWhen you choose {COMPANY_NAME} for {SERVICE} in Revelstoke, you're choosing a team that understands this community. We know the landmarks and landscapes of Revelstoke — and we know the neighborhoods, the terrain, and the people who live here.\n\nOur commitment to Revelstoke goes beyond transactions. We deliver {SERVICE} that reflects the standards this community expects — on time, on budget, and done right.\n\nWhether you're in Revelstoke's core or surrounding areas, {COMPANY_NAME} has you covered. Contact us at {PHONE} or visit {CTA_URL} to get started.",
+ "existing_Short_Description": "Revelstoke deserves a {BUSINESS_TYPE} that shows up, delivers, and stands behind their work. a niche market with loyal local clientele and growing tourism. {COMPANY_NAME} provides {SERVICE} with the professionalism and attention to detail that Revelstoke expects. With a population of approximately 8,275, Revelstoke is a market worth knowing. Request your free quote today at {CTA_URL}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Interior mountain climate with heavy snowfall (the Powder Highway ski belt), wet-cold winters and warm summers; steep freeze-thaw cycling and snow-shed engineering; lake-moderated pockets around Nelson and Creston are gentler.",
+  "terrain": "Parallel north-south ranges (Selkirks, Purcells, Monashees, Rockies) separated by long lakes (Kootenay, Arrow, Slocan) and river valleys; communities cling to lakeshores and valley floors.",
+  "economy": "Teck's smelter at Trail (one of the world's largest zinc-lead smelters), mining heritage towns, forestry, hydro dams on the Columbia, ski tourism (Revelstoke, Fernie, Rossland), and Nelson's arts economy.",
+  "building_stock": "Some of BC's best-preserved heritage streetscapes (Nelson, Rossland, Fernie), miners' cottages, lakefront cabins, and mountain homes built for metres of snow.",
+  "landmarks": [
+   "Kootenay Lake",
+   "Columbia River dams",
+   "Red Mountain",
+   "Fernie Alpine Resort",
+   "Nelson's Baker Street"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Columbia-Shuswap Regional District",
+   "slug": "columbia-shuswap-regional-district-bc",
+   "km": 14
+  },
+  {
+   "name": "Salmon Arm",
+   "slug": "salmon-arm-bc",
+   "km": 82
+  },
+  {
+   "name": "Armstrong",
+   "slug": "armstrong-bc",
+   "km": 93
+  },
+  {
+   "name": "Spallumcheen",
+   "slug": "spallumcheen-bc",
+   "km": 94
+  },
+  {
+   "name": "North Okanagan Regional District",
+   "slug": "north-okanagan-regional-district-bc",
+   "km": 105
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Columbia-Shuswap Regional District",
+  "slug": "columbia-shuswap-regional-district-bc"
+ }
+}

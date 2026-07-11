@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0137",
+ "Location_Name": "Squamish-Lillooet Regional District",
+ "Location_Type": "Regional District",
+ "Parent_Municipality": null,
+ "Parent_Region": "Sea-to-Sky",
+ "Province": "British Columbia",
+ "Latitude": 50.3,
+ "Longitude": -122.8,
+ "FSA": null,
+ "Population_2021_Census": 45000,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 115,
+ "Distance_From_Victoria_KM": 212,
+ "Unified_Score": 68.2,
+ "URL_Slug": "squamish-lillooet-regional-district-bc",
+ "existing_Entity_Description": "Squamish-Lillooet Regional District is a regional district in Sea-to-Sky, British Columbia, Canada, within the Squamish-Lillooet. As of the 2021 Canadian Census, Squamish-Lillooet Regional District had a population of 45,000. The community is situated in the world-famous Sea-to-Sky corridor from Vancouver to Whistler and beyond. an international tourism destination with premium pricing potential. The region features coastal-mountain climate with legendary snowfalls at elevation.",
+ "existing_Local_Facts": "• Population: 45,000 (2021 Census)\n• Region: Sea-to-Sky\n• Regional District: Squamish-Lillooet\n• Type: Regional District\n• Climate: coastal-mountain climate with legendary snowfalls at elevation\n• Character: world-class skiing, mountain biking, rock climbing, and outdoor adventure\n• Distance from Vancouver: ~115 km",
+ "existing_Long_Description": "There's a reason Squamish-Lillooet Regional District keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nThe Squamish-Lillooet Regional District serves as the regional governance body for Sea-to-Sky with a population of 45,000 (2021 Census) From those origins, Squamish-Lillooet Regional District has evolved into a community where an international tourism destination with premium pricing potential.\n\nThe Sea-to-Sky region is known for world-class skiing, mountain biking, rock climbing, and outdoor adventure. Squamish-Lillooet Regional District's coastal-mountain climate with legendary snowfalls at elevation creates both opportunities and challenges for local service providers. This character defines what Squamish-Lillooet Regional District expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Squamish-Lillooet Regional District. We know that the landmarks and landscapes of Squamish-Lillooet Regional District — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 45,000, Squamish-Lillooet Regional District is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Squamish-Lillooet Regional District's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Squamish-Lillooet Regional District? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "What makes Squamish-Lillooet Regional District different from every other BC community? the world-famous Sea-to-Sky corridor from Vancouver to Whistler and beyond. That uniqueness demands a {BUSINESS_TYPE} that pays attention. {COMPANY_NAME} delivers {SERVICE} customized for Squamish-Lillooet Regional District's market — not generic solutions. With a population of approximately 45,000, Squamish-Lillooet Regional District is a market worth knowing. Experience the difference — call {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Steep climate gradient in 120 km: mild wet coastal at Squamish to alpine snow country at Whistler; heavy winter snow loads and freeze-thaw at elevation; intense short building seasons up-corridor.",
+  "terrain": "The Sea-to-Sky Highway (Highway 99) corridor from Howe Sound fjord through the Coast Mountains: granite walls (the Stawamus Chief), glacier-fed rivers, and alpine terrain around Whistler and Pemberton.",
+  "economy": "Whistler Blackcomb (North America's largest ski resort) drives a four-season tourism economy; Squamish is one of BC's fastest-growing municipalities with an outdoor-recreation and commuter economy; Pemberton anchors farming (famous seed potatoes).",
+  "building_stock": "Alpine chalets and lodges built for snow load, resort strata condos in Whistler, and new family subdivisions in Squamish; Pemberton mixes farm properties and new development.",
+  "landmarks": [
+   "Stawamus Chief",
+   "Whistler Blackcomb",
+   "Howe Sound",
+   "Shannon Falls",
+   "Highway 99 (Sea-to-Sky Highway)"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Pemberton",
+   "slug": "pemberton-bc",
+   "km": 2
+  },
+  {
+   "name": "Whistler",
+   "slug": "whistler-bc",
+   "km": 23
+  },
+  {
+   "name": "Squamish",
+   "slug": "squamish-bc",
+   "km": 71
+  },
+  {
+   "name": "Lillooet",
+   "slug": "lillooet-bc",
+   "km": 74
+  },
+  {
+   "name": "Britannia Beach",
+   "slug": "britannia-beach-bc",
+   "km": 80
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Areas We Serve",
+  "slug": ""
+ }
+}

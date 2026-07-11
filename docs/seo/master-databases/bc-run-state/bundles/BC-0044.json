@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0044",
+ "Location_Name": "Mission",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Fraser Valley",
+ "Province": "British Columbia",
+ "Latitude": 49.1337,
+ "Longitude": -122.3096,
+ "FSA": "V2V",
+ "Population_2021_Census": 41519,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 61,
+ "Distance_From_Victoria_KM": 110,
+ "Unified_Score": 66.7,
+ "URL_Slug": "mission-bc",
+ "existing_Entity_Description": "Mission is a municipality in Fraser Valley, British Columbia, Canada, within the Fraser Valley. As of the 2021 Canadian Census, Mission had a population of 41,519. The community is situated in fertile farmland meets suburban growth in the shadow of the Coast Mountains. one of BC's fastest-growing regions with rising service demand. The region features rainy but mild winters with warm, pleasant summers.",
+ "existing_Local_Facts": "• Population: 41,519 (2021 Census)\n• Region: Fraser Valley\n• Regional District: Fraser Valley\n• Type: Municipality\n• Climate: rainy but mild winters with warm, pleasant summers\n• Character: family-oriented suburban living with agricultural heritage and outdoor access\n• Distance from Vancouver: ~61 km",
+ "existing_Long_Description": "There's a reason Mission keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nMission is a community in Fraser Valley, British Columbia with a population of 41,519 (2021 Census) From those origins, Mission has evolved into a community where one of BC's fastest-growing regions with rising service demand.\n\nThe Fraser Valley region is known for family-oriented suburban living with agricultural heritage and outdoor access. Mission's rainy but mild winters with warm, pleasant summers creates both opportunities and challenges for local service providers. This character defines what Mission expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Mission. We know that the landmarks and landscapes of Mission — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 41,519, Mission is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Mission's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Mission? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Most {BUSINESS_TYPE} companies treat Mission like any other BC community. That's a mistake. Mission is a community in Fraser Valley, British Columbia with a population of 41,519 (2021 Census). This community has character, and your {SERVICE} provider should respect that. {COMPANY_NAME} brings local expertise and proven results to every Mission project. With a population of approximately 41,519, Mission is a market worth knowing. Call {PHONE} for a consultation.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Coastal climate with more temperature range than Metro Vancouver: heavier winter rain, occasional outflow freezes and snow events, hot summers; the November 2021 atmospheric-river flooding of the Sumas Prairie made valley drainage a household topic.",
+  "terrain": "Broad, fertile Fraser River floodplain framed by the Cascade and Coast mountains; Sumas Prairie reclaimed lakebed; steep slopes above Chilliwack and Hope.",
+  "economy": "BC's agricultural heartland: dairy, berries (Abbotsford calls itself the Raspberry Capital of Canada), poultry; plus aerospace at Abbotsford International Airport, manufacturing, and rapid residential growth along Highway 1.",
+  "building_stock": "Farmhouses and rural acreages, big post-2000 suburban subdivisions in Abbotsford and Chilliwack, and new multi-family districts around urban centres; many properties on well and septic outside city cores.",
+  "landmarks": [
+   "Fraser River",
+   "Sumas Prairie",
+   "Cultus Lake",
+   "Mount Cheam",
+   "Abbotsford International Airport"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Abbotsford",
+   "slug": "abbotsford-bc",
+   "km": 9
+  },
+  {
+   "name": "Langley (City)",
+   "slug": "langley-city-bc",
+   "km": 19
+  },
+  {
+   "name": "Yarrow",
+   "slug": "yarrow-bc",
+   "km": 20
+  },
+  {
+   "name": "Maple Ridge",
+   "slug": "maple-ridge-bc",
+   "km": 23
+  },
+  {
+   "name": "Fraser Valley Regional District",
+   "slug": "fraser-valley-regional-district-bc",
+   "km": 23
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Fraser Valley Regional District",
+  "slug": "fraser-valley-regional-district-bc"
+ }
+}

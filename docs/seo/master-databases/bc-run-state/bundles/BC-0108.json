@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0108",
+ "Location_Name": "Okanagan-Similkameen Regional District",
+ "Location_Type": "Regional District",
+ "Parent_Municipality": null,
+ "Parent_Region": "Okanagan",
+ "Province": "British Columbia",
+ "Latitude": 49.3,
+ "Longitude": -119.6,
+ "FSA": null,
+ "Population_2021_Census": 88000,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 255,
+ "Distance_From_Victoria_KM": 292,
+ "Unified_Score": 65.4,
+ "URL_Slug": "okanagan-similkameen-regional-district-bc",
+ "existing_Entity_Description": "Okanagan-Similkameen Regional District is a regional district in Okanagan, British Columbia, Canada, within the Okanagan-Similkameen. As of the 2021 Canadian Census, Okanagan-Similkameen Regional District had a population of 88,000. The community is situated in BC's sun-drenched wine country with stunning lake scenery and resort-style livin. a rapidly growing region with strong tourism and retirement appeal. The region features hot, dry summers and snowy winters — a four-season playground.",
+ "existing_Local_Facts": "• Population: 88,000 (2021 Census)\n• Region: Okanagan\n• Regional District: Okanagan-Similkameen\n• Type: Regional District\n• Climate: hot, dry summers and snowy winters — a four-season playground\n• Character: wine touring, lake activities, skiing, and a thriving food scene\n• Distance from Vancouver: ~255 km",
+ "existing_Long_Description": "There's a reason Okanagan-Similkameen Regional District keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nThe Okanagan-Similkameen Regional District serves as the regional governance body for Okanagan with a population of 88,000 (2021 Census) From those origins, Okanagan-Similkameen Regional District has evolved into a community where a rapidly growing region with strong tourism and retirement appeal.\n\nThe Okanagan region is known for wine touring, lake activities, skiing, and a thriving food scene. Okanagan-Similkameen Regional District's hot, dry summers and snowy winters — a four-season playground creates both opportunities and challenges for local service providers. This character defines what Okanagan-Similkameen Regional District expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Okanagan-Similkameen Regional District. We know that the landmarks and landscapes of Okanagan-Similkameen Regional District — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 88,000, Okanagan-Similkameen Regional District is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Okanagan-Similkameen Regional District's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Okanagan-Similkameen Regional District? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Okanagan-Similkameen Regional District isn't just another dot on the BC map — it's BC's sun-drenched wine country with stunning lake scenery and resort-style livin. Every property and business here has unique needs, and cookie-cutter {SERVICE} won't cut it. {COMPANY_NAME} provides {SERVICE} tailored specifically for Okanagan-Similkameen Regional District's market. With a population of approximately 88,000, Okanagan-Similkameen Regional District is a market worth knowing. Ready to work with a {BUSINESS_TYPE} that knows Okanagan-Similkameen Regional District? Contact us today.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Semi-arid interior climate: hot dry summers regularly topping 35°C, cold but comparatively dry winters, and one of Canada's longest growing seasons; wildfire smoke and interface fire risk are annual realities; irrigation is essential.",
+  "terrain": "A chain of long lakes (Okanagan, Skaha, Osoyoos) in a dry valley between the Thompson Plateau and Monashee ranges; benchland terraces of orchards and vineyards above the lakeshore.",
+  "economy": "Canada's premier wine region (180+ wineries) and historic orchard belt; Kelowna is BC's largest interior city with UBC Okanagan, Kelowna International Airport, tech and healthcare; tourism and retirement migration drive growth.",
+  "building_stock": "Lakeshore and view homes, vineyard and orchard acreages, fast-built post-2000 suburbs (West Kelowna, Lake Country), and older single-storey homes in Penticton and Vernon; stucco and dry-climate exteriors dominate.",
+  "landmarks": [
+   "Okanagan Lake",
+   "Myra Canyon trestles",
+   "Knox Mountain",
+   "Skaha Bluffs",
+   "Osoyoos Lake"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Oliver",
+   "slug": "oliver-bc",
+   "km": 13
+  },
+  {
+   "name": "Keremeos",
+   "slug": "keremeos-bc",
+   "km": 20
+  },
+  {
+   "name": "Penticton",
+   "slug": "penticton-bc",
+   "km": 22
+  },
+  {
+   "name": "Osoyoos",
+   "slug": "osoyoos-bc",
+   "km": 31
+  },
+  {
+   "name": "Summerland",
+   "slug": "summerland-bc",
+   "km": 34
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Central Okanagan Regional District",
+  "slug": "central-okanagan-regional-district-bc"
+ }
+}

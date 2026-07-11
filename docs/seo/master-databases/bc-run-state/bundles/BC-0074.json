@@ -1,0 +1,67 @@
+{
+ "Location_ID": "BC-0074",
+ "Location_Name": "Ucluelet",
+ "Location_Type": "Municipality",
+ "Parent_Municipality": null,
+ "Parent_Region": "Vancouver Island Central & North",
+ "Province": "British Columbia",
+ "Latitude": 48.9424,
+ "Longitude": -125.5464,
+ "FSA": "V0R",
+ "Population_2021_Census": 2059,
+ "Population_Source": "StatsCan 2021 Census",
+ "Distance_From_Vancouver_KM": 181,
+ "Distance_From_Victoria_KM": 170,
+ "Unified_Score": 53.3,
+ "URL_Slug": "ucluelet-bc",
+ "existing_Entity_Description": "Ucluelet is a municipality in Vancouver Island Central & North, British Columbia, Canada, within the Alberni-Clayoquot. As of the 2021 Canadian Census, Ucluelet had a population of 2,059. The community is situated in a stunning mix of coastal communities, old-growth forests, and rugged Pacific sh. a growing tourism economy with seasonal peaks in summer. The region features mild coastal climate tempered by the Pacific with abundant rainfall.",
+ "existing_Local_Facts": "• Population: 2,059 (2021 Census)\n• Region: Vancouver Island Central & North\n• Regional District: Alberni-Clayoquot\n• Type: Municipality\n• Climate: mild coastal climate tempered by the Pacific with abundant rainfall\n• Character: outdoor recreation paradise — surfing, fishing, hiking, and wildlife viewing\n• Distance from Vancouver: ~181 km",
+ "existing_Long_Description": "There's a reason Ucluelet keeps attracting people — and it's the same reason you need a {BUSINESS_TYPE} who truly knows this market.\n\nUcluelet is a community in Vancouver Island Central & North, British Columbia with a population of 2,059 (2021 Census) From those origins, Ucluelet has evolved into a community where a growing tourism economy with seasonal peaks in summer.\n\nThe Vancouver Island Central & North region is known for outdoor recreation paradise — surfing, fishing, hiking, and wildlife viewing. Ucluelet's mild coastal climate tempered by the Pacific with abundant rainfall creates both opportunities and challenges for local service providers. This character defines what Ucluelet expects from its {SERVICE} providers: quality, reliability, and genuine local knowledge.\n\n{COMPANY_NAME} has built our {SERVICE} practice around understanding communities like Ucluelet. We know that the landmarks and landscapes of Ucluelet — these aren't just landmarks, they're part of what makes this community worth serving well.\n\nWith a population of approximately 2,059, Ucluelet is a market worth knowing. \n\nFrom residential properties to commercial projects, {COMPANY_NAME} delivers {SERVICE} that meets Ucluelet's standards. Our team combines professional expertise with local market knowledge to ensure every project exceeds expectations.\n\nReady to experience {SERVICE} done right in Ucluelet? Call {COMPANY_NAME} at {PHONE} or request a free estimate at {CTA_URL}.",
+ "existing_Short_Description": "Looking for {SERVICE} in Ucluelet? You've found the right {BUSINESS_TYPE}. a stunning mix of coastal communities, old-growth forests, and rugged Pacific shoreline. {COMPANY_NAME} matches that standard with professional {SERVICE} built for Ucluelet's specific needs. With a population of approximately 2,059, Ucluelet is a market worth knowing. See why Ucluelet residents choose {COMPANY_NAME} — visit {CTA_URL} or call {PHONE}.",
+ "Notes": null,
+ "REGION_BUNDLE": {
+  "climate": "Wet coastal temperate rainforest climate, wetter and windier moving north and to the outer coast; Tofino/Ucluelet face open-Pacific storms (storm-watching season); inland east-coast communities like the Comox Valley are drier and sunnier.",
+  "terrain": "The Vancouver Island Ranges spine, old-growth rainforest, long fjords and inlets, and the sheltered east-coast plain along the Strait of Georgia where most communities sit.",
+  "economy": "Forestry heritage transitioning to aquaculture, tourism, retirees and remote work; Nanaimo is the island's transport hub (two ferry terminals to the mainland); Comox hosts CFB Comox; Port Alberni, Campbell River and Port Hardy anchor resource industries.",
+  "building_stock": "Post-war mill-town houses, 1970s-90s ranchers, waterfront and view homes, and fast-growing retirement-driven subdivisions in Nanaimo, Parksville-Qualicum and the Comox Valley.",
+  "landmarks": [
+   "Strait of Georgia",
+   "Pacific Rim National Park Reserve",
+   "Mount Washington",
+   "Alberni Inlet",
+   "Departure Bay"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Alberni-Clayoquot Regional District",
+   "slug": "alberni-clayoquot-regional-district-bc",
+   "km": 34
+  },
+  {
+   "name": "Tofino",
+   "slug": "tofino-bc",
+   "km": 35
+  },
+  {
+   "name": "Port Alberni",
+   "slug": "port-alberni-bc",
+   "km": 63
+  },
+  {
+   "name": "Cumberland",
+   "slug": "cumberland-bc",
+   "km": 84
+  },
+  {
+   "name": "Denman Island",
+   "slug": "denman-island-bc",
+   "km": 84
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Nanaimo Regional District",
+  "slug": "nanaimo-regional-district-bc"
+ }
+}
