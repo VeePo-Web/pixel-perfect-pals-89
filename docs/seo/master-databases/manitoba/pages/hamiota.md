@@ -84,7 +84,7 @@ Hamiota is the northwest's home-town service centre. Combining the town of Hamio
 
 ## Local proof
 
-Hamiota combines the town of Hamiota with its surrounding farm district in the grain country of northwestern Westman. For {SERVICE}, it mixes town homes, established farmsteads, and rural acreages on rolling prairie and Westman's till, not Red River gumbo. {COMPANY_NAME} provides {SERVICE} throughout Hamiota, scoping till conditions, matching methods to each property, and covering it together with the Minnedosa and Hamiota-area country. We bring {SERVICE_LIST} across the municipality. Call {PHONE} for a free {ESTIMATE_TYPE} estimate.
+Hamiota combines the town of Hamiota with its surrounding farm district in the grain country of northwestern Westman. For {SERVICE}, it mixes town homes, established farmsteads, and rural acreages on rolling prairie and Westman's till, not Red River gumbo. {COMPANY_NAME} provides {SERVICE} throughout Hamiota, scoping till conditions, matching methods to each property, and covering it together with the Minnedosa, Oakview, and Hamiota-area country. We bring {SERVICE_LIST} and steady {RESPONSE_TIME} response across the municipality, with no rural-address penalty for a farm address. Call {PHONE} for a free {ESTIMATE_TYPE} estimate.
 
 > "{TESTIMONIAL_LOCAL}" — {REVIEWER_NAME}, Hamiota
 

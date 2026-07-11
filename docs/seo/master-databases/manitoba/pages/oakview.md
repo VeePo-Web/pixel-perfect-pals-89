@@ -84,7 +84,7 @@ Oakview stitches two home towns into one farm municipality. Taking in the commun
 
 ## Local proof
 
-Oakview combines the communities of Rapid City and Oak River with their surrounding farm district in the Little Saskatchewan valley country northwest of Brandon. For {SERVICE}, it mixes community homes, established farmsteads, and rural acreages on Westman's till, not Red River gumbo. {COMPANY_NAME} provides {SERVICE} throughout Oakview, scoping river-valley and till conditions, matching methods to each property, and covering it together with Riverdale, Hamiota, and the Minnedosa country. We bring {SERVICE_LIST}. Call {PHONE} for a free {ESTIMATE_TYPE} estimate.
+Oakview combines the communities of Rapid City and Oak River with their surrounding farm district in the Little Saskatchewan valley country northwest of Brandon. For {SERVICE}, it mixes community homes, established farmsteads, and rural acreages on Westman's till, not Red River gumbo. {COMPANY_NAME} provides {SERVICE} throughout Oakview, scoping river-valley and till conditions, matching methods to each property, and covering it together with Riverdale, Hamiota, and the Minnedosa country. We bring {SERVICE_LIST} and steady {RESPONSE_TIME} response across the municipality, with no rural-address penalty. Call {PHONE} for a free {ESTIMATE_TYPE} estimate.
 
 > "{TESTIMONIAL_LOCAL}" — {REVIEWER_NAME}, Oakview
 
