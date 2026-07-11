@@ -1,0 +1,1337 @@
+[
+ {
+  "id": "NS-0092",
+  "slug": "guysborough",
+  "url": "/areas/guysborough",
+  "name": "Guysborough",
+  "type": "District Municipality",
+  "region": "Eastern Shore",
+  "region_slug": "eastern-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.35,
+   "lng": -61.5
+  },
+  "fsa": "B0J",
+  "population_2021": 4640,
+  "unified_score": 56,
+  "km_halifax": 180.8,
+  "km_sydney": 133.9,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Eastern Shore",
+   "Guysborough"
+  ],
+  "hero": {
+   "overline": "Guysborough · Eastern Shore · Nova Scotia",
+   "h1": "{SERVICE} in Guysborough, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Guysborough, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Guysborough, NS built for salt air on the Canso heritage coast. {ESTIMATE_TYPE} estimates, response within {RESPONSE_TIME}. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Guysborough",
+   "secondary_keywords": [
+    "{SERVICE} near me Guysborough",
+    "{BUSINESS_TYPE} Guysborough Nova Scotia",
+    "{SERVICE} Canso heritage coast",
+    "{SERVICE} Tor Bay Provincial Park area"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Guysborough salt air coastal property",
+    "{SERVICE} Guysborough rural district municipality",
+    "{SERVICE} near Tor Bay Provincial Park Guysborough",
+    "{SERVICE} Guysborough Eastern Shore Nova Scotia"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Guysborough",
+    "how fast can I get {SERVICE} in Guysborough",
+    "who does {SERVICE} in the District Municipality of Guysborough"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Guysborough",
+    "best {BUSINESS_TYPE} in Guysborough Nova Scotia",
+    "who can handle {SERVICE} on Guysborough's Atlantic coast",
+    "{SERVICE} between Guysborough and Mulgrave",
+    "coastal {SERVICE} near Tor Bay Provincial Park"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Guysborough, {COMPANY_NAME} serves the whole district, from the Canso heritage coast to properties near Tor Bay Provincial Park. Salt air and Atlantic exposure are hard on buildings here, so every job is planned for coastal conditions, with {ESTIMATE_TYPE} estimates and response within {RESPONSE_TIME}. Call {PHONE}.",
+  "entity_description": "Guysborough is a district municipality on Nova Scotia's Eastern Shore with a 2021 census population of 4,640, the largest of the region's three published communities. Its economy runs on fishing, forestry, aquaculture, wilderness tourism, and natural resources. The district fronts a rugged stretch of Atlantic coastline known for Canso heritage, Tor Bay Provincial Park, and wilderness camping and kayaking. Guysborough sits 180.8 km from Halifax and 133.9 km from Sydney, with the Town of Mulgrave, its nearest served neighbour, 30.7 km away.",
+  "about_md": "The District Municipality of Guysborough is the largest community on Nova Scotia's Eastern Shore, home to 4,640 people at the 2021 census — first among the region's three published communities. This is a working coast: fishing, forestry, aquaculture, wilderness tourism, and natural resources drive the local economy, and that resource base keeps demand for dependable trades steady all year. When Guysborough property owners need {SERVICE}, {COMPANY_NAME} delivers it with {ESTIMATE_TYPE} estimates and a response within {RESPONSE_TIME}.\n\nGeography sets the terms for every job here. Guysborough sits 180.8 km from Halifax and 133.9 km from Sydney, with the Town of Mulgrave — its nearest served neighbour — 30.7 km up the coast. That distance means residents cannot count on city contractors making the trip for smaller jobs. {COMPANY_NAME} schedules Eastern Shore routes deliberately, so Guysborough gets the same {SERVICE_CATEGORY} standards you would expect in Halifax without the long wait.\n\n## Built for salt air and Atlantic exposure\n\nThe district's rugged Atlantic coastline is its signature. Canso heritage sites, Tor Bay Provincial Park, and wilderness camping and kayaking country draw visitors through the seasons, and the same open ocean that shapes the scenery also works on buildings. Salt air, ocean winds, and Maritime winters put unique demands on every {PROPERTY_TYPE} in Guysborough, so materials, methods, and timing all have to answer to coastal conditions. Our crews build that into every quote instead of discovering it halfway through a job.\n\nBuilding stock across the district is modest and coastal: small-town homes and rural properties whose owners put real value on quality maintenance against Atlantic exposure. Whether the work is routine upkeep or a full {PROJECT_TYPE}, {COMPANY_NAME} matches the job to those conditions — {SERVICE_LIST}, handled by a {BUSINESS_TYPE} with {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {CERTIFICATIONS}.\n\nThe economy matters to the work too. Fishing and forestry operations, aquaculture sites, and wilderness tourism keep buildings in active use across the district all year, and active buildings need consistent care. Tourism adds a seasonal rhythm as well: visitor-facing properties need to look right and function right before guests arrive, and we schedule around those windows. {UNIQUE_VALUE_PROP}. {SERVICE_DESCRIPTION}\n\nPricing stays transparent for every Guysborough job: {PRICE_RANGE} depending on scope, confirmed up front with an {ESTIMATE_TYPE} estimate before work begins, with no hidden fees after. {AVAILABILITY}. {CTA_PRIMARY} — or call {PHONE} and tell us what your property needs. On a coast where the ocean tests everything, from the Canso heritage shore to Tor Bay Provincial Park, your {SERVICE} should be the one thing you never have to think about.",
+  "local_facts": [
+   "2021 census population: 4,640 — the largest of the Eastern Shore's three published communities",
+   "Type: District Municipality in the Eastern Shore region of Nova Scotia",
+   "Postal FSA prefix: B0J",
+   "180.8 km from Halifax and 133.9 km from Sydney",
+   "Nearest served community: Mulgrave, 30.7 km away",
+   "Landmarks: Canso heritage sites, Tor Bay Provincial Park, and a rugged Atlantic coastline",
+   "Economy: fishing, forestry, wilderness tourism, aquaculture, and natural resources"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Guysborough ranks 1st by 2021 population (4,640) among the Eastern Shore's 3 published communities, and its nearest served neighbour, Mulgrave, is 30.7 km away."
+  },
+  "services_grid": {
+   "heading": "Services in Guysborough",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/guysborough/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/guysborough/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/guysborough/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/guysborough/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/guysborough/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/guysborough/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Guysborough"
+  },
+  "faqs": [
+   {
+    "question": "Do you cover the whole District Municipality of Guysborough?",
+    "answer": "Yes. {COMPANY_NAME} serves the full district — the largest community on the Eastern Shore, with 4,640 residents spread along a rugged Atlantic coastline. From the Canso heritage coast to properties near Tor Bay Provincial Park, we plan rural routes deliberately, so no Guysborough address is too far out for {SERVICE}."
+   },
+   {
+    "question": "How does Guysborough's open-Atlantic coastline affect {SERVICE}?",
+    "answer": "Guysborough fronts the open Atlantic directly, so salt air, ocean winds, and Maritime winters wear on buildings faster here than in sheltered inland areas. We factor that exposure into materials, methods, and scheduling on every {SERVICE} job, which is how coastal work lasts instead of needing a redo two seasons later."
+   },
+   {
+    "question": "What does {SERVICE} cost in Guysborough?",
+    "answer": "Cost depends on scope, property condition, and access, and jobs across a rural district this size can involve extra travel. {COMPANY_NAME} keeps pricing transparent: {PRICE_RANGE} depending on the work, confirmed with an {ESTIMATE_TYPE} estimate before anything starts. No hidden fees — the quoted price is the price you pay."
+   },
+   {
+    "question": "How fast can you reach Guysborough when it sits 180.8 km from Halifax?",
+    "answer": "We typically respond within {RESPONSE_TIME}. Guysborough is 180.8 km from Halifax and 133.9 km from Sydney, so we schedule Eastern Shore routes as planned stops rather than treating the district as an afterthought. For urgent {SERVICE} problems in Guysborough, we prioritize same-day service whenever possible."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Guysborough?",
+    "answer": "Because we plan for the coast. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {CERTIFICATIONS}, {COMPANY_NAME} builds salt-air exposure and Maritime winters into every Guysborough quote. You get {SERVICE_LIST} handled by one accountable {BUSINESS_TYPE} that already works this shore. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Guysborough, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "mulgrave",
+    "name": "Mulgrave",
+    "km": 30.7,
+    "url": "/areas/mulgrave",
+    "anchor": "Mulgrave, a town of 728 about 30.7 km up the coast"
+   },
+   {
+    "slug": "port-hawkesbury",
+    "name": "Port Hawkesbury",
+    "km": 31.9,
+    "url": "/areas/port-hawkesbury",
+    "anchor": "Port Hawkesbury, 31.9 km away in Cape Breton"
+   },
+   {
+    "slug": "isle-madame",
+    "name": "Isle Madame",
+    "km": 42.4,
+    "url": "/areas/isle-madame",
+    "anchor": "Isle Madame, a Cape Breton neighbour 42.4 km out"
+   },
+   {
+    "slug": "st-mary-s",
+    "name": "St. Mary's",
+    "km": 45,
+    "url": "/areas/st-mary-s",
+    "anchor": "St. Mary's, the neighbouring district municipality 45 km along the shore"
+   },
+   {
+    "slug": "antigonish-county",
+    "name": "Antigonish County",
+    "km": 46.6,
+    "url": "/areas/antigonish-county",
+    "anchor": "Antigonish County, 46.6 km away on the Northumberland Shore"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/eastern-shore",
+   "name": "Eastern Shore",
+   "anchor": "Eastern Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-eastern-shore",
+    "title": "What {SERVICE} Costs in Eastern Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-eastern-shore",
+    "title": "Eastern Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-eastern-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Eastern Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-eastern-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Eastern Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Guysborough",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Guysborough quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "guysborough"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lawrencetown_Beach%2C_Halifax%2C_NS%2C_Canada_-_panoramio.jpg",
+   "filename": "guysborough-eastern-shore-ns.webp",
+   "alt_layer1_geo": "Guysborough, Eastern Shore Nova Scotia — district municipality on the rugged Atlantic coast near Tor Bay Provincial Park",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Guysborough, Nova Scotia — Guysborough, Eastern Shore Nova Scotia — district municipality on the rugged Atlantic coast near Tor Bay Provincial Park",
+   "title": "Guysborough, Eastern Shore Nova Scotia — district municipality on the rugged Atlantic coast near Tor Bay Provincial Park",
+   "caption": "Guysborough, Eastern Shore Nova Scotia — district municipality on the rugged Atlantic coast near Tor Bay Provincial Park",
+   "exif_geo": {
+    "lat": 45.35,
+    "lng": -61.5,
+    "name": "Guysborough, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Larry LaRose — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "population scale and rank (4,640; largest of the Eastern Shore's 3 published communities)",
+   "distance and access (180.8 km Halifax, 133.9 km Sydney, 30.7 km to Mulgrave)",
+   "landmarks (Canso heritage sites, Tor Bay Provincial Park, rugged Atlantic coastline)",
+   "coastal climate tied to {SERVICE} (salt air, ocean winds, Maritime winters)",
+   "economy (fishing, forestry, aquaculture, wilderness tourism, natural resources)",
+   "building stock (small-town homes and rural coastal properties)"
+  ],
+  "signals_count": 6,
+  "opener_words": "The District Municipality of Guysborough is the largest",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/guysborough#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Guysborough",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Guysborough, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Mulgrave, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Port Hawkesbury, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Isle Madame, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.35,
+        "longitude": -61.5
+       },
+       "geoRadius": "23025"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Guysborough",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/guysborough#page",
+     "url": "{BRAND_URL}/areas/guysborough",
+     "name": "{SERVICE} in Guysborough, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/guysborough#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/guysborough#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Eastern Shore",
+       "item": "{BRAND_URL}/areas/region/eastern-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Guysborough",
+       "item": "{BRAND_URL}/areas/guysborough"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/guysborough#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you cover the whole District Municipality of Guysborough?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} serves the full district — the largest community on the Eastern Shore, with 4,640 residents spread along a rugged Atlantic coastline. From the Canso heritage coast to properties near Tor Bay Provincial Park, we plan rural routes deliberately, so no Guysborough address is too far out for {SERVICE}."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How does Guysborough's open-Atlantic coastline affect {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Guysborough fronts the open Atlantic directly, so salt air, ocean winds, and Maritime winters wear on buildings faster here than in sheltered inland areas. We factor that exposure into materials, methods, and scheduling on every {SERVICE} job, which is how coastal work lasts instead of needing a redo two seasons later."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Guysborough?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on scope, property condition, and access, and jobs across a rural district this size can involve extra travel. {COMPANY_NAME} keeps pricing transparent: {PRICE_RANGE} depending on the work, confirmed with an {ESTIMATE_TYPE} estimate before anything starts. No hidden fees — the quoted price is the price you pay."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you reach Guysborough when it sits 180.8 km from Halifax?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We typically respond within {RESPONSE_TIME}. Guysborough is 180.8 km from Halifax and 133.9 km from Sydney, so we schedule Eastern Shore routes as planned stops rather than treating the district as an afterthought. For urgent {SERVICE} problems in Guysborough, we prioritize same-day service whenever possible."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Guysborough?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because we plan for the coast. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {CERTIFICATIONS}, {COMPANY_NAME} builds salt-air exposure and Maritime winters into every Guysborough quote. You get {SERVICE_LIST} handled by one accountable {BUSINESS_TYPE} that already works this shore. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/guysborough#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lawrencetown_Beach%2C_Halifax%2C_NS%2C_Canada_-_panoramio.jpg",
+     "name": "Guysborough, Eastern Shore Nova Scotia — district municipality on the rugged Atlantic coast near Tor Bay Provincial Park",
+     "caption": "Guysborough, Eastern Shore Nova Scotia — district municipality on the rugged Atlantic coast near Tor Bay Provincial Park",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Larry LaRose"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Guysborough, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.35,
+       "longitude": -61.5
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0148",
+  "slug": "st-mary-s",
+  "url": "/areas/st-mary-s",
+  "name": "St. Mary's",
+  "type": "District Municipality",
+  "region": "Eastern Shore",
+  "region_slug": "eastern-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.15,
+   "lng": -62
+  },
+  "fsa": "B0J",
+  "population_2021": 2161,
+  "unified_score": 54.4,
+  "km_halifax": 136,
+  "km_sydney": 178.2,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Eastern Shore",
+   "St. Mary's"
+  ],
+  "hero": {
+   "overline": "St. Mary's · Eastern Shore · Nova Scotia",
+   "h1": "{SERVICE} in St. Mary's, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in St. Mary's, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in St. Mary's, NS — coastal-ready work for the district where the nearest served town is 45 km out. {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} St. Mary's",
+   "secondary_keywords": [
+    "{SERVICE} near me St. Mary's",
+    "{BUSINESS_TYPE} St. Mary's Nova Scotia",
+    "{SERVICE} St. Mary's Eastern Shore",
+    "{SERVICE} wilderness camping country Nova Scotia"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} St. Mary's rural district municipality",
+    "{SERVICE} St. Mary's Atlantic coast salt air",
+    "{SERVICE} St. Mary's 136 km from Halifax",
+    "{SERVICE} St. Mary's kayaking and camping country"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in St. Mary's",
+    "who will travel to St. Mary's Nova Scotia for {SERVICE}",
+    "how do coastal conditions in St. Mary's affect {SERVICE}"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in St. Mary's",
+    "reliable {BUSINESS_TYPE} in St. Mary's Nova Scotia",
+    "{SERVICE} for a rural property in the District of St. Mary's",
+    "{SERVICE} between St. Mary's and Guysborough",
+    "who does {SERVICE} in the Eastern Shore wilderness country"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in St. Mary's, {COMPANY_NAME} covers the whole district — a place where the nearest served community is 45 km away and salt air off the open Atlantic works on buildings year-round. Expect {ESTIMATE_TYPE} estimates, coastal-ready methods, and a response within {RESPONSE_TIME} anywhere in the district. Call {PHONE}.",
+  "entity_description": "St. Mary's is a district municipality on Nova Scotia's Eastern Shore with a 2021 census population of 2,161, second among the region's three published communities. Fishing, forestry, wilderness tourism, aquaculture, and natural resources anchor the economy, and the district sits in the shore's wilderness camping and kayaking country along a rugged Atlantic coastline. At 136 km from Halifax, St. Mary's is the closest of the region's three published communities to the capital, yet its nearest served neighbour, Guysborough, is 45 km away.",
+  "about_md": "St. Mary's is the Eastern Shore community where distance matters most: its nearest served neighbour, Guysborough, sits a full 45 km away — the widest gap between any of the region's three published communities. A district municipality of 2,161 people on Nova Scotia's rugged Atlantic coast, St. Mary's lies deep in the shore's wilderness camping and kayaking country, where fishing, forestry, aquaculture, wilderness tourism, and natural resources shape working life. That remoteness is exactly why a dependable {SERVICE} partner matters here, and it is why {COMPANY_NAME} treats St. Mary's as a scheduled service area rather than an occasional detour.\n\nThe map tells an unusual story. At 136 km from Halifax, St. Mary's is the closest of the Eastern Shore's three published communities to the capital — nearer than Guysborough at 180.8 km or Mulgrave at 203.6 km — yet Sydney sits 178.2 km in the other direction, and the district still feels thoroughly rural. In practice, city-based contractors often treat St. Mary's as too far for smaller jobs. {COMPANY_NAME} plans routes around those distances instead, quoting travel honestly and arriving within {RESPONSE_TIME}.\n\n## {SERVICE} planned for the open Atlantic\n\nClimate does not take a season off along this coast. Salt air and constant exposure to the open Atlantic wear on St. Mary's properties faster than in sheltered inland areas, and Maritime winters add wind, freeze, and storm load on top. Good {SERVICE} here means choosing materials and timing that stand up to that exposure — which is exactly how our {SERVICE_CATEGORY} crews quote every job, from routine maintenance on a {PROPERTY_TYPE} to a complete {PROJECT_TYPE}.\n\nThe building stock matches the setting: small-town homes and rural properties whose owners understand that quality maintenance is what protects value in a coastal climate. When weather comes off the Atlantic, these are the properties that take the first hit, and owners here plan upkeep accordingly. The district's economy — fishing, forestry, aquaculture, and the wilderness tourism that draws campers and kayakers to this stretch of shore — keeps those properties in active, year-round use.\n\n{COMPANY_NAME} brings {SERVICE_LIST} to every corner of St. Mary's, backed by {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {CERTIFICATIONS}. {UNIQUE_VALUE_PROP}. {SERVICE_DESCRIPTION} Pricing is straightforward: {PRICE_RANGE} depending on scope, confirmed with an {ESTIMATE_TYPE} estimate before any work starts, so there are no surprises after.\n\n{AVAILABILITY}. {CTA_PRIMARY} — or call {PHONE} and describe your property. In a district municipality where the nearest served community is 45 km away, having one {BUSINESS_TYPE} that shows up on schedule is worth more than anything a distant city contractor can promise.",
+  "local_facts": [
+   "2021 census population: 2,161 — second largest of the Eastern Shore's three published communities",
+   "Type: District Municipality in the Eastern Shore region of Nova Scotia",
+   "Postal FSA prefix: B0J",
+   "136 km from Halifax — the closest of the region's three published communities to the capital — and 178.2 km from Sydney",
+   "Nearest served community: Guysborough, 45 km away — the widest such gap in the region",
+   "Setting: the Eastern Shore's wilderness camping and kayaking country on a rugged Atlantic coastline",
+   "Economy: fishing, forestry, wilderness tourism, aquaculture, and natural resources"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "St. Mary's is the closest of the Eastern Shore's 3 published communities to Halifax at 136 km, yet its nearest served neighbour, Guysborough, is 45 km away — the largest nearest-neighbour gap among the region's published places."
+  },
+  "services_grid": {
+   "heading": "Services in St. Mary's",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-mary-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-mary-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-mary-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-mary-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-mary-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-mary-s/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, St. Mary's"
+  },
+  "faqs": [
+   {
+    "question": "Do you serve all of the District Municipality of St. Mary's?",
+    "answer": "Yes. {COMPANY_NAME} covers the entire district of 2,161 residents, including rural properties deep in the Eastern Shore's wilderness camping and kayaking country. We build travel into our scheduling from the start, so outlying addresses get the same {SERVICE} standards and the same timelines as homes near the centre of the district."
+   },
+   {
+    "question": "The nearest served town is a long drive away — will you actually come to St. Mary's?",
+    "answer": "We will. St. Mary's nearest served neighbour, Guysborough, is 45 km away — the widest gap on the Eastern Shore — so we treat the district as a planned stop, never an add-on. Crews arrive within {RESPONSE_TIME}, with routes designed around the district's real distances rather than against them."
+   },
+   {
+    "question": "How do Atlantic conditions in St. Mary's affect the work?",
+    "answer": "Salt air and constant open-Atlantic exposure wear on properties along this coast faster than inland, and Maritime winters add storms and freeze on top. {COMPANY_NAME} chooses materials and methods rated for that exposure and schedules {SERVICE} around the calmer seasonal windows whenever the job allows it, so results hold up."
+   },
+   {
+    "question": "What will {SERVICE} cost in St. Mary's?",
+    "answer": "It depends on the scope of work plus the condition and access of your property, and rural St. Mary's jobs can include extra travel. {COMPANY_NAME} quotes everything up front with an {ESTIMATE_TYPE} estimate and transparent pricing in the {PRICE_RANGE} range, so the number you approve is the number you pay."
+   },
+   {
+    "question": "Why hire {COMPANY_NAME} instead of waiting for a city contractor?",
+    "answer": "Because St. Mary's, at 136 km out, is the closest Eastern Shore community to Halifax, yet city crews still treat it as a long trip. We schedule the district directly, bring {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, and back every job with {CERTIFICATIONS}. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across St. Mary's, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "guysborough",
+    "name": "Guysborough",
+    "km": 45,
+    "url": "/areas/guysborough",
+    "anchor": "the district hub of Guysborough, 45 km along the coast"
+   },
+   {
+    "slug": "antigonish-county",
+    "name": "Antigonish County",
+    "km": 47.8,
+    "url": "/areas/antigonish-county",
+    "anchor": "Antigonish County, 47.8 km away toward the Northumberland Shore"
+   },
+   {
+    "slug": "antigonish",
+    "name": "Antigonish",
+    "km": 52.3,
+    "url": "/areas/antigonish",
+    "anchor": "Antigonish, 52.3 km away on the Northumberland Shore"
+   },
+   {
+    "slug": "stellarton",
+    "name": "Stellarton",
+    "km": 68.8,
+    "url": "/areas/stellarton",
+    "anchor": "Stellarton, a 68.8 km run into Northumberland Shore country"
+   },
+   {
+    "slug": "new-glasgow",
+    "name": "New Glasgow",
+    "km": 70.5,
+    "url": "/areas/new-glasgow",
+    "anchor": "New Glasgow, the farthest listed neighbour at 70.5 km"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/eastern-shore",
+   "name": "Eastern Shore",
+   "anchor": "Eastern Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-eastern-shore",
+    "title": "What {SERVICE} Costs in Eastern Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-eastern-shore",
+    "title": "Eastern Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-eastern-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Eastern Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-eastern-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Eastern Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, St. Mary's",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free St. Mary's quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "st-mary-s"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lawrencetown_Beach%2C_Halifax%2C_NS%2C_Canada_-_panoramio.jpg",
+   "filename": "st-mary-s-eastern-shore-ns.webp",
+   "alt_layer1_geo": "St. Mary's, Eastern Shore Nova Scotia — district municipality in the shore's wilderness camping and kayaking country",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in St. Mary's, Nova Scotia — St. Mary's, Eastern Shore Nova Scotia — district municipality in the shore's wilderness camping and kayaking country",
+   "title": "St. Mary's, Eastern Shore Nova Scotia — district municipality in the shore's wilderness camping and kayaking country",
+   "caption": "St. Mary's, Eastern Shore Nova Scotia — district municipality in the shore's wilderness camping and kayaking country",
+   "exif_geo": {
+    "lat": 45.15,
+    "lng": -62,
+    "name": "St. Mary's, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Larry LaRose — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "distance and access (45 km to Guysborough — widest gap in region; 136 km Halifax; 178.2 km Sydney; 203.6 km Mulgrave–Halifax comparison)",
+   "population scale and rank (2,161; second of the Eastern Shore's 3 published communities)",
+   "setting and landmarks (wilderness camping and kayaking country, rugged Atlantic coastline)",
+   "coastal climate tied to {SERVICE} (salt air, open-Atlantic exposure, Maritime winters)",
+   "economy (fishing, forestry, aquaculture, wilderness tourism, natural resources)",
+   "building stock (small-town homes and rural coastal properties)"
+  ],
+  "signals_count": 6,
+  "opener_words": "St. Mary's is the Eastern Shore community where",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/st-mary-s#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in St. Mary's",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "St. Mary's, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Guysborough, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Antigonish County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Antigonish, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.15,
+        "longitude": -62
+       },
+       "geoRadius": "25000"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in St. Mary's",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/st-mary-s#page",
+     "url": "{BRAND_URL}/areas/st-mary-s",
+     "name": "{SERVICE} in St. Mary's, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/st-mary-s#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/st-mary-s#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Eastern Shore",
+       "item": "{BRAND_URL}/areas/region/eastern-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "St. Mary's",
+       "item": "{BRAND_URL}/areas/st-mary-s"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/st-mary-s#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you serve all of the District Municipality of St. Mary's?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers the entire district of 2,161 residents, including rural properties deep in the Eastern Shore's wilderness camping and kayaking country. We build travel into our scheduling from the start, so outlying addresses get the same {SERVICE} standards and the same timelines as homes near the centre of the district."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "The nearest served town is a long drive away — will you actually come to St. Mary's?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We will. St. Mary's nearest served neighbour, Guysborough, is 45 km away — the widest gap on the Eastern Shore — so we treat the district as a planned stop, never an add-on. Crews arrive within {RESPONSE_TIME}, with routes designed around the district's real distances rather than against them."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How do Atlantic conditions in St. Mary's affect the work?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Salt air and constant open-Atlantic exposure wear on properties along this coast faster than inland, and Maritime winters add storms and freeze on top. {COMPANY_NAME} chooses materials and methods rated for that exposure and schedules {SERVICE} around the calmer seasonal windows whenever the job allows it, so results hold up."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What will {SERVICE} cost in St. Mary's?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on the scope of work plus the condition and access of your property, and rural St. Mary's jobs can include extra travel. {COMPANY_NAME} quotes everything up front with an {ESTIMATE_TYPE} estimate and transparent pricing in the {PRICE_RANGE} range, so the number you approve is the number you pay."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why hire {COMPANY_NAME} instead of waiting for a city contractor?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because St. Mary's, at 136 km out, is the closest Eastern Shore community to Halifax, yet city crews still treat it as a long trip. We schedule the district directly, bring {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, and back every job with {CERTIFICATIONS}. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/st-mary-s#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lawrencetown_Beach%2C_Halifax%2C_NS%2C_Canada_-_panoramio.jpg",
+     "name": "St. Mary's, Eastern Shore Nova Scotia — district municipality in the shore's wilderness camping and kayaking country",
+     "caption": "St. Mary's, Eastern Shore Nova Scotia — district municipality in the shore's wilderness camping and kayaking country",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Larry LaRose"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "St. Mary's, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.15,
+       "longitude": -62
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0255",
+  "slug": "mulgrave",
+  "url": "/areas/mulgrave",
+  "name": "Mulgrave",
+  "type": "Town",
+  "region": "Eastern Shore",
+  "region_slug": "eastern-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.6094,
+   "lng": -61.3656
+  },
+  "fsa": "B0J",
+  "population_2021": 728,
+  "unified_score": 51.1,
+  "km_halifax": 203.6,
+  "km_sydney": 108,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Eastern Shore",
+   "Mulgrave"
+  ],
+  "hero": {
+   "overline": "Mulgrave · Eastern Shore · Nova Scotia",
+   "h1": "{SERVICE} in Mulgrave, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Mulgrave, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Mulgrave, NS — crews just 1.5 km away in the Port Hawkesbury area, with work built for salt air. {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Mulgrave",
+   "secondary_keywords": [
+    "{SERVICE} near me Mulgrave",
+    "{BUSINESS_TYPE} Mulgrave Nova Scotia",
+    "{SERVICE} Mulgrave Guysborough District",
+    "{SERVICE} Mulgrave Port Hawkesbury area"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Mulgrave small town coastal property",
+    "{SERVICE} Mulgrave near Port Hawkesbury",
+    "{SERVICE} Mulgrave Eastern Shore salt air",
+    "{SERVICE} Mulgrave town of 728 Nova Scotia"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Mulgrave",
+    "who does {SERVICE} in Mulgrave Nova Scotia",
+    "how fast can I get {SERVICE} in Mulgrave near Port Hawkesbury"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Mulgrave",
+    "good {BUSINESS_TYPE} in Mulgrave Nova Scotia",
+    "{SERVICE} for a small-town home in Mulgrave",
+    "{SERVICE} near Port Hawkesbury on the Mulgrave side",
+    "coastal {SERVICE} in Guysborough District towns"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Mulgrave, {COMPANY_NAME} serves this town of 728 on the Eastern Shore, just 1.5 km from Port Hawkesbury, so crews are often already nearby. Salt air and Atlantic exposure shape every job here, and we quote with coastal conditions built in — {ESTIMATE_TYPE} estimates, response within {RESPONSE_TIME}. Call {PHONE}.",
+  "entity_description": "Mulgrave is a town of 728 people (2021 census) within Guysborough District on Nova Scotia's Eastern Shore. It is the smallest of the region's three published communities but the best connected: Port Hawkesbury, in Cape Breton, is just 1.5 km away. Mulgrave sits 108 km from Sydney and 203.6 km from Halifax, on a resource coast where fishing, forestry, aquaculture, wilderness tourism, and natural resources drive the economy and salt air off the Atlantic shapes how properties are maintained.",
+  "about_md": "Mulgrave sits closer to another served community than any other place on Nova Scotia's Eastern Shore: Port Hawkesbury, over in Cape Breton, is just 1.5 km away. That position makes this town of 728 — the smallest of the region's three published communities — far better connected than its size suggests. Part of Guysborough District, Mulgrave is actually nearer to Sydney, at 108 km, than to Halifax, at 203.6 km, which puts it at the working eastern end of the shore. For {SERVICE} in Mulgrave, {COMPANY_NAME} turns that geography into an advantage: crews already serving the neighbouring area reach the town fast, with {ESTIMATE_TYPE} estimates and response within {RESPONSE_TIME}.\n\nSmall does not mean simple. Mulgrave properties face the same coastal realities as the rest of the Eastern Shore — salt air, ocean winds, and Maritime winters that work on buildings all year. Wind off the open water finds every weak seam in a {PROPERTY_TYPE}, and winter freeze widens whatever the wind starts. On a coast this exposed, a building that goes unmaintained loses ground every season, which is why local owners put real value on quality upkeep. Our {SERVICE_CATEGORY} work is planned for exactly these conditions, from material choices through to scheduling around the worst of the winter weather.\n\n## A resource-coast town with year-round needs\n\nThe economy around Mulgrave runs on fishing, forestry, aquaculture, wilderness tourism, and natural resources — the base that supports steady, year-round demand for trades across the Eastern Shore. Building stock is modest and coastal: small-town homes and rural properties along the rugged Atlantic coastline that defines this region, with Canso heritage sites and Tor Bay Provincial Park among the shore's best-known features. That mix of working properties and small-town homes keeps demand for {SERVICE} steady in every season, not just the summer months.\n\n{COMPANY_NAME} offers {SERVICE_LIST} throughout Mulgrave and the surrounding district, backed by {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {CERTIFICATIONS}. {UNIQUE_VALUE_PROP}. {SERVICE_DESCRIPTION} In a town of 728, reputation is everything — word travels fast when work holds up, and faster when it does not. Whether the job is a small repair or a complete {PROJECT_TYPE}, it gets the same coastal-grade planning.\n\nPricing is transparent: {PRICE_RANGE} depending on scope, always confirmed with an {ESTIMATE_TYPE} estimate before work begins, and never inflated with travel charges the town's location does not justify. {AVAILABILITY}. Guysborough, the district hub, is 30.7 km along the coast, and we route jobs between the two so Mulgrave never waits behind bigger communities. {CTA_PRIMARY} — or call {PHONE}. On the Eastern Shore's best-connected corner, dependable {SERVICE} help is genuinely close by.",
+  "local_facts": [
+   "2021 census population: 728 — the smallest of the Eastern Shore's three published communities",
+   "Type: Town within Guysborough District, Eastern Shore region of Nova Scotia",
+   "Postal FSA prefix: B0J",
+   "Just 1.5 km from Port Hawkesbury in Cape Breton — the town's nearest served community",
+   "108 km from Sydney and 203.6 km from Halifax — closer to Sydney than to the capital",
+   "Guysborough, the district hub, is 30.7 km away",
+   "Economy: fishing, forestry, wilderness tourism, aquaculture, and natural resources"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Mulgrave's nearest served community, Port Hawkesbury, is just 1.5 km away — the shortest nearest-neighbour distance of the Eastern Shore's 3 published communities, and Mulgrave is the only one of the three closer to Sydney (108 km) than to Halifax (203.6 km)."
+  },
+  "services_grid": {
+   "heading": "Services in Mulgrave",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mulgrave/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mulgrave/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mulgrave/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mulgrave/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mulgrave/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mulgrave/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Mulgrave"
+  },
+  "faqs": [
+   {
+    "question": "Do you take on jobs in a town as small as Mulgrave?",
+    "answer": "Absolutely. Mulgrave's 728 residents get the same {SERVICE} coverage as anywhere else we serve, and the town's position helps: crews working the Port Hawkesbury area are just 1.5 km away. Routine maintenance, urgent repairs, or a full {PROJECT_TYPE} — {COMPANY_NAME} books them all in Mulgrave."
+   },
+   {
+    "question": "Mulgrave is right beside Port Hawkesbury — does that speed up service?",
+    "answer": "Yes, noticeably. Port Hawkesbury sits just 1.5 km from Mulgrave — the shortest gap between any two served communities on our Eastern Shore routes — so crews are often already close. That is why our typical response in Mulgrave stays within {RESPONSE_TIME}, even though the town is 203.6 km from Halifax."
+   },
+   {
+    "question": "What do coastal conditions in Mulgrave mean for {SERVICE}?",
+    "answer": "Salt air, ocean winds, and Maritime winters wear on Mulgrave buildings year-round, as they do along the rest of the rugged Eastern Shore coast. We plan {SERVICE} for that exposure — materials chosen to resist salt air, and scheduling that works around winter storm patterns instead of fighting them."
+   },
+   {
+    "question": "How is {SERVICE} priced in Mulgrave?",
+    "answer": "By scope, not by postal code. Mulgrave jobs are quoted within {PRICE_RANGE} depending on the work involved, and every quote starts with an {ESTIMATE_TYPE} estimate — transparent, upfront, no hidden fees. Because crews already serve the area just 1.5 km away, small-town jobs never carry inflated travel charges."
+   },
+   {
+    "question": "Why is {COMPANY_NAME} the right {BUSINESS_TYPE} for Mulgrave?",
+    "answer": "Because we combine reach with local planning. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {CERTIFICATIONS}, we serve Mulgrave, Guysborough District, and the wider Eastern Shore with work built for salt air and coastal winters. {AVAILABILITY}. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Mulgrave, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "port-hawkesbury",
+    "name": "Port Hawkesbury",
+    "km": 1.5,
+    "url": "/areas/port-hawkesbury",
+    "anchor": "Port Hawkesbury, just 1.5 km away on the Cape Breton side"
+   },
+   {
+    "slug": "guysborough",
+    "name": "Guysborough",
+    "km": 30.7,
+    "url": "/areas/guysborough",
+    "anchor": "the district municipality of Guysborough, 30.7 km down the shore"
+   },
+   {
+    "slug": "isle-madame",
+    "name": "Isle Madame",
+    "km": 31,
+    "url": "/areas/isle-madame",
+    "anchor": "Isle Madame, 31 km away in Cape Breton"
+   },
+   {
+    "slug": "richmond-county",
+    "name": "Richmond County",
+    "km": 36.5,
+    "url": "/areas/richmond-county",
+    "anchor": "Richmond County, a Cape Breton neighbour 36.5 km out"
+   },
+   {
+    "slug": "whycocomagh",
+    "name": "Whycocomagh",
+    "km": 44.4,
+    "url": "/areas/whycocomagh",
+    "anchor": "Whycocomagh, 44.4 km into Cape Breton"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/eastern-shore",
+   "name": "Eastern Shore",
+   "anchor": "Eastern Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-eastern-shore",
+    "title": "What {SERVICE} Costs in Eastern Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-eastern-shore",
+    "title": "Eastern Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-eastern-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Eastern Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-eastern-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Eastern Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Mulgrave",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Mulgrave quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "mulgrave"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lawrencetown_Beach%2C_Halifax%2C_NS%2C_Canada_-_panoramio.jpg",
+   "filename": "mulgrave-eastern-shore-ns.webp",
+   "alt_layer1_geo": "Mulgrave, Eastern Shore Nova Scotia — town of 728 just 1.5 km from Port Hawkesbury on the Cape Breton side",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Mulgrave, Nova Scotia — Mulgrave, Eastern Shore Nova Scotia — town of 728 just 1.5 km from Port Hawkesbury on the Cape Breton side",
+   "title": "Mulgrave, Eastern Shore Nova Scotia — town of 728 just 1.5 km from Port Hawkesbury on the Cape Breton side",
+   "caption": "Mulgrave, Eastern Shore Nova Scotia — town of 728 just 1.5 km from Port Hawkesbury on the Cape Breton side",
+   "exif_geo": {
+    "lat": 45.6094,
+    "lng": -61.3656,
+    "name": "Mulgrave, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Larry LaRose — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "distance and access (1.5 km to Port Hawkesbury, 108 km Sydney, 203.6 km Halifax, 30.7 km to Guysborough)",
+   "population scale and rank (728; smallest of the Eastern Shore's 3 published communities)",
+   "parent municipality (town within Guysborough District)",
+   "coastal climate tied to {SERVICE} (salt air, ocean winds, Maritime winters)",
+   "economy (fishing, forestry, aquaculture, wilderness tourism, natural resources)",
+   "building stock and landmarks (small-town coastal homes; rugged Atlantic coastline, Canso heritage sites, Tor Bay Provincial Park)"
+  ],
+  "signals_count": 6,
+  "opener_words": "Mulgrave sits closer to another served community than",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/mulgrave#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Mulgrave",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Mulgrave, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Port Hawkesbury, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Guysborough, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Isle Madame, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.6094,
+        "longitude": -61.3656
+       },
+       "geoRadius": "2000"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Mulgrave",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/mulgrave#page",
+     "url": "{BRAND_URL}/areas/mulgrave",
+     "name": "{SERVICE} in Mulgrave, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/mulgrave#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/mulgrave#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Eastern Shore",
+       "item": "{BRAND_URL}/areas/region/eastern-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Mulgrave",
+       "item": "{BRAND_URL}/areas/mulgrave"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/mulgrave#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you take on jobs in a town as small as Mulgrave?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Mulgrave's 728 residents get the same {SERVICE} coverage as anywhere else we serve, and the town's position helps: crews working the Port Hawkesbury area are just 1.5 km away. Routine maintenance, urgent repairs, or a full {PROJECT_TYPE} — {COMPANY_NAME} books them all in Mulgrave."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Mulgrave is right beside Port Hawkesbury — does that speed up service?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, noticeably. Port Hawkesbury sits just 1.5 km from Mulgrave — the shortest gap between any two served communities on our Eastern Shore routes — so crews are often already close. That is why our typical response in Mulgrave stays within {RESPONSE_TIME}, even though the town is 203.6 km from Halifax."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What do coastal conditions in Mulgrave mean for {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Salt air, ocean winds, and Maritime winters wear on Mulgrave buildings year-round, as they do along the rest of the rugged Eastern Shore coast. We plan {SERVICE} for that exposure — materials chosen to resist salt air, and scheduling that works around winter storm patterns instead of fighting them."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How is {SERVICE} priced in Mulgrave?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By scope, not by postal code. Mulgrave jobs are quoted within {PRICE_RANGE} depending on the work involved, and every quote starts with an {ESTIMATE_TYPE} estimate — transparent, upfront, no hidden fees. Because crews already serve the area just 1.5 km away, small-town jobs never carry inflated travel charges."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why is {COMPANY_NAME} the right {BUSINESS_TYPE} for Mulgrave?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because we combine reach with local planning. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {CERTIFICATIONS}, we serve Mulgrave, Guysborough District, and the wider Eastern Shore with work built for salt air and coastal winters. {AVAILABILITY}. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/mulgrave#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lawrencetown_Beach%2C_Halifax%2C_NS%2C_Canada_-_panoramio.jpg",
+     "name": "Mulgrave, Eastern Shore Nova Scotia — town of 728 just 1.5 km from Port Hawkesbury on the Cape Breton side",
+     "caption": "Mulgrave, Eastern Shore Nova Scotia — town of 728 just 1.5 km from Port Hawkesbury on the Cape Breton side",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Larry LaRose"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Mulgrave, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.6094,
+       "longitude": -61.3656
+      }
+     }
+    }
+   ]
+  }
+ }
+]

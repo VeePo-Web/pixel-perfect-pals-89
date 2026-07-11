@@ -1,0 +1,2671 @@
+[
+ {
+  "id": "NS-0133",
+  "slug": "digby-district",
+  "url": "/areas/digby-district",
+  "name": "Digby District",
+  "type": "District Municipality",
+  "region": "Fundy Shore",
+  "region_slug": "fundy-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 44.55,
+   "lng": -65.8
+  },
+  "fsa": "B0W",
+  "population_2021": 7208,
+  "unified_score": 58.7,
+  "km_halifax": 176.5,
+  "km_sydney": 472.2,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Fundy Shore",
+   "Digby District"
+  ],
+  "hero": {
+   "overline": "Digby District · Fundy Shore · Nova Scotia",
+   "h1": "{SERVICE} in Digby District, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Digby District, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Digby District built for Bay of Fundy conditions, from Digby Neck to the villages around the town of Digby. {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Digby District",
+   "secondary_keywords": [
+    "{SERVICE} near me Digby District",
+    "{BUSINESS_TYPE} Digby District Nova Scotia",
+    "{SERVICE} Digby Neck",
+    "{SERVICE} Fundy Shore Digby area"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Digby District coastal properties",
+    "{SERVICE} near Digby Neck Bay of Fundy",
+    "salt air resistant {SERVICE} Digby District",
+    "{SERVICE} for fishing community properties Digby District"
+   ],
+   "question_keywords": [
+    "how do Bay of Fundy conditions affect {SERVICE} in Digby District",
+    "what does {SERVICE} cost in Digby District",
+    "who provides {SERVICE} on Digby Neck"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Digby District",
+    "who does {SERVICE} out on Digby Neck",
+    "best {BUSINESS_TYPE} serving Digby District Nova Scotia",
+    "{SERVICE} company that covers both the town of Digby and the district",
+    "coastal {SERVICE} for a property near the Bay of Fundy in Digby District"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Digby District, {COMPANY_NAME} serves the whole municipality, from the communities out Digby Neck to the villages around the town of Digby. Every job is built for the Bay of Fundy's coastal climate, with a {ESTIMATE_TYPE} estimate up front and {RESPONSE_TIME} response. Call {PHONE}.",
+  "entity_description": "Digby District is a district municipality in the Fundy Shore region of Nova Scotia with a 2021 census population of 7,208. Its economy runs on lobster and scallop fishing, supported by tourism, Acadian culture, ferry services and tidal power. The district takes in Digby Neck, the long Bay of Fundy peninsula known for whale watching, and surrounds the town of Digby, 8.6 km from the district's centre. Halifax lies 176.5 km away, at the far end of the province's southwestern coast.",
+  "about_md": "Digby Neck stretches out of Digby District into the Bay of Fundy, and the whale-watching boats that work off the peninsula are the district's calling card. This district municipality on Nova Scotia's Fundy Shore counted 7,208 residents in the 2021 census, spread across coastal communities where lobster and scallop fishing drive the economy. {COMPANY_NAME} provides {SERVICE} throughout the district, and every job here gets planned around one fact: the Bay of Fundy never stops working on your property.\n\nThe tides that make Digby Neck famous also set the maintenance calendar. Fundy Shore has a coastal Maritime climate shaped by the bay and its powerful tides, and salt air, ocean wind and shoreline exposure wear on buildings in every season. Property owners in Digby District understand the importance of quality maintenance in a coastal climate, which is why {COMPANY_NAME} builds each {SERVICE} project — {SUBSERVICE_1}, {SUBSERVICE_2} or {SUBSERVICE_3} — to stand up to those conditions rather than just pass a first inspection.\n\n## A working coast, not a postcard\n\nThe local economy runs on the lobster and scallop fishery, with tourism, Acadian culture, ferry services and tidal power rounding it out. That mix keeps buildings earning their keep: fishing families, tourism operators and year-round households all need structures that hold through a Fundy winter. The building stock carries the region's historic port character, with coastal properties throughout the district that owners maintain against the climate. {COMPANY_NAME} — a {BUSINESS_TYPE} with {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating — delivers {SERVICE_LIST} for {PROPERTY_TYPE} across all of it. {SERVICE_DESCRIPTION}\n\nAccess is straightforward. The town of Digby, the district's commercial hub, sits 8.6 km from the district's centre, and Halifax is 176.5 km away — close enough to expect city-grade standards, far enough that you want a crew that actually shows up on time. {COMPANY_NAME} commits to {RESPONSE_TIME} response across Digby District, from the Acadian villages along the shore to the communities out the Neck, with {AVAILABILITY} availability for urgent calls.\n\nAmong the six Fundy Shore communities we publish, Digby District ranks fourth by population, and its 7,208 residents share one expectation: {SERVICE_CATEGORY} work done right at a fair price. Pricing stays transparent — {PRICE_RANGE} depending on scope — and every project starts with a {ESTIMATE_TYPE} estimate, whether it is a small repair or a full {PROJECT_TYPE}. {UNIQUE_VALUE_PROP} {CTA_PRIMARY}",
+  "local_facts": [
+   "2021 census population: 7,208 (Statistics Canada)",
+   "District municipality in the Fundy Shore region of Nova Scotia",
+   "Postal FSA: B0W",
+   "176.5 km from Halifax; 472.2 km from Sydney",
+   "Nearest published community: the town of Digby, 8.6 km away",
+   "Takes in Digby Neck, known for Bay of Fundy whale watching",
+   "Economy: lobster and scallop fishing, tourism, Acadian culture, ferry services and tidal power"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Digby District ranks 4th by population among the 6 Fundy Shore communities we publish, and its nearest served neighbour is the town of Digby, just 8.6 km from the district's centre."
+  },
+  "services_grid": {
+   "heading": "Services in Digby District",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby-district/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Digby District"
+  },
+  "faqs": [
+   {
+    "question": "Do you cover every community in Digby District, including out Digby Neck?",
+    "answer": "Yes. {COMPANY_NAME} provides {SERVICE} across the whole district municipality — the villages surrounding the town of Digby and the communities along Digby Neck. Distance within the district never changes the standard: same crews, same warranty, same {ESTIMATE_TYPE} estimate wherever your property sits on the Fundy coast."
+   },
+   {
+    "question": "How do Bay of Fundy conditions affect {SERVICE} in Digby District?",
+    "answer": "They set the whole schedule. Digby District fronts the Bay of Fundy, whose tides define this coast, and salt air and ocean wind wear on buildings year-round. {COMPANY_NAME} specs materials and timing for that coastal Maritime climate, so your {SERVICE} results survive the seasons instead of needing a redo."
+   },
+   {
+    "question": "What will {SERVICE} cost for a property in Digby District?",
+    "answer": "It depends on scope, property size and condition, so {COMPANY_NAME} starts every Digby District job with a {ESTIMATE_TYPE} estimate. Typical projects fall within {PRICE_RANGE}, and the quote you approve is the price you pay — no surprise add-ons once the work begins on your property."
+   },
+   {
+    "question": "How quickly can you reach a Digby District property?",
+    "answer": "{COMPANY_NAME} responds within {RESPONSE_TIME} across Digby District. The town of Digby sits just 8.6 km from the district's centre, so crews working the area reach shoreline properties and inland homes alike without long delays, and {AVAILABILITY} availability covers urgent {SERVICE} calls when they come up."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Digby District?",
+    "answer": "Because coastal work is the specialty. {COMPANY_NAME} brings {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating to a district where fishing families and tourism operators expect work that holds through Fundy weather. {UNIQUE_VALUE_PROP} Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Digby District, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "digby",
+    "name": "Digby",
+    "km": 8.6,
+    "url": "/areas/digby",
+    "anchor": "the town of Digby, its commercial hub just 8.6 km away"
+   },
+   {
+    "slug": "clare",
+    "name": "Clare",
+    "km": 34.2,
+    "url": "/areas/clare",
+    "anchor": "Clare, 34.2 km southwest along the Acadian shore"
+   },
+   {
+    "slug": "annapolis-county",
+    "name": "Annapolis County",
+    "km": 48.9,
+    "url": "/areas/annapolis-county",
+    "anchor": "Annapolis County, 48.9 km up the Fundy coast"
+   },
+   {
+    "slug": "middleton",
+    "name": "Middleton",
+    "km": 72.5,
+    "url": "/areas/middleton",
+    "anchor": "Middleton, 72.5 km away"
+   },
+   {
+    "slug": "yarmouth-district",
+    "name": "Yarmouth District",
+    "km": 80.3,
+    "url": "/areas/yarmouth-district",
+    "anchor": "Yarmouth District, 80.3 km toward the province's southwestern tip"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/fundy-shore",
+   "name": "Fundy Shore",
+   "anchor": "Fundy Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-fundy-shore",
+    "title": "What {SERVICE} Costs in Fundy Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-fundy-shore",
+    "title": "Fundy Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-fundy-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Fundy Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-fundy-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Fundy Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Digby District",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Digby District quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "digby-district"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+   "filename": "digby-district-fundy-shore-ns.webp",
+   "alt_layer1_geo": "Digby District, Fundy Shore Nova Scotia — Bay of Fundy district taking in the Digby Neck whale-watching peninsula",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Digby District, Nova Scotia — Digby District, Fundy Shore Nova Scotia — Bay of Fundy district taking in the Digby Neck whale-watching peninsula",
+   "title": "Digby District, Fundy Shore Nova Scotia — Bay of Fundy district taking in the Digby Neck whale-watching peninsula",
+   "caption": "Digby District, Fundy Shore Nova Scotia — Bay of Fundy district taking in the Digby Neck whale-watching peninsula",
+   "exif_geo": {
+    "lat": 44.55,
+    "lng": -65.8,
+    "name": "Digby District, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Michael C. Rygel — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "Digby Neck whale-watching peninsula (landmark/geography)",
+   "Bay of Fundy tides and coastal Maritime climate",
+   "lobster and scallop fishery plus tourism, Acadian culture, ferry services and tidal power",
+   "historic port-region coastal building stock",
+   "8.6 km to the town of Digby and 176.5 km to Halifax",
+   "population 7,208 (2021), 4th of the region's 6 published communities"
+  ],
+  "signals_count": 6,
+  "opener_words": "Digby Neck stretches out of Digby District into",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/digby-district#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Digby District",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Digby District, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Digby, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Clare, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Annapolis County, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 44.55,
+        "longitude": -65.8
+       },
+       "geoRadius": "6450"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Digby District",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/digby-district#page",
+     "url": "{BRAND_URL}/areas/digby-district",
+     "name": "{SERVICE} in Digby District, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/digby-district#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/digby-district#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Fundy Shore",
+       "item": "{BRAND_URL}/areas/region/fundy-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Digby District",
+       "item": "{BRAND_URL}/areas/digby-district"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/digby-district#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you cover every community in Digby District, including out Digby Neck?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} provides {SERVICE} across the whole district municipality — the villages surrounding the town of Digby and the communities along Digby Neck. Distance within the district never changes the standard: same crews, same warranty, same {ESTIMATE_TYPE} estimate wherever your property sits on the Fundy coast."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How do Bay of Fundy conditions affect {SERVICE} in Digby District?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They set the whole schedule. Digby District fronts the Bay of Fundy, whose tides define this coast, and salt air and ocean wind wear on buildings year-round. {COMPANY_NAME} specs materials and timing for that coastal Maritime climate, so your {SERVICE} results survive the seasons instead of needing a redo."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What will {SERVICE} cost for a property in Digby District?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on scope, property size and condition, so {COMPANY_NAME} starts every Digby District job with a {ESTIMATE_TYPE} estimate. Typical projects fall within {PRICE_RANGE}, and the quote you approve is the price you pay — no surprise add-ons once the work begins on your property."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you reach a Digby District property?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} responds within {RESPONSE_TIME} across Digby District. The town of Digby sits just 8.6 km from the district's centre, so crews working the area reach shoreline properties and inland homes alike without long delays, and {AVAILABILITY} availability covers urgent {SERVICE} calls when they come up."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Digby District?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because coastal work is the specialty. {COMPANY_NAME} brings {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating to a district where fishing families and tourism operators expect work that holds through Fundy weather. {UNIQUE_VALUE_PROP} Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/digby-district#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+     "name": "Digby District, Fundy Shore Nova Scotia — Bay of Fundy district taking in the Digby Neck whale-watching peninsula",
+     "caption": "Digby District, Fundy Shore Nova Scotia — Bay of Fundy district taking in the Digby Neck whale-watching peninsula",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Michael C. Rygel"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Digby District, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 44.55,
+       "longitude": -65.8
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0155",
+  "slug": "clare",
+  "url": "/areas/clare",
+  "name": "Clare",
+  "type": "District Municipality",
+  "region": "Fundy Shore",
+  "region_slug": "fundy-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 44.3,
+   "lng": -66.05
+  },
+  "fsa": "B0W",
+  "population_2021": 7692,
+  "unified_score": 58.1,
+  "km_halifax": 200.1,
+  "km_sydney": 501.9,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Fundy Shore",
+   "Clare"
+  ],
+  "hero": {
+   "overline": "Clare · Fundy Shore · Nova Scotia",
+   "h1": "{SERVICE} in Clare, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Clare, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Clare, NS: coverage for every Acadian village on the district's Bay of Fundy coast, built for salt air. {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Clare",
+   "secondary_keywords": [
+    "{SERVICE} near me Clare",
+    "{BUSINESS_TYPE} Clare Nova Scotia",
+    "{SERVICE} Acadian shore Clare",
+    "{SERVICE} Municipality of Clare"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Clare Bay of Fundy coast",
+    "{SERVICE} for Acadian village properties Clare",
+    "coastal climate {SERVICE} Clare Nova Scotia",
+    "{SERVICE} Clare fishing community homes"
+   ],
+   "question_keywords": [
+    "which Clare communities get {SERVICE} coverage",
+    "how much does {SERVICE} cost in Clare Nova Scotia",
+    "how fast can a {BUSINESS_TYPE} reach Clare"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Clare",
+    "who serves the Acadian villages of Clare for {SERVICE}",
+    "{BUSINESS_TYPE} covering Clare Nova Scotia",
+    "{SERVICE} between Digby District and Yarmouth on the Fundy Shore",
+    "reliable {SERVICE} for a coastal home in Clare"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Clare, {COMPANY_NAME} covers every Acadian village along the district's Bay of Fundy coastline. Clare is the region's most spread-out community — its nearest published neighbour is 34.2 km away — so routes are planned to keep {RESPONSE_TIME} response realistic, with a {ESTIMATE_TYPE} estimate first. Call {PHONE}.",
+  "entity_description": "Clare is a district municipality in the Fundy Shore region of Nova Scotia with a 2021 census population of 7,692. Acadian villages and Acadian culture define the district, and its economy runs on lobster and scallop fishing along with tourism, ferry services and tidal power. Clare sits on the Bay of Fundy coast, 200.1 km from Halifax, with Digby District 34.2 km up the shore and Yarmouth District 50 km down it — the widest spacing of any published community in the region.",
+  "about_md": "Acadian villages line the Clare shore, and Acadian culture carries as much weight in this district's economy as the lobster and scallop boats that work the Bay of Fundy. Clare is a district municipality on Nova Scotia's Fundy Shore, home to 7,692 people at the 2021 census, and {COMPANY_NAME} provides {SERVICE} to every community along its coastline. On this stretch of coast the work has to respect two things at once: the culture that built these villages and the salt-heavy weather that tests them.\n\nThe Bay of Fundy sets those terms. Fundy Shore's coastal Maritime climate is shaped by the bay and its powerful tides, and the shoreline setting works on buildings year-round — salt air on exterior surfaces, ocean wind on rooflines, freeze and thaw through the Maritime winter. Local owners treat quality maintenance as standard practice rather than an afterthought, and {COMPANY_NAME} matches that mindset, building every {SERVICE} job — {SUBSERVICE_1}, {SUBSERVICE_2}, {SUBSERVICE_3} — for exactly these conditions.\n\n## Built for the distances\n\nClare is the most spread-out stop on our Fundy Shore map. The nearest published community, Digby District, is 34.2 km away — the widest such gap in the region — while Yarmouth District lies 50 km down the coast and Yarmouth itself, the lobster capital of Canada, is 51.9 km southwest. Halifax is 200.1 km distant. Those distances are exactly why Clare property owners need a {BUSINESS_TYPE} that commits to the drive. {COMPANY_NAME} holds the same {RESPONSE_TIME} response standard here as anywhere else in the region, with {AVAILABILITY} availability when something cannot wait.\n\nThe district's economy runs on the lobster and scallop fishery, with tourism, Acadian culture, ferry services and tidal power filling out the picture. Tourism adds seasonal demand on top of year-round fishing-family needs, and working communities like these keep buildings in service for decades. The region's coastal building stock rewards owners who stay ahead of the weather, and {COMPANY_NAME}, a {BUSINESS_TYPE} with {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating, delivers {SERVICE_LIST} for {PROPERTY_TYPE} across the district. {SERVICE_DESCRIPTION}\n\nAmong the six Fundy Shore communities we publish, Clare ranks third by population — large enough to keep a {SERVICE_CATEGORY} calendar full, spread out enough that showing up is half the job. Pricing stays transparent at {PRICE_RANGE} depending on scope, and every project begins with a {ESTIMATE_TYPE} estimate, from quick fixes to a complete {PROJECT_TYPE}. {UNIQUE_VALUE_PROP} {CTA_PRIMARY}",
+  "local_facts": [
+   "2021 census population: 7,692 (Statistics Canada)",
+   "District municipality in the Fundy Shore region of Nova Scotia",
+   "Postal FSA: B0W",
+   "200.1 km from Halifax; 501.9 km from Sydney",
+   "Nearest published community: Digby District, 34.2 km away — the widest gap among the region's six published communities",
+   "Known for its Acadian villages along the Bay of Fundy shore",
+   "Economy: lobster and scallop fishing, tourism, Acadian culture, ferry services and tidal power"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Clare has the widest spacing of the six published Fundy Shore communities: its nearest published neighbour, Digby District, is 34.2 km away, compared with nearest-neighbour gaps of 5.6 to 17 km everywhere else in the region."
+  },
+  "services_grid": {
+   "heading": "Services in Clare",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/clare/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/clare/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/clare/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/clare/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/clare/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/clare/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Clare"
+  },
+  "faqs": [
+   {
+    "question": "Which Clare communities do you serve?",
+    "answer": "All of them. {COMPANY_NAME} covers the entire district municipality of Clare, from the Acadian villages along the Bay of Fundy shore to properties set back from the water. Clare's communities are strung along the coast, and routes are planned so no address in the district is out of range for {SERVICE}."
+   },
+   {
+    "question": "Does Clare's distance from other service hubs affect scheduling?",
+    "answer": "No — and that is the point. Clare's nearest published neighbour, Digby District, is 34.2 km away, the widest gap in the Fundy Shore region, so some providers treat the district as a detour. {COMPANY_NAME} schedules Clare as a core service area with the same {RESPONSE_TIME} response as anywhere else."
+   },
+   {
+    "question": "How is {SERVICE} priced in Clare?",
+    "answer": "By scope, not postal code. Expect {PRICE_RANGE} depending on the job, confirmed with a {ESTIMATE_TYPE} estimate before work begins. The coastal climate here makes honest quoting matter: {COMPANY_NAME} specs for Bay of Fundy salt air up front instead of surprising you with add-ons later."
+   },
+   {
+    "question": "How fast can you get to a property in Clare?",
+    "answer": "{COMPANY_NAME} commits to {RESPONSE_TIME} response throughout Clare. Yarmouth District lies 50 km down the coast and Digby District 34.2 km up it, and coverage runs the full stretch between them, so booking from any Clare village gets the same turnaround as the region's larger centres."
+   },
+   {
+    "question": "Why do Clare property owners choose {COMPANY_NAME}?",
+    "answer": "Consistency across the district. Clare's lobster and scallop fishery, tourism and Acadian communities keep properties working hard, and owners here want a {BUSINESS_TYPE} that shows up and stands behind the job. With {YEARS_IN_BUSINESS} years in business and a {RATING} rating, we do both. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Clare, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "digby-district",
+    "name": "Digby District",
+    "km": 34.2,
+    "url": "/areas/digby-district",
+    "anchor": "Digby District, the whale-watching district 34.2 km up the coast"
+   },
+   {
+    "slug": "digby",
+    "name": "Digby",
+    "km": 42.5,
+    "url": "/areas/digby",
+    "anchor": "the lobster and scallop town of Digby, 42.5 km away"
+   },
+   {
+    "slug": "yarmouth-district",
+    "name": "Yarmouth District",
+    "km": 50,
+    "url": "/areas/yarmouth-district",
+    "anchor": "Yarmouth District, 50 km down the shore"
+   },
+   {
+    "slug": "yarmouth",
+    "name": "Yarmouth",
+    "km": 51.9,
+    "url": "/areas/yarmouth",
+    "anchor": "Yarmouth, the lobster capital of Canada, 51.9 km southwest"
+   },
+   {
+    "slug": "argyle",
+    "name": "Argyle",
+    "km": 57.8,
+    "url": "/areas/argyle",
+    "anchor": "Argyle, 57.8 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/fundy-shore",
+   "name": "Fundy Shore",
+   "anchor": "Fundy Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-fundy-shore",
+    "title": "What {SERVICE} Costs in Fundy Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-fundy-shore",
+    "title": "Fundy Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-fundy-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Fundy Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-fundy-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Fundy Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Clare",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Clare quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "clare"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+   "filename": "clare-fundy-shore-ns.webp",
+   "alt_layer1_geo": "Clare, Fundy Shore Nova Scotia — Acadian villages strung along the Bay of Fundy shore",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Clare, Nova Scotia — Clare, Fundy Shore Nova Scotia — Acadian villages strung along the Bay of Fundy shore",
+   "title": "Clare, Fundy Shore Nova Scotia — Acadian villages strung along the Bay of Fundy shore",
+   "caption": "Clare, Fundy Shore Nova Scotia — Acadian villages strung along the Bay of Fundy shore",
+   "exif_geo": {
+    "lat": 44.3,
+    "lng": -66.05,
+    "name": "Clare, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Michael C. Rygel — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "Acadian villages and Acadian culture (grounding)",
+   "Bay of Fundy tides and coastal Maritime climate",
+   "lobster and scallop fishery plus tourism, ferry services and tidal power",
+   "coastal building stock maintained against the weather",
+   "34.2 km to Digby District, 50 km to Yarmouth District, 200.1 km to Halifax",
+   "population 7,692 (2021), 3rd of the region's 6 published communities"
+  ],
+  "signals_count": 6,
+  "opener_words": "Acadian villages line the Clare shore, and",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/clare#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Clare",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Clare, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Digby District, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Digby, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Yarmouth District, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 44.3,
+        "longitude": -66.05
+       },
+       "geoRadius": "25000"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Clare",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/clare#page",
+     "url": "{BRAND_URL}/areas/clare",
+     "name": "{SERVICE} in Clare, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/clare#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/clare#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Fundy Shore",
+       "item": "{BRAND_URL}/areas/region/fundy-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Clare",
+       "item": "{BRAND_URL}/areas/clare"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/clare#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Which Clare communities do you serve?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All of them. {COMPANY_NAME} covers the entire district municipality of Clare, from the Acadian villages along the Bay of Fundy shore to properties set back from the water. Clare's communities are strung along the coast, and routes are planned so no address in the district is out of range for {SERVICE}."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does Clare's distance from other service hubs affect scheduling?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No — and that is the point. Clare's nearest published neighbour, Digby District, is 34.2 km away, the widest gap in the Fundy Shore region, so some providers treat the district as a detour. {COMPANY_NAME} schedules Clare as a core service area with the same {RESPONSE_TIME} response as anywhere else."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How is {SERVICE} priced in Clare?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By scope, not postal code. Expect {PRICE_RANGE} depending on the job, confirmed with a {ESTIMATE_TYPE} estimate before work begins. The coastal climate here makes honest quoting matter: {COMPANY_NAME} specs for Bay of Fundy salt air up front instead of surprising you with add-ons later."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you get to a property in Clare?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} commits to {RESPONSE_TIME} response throughout Clare. Yarmouth District lies 50 km down the coast and Digby District 34.2 km up it, and coverage runs the full stretch between them, so booking from any Clare village gets the same turnaround as the region's larger centres."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why do Clare property owners choose {COMPANY_NAME}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consistency across the district. Clare's lobster and scallop fishery, tourism and Acadian communities keep properties working hard, and owners here want a {BUSINESS_TYPE} that shows up and stands behind the job. With {YEARS_IN_BUSINESS} years in business and a {RATING} rating, we do both. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/clare#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+     "name": "Clare, Fundy Shore Nova Scotia — Acadian villages strung along the Bay of Fundy shore",
+     "caption": "Clare, Fundy Shore Nova Scotia — Acadian villages strung along the Bay of Fundy shore",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Michael C. Rygel"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Clare, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 44.3,
+       "longitude": -66.05
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0147",
+  "slug": "yarmouth-district",
+  "url": "/areas/yarmouth-district",
+  "name": "Yarmouth District",
+  "type": "District Municipality",
+  "region": "Fundy Shore",
+  "region_slug": "fundy-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 43.85,
+   "lng": -66.05
+  },
+  "fsa": "B0W",
+  "population_2021": 9585,
+  "unified_score": 58,
+  "km_halifax": 216.2,
+  "km_sydney": 525.8,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Fundy Shore",
+   "Yarmouth District"
+  ],
+  "hero": {
+   "overline": "Yarmouth District · Fundy Shore · Nova Scotia",
+   "h1": "{SERVICE} in Yarmouth District, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Yarmouth District, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Yarmouth District, the Fundy Shore's largest community, planned for salt air from the harbour to rural roads. {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Yarmouth District",
+   "secondary_keywords": [
+    "{SERVICE} near me Yarmouth District",
+    "{BUSINESS_TYPE} Yarmouth District Nova Scotia",
+    "{SERVICE} Yarmouth County area",
+    "{SERVICE} near Cape Forchu"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Yarmouth District coastal properties",
+    "{SERVICE} rural properties around Yarmouth",
+    "salt air {SERVICE} Yarmouth District Nova Scotia",
+    "{SERVICE} for fishing community buildings Yarmouth District"
+   ],
+   "question_keywords": [
+    "what makes {SERVICE} in Yarmouth District different from town work",
+    "what does {SERVICE} cost in Yarmouth District",
+    "how fast is {SERVICE} response in Yarmouth District"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Yarmouth District",
+    "who does {SERVICE} outside the town of Yarmouth",
+    "{BUSINESS_TYPE} for rural properties in Yarmouth District Nova Scotia",
+    "{SERVICE} near Cape Forchu Lighthouse",
+    "best {SERVICE} provider covering Yarmouth District and Argyle"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Yarmouth District, {COMPANY_NAME} covers the Fundy Shore's largest community — 9,585 residents in the municipality wrapped around the town of Yarmouth. Coastal properties here face Bay of Fundy salt air year-round, so every job is planned for Maritime conditions and starts with a {ESTIMATE_TYPE} estimate. Call {PHONE}.",
+  "entity_description": "Yarmouth District is a district municipality in the Fundy Shore region of Nova Scotia with a 2021 census population of 9,585 — the largest of the region's six published communities. It surrounds the town of Yarmouth, 5.6 km from the district's centre, at the province's southwestern tip. The economy runs on lobster and scallop fishing, tourism, Acadian culture, ferry services and tidal power, and Halifax lies 216.2 km away, with Argyle's fishing communities beginning 17 km east.",
+  "about_md": "Yarmouth District is the largest of the six Fundy Shore communities {COMPANY_NAME} serves — 9,585 residents at the 2021 census — and it wraps around the town of Yarmouth, whose centre sits just 5.6 km away. This district municipality at Nova Scotia's southwestern tip is where the region's working coast concentrates: lobster and scallop boats, tourism operators and Acadian communities all within a short drive of the province's historic gateway port. For {SERVICE}, that geography means one well-organized provider can cover a lot of coastline — if the provider plans for it, which is exactly how {COMPANY_NAME} operates here.\n\nThat coastal position is the first thing the work has to answer to. Cape Forchu Lighthouse stands at the approach to Yarmouth harbour on this stretch of shore, a reminder that the district faces open water. Fundy Shore's coastal Maritime climate — salt air, ocean wind and hard Maritime winters — works on buildings year-round, and district property owners understand the importance of quality maintenance in a coastal climate. {COMPANY_NAME} specs every {SERVICE} project, from {SUBSERVICE_1} to {SUBSERVICE_2} and {SUBSERVICE_3}, for exactly those conditions.\n\n## The region's biggest service territory\n\nThe economy runs on the lobster and scallop fishery, backed by tourism, Acadian culture, ferry services and tidal power. Because the district surrounds the region's largest town, its properties range widely: coastal homes that owners maintain against the climate, working buildings tied to the fishery, and rural properties spread between communities. {COMPANY_NAME}, a {BUSINESS_TYPE} with {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating, handles {SERVICE_LIST} for {PROPERTY_TYPE} across all of it. {SERVICE_DESCRIPTION}\n\nDistances work in the district's favour. Argyle's fishing communities begin 17 km east, Clare's Acadian villages lie 50 km up the coast, and Halifax is 216.2 km away — far enough that local crews matter, close enough that provincial standards apply in full. {COMPANY_NAME} commits to {RESPONSE_TIME} response anywhere in Yarmouth District, with {AVAILABILITY} availability when a problem cannot wait for a scheduled visit.\n\nA population of 9,585 makes this the busiest {SERVICE_CATEGORY} territory on the Fundy Shore, and busy territories reward providers who quote straight. Pricing runs {PRICE_RANGE} depending on scope, every job starts with a {ESTIMATE_TYPE} estimate, and each {PROJECT_TYPE} is planned around the coastal season rather than against it. {UNIQUE_VALUE_PROP} {CTA_PRIMARY}",
+  "local_facts": [
+   "2021 census population: 9,585 (Statistics Canada) — largest of the region's 6 published communities",
+   "District municipality in the Fundy Shore region of Nova Scotia",
+   "Postal FSA: B0W",
+   "216.2 km from Halifax; 525.8 km from Sydney",
+   "Surrounds the town of Yarmouth, 5.6 km from the district's centre",
+   "Cape Forchu Lighthouse stands at the approach to Yarmouth harbour on this coast",
+   "Economy: lobster and scallop fishing, tourism, Acadian culture, ferry services and tidal power"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Yarmouth District ranks 1st by population among the 6 published Fundy Shore communities at 9,585 residents (2021), and its nearest served neighbour — the town of Yarmouth it surrounds — is only 5.6 km away."
+  },
+  "services_grid": {
+   "heading": "Services in Yarmouth District",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth-district/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth-district/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Yarmouth District"
+  },
+  "faqs": [
+   {
+    "question": "Do you serve all of Yarmouth District, not just around the town?",
+    "answer": "Yes. {COMPANY_NAME} covers the full district municipality — the communities ringing the town of Yarmouth and the rural properties spread between them. The district is the Fundy Shore's largest published community at 9,585 residents, and our {SERVICE} coverage is built to match that footprint, not just the town limits."
+   },
+   {
+    "question": "What makes {SERVICE} in Yarmouth District different from town work?",
+    "answer": "Exposure and spread. The district faces open water — Cape Forchu Lighthouse marks the harbour approach on this coast — and properties sit farther apart than on town streets. {COMPANY_NAME} specs for salt air and ocean wind, and plans routes so rural district properties get the same attention as in-town jobs."
+   },
+   {
+    "question": "What does {SERVICE} cost in Yarmouth District?",
+    "answer": "Scope drives price. Most Yarmouth District projects land within {PRICE_RANGE}, and {COMPANY_NAME} confirms your number with a {ESTIMATE_TYPE} estimate before any work starts. Quotes account for coastal Maritime conditions from the outset, so the price you approve already covers materials that hold up here."
+   },
+   {
+    "question": "How quickly can you respond in Yarmouth District?",
+    "answer": "{COMPANY_NAME} responds within {RESPONSE_TIME} across the district. With the town of Yarmouth only 5.6 km from the district's centre and Argyle starting 17 km east, crews working this corner of Nova Scotia are always nearby, and {AVAILABILITY} availability covers urgent {SERVICE} situations."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} in Yarmouth District?",
+    "answer": "Because the region's biggest community deserves its most accountable {BUSINESS_TYPE}. {COMPANY_NAME} pairs {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating with planning built for a coastal district where the fishery, tourism and year-round households all depend on sound buildings. {UNIQUE_VALUE_PROP} Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Yarmouth District, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "yarmouth",
+    "name": "Yarmouth",
+    "km": 5.6,
+    "url": "/areas/yarmouth",
+    "anchor": "the historic port town of Yarmouth, 5.6 km away at the district's heart"
+   },
+   {
+    "slug": "argyle",
+    "name": "Argyle",
+    "km": 17,
+    "url": "/areas/argyle",
+    "anchor": "Argyle's lobster-fishing communities, 17 km east"
+   },
+   {
+    "slug": "clare",
+    "name": "Clare",
+    "km": 50,
+    "url": "/areas/clare",
+    "anchor": "Clare and its Acadian villages, 50 km up the coast"
+   },
+   {
+    "slug": "barrington",
+    "name": "Barrington",
+    "km": 50.9,
+    "url": "/areas/barrington",
+    "anchor": "Barrington, 50.9 km along the South Shore"
+   },
+   {
+    "slug": "shelburne",
+    "name": "Shelburne",
+    "km": 59.1,
+    "url": "/areas/shelburne",
+    "anchor": "Shelburne, 59.1 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/fundy-shore",
+   "name": "Fundy Shore",
+   "anchor": "Fundy Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-fundy-shore",
+    "title": "What {SERVICE} Costs in Fundy Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-fundy-shore",
+    "title": "Fundy Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-fundy-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Fundy Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-fundy-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Fundy Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Yarmouth District",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Yarmouth District quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "yarmouth-district"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+   "filename": "yarmouth-district-fundy-shore-ns.webp",
+   "alt_layer1_geo": "Yarmouth District, Fundy Shore Nova Scotia — the region's largest municipality, wrapped around the town of Yarmouth at the province's southwestern tip",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Yarmouth District, Nova Scotia — Yarmouth District, Fundy Shore Nova Scotia — the region's largest municipality, wrapped around the town of Yarmouth at the province's southwestern tip",
+   "title": "Yarmouth District, Fundy Shore Nova Scotia — the region's largest municipality, wrapped around the town of Yarmouth at the province's southwestern tip",
+   "caption": "Yarmouth District, Fundy Shore Nova Scotia — the region's largest municipality, wrapped around the town of Yarmouth at the province's southwestern tip",
+   "exif_geo": {
+    "lat": 43.85,
+    "lng": -66.05,
+    "name": "Yarmouth District, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Michael C. Rygel — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "largest published population in the region: 9,585 (2021), rank 1 of 6",
+   "surrounds the town of Yarmouth, 5.6 km from the district's centre",
+   "Cape Forchu Lighthouse at the harbour approach (landmark)",
+   "coastal Maritime climate with salt air and ocean wind",
+   "lobster and scallop fishery plus tourism, Acadian culture, ferry services and tidal power",
+   "17 km to Argyle, 50 km to Clare, 216.2 km to Halifax"
+  ],
+  "signals_count": 6,
+  "opener_words": "Yarmouth District is the largest of the",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/yarmouth-district#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Yarmouth District",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Yarmouth District, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Yarmouth, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Argyle, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Clare, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.85,
+        "longitude": -66.05
+       },
+       "geoRadius": "4200"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Yarmouth District",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/yarmouth-district#page",
+     "url": "{BRAND_URL}/areas/yarmouth-district",
+     "name": "{SERVICE} in Yarmouth District, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/yarmouth-district#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/yarmouth-district#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Fundy Shore",
+       "item": "{BRAND_URL}/areas/region/fundy-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Yarmouth District",
+       "item": "{BRAND_URL}/areas/yarmouth-district"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/yarmouth-district#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you serve all of Yarmouth District, not just around the town?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers the full district municipality — the communities ringing the town of Yarmouth and the rural properties spread between them. The district is the Fundy Shore's largest published community at 9,585 residents, and our {SERVICE} coverage is built to match that footprint, not just the town limits."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What makes {SERVICE} in Yarmouth District different from town work?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exposure and spread. The district faces open water — Cape Forchu Lighthouse marks the harbour approach on this coast — and properties sit farther apart than on town streets. {COMPANY_NAME} specs for salt air and ocean wind, and plans routes so rural district properties get the same attention as in-town jobs."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Yarmouth District?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scope drives price. Most Yarmouth District projects land within {PRICE_RANGE}, and {COMPANY_NAME} confirms your number with a {ESTIMATE_TYPE} estimate before any work starts. Quotes account for coastal Maritime conditions from the outset, so the price you approve already covers materials that hold up here."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you respond in Yarmouth District?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} responds within {RESPONSE_TIME} across the district. With the town of Yarmouth only 5.6 km from the district's centre and Argyle starting 17 km east, crews working this corner of Nova Scotia are always nearby, and {AVAILABILITY} availability covers urgent {SERVICE} situations."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} in Yarmouth District?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the region's biggest community deserves its most accountable {BUSINESS_TYPE}. {COMPANY_NAME} pairs {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating with planning built for a coastal district where the fishery, tourism and year-round households all depend on sound buildings. {UNIQUE_VALUE_PROP} Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/yarmouth-district#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+     "name": "Yarmouth District, Fundy Shore Nova Scotia — the region's largest municipality, wrapped around the town of Yarmouth at the province's southwestern tip",
+     "caption": "Yarmouth District, Fundy Shore Nova Scotia — the region's largest municipality, wrapped around the town of Yarmouth at the province's southwestern tip",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Michael C. Rygel"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yarmouth District, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 43.85,
+       "longitude": -66.05
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0168",
+  "slug": "argyle",
+  "url": "/areas/argyle",
+  "name": "Argyle",
+  "type": "District Municipality",
+  "region": "Fundy Shore",
+  "region_slug": "fundy-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 43.8,
+   "lng": -65.85
+  },
+  "fsa": "B0W",
+  "population_2021": 7899,
+  "unified_score": 58,
+  "km_halifax": 204.4,
+  "km_sydney": 515.1,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Fundy Shore",
+   "Argyle"
+  ],
+  "hero": {
+   "overline": "Argyle · Fundy Shore · Nova Scotia",
+   "h1": "{SERVICE} in Argyle, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Argyle, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Argyle, NS for the district's Acadian lobster-fishing communities, built for Bay of Fundy salt air and wind. {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Argyle",
+   "secondary_keywords": [
+    "{SERVICE} near me Argyle",
+    "{BUSINESS_TYPE} Argyle Nova Scotia",
+    "{SERVICE} Argyle fishing communities",
+    "{SERVICE} Municipality of Argyle"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Argyle coastal properties",
+    "{SERVICE} Argyle near the South Shore boundary",
+    "salt air {SERVICE} Argyle Nova Scotia",
+    "{SERVICE} for lobster fishing community homes Argyle"
+   ],
+   "question_keywords": [
+    "is Argyle inside the {SERVICE} coverage area",
+    "how does coastal weather change {SERVICE} in Argyle",
+    "what does {SERVICE} cost in Argyle Nova Scotia"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Argyle",
+    "who does {SERVICE} in Argyle's fishing communities",
+    "{BUSINESS_TYPE} that covers Argyle and Yarmouth District",
+    "{SERVICE} between Yarmouth and Barrington",
+    "coastal {SERVICE} for a home in Argyle Nova Scotia"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Argyle, {COMPANY_NAME} serves the district's Acadian lobster-fishing communities at the Fundy Shore's boundary with the South Shore. Coastal Maritime weather drives the work here, so every job is built for salt air and ocean wind, with {RESPONSE_TIME} response and a {ESTIMATE_TYPE} estimate up front. Call {PHONE}.",
+  "entity_description": "Argyle is a district municipality in the Fundy Shore region of Nova Scotia with a 2021 census population of 7,899, the region's second largest. Its Acadian communities live off the lobster and scallop fishery, supported by tourism, ferry services and tidal power. Argyle sits at the Fundy Shore's boundary with the South Shore — Barrington is 35.4 km east — with Yarmouth District 17 km west and Halifax 204.4 km away at the province's southwestern end.",
+  "about_md": "Argyle is where the Fundy Shore meets the South Shore. This district municipality of lobster-fishing communities sits at Nova Scotia's southwestern end, home to 7,899 people at the 2021 census — the second-largest population among the six Fundy Shore communities {COMPANY_NAME} serves. Three of its five nearest published neighbours are South Shore places, which makes Argyle the region's eastern doorway and a natural base for {SERVICE} along this working coast. That boundary position matters more than it first appears: it keeps crews moving through the district instead of past it.\n\nAcadian culture runs through Argyle's communities, and the economy is built on the lobster and scallop fishery with tourism, ferry services and tidal power in support. Fishing communities are practical about their buildings — a home or commercial property here earns its keep, and owners expect {SERVICE} work that does the same. {COMPANY_NAME} brings {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating to that standard, covering {SERVICE_LIST} for {PROPERTY_TYPE} throughout the district.\n\n## Coastal conditions, planned for\n\nThe climate does not negotiate. Fundy Shore's coastal Maritime setting is shaped by the Bay of Fundy and its powerful tides, and salt air and ocean wind work on buildings in every season. Property owners across the region understand the importance of quality maintenance in a coastal climate, and in Argyle that means {SERVICE} choices — materials, timing, finishes — made for shoreline exposure rather than for a catalogue photo. {COMPANY_NAME} plans {SUBSERVICE_1}, {SUBSERVICE_2} and {SUBSERVICE_3} around those realities. {SERVICE_DESCRIPTION}\n\nPosition gives Argyle options. Yarmouth District begins 17 km west, the town of Yarmouth — the lobster capital of Canada — is 21.8 km away, and Barrington sits 35.4 km east into the South Shore, with Halifax 204.4 km distant. For {SERVICE} scheduling, that in-between position means Argyle properties are never at the end of anyone's route: {COMPANY_NAME} commits to {RESPONSE_TIME} response across the district, with {AVAILABILITY} availability for problems that cannot wait.\n\nThe region's coastal building stock rewards owners who stay ahead of the weather, and Argyle's 7,899 residents keep steady demand for {SERVICE_CATEGORY} work moving year-round. Pricing is transparent at {PRICE_RANGE} depending on scope, every project opens with a {ESTIMATE_TYPE} estimate, and each {PROJECT_TYPE} is quoted in full before a single tool comes out. {UNIQUE_VALUE_PROP} {CTA_PRIMARY}",
+  "local_facts": [
+   "2021 census population: 7,899 (Statistics Canada) — 2nd largest of the region's 6 published communities",
+   "District municipality in the Fundy Shore region of Nova Scotia",
+   "Postal FSA: B0W",
+   "204.4 km from Halifax; 515.1 km from Sydney",
+   "Yarmouth District begins 17 km west; Barrington (South Shore) is 35.4 km east",
+   "Acadian lobster-fishing communities define the district",
+   "Economy: lobster and scallop fishing, tourism, Acadian culture, ferry services and tidal power"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Argyle is the Fundy Shore community closest to the South Shore: three of its five nearest published neighbours — Barrington (35.4 km), Shelburne (42.5 km) and Shelburne District (45.6 km) — lie in the South Shore region."
+  },
+  "services_grid": {
+   "heading": "Services in Argyle",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/argyle/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/argyle/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/argyle/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/argyle/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/argyle/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/argyle/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Argyle"
+  },
+  "faqs": [
+   {
+    "question": "Do you cover all of Argyle's communities?",
+    "answer": "Yes. {COMPANY_NAME} provides {SERVICE} throughout the district municipality of Argyle, across its Acadian lobster-fishing communities at Nova Scotia's southwestern end. Every address in the district gets the same crews, the same warranty and the same {ESTIMATE_TYPE} estimate — coverage does not thin out toward the district's edges."
+   },
+   {
+    "question": "Argyle borders the South Shore — is it really inside your service area?",
+    "answer": "Fully. Argyle is the Fundy Shore's eastern doorway: Barrington sits 35.4 km east in the South Shore, while Yarmouth District begins just 17 km west. That in-between position keeps {COMPANY_NAME} crews moving through the district regularly, so Argyle bookings slot into active routes rather than special trips."
+   },
+   {
+    "question": "How does Argyle's coastal weather change {SERVICE} work?",
+    "answer": "It decides the materials and the timing. Salt air and ocean wind off the Bay of Fundy coast work on buildings in every season, so {COMPANY_NAME} specs each Argyle {SERVICE} job for shoreline exposure. Work planned this way lasts through Maritime winters instead of failing at the first hard season."
+   },
+   {
+    "question": "What does {SERVICE} cost in Argyle?",
+    "answer": "Most Argyle projects fall within {PRICE_RANGE}, depending on scope and property condition. {COMPANY_NAME} confirms exact pricing with a {ESTIMATE_TYPE} estimate before work begins, and the quote already accounts for coastal-grade materials — no mid-project surprises for fishing-community homes or commercial buildings."
+   },
+   {
+    "question": "Why do Argyle property owners call {COMPANY_NAME}?",
+    "answer": "Because the district's second-largest population in the region — 7,899 people — deserves first-rate work. {COMPANY_NAME} brings {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS}, a {RATING} rating and {RESPONSE_TIME} response to communities that judge a {BUSINESS_TYPE} by whether the job holds. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Argyle, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "yarmouth-district",
+    "name": "Yarmouth District",
+    "km": 17,
+    "url": "/areas/yarmouth-district",
+    "anchor": "neighbouring Yarmouth District, 17 km west"
+   },
+   {
+    "slug": "yarmouth",
+    "name": "Yarmouth",
+    "km": 21.8,
+    "url": "/areas/yarmouth",
+    "anchor": "Yarmouth, 21.8 km away at the province's southwestern tip"
+   },
+   {
+    "slug": "barrington",
+    "name": "Barrington",
+    "km": 35.4,
+    "url": "/areas/barrington",
+    "anchor": "Barrington, 35.4 km east into the South Shore"
+   },
+   {
+    "slug": "shelburne",
+    "name": "Shelburne",
+    "km": 42.5,
+    "url": "/areas/shelburne",
+    "anchor": "Shelburne, 42.5 km along the South Shore coast"
+   },
+   {
+    "slug": "shelburne-district",
+    "name": "Shelburne District",
+    "km": 45.6,
+    "url": "/areas/shelburne-district",
+    "anchor": "Shelburne District, 45.6 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/fundy-shore",
+   "name": "Fundy Shore",
+   "anchor": "Fundy Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-fundy-shore",
+    "title": "What {SERVICE} Costs in Fundy Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-fundy-shore",
+    "title": "Fundy Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-fundy-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Fundy Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-fundy-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Fundy Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Argyle",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Argyle quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "argyle"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+   "filename": "argyle-fundy-shore-ns.webp",
+   "alt_layer1_geo": "Argyle, Fundy Shore Nova Scotia — Acadian lobster-fishing district where the Fundy Shore meets the South Shore",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Argyle, Nova Scotia — Argyle, Fundy Shore Nova Scotia — Acadian lobster-fishing district where the Fundy Shore meets the South Shore",
+   "title": "Argyle, Fundy Shore Nova Scotia — Acadian lobster-fishing district where the Fundy Shore meets the South Shore",
+   "caption": "Argyle, Fundy Shore Nova Scotia — Acadian lobster-fishing district where the Fundy Shore meets the South Shore",
+   "exif_geo": {
+    "lat": 43.8,
+    "lng": -65.85,
+    "name": "Argyle, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Michael C. Rygel — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "boundary position where the Fundy Shore meets the South Shore (3 of 5 nearest neighbours in South Shore)",
+   "Acadian lobster-fishing communities and Acadian culture",
+   "Bay of Fundy coastal Maritime climate with salt air and ocean wind",
+   "lobster and scallop fishery plus tourism, ferry services and tidal power",
+   "17 km to Yarmouth District, 21.8 km to Yarmouth, 204.4 km to Halifax",
+   "population 7,899 (2021), 2nd of the region's 6 published communities"
+  ],
+  "signals_count": 6,
+  "opener_words": "Argyle is where the Fundy Shore meets",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/argyle#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Argyle",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Argyle, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Yarmouth District, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Yarmouth, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Barrington, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.8,
+        "longitude": -65.85
+       },
+       "geoRadius": "12750"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Argyle",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/argyle#page",
+     "url": "{BRAND_URL}/areas/argyle",
+     "name": "{SERVICE} in Argyle, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/argyle#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/argyle#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Fundy Shore",
+       "item": "{BRAND_URL}/areas/region/fundy-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Argyle",
+       "item": "{BRAND_URL}/areas/argyle"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/argyle#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you cover all of Argyle's communities?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} provides {SERVICE} throughout the district municipality of Argyle, across its Acadian lobster-fishing communities at Nova Scotia's southwestern end. Every address in the district gets the same crews, the same warranty and the same {ESTIMATE_TYPE} estimate — coverage does not thin out toward the district's edges."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Argyle borders the South Shore — is it really inside your service area?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fully. Argyle is the Fundy Shore's eastern doorway: Barrington sits 35.4 km east in the South Shore, while Yarmouth District begins just 17 km west. That in-between position keeps {COMPANY_NAME} crews moving through the district regularly, so Argyle bookings slot into active routes rather than special trips."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How does Argyle's coastal weather change {SERVICE} work?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It decides the materials and the timing. Salt air and ocean wind off the Bay of Fundy coast work on buildings in every season, so {COMPANY_NAME} specs each Argyle {SERVICE} job for shoreline exposure. Work planned this way lasts through Maritime winters instead of failing at the first hard season."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Argyle?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most Argyle projects fall within {PRICE_RANGE}, depending on scope and property condition. {COMPANY_NAME} confirms exact pricing with a {ESTIMATE_TYPE} estimate before work begins, and the quote already accounts for coastal-grade materials — no mid-project surprises for fishing-community homes or commercial buildings."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why do Argyle property owners call {COMPANY_NAME}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the district's second-largest population in the region — 7,899 people — deserves first-rate work. {COMPANY_NAME} brings {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS}, a {RATING} rating and {RESPONSE_TIME} response to communities that judge a {BUSINESS_TYPE} by whether the job holds. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/argyle#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+     "name": "Argyle, Fundy Shore Nova Scotia — Acadian lobster-fishing district where the Fundy Shore meets the South Shore",
+     "caption": "Argyle, Fundy Shore Nova Scotia — Acadian lobster-fishing district where the Fundy Shore meets the South Shore",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Michael C. Rygel"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Argyle, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 43.8,
+       "longitude": -65.85
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0104",
+  "slug": "yarmouth",
+  "url": "/areas/yarmouth",
+  "name": "Yarmouth",
+  "type": "Town",
+  "region": "Fundy Shore",
+  "region_slug": "fundy-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 43.8361,
+   "lng": -66.1175
+  },
+  "fsa": "B0W",
+  "population_2021": 6772,
+  "unified_score": 57.2,
+  "km_halifax": 221.8,
+  "km_sydney": 531.3,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Fundy Shore",
+   "Yarmouth"
+  ],
+  "hero": {
+   "overline": "Yarmouth · Fundy Shore · Nova Scotia",
+   "h1": "{SERVICE} in Yarmouth, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Yarmouth, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Yarmouth, NS — from Main Street's Victorian buildings to homes near Yarmouth Bar, planned for harbour salt air. {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Yarmouth",
+   "secondary_keywords": [
+    "{SERVICE} near me Yarmouth",
+    "{BUSINESS_TYPE} Yarmouth Nova Scotia",
+    "{SERVICE} Main Street Yarmouth",
+    "{SERVICE} near Cape Forchu Yarmouth"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Victorian home Yarmouth",
+    "{SERVICE} near the Yarmouth ferry terminal",
+    "salt air {SERVICE} Yarmouth harbour properties",
+    "{SERVICE} heritage buildings Yarmouth Nova Scotia"
+   ],
+   "question_keywords": [
+    "who does {SERVICE} on Victorian buildings in Yarmouth",
+    "how does harbour salt air affect {SERVICE} in Yarmouth",
+    "what does {SERVICE} cost in Yarmouth Nova Scotia"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Yarmouth",
+    "{BUSINESS_TYPE} for an older home on Main Street Yarmouth",
+    "{SERVICE} company near the Yarmouth ferry terminal",
+    "who covers Yarmouth and Yarmouth District for {SERVICE}",
+    "coastal {SERVICE} near Cape Forchu Lighthouse"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Yarmouth, {COMPANY_NAME} works the lobster capital of Canada — a port town founded in 1761 where Victorian buildings line Main Street and salt air never lets up. Every job is planned for that coastal exposure, with {RESPONSE_TIME} response and a {ESTIMATE_TYPE} estimate before work starts. Call {PHONE}.",
+  "entity_description": "Yarmouth is a town in the Fundy Shore region of Nova Scotia with a 2021 census population of 6,772. Founded in 1761 and named after Yarmouth, England, it is known as the lobster capital of Canada and the 'Gateway to Nova Scotia' by sea, with a seasonal ferry to Maine. Victorian architecture lines Main Street, and landmarks include Cape Forchu Lighthouse, the Yarmouth County Museum, the Killam Brothers Building and Frost Park. Tourism, healthcare and forestry round out the fishing economy.",
+  "about_md": "Yarmouth calls itself the lobster capital of Canada, and it has the fleet to back it up. Founded in 1761 and named after Yarmouth, England, this Nova Scotia port town of 6,772 people (2021 census) was one of the richest seafaring communities of the nineteenth century, and the sea still runs the place — from the working harbour to the seasonal ferry that links the town to Maine and earns it the name 'Gateway to Nova Scotia' by sea. {COMPANY_NAME} provides {SERVICE} throughout Yarmouth, and this is a town where buildings have real history worth protecting.\n\nWalk Main Street and you see what {SERVICE} means here. Victorian architecture lines the street, the Killam Brothers Building and the Yarmouth County Museum anchor the town's seafaring heritage, and Frost Park sits among them. Older buildings like these reward careful work and punish shortcuts. {COMPANY_NAME} — a {BUSINESS_TYPE} with {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating — approaches every {PROPERTY_TYPE} with that in mind, from heritage-era storefronts downtown to family homes out toward Yarmouth Bar beach.\n\n## Salt air is the constant\n\nCape Forchu Lighthouse stands at the approach to the harbour for a reason: this is an exposed, working coast. Fundy Shore's coastal Maritime climate — salt air, ocean wind and hard winters — works on buildings year-round, and Yarmouth property owners know maintenance is not optional here. {COMPANY_NAME} plans {SUBSERVICE_1}, {SUBSERVICE_2} and {SUBSERVICE_3} around those conditions, choosing materials and timing so the work lasts instead of weathering out in a season or two.\n\nThe economy gives the town steady footing. The lobster fishery leads, with the ferry terminal, tourism, healthcare and forestry rounding it out — a mix that keeps commercial buildings occupied and homes lived in year-round, which in turn keeps demand for {SERVICE_CATEGORY} work constant across the calendar. {SERVICE_DESCRIPTION}\n\nYarmouth sits at the province's southwestern tip, 221.8 km from Halifax — the farthest of the six Fundy Shore communities we publish from the capital. The surrounding Yarmouth District begins 5.6 km from the town's centre, and the Acadian communities of Clare lie up the coast. Distance from the city is no excuse for lesser standards: {COMPANY_NAME} commits to {RESPONSE_TIME} response, transparent {PRICE_RANGE} pricing, and a {ESTIMATE_TYPE} estimate before any work starts, with {AVAILABILITY} availability for every {PROJECT_TYPE}. {UNIQUE_VALUE_PROP} {CTA_PRIMARY}",
+  "local_facts": [
+   "2021 census population: 6,772 (Statistics Canada)",
+   "Town in the Fundy Shore region of Nova Scotia, surrounded by Yarmouth District (5.6 km to the district's centre)",
+   "Founded in 1761 and named after Yarmouth, England",
+   "Postal FSA: B0W; 221.8 km from Halifax and 531.3 km from Sydney",
+   "Landmarks: Yarmouth County Museum, Cape Forchu Lighthouse, Killam Brothers Building, Frost Park",
+   "Known as the lobster capital of Canada and the 'Gateway to Nova Scotia' by sea, with a seasonal ferry to Maine",
+   "Economy: fishing industry, ferry terminal, tourism, healthcare and forestry"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "At 221.8 km from Halifax, Yarmouth is the farthest of the six published Fundy Shore communities from the capital — 48.9 km farther than Digby, the region's closest."
+  },
+  "services_grid": {
+   "heading": "Services in Yarmouth",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/yarmouth/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Yarmouth"
+  },
+  "faqs": [
+   {
+    "question": "Do you serve all of Yarmouth, from downtown to Yarmouth Bar?",
+    "answer": "Yes. {COMPANY_NAME} covers the whole town — the Victorian-era blocks along Main Street, properties near the ferry terminal, and homes out toward Yarmouth Bar beach. The surrounding Yarmouth District is in our coverage too, so town-edge addresses never fall into a gap between service areas."
+   },
+   {
+    "question": "Can you handle {SERVICE} on Yarmouth's older Victorian buildings?",
+    "answer": "That is a specialty. Main Street's Victorian architecture dates from Yarmouth's nineteenth-century seafaring wealth, and buildings of that age need {SERVICE} choices that respect original construction while meeting today's standards. {COMPANY_NAME} carries {CERTIFICATIONS} and plans heritage-era work carefully rather than treating it like new construction."
+   },
+   {
+    "question": "How does Yarmouth's harbour exposure affect {SERVICE}?",
+    "answer": "Directly. Cape Forchu Lighthouse marks the harbour approach because this coast takes real weather, and the salt air that comes with it works on every building in town. {COMPANY_NAME} specs materials for coastal exposure and times {SERVICE} work around the Maritime seasons, so results hold up year after year."
+   },
+   {
+    "question": "What does {SERVICE} cost in Yarmouth?",
+    "answer": "Most Yarmouth projects land within {PRICE_RANGE}, depending on the building's age, size and condition. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate first, priced honestly for coastal-grade materials — important in a town where much of the building stock predates modern construction."
+   },
+   {
+    "question": "Why is {COMPANY_NAME} the right {BUSINESS_TYPE} for Yarmouth?",
+    "answer": "Because Yarmouth rewards providers who respect it. The lobster capital of Canada keeps its buildings working — fishery, ferry, tourism, healthcare — and {COMPANY_NAME} matches that with {YEARS_IN_BUSINESS} years in business, a {RATING} rating and {RESPONSE_TIME} response. {UNIQUE_VALUE_PROP} Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Yarmouth, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "yarmouth-district",
+    "name": "Yarmouth District",
+    "km": 5.6,
+    "url": "/areas/yarmouth-district",
+    "anchor": "Yarmouth District, the municipality wrapping the town from 5.6 km out"
+   },
+   {
+    "slug": "argyle",
+    "name": "Argyle",
+    "km": 21.8,
+    "url": "/areas/argyle",
+    "anchor": "Argyle, 21.8 km east toward the South Shore"
+   },
+   {
+    "slug": "clare",
+    "name": "Clare",
+    "km": 51.9,
+    "url": "/areas/clare",
+    "anchor": "the Acadian communities of Clare, 51.9 km up the coast"
+   },
+   {
+    "slug": "barrington",
+    "name": "Barrington",
+    "km": 54.3,
+    "url": "/areas/barrington",
+    "anchor": "Barrington, 54.3 km east on the South Shore"
+   },
+   {
+    "slug": "shelburne",
+    "name": "Shelburne",
+    "km": 64.2,
+    "url": "/areas/shelburne",
+    "anchor": "Shelburne, 64.2 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/fundy-shore",
+   "name": "Fundy Shore",
+   "anchor": "Fundy Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-fundy-shore",
+    "title": "What {SERVICE} Costs in Fundy Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-fundy-shore",
+    "title": "Fundy Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-fundy-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Fundy Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-fundy-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Fundy Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Yarmouth",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Yarmouth quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "yarmouth"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+   "filename": "yarmouth-fundy-shore-ns.webp",
+   "alt_layer1_geo": "Yarmouth, Fundy Shore Nova Scotia — 1761 port town and lobster capital of Canada at the province's southwestern tip",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Yarmouth, Nova Scotia — Yarmouth, Fundy Shore Nova Scotia — 1761 port town and lobster capital of Canada at the province's southwestern tip",
+   "title": "Yarmouth, Fundy Shore Nova Scotia — 1761 port town and lobster capital of Canada at the province's southwestern tip",
+   "caption": "Yarmouth, Fundy Shore Nova Scotia — 1761 port town and lobster capital of Canada at the province's southwestern tip",
+   "exif_geo": {
+    "lat": 43.8361,
+    "lng": -66.1175,
+    "name": "Yarmouth, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Michael C. Rygel — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "founded 1761, named after Yarmouth, England; nineteenth-century seafaring wealth",
+   "Main Street Victorian architecture, Killam Brothers Building, Yarmouth County Museum, Frost Park",
+   "Cape Forchu Lighthouse and exposed harbour coast (climate tie-in)",
+   "lobster capital of Canada; ferry terminal, tourism, healthcare, forestry economy",
+   "Yarmouth Bar beach and 'Gateway to Nova Scotia' by sea",
+   "221.8 km to Halifax, 5.6 km to surrounding Yarmouth District; population 6,772 (2021)"
+  ],
+  "signals_count": 6,
+  "opener_words": "Yarmouth calls itself the lobster capital of",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/yarmouth#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Yarmouth",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Yarmouth, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Yarmouth District, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Argyle, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Clare, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.8361,
+        "longitude": -66.1175
+       },
+       "geoRadius": "4200"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Yarmouth",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/yarmouth#page",
+     "url": "{BRAND_URL}/areas/yarmouth",
+     "name": "{SERVICE} in Yarmouth, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/yarmouth#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/yarmouth#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Fundy Shore",
+       "item": "{BRAND_URL}/areas/region/fundy-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Yarmouth",
+       "item": "{BRAND_URL}/areas/yarmouth"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/yarmouth#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you serve all of Yarmouth, from downtown to Yarmouth Bar?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers the whole town — the Victorian-era blocks along Main Street, properties near the ferry terminal, and homes out toward Yarmouth Bar beach. The surrounding Yarmouth District is in our coverage too, so town-edge addresses never fall into a gap between service areas."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Can you handle {SERVICE} on Yarmouth's older Victorian buildings?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "That is a specialty. Main Street's Victorian architecture dates from Yarmouth's nineteenth-century seafaring wealth, and buildings of that age need {SERVICE} choices that respect original construction while meeting today's standards. {COMPANY_NAME} carries {CERTIFICATIONS} and plans heritage-era work carefully rather than treating it like new construction."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How does Yarmouth's harbour exposure affect {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Directly. Cape Forchu Lighthouse marks the harbour approach because this coast takes real weather, and the salt air that comes with it works on every building in town. {COMPANY_NAME} specs materials for coastal exposure and times {SERVICE} work around the Maritime seasons, so results hold up year after year."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Yarmouth?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most Yarmouth projects land within {PRICE_RANGE}, depending on the building's age, size and condition. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate first, priced honestly for coastal-grade materials — important in a town where much of the building stock predates modern construction."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why is {COMPANY_NAME} the right {BUSINESS_TYPE} for Yarmouth?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because Yarmouth rewards providers who respect it. The lobster capital of Canada keeps its buildings working — fishery, ferry, tourism, healthcare — and {COMPANY_NAME} matches that with {YEARS_IN_BUSINESS} years in business, a {RATING} rating and {RESPONSE_TIME} response. {UNIQUE_VALUE_PROP} Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/yarmouth#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+     "name": "Yarmouth, Fundy Shore Nova Scotia — 1761 port town and lobster capital of Canada at the province's southwestern tip",
+     "caption": "Yarmouth, Fundy Shore Nova Scotia — 1761 port town and lobster capital of Canada at the province's southwestern tip",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Michael C. Rygel"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yarmouth, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 43.8361,
+       "longitude": -66.1175
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0205",
+  "slug": "digby",
+  "url": "/areas/digby",
+  "name": "Digby",
+  "type": "Town",
+  "region": "Fundy Shore",
+  "region_slug": "fundy-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 44.6217,
+   "lng": -65.76
+  },
+  "fsa": "B0W",
+  "population_2021": 2060,
+  "unified_score": 53.2,
+  "km_halifax": 172.9,
+  "km_sydney": 466.1,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Fundy Shore",
+   "Digby"
+  ],
+  "hero": {
+   "overline": "Digby · Fundy Shore · Nova Scotia",
+   "h1": "{SERVICE} in Digby, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Digby, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Digby, NS: the Bay of Fundy lobster and scallop town gets work built for salt air, tides and Maritime winters. {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Digby",
+   "secondary_keywords": [
+    "{SERVICE} near me Digby",
+    "{BUSINESS_TYPE} Digby Nova Scotia",
+    "{SERVICE} Digby waterfront",
+    "{SERVICE} Digby and Digby District"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Digby Bay of Fundy properties",
+    "salt air {SERVICE} Digby Nova Scotia",
+    "{SERVICE} for fishing town homes Digby",
+    "{SERVICE} Digby tourism properties"
+   ],
+   "question_keywords": [
+    "how do Bay of Fundy tides shape {SERVICE} in Digby",
+    "what does {SERVICE} cost in Digby Nova Scotia",
+    "who provides {SERVICE} in the town of Digby"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Digby",
+    "{BUSINESS_TYPE} in the town of Digby Nova Scotia",
+    "{SERVICE} for a waterfront property in Digby",
+    "who covers Digby and Digby District for {SERVICE}",
+    "coastal {SERVICE} near Digby Neck"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Digby, {COMPANY_NAME} serves the Bay of Fundy's lobster and scallop town — 2,060 people and the region's closest published community to Halifax at 172.9 km. Work here is built for tide-driven coastal weather, with {RESPONSE_TIME} response and a {ESTIMATE_TYPE} estimate first. Call {PHONE}.",
+  "entity_description": "Digby is a town in the Fundy Shore region of Nova Scotia with a 2021 census population of 2,060. Its economy runs on Bay of Fundy fishing — lobster and scallops — plus tourism, Acadian culture, ferry services and tidal power. The town sits within Digby District, whose centre is 8.6 km away, and at 172.9 km it is the closest of the region's six published communities to Halifax. Digby Neck, known for whale watching, runs out from the surrounding district.",
+  "about_md": "Digby's fleet fishes the Bay of Fundy for lobster and scallops, and in a town of 2,060 people (2021 census) that fleet anchors the whole economy. Digby is the smallest of the six Fundy Shore communities {COMPANY_NAME} publishes, and also the closest to Halifax — 172.9 km, nearer than any of its regional neighbours. {SERVICE} in Digby, Nova Scotia starts from the same place the town does: a working waterfront where buildings either stand up to salt and tide or wear out early, and where owners can tell the difference at a glance.\n\nThe Bay of Fundy tides are the defining local force. Fundy Shore's coastal Maritime climate works on structures year-round — salt air on exteriors, ocean wind on rooflines, freeze-thaw through the winter — and property owners here understand the importance of quality maintenance in a coastal climate, a lesson the fishery reinforces daily. {COMPANY_NAME} builds every {SERVICE} job around it, planning {SUBSERVICE_1}, {SUBSERVICE_2} and {SUBSERVICE_3} for shoreline exposure and Maritime winters rather than fair-weather conditions.\n\n## Small town, full coverage\n\nBeyond the fishery, tourism, Acadian culture, ferry services and tidal power round out the local economy, and Digby Neck — the whale-watching peninsula that runs out from the surrounding district — draws visitors through the season. A tourism-facing town keeps its properties presentable, which means steady {SERVICE_CATEGORY} demand from both {PROPERTY_TYPE}. {COMPANY_NAME}, a {BUSINESS_TYPE} with {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating, covers {SERVICE_LIST} across town, and every job gets the same coastal-grade standard whether it faces the water or sits a few streets back.\n\nDigby sits inside Digby District, whose centre is 8.6 km away, and the town serves as the immediate area's hub. Clare's Acadian communities lie 42.5 km down the coast and Annapolis County begins 42.8 km east, so crews working this corner of the province cover a wide territory — but town properties always get {RESPONSE_TIME} response, with {AVAILABILITY} availability when a problem cannot wait for the next open slot.\n\nA town of 2,060 rewards a provider who treats every job as a referral, because neighbours here compare notes. Pricing stays transparent at {PRICE_RANGE} depending on scope, and every project — from a small repair to a full {PROJECT_TYPE} — starts with a {ESTIMATE_TYPE} estimate and a straight answer about what the work involves. {UNIQUE_VALUE_PROP} {CTA_PRIMARY}",
+  "local_facts": [
+   "2021 census population: 2,060 (Statistics Canada) — smallest of the region's 6 published communities",
+   "Town in the Fundy Shore region of Nova Scotia, within Digby District (district centre 8.6 km away)",
+   "Postal FSA: B0W",
+   "172.9 km from Halifax — the region's closest published community to the capital; 466.1 km from Sydney",
+   "Economy: lobster and scallop fishing, tourism, Acadian culture, ferry services and tidal power",
+   "Digby Neck, known for Bay of Fundy whale watching, runs out from the surrounding district"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Digby is the closest of the six published Fundy Shore communities to Halifax at 172.9 km, despite being the region's smallest at 2,060 residents (2021)."
+  },
+  "services_grid": {
+   "heading": "Services in Digby",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/digby/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Digby"
+  },
+  "faqs": [
+   {
+    "question": "Do you provide {SERVICE} throughout the town of Digby?",
+    "answer": "Yes — every street in town, waterfront to back roads, plus the surrounding Digby District whose centre is 8.6 km away. {COMPANY_NAME} treats Digby as a core service stop, not an add-on, so a town address books the same {SERVICE} slots and standards as anywhere in our coverage."
+   },
+   {
+    "question": "How do the Bay of Fundy tides shape {SERVICE} work in Digby?",
+    "answer": "They shape everything. Digby lives on tide-driven water — its lobster and scallop fleet works the Bay of Fundy daily — and the same salt air and ocean wind reach every building in town. {COMPANY_NAME} specs {SERVICE} materials and schedules for that coastal exposure so the work outlasts the weather."
+   },
+   {
+    "question": "What does {SERVICE} cost in Digby?",
+    "answer": "Typical Digby projects fall within {PRICE_RANGE}, depending on size and condition. {COMPANY_NAME} confirms your exact number with a {ESTIMATE_TYPE} estimate before starting, and in a town of 2,060 where word travels fast, quoting honestly is not just policy — it is survival."
+   },
+   {
+    "question": "How fast can you respond to a Digby property?",
+    "answer": "{COMPANY_NAME} responds within {RESPONSE_TIME} in Digby. The town is the region's closest published community to Halifax at 172.9 km and serves as its area's hub, so crews route through regularly, and {AVAILABILITY} availability covers urgent {SERVICE} calls between scheduled visits."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} in Digby?",
+    "answer": "Because a working fishing town knows quality when it sees it. Digby's scallop and lobster economy runs on equipment and buildings that hold up, and {COMPANY_NAME} matches that standard with {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating. {UNIQUE_VALUE_PROP} Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Digby, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "digby-district",
+    "name": "Digby District",
+    "km": 8.6,
+    "url": "/areas/digby-district",
+    "anchor": "Digby District, the surrounding municipality with its centre 8.6 km away"
+   },
+   {
+    "slug": "clare",
+    "name": "Clare",
+    "km": 42.5,
+    "url": "/areas/clare",
+    "anchor": "Clare, 42.5 km down the Acadian coast"
+   },
+   {
+    "slug": "annapolis-county",
+    "name": "Annapolis County",
+    "km": 42.8,
+    "url": "/areas/annapolis-county",
+    "anchor": "Annapolis County, 42.8 km east into the Annapolis Valley"
+   },
+   {
+    "slug": "middleton",
+    "name": "Middleton",
+    "km": 65.3,
+    "url": "/areas/middleton",
+    "anchor": "Middleton, 65.3 km up the Valley"
+   },
+   {
+    "slug": "kingston",
+    "name": "Kingston",
+    "km": 74.6,
+    "url": "/areas/kingston",
+    "anchor": "Kingston, 74.6 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/fundy-shore",
+   "name": "Fundy Shore",
+   "anchor": "Fundy Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-fundy-shore",
+    "title": "What {SERVICE} Costs in Fundy Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-fundy-shore",
+    "title": "Fundy Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-fundy-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Fundy Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-fundy-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Fundy Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Digby",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Digby quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "digby"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+   "filename": "digby-fundy-shore-ns.webp",
+   "alt_layer1_geo": "Digby, Fundy Shore Nova Scotia — lobster and scallop fishing town on the Bay of Fundy",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Digby, Nova Scotia — Digby, Fundy Shore Nova Scotia — lobster and scallop fishing town on the Bay of Fundy",
+   "title": "Digby, Fundy Shore Nova Scotia — lobster and scallop fishing town on the Bay of Fundy",
+   "caption": "Digby, Fundy Shore Nova Scotia — lobster and scallop fishing town on the Bay of Fundy",
+   "exif_geo": {
+    "lat": 44.6217,
+    "lng": -65.76,
+    "name": "Digby, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Michael C. Rygel — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "lobster and scallop fleet on the Bay of Fundy (economy)",
+   "Bay of Fundy tides and coastal Maritime climate",
+   "tourism, Acadian culture, ferry services and tidal power in the local economy; Digby Neck whale watching nearby",
+   "172.9 km to Halifax — closest published community in the region; 8.6 km to Digby District's centre",
+   "population 2,060 (2021), smallest of the region's 6 published communities",
+   "coastal-grade building maintenance expectations of a working waterfront town"
+  ],
+  "signals_count": 6,
+  "opener_words": "Digby's fleet fishes the Bay of Fundy",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/digby#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Digby",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Digby, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Digby District, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Clare, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Annapolis County, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 44.6217,
+        "longitude": -65.76
+       },
+       "geoRadius": "6450"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Digby",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/digby#page",
+     "url": "{BRAND_URL}/areas/digby",
+     "name": "{SERVICE} in Digby, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/digby#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/digby#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Fundy Shore",
+       "item": "{BRAND_URL}/areas/region/fundy-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Digby",
+       "item": "{BRAND_URL}/areas/digby"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/digby#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you provide {SERVICE} throughout the town of Digby?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — every street in town, waterfront to back roads, plus the surrounding Digby District whose centre is 8.6 km away. {COMPANY_NAME} treats Digby as a core service stop, not an add-on, so a town address books the same {SERVICE} slots and standards as anywhere in our coverage."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How do the Bay of Fundy tides shape {SERVICE} work in Digby?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They shape everything. Digby lives on tide-driven water — its lobster and scallop fleet works the Bay of Fundy daily — and the same salt air and ocean wind reach every building in town. {COMPANY_NAME} specs {SERVICE} materials and schedules for that coastal exposure so the work outlasts the weather."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Digby?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typical Digby projects fall within {PRICE_RANGE}, depending on size and condition. {COMPANY_NAME} confirms your exact number with a {ESTIMATE_TYPE} estimate before starting, and in a town of 2,060 where word travels fast, quoting honestly is not just policy — it is survival."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you respond to a Digby property?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} responds within {RESPONSE_TIME} in Digby. The town is the region's closest published community to Halifax at 172.9 km and serves as its area's hub, so crews route through regularly, and {AVAILABILITY} availability covers urgent {SERVICE} calls between scheduled visits."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} in Digby?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because a working fishing town knows quality when it sees it. Digby's scallop and lobster economy runs on equipment and buildings that hold up, and {COMPANY_NAME} matches that standard with {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS} and a {RATING} rating. {UNIQUE_VALUE_PROP} Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/digby#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Five-Islands.jpg",
+     "name": "Digby, Fundy Shore Nova Scotia — lobster and scallop fishing town on the Bay of Fundy",
+     "caption": "Digby, Fundy Shore Nova Scotia — lobster and scallop fishing town on the Bay of Fundy",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Michael C. Rygel"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Digby, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 44.6217,
+       "longitude": -65.76
+      }
+     }
+    }
+   ]
+  }
+ }
+]

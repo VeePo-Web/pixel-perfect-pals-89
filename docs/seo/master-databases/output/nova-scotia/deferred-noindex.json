@@ -1,0 +1,3915 @@
+[
+ {
+  "id": "NS-0225",
+  "name": "Canning",
+  "slug": "canning",
+  "score": 49.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0267",
+  "name": "Sambro Head",
+  "slug": "sambro-head",
+  "score": 49.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0268",
+  "name": "Bayside",
+  "slug": "bayside",
+  "score": 49.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0269",
+  "name": "Grand Desert",
+  "slug": "grand-desert",
+  "score": 49.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0270",
+  "name": "Big Bras d'Or",
+  "slug": "big-bras-d-or",
+  "score": 49.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0279",
+  "name": "Groves Point",
+  "slug": "groves-point",
+  "score": 49.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0280",
+  "name": "Blacketts Lake",
+  "slug": "blacketts-lake",
+  "score": 49.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0233",
+  "name": "Sheet Harbour",
+  "slug": "sheet-harbour",
+  "score": 49.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0240",
+  "name": "St. Peters",
+  "slug": "st-peters",
+  "score": 49.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0256",
+  "name": "Chester Basin",
+  "slug": "chester-basin",
+  "score": 49.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0281",
+  "name": "Caribou Marsh",
+  "slug": "caribou-marsh",
+  "score": 49.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0232",
+  "name": "Arichat",
+  "slug": "arichat",
+  "score": 49.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0275",
+  "name": "West Dover",
+  "slug": "west-dover",
+  "score": 49.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0276",
+  "name": "Lower Prospect",
+  "slug": "lower-prospect",
+  "score": 49.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0277",
+  "name": "Oldham",
+  "slug": "oldham",
+  "score": 49.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0231",
+  "name": "Waterville",
+  "slug": "waterville",
+  "score": 49.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0250",
+  "name": "Hilden",
+  "slug": "hilden",
+  "score": 49.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0262",
+  "name": "Upper Musquodoboit",
+  "slug": "upper-musquodoboit",
+  "score": 49.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0290",
+  "name": "Frenchvale",
+  "slug": "frenchvale",
+  "score": 49.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0249",
+  "name": "Centreville",
+  "slug": "centreville",
+  "score": 49.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0295",
+  "name": "Port Caledonia",
+  "slug": "port-caledonia",
+  "score": 49.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0302",
+  "name": "Hillside Boularderie",
+  "slug": "hillside-boularderie",
+  "score": 49.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0303",
+  "name": "Portage",
+  "slug": "portage",
+  "score": 49.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0304",
+  "name": "Dutch Brook",
+  "slug": "dutch-brook",
+  "score": 49.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0208",
+  "name": "Bayers Lake",
+  "slug": "bayers-lake",
+  "score": 49.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0209",
+  "name": "Keswick Ridge",
+  "slug": "keswick-ridge",
+  "score": 49.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0252",
+  "name": "Millbrook",
+  "slug": "millbrook",
+  "score": 49.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0285",
+  "name": "Queensland",
+  "slug": "queensland",
+  "score": 49.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0289",
+  "name": "Carrolls Corner",
+  "slug": "carrolls-corner",
+  "score": 49.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0313",
+  "name": "Conrod Settlement",
+  "slug": "conrod-settlement",
+  "score": 49.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0247",
+  "name": "Aylesford",
+  "slug": "aylesford",
+  "score": 49.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0274",
+  "name": "Ingonish Beach",
+  "slug": "ingonish-beach",
+  "score": 49.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0288",
+  "name": "Elderbank",
+  "slug": "elderbank",
+  "score": 49.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0248",
+  "name": "Canso",
+  "slug": "canso",
+  "score": 49.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0294",
+  "name": "Nine Mile River",
+  "slug": "nine-mile-river",
+  "score": 49.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0310",
+  "name": "Main-a-Dieu",
+  "slug": "main-a-dieu",
+  "score": 49.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0312",
+  "name": "East Bay",
+  "slug": "east-bay",
+  "score": 49.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0315",
+  "name": "Sambro Creek",
+  "slug": "sambro-creek",
+  "score": 49.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0316",
+  "name": "Duncans Cove",
+  "slug": "duncans-cove",
+  "score": 49.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0317",
+  "name": "Boularderie",
+  "slug": "boularderie",
+  "score": 49.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0402",
+  "name": "Barrington Passage",
+  "slug": "barrington-passage",
+  "score": 49.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0273",
+  "name": "Hebbville",
+  "slug": "hebbville",
+  "score": 49.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0283",
+  "name": "Ship Harbour",
+  "slug": "ship-harbour",
+  "score": 49.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0284",
+  "name": "Riverport",
+  "slug": "riverport",
+  "score": 49.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0331",
+  "name": "Annapolis Royal",
+  "slug": "annapolis-royal",
+  "score": 49.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0175",
+  "name": "We'koqma'q First Nation",
+  "slug": "we-koqma-q-first-nation",
+  "score": 49,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0301",
+  "name": "Kennetcook",
+  "slug": "kennetcook",
+  "score": 49,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0237",
+  "name": "Hemlock Ravine",
+  "slug": "hemlock-ravine",
+  "score": 48.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0278",
+  "name": "New Germany",
+  "slug": "new-germany",
+  "score": 48.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0287",
+  "name": "LaHave",
+  "slug": "lahave",
+  "score": 48.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0328",
+  "name": "Devon",
+  "slug": "devon",
+  "score": 48.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0329",
+  "name": "North Shore",
+  "slug": "north-shore",
+  "score": 48.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0330",
+  "name": "South Uniacke",
+  "slug": "south-uniacke",
+  "score": 48.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0206",
+  "name": "Wagmatcook First Nation",
+  "slug": "wagmatcook-first-nation",
+  "score": 48.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0282",
+  "name": "Petit de Grat",
+  "slug": "petit-de-grat",
+  "score": 48.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0293",
+  "name": "Gaspereau",
+  "slug": "gaspereau",
+  "score": 48.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0309",
+  "name": "Brooklyn (Hants)",
+  "slug": "brooklyn-hants",
+  "score": 48.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0311",
+  "name": "Salmon River Bridge",
+  "slug": "salmon-river-bridge",
+  "score": 48.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0339",
+  "name": "Antrim",
+  "slug": "antrim",
+  "score": 48.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0340",
+  "name": "St. Anns",
+  "slug": "st-anns",
+  "score": 48.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0342",
+  "name": "Lower East Chezzetcook",
+  "slug": "lower-east-chezzetcook",
+  "score": 48.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0356",
+  "name": "Lockeport",
+  "slug": "lockeport",
+  "score": 48.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0213",
+  "name": "Potlotek First Nation",
+  "slug": "potlotek-first-nation",
+  "score": 48.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0298",
+  "name": "Great Village",
+  "slug": "great-village",
+  "score": 48.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0300",
+  "name": "River Bourgeois",
+  "slug": "river-bourgeois",
+  "score": 48.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0338",
+  "name": "Dutch Settlement",
+  "slug": "dutch-settlement",
+  "score": 48.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0341",
+  "name": "Wyses Corner",
+  "slug": "wyses-corner",
+  "score": 48.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0343",
+  "name": "Belnan",
+  "slug": "belnan",
+  "score": 48.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0344",
+  "name": "Enfield (EH2)",
+  "slug": "enfield-eh2",
+  "score": 48.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0266",
+  "name": "Tatamagouche",
+  "slug": "tatamagouche",
+  "score": 48.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0299",
+  "name": "Onslow",
+  "slug": "onslow",
+  "score": 48.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0352",
+  "name": "Gore",
+  "slug": "gore",
+  "score": 48.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0354",
+  "name": "West Petpeswick",
+  "slug": "west-petpeswick",
+  "score": 48.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0261",
+  "name": "Bridgetown",
+  "slug": "bridgetown",
+  "score": 48.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0264",
+  "name": "Pugwash",
+  "slug": "pugwash",
+  "score": 48.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0307",
+  "name": "Louisdale",
+  "slug": "louisdale",
+  "score": 48.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0351",
+  "name": "New Haven",
+  "slug": "new-haven",
+  "score": 48.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0353",
+  "name": "East Petpeswick",
+  "slug": "east-petpeswick",
+  "score": 48.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0362",
+  "name": "Head of Jeddore",
+  "slug": "head-of-jeddore",
+  "score": 48.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0321",
+  "name": "Rose Bay",
+  "slug": "rose-bay",
+  "score": 48.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0360",
+  "name": "Clam Harbour",
+  "slug": "clam-harbour",
+  "score": 48.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0361",
+  "name": "Rawdon",
+  "slug": "rawdon",
+  "score": 48.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0325",
+  "name": "Valley",
+  "slug": "valley",
+  "score": 48.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0326",
+  "name": "Margaree Forks",
+  "slug": "margaree-forks",
+  "score": 48.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0327",
+  "name": "L'Ardoise",
+  "slug": "l-ardoise",
+  "score": 48.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0367",
+  "name": "Meaghers Grant",
+  "slug": "meaghers-grant",
+  "score": 48.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0368",
+  "name": "Blandford",
+  "slug": "blandford",
+  "score": 48.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0370",
+  "name": "Ellershouse",
+  "slug": "ellershouse",
+  "score": 48.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0306",
+  "name": "Greenwood (AV)",
+  "slug": "greenwood-av",
+  "score": 48.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0314",
+  "name": "Waterville (Kings)",
+  "slug": "waterville-kings",
+  "score": 48.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0334",
+  "name": "Grand Pre",
+  "slug": "grand-pre",
+  "score": 48.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0337",
+  "name": "Blockhouse",
+  "slug": "blockhouse",
+  "score": 48.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0355",
+  "name": "Clark's Harbour",
+  "slug": "clark-s-harbour",
+  "score": 48.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0369",
+  "name": "Summerville (Hants)",
+  "slug": "summerville-hants",
+  "score": 48.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0286",
+  "name": "Lawrencetown (Annapolis)",
+  "slug": "lawrencetown-annapolis",
+  "score": 48.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0324",
+  "name": "Mabou",
+  "slug": "mabou",
+  "score": 48.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0335",
+  "name": "East River",
+  "slug": "east-river",
+  "score": 48.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0336",
+  "name": "Pleasantville",
+  "slug": "pleasantville",
+  "score": 48.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0376",
+  "name": "Middle River",
+  "slug": "middle-river",
+  "score": 48.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0377",
+  "name": "Avondale",
+  "slug": "avondale",
+  "score": 48.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0378",
+  "name": "St. Croix",
+  "slug": "st-croix",
+  "score": 48.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0320",
+  "name": "Port Hood",
+  "slug": "port-hood",
+  "score": 48,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0347",
+  "name": "Economy",
+  "slug": "economy",
+  "score": 48,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0348",
+  "name": "Masstown",
+  "slug": "masstown",
+  "score": 48,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0349",
+  "name": "Canard",
+  "slug": "canard",
+  "score": 48,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0385",
+  "name": "Scotch Village",
+  "slug": "scotch-village",
+  "score": 48,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0386",
+  "name": "Newport",
+  "slug": "newport",
+  "score": 48,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0387",
+  "name": "Newport Station",
+  "slug": "newport-station",
+  "score": 48,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0292",
+  "name": "River Hebert",
+  "slug": "river-hebert",
+  "score": 47.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0350",
+  "name": "North River",
+  "slug": "north-river",
+  "score": 47.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0359",
+  "name": "Londonderry",
+  "slug": "londonderry",
+  "score": 47.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0384",
+  "name": "Oyster Pond",
+  "slug": "oyster-pond",
+  "score": 47.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0388",
+  "name": "Cambridge (Hants)",
+  "slug": "cambridge-hants",
+  "score": 47.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0323",
+  "name": "Port Medway",
+  "slug": "port-medway",
+  "score": 47.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0358",
+  "name": "D'Escousse",
+  "slug": "d-escousse",
+  "score": 47.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0391",
+  "name": "Lake Charlotte",
+  "slug": "lake-charlotte",
+  "score": 47.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0392",
+  "name": "Blue Rocks",
+  "slug": "blue-rocks",
+  "score": 47.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0333",
+  "name": "Havre Boucher",
+  "slug": "havre-boucher",
+  "score": 47.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0397",
+  "name": "Orangedale",
+  "slug": "orangedale",
+  "score": 47.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0398",
+  "name": "Walton",
+  "slug": "walton",
+  "score": 47.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0400",
+  "name": "Martins River",
+  "slug": "martins-river",
+  "score": 47.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0401",
+  "name": "Northeast Margaree",
+  "slug": "northeast-margaree",
+  "score": 47.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0346",
+  "name": "Milton",
+  "slug": "milton",
+  "score": 47.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0366",
+  "name": "West Arichat",
+  "slug": "west-arichat",
+  "score": 47.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0399",
+  "name": "Upper Brookside",
+  "slug": "upper-brookside",
+  "score": 47.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0404",
+  "name": "East Ship Harbour",
+  "slug": "east-ship-harbour",
+  "score": 47.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0407",
+  "name": "Maitland",
+  "slug": "maitland",
+  "score": 47.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0322",
+  "name": "Joggins",
+  "slug": "joggins",
+  "score": 47.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0374",
+  "name": "South Berwick",
+  "slug": "south-berwick",
+  "score": 47.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0375",
+  "name": "Cambridge (Kings)",
+  "slug": "cambridge-kings",
+  "score": 47.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0406",
+  "name": "Neil's Harbour",
+  "slug": "neil-s-harbour",
+  "score": 47.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0408",
+  "name": "Noel",
+  "slug": "noel",
+  "score": 47.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0409",
+  "name": "Conquerall Bank",
+  "slug": "conquerall-bank",
+  "score": 47.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0410",
+  "name": "Dayspring",
+  "slug": "dayspring",
+  "score": 47.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0411",
+  "name": "South West Margaree",
+  "slug": "south-west-margaree",
+  "score": 47.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0332",
+  "name": "Paradise",
+  "slug": "paradise",
+  "score": 47.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0357",
+  "name": "Wilmot",
+  "slug": "wilmot",
+  "score": 47.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0405",
+  "name": "Tangier",
+  "slug": "tangier",
+  "score": 47.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0414",
+  "name": "Petite Riviere",
+  "slug": "petite-riviere",
+  "score": 47.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0418",
+  "name": "West Bay",
+  "slug": "west-bay",
+  "score": 47.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0318",
+  "name": "Leitches Creek",
+  "slug": "leitches-creek",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0365",
+  "name": "River John",
+  "slug": "river-john",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0379",
+  "name": "Acadia First Nation",
+  "slug": "acadia-first-nation",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0389",
+  "name": "Point Tupper",
+  "slug": "point-tupper",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0390",
+  "name": "Aulds Cove",
+  "slug": "aulds-cove",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0415",
+  "name": "Italy Cross",
+  "slug": "italy-cross",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0416",
+  "name": "Clifton",
+  "slug": "clifton",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0417",
+  "name": "St. Joseph du Moine",
+  "slug": "st-joseph-du-moine",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0422",
+  "name": "Broad Cove",
+  "slug": "broad-cove",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0423",
+  "name": "Bass River",
+  "slug": "bass-river",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0428",
+  "name": "Central Onslow",
+  "slug": "central-onslow",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0434",
+  "name": "Wileville",
+  "slug": "wileville",
+  "score": 47.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0319",
+  "name": "Scotch Lake",
+  "slug": "scotch-lake",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0424",
+  "name": "Summerville",
+  "slug": "summerville",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0425",
+  "name": "Kingsport",
+  "slug": "kingsport",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0426",
+  "name": "Morristown",
+  "slug": "morristown",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0427",
+  "name": "Glenholme",
+  "slug": "glenholme",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0429",
+  "name": "Old Barns",
+  "slug": "old-barns",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0430",
+  "name": "Upper Onslow",
+  "slug": "upper-onslow",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0431",
+  "name": "Barss Corner",
+  "slug": "barss-corner",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0432",
+  "name": "Chelsea",
+  "slug": "chelsea",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0433",
+  "name": "New Ross",
+  "slug": "new-ross",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0435",
+  "name": "Northfield",
+  "slug": "northfield",
+  "score": 47.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0372",
+  "name": "Nappan",
+  "slug": "nappan",
+  "score": 47.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0395",
+  "name": "Mill Village",
+  "slug": "mill-village",
+  "score": 47.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0396",
+  "name": "Brooklyn",
+  "slug": "brooklyn",
+  "score": 47.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0364",
+  "name": "Granville Ferry",
+  "slug": "granville-ferry",
+  "score": 47,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0382",
+  "name": "Sherbrooke",
+  "slug": "sherbrooke",
+  "score": 47,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0438",
+  "name": "Billtown",
+  "slug": "billtown",
+  "score": 47,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0439",
+  "name": "Pleasant Bay",
+  "slug": "pleasant-bay",
+  "score": 47,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0441",
+  "name": "Bay St. Lawrence",
+  "slug": "bay-st-lawrence",
+  "score": 47,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0444",
+  "name": "White Rock",
+  "slug": "white-rock",
+  "score": 47,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0445",
+  "name": "Five Islands",
+  "slug": "five-islands",
+  "score": 47,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0345",
+  "name": "Point Aconi",
+  "slug": "point-aconi",
+  "score": 46.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0383",
+  "name": "Pomquet",
+  "slug": "pomquet",
+  "score": 46.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0440",
+  "name": "Camperdown",
+  "slug": "camperdown",
+  "score": 46.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0442",
+  "name": "Grafton",
+  "slug": "grafton",
+  "score": 46.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0443",
+  "name": "Somerset",
+  "slug": "somerset",
+  "score": 46.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0446",
+  "name": "Greenfield (Lun)",
+  "slug": "greenfield-lun",
+  "score": 46.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0371",
+  "name": "Upper Leitches Creek",
+  "slug": "upper-leitches-creek",
+  "score": 46.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0455",
+  "name": "Scotts Bay",
+  "slug": "scotts-bay",
+  "score": 46.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0456",
+  "name": "Wentworth",
+  "slug": "wentworth",
+  "score": 46.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0457",
+  "name": "Woodville",
+  "slug": "woodville",
+  "score": 46.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0308",
+  "name": "Glooscap First Nation",
+  "slug": "glooscap-first-nation",
+  "score": 46.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0412",
+  "name": "Margaretsville",
+  "slug": "margaretsville",
+  "score": 46.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0413",
+  "name": "Nictaux",
+  "slug": "nictaux",
+  "score": 46.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0421",
+  "name": "Tracadie",
+  "slug": "tracadie",
+  "score": 46.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0468",
+  "name": "Judique",
+  "slug": "judique",
+  "score": 46.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0469",
+  "name": "Westchester",
+  "slug": "westchester",
+  "score": 46.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0381",
+  "name": "Bear River (Community)",
+  "slug": "bear-river-community",
+  "score": 46.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0419",
+  "name": "Wallace",
+  "slug": "wallace",
+  "score": 46.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0420",
+  "name": "St. Andrews",
+  "slug": "st-andrews",
+  "score": 46.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0436",
+  "name": "Caledonia",
+  "slug": "caledonia",
+  "score": 46.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0437",
+  "name": "Maccan",
+  "slug": "maccan",
+  "score": 46.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0475",
+  "name": "Auburn (AV)",
+  "slug": "auburn-av",
+  "score": 46.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0476",
+  "name": "Creignish",
+  "slug": "creignish",
+  "score": 46.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0394",
+  "name": "Mira Gut",
+  "slug": "mira-gut",
+  "score": 46.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0473",
+  "name": "Athol",
+  "slug": "athol",
+  "score": 46.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0474",
+  "name": "Beach Meadows",
+  "slug": "beach-meadows",
+  "score": 46.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0478",
+  "name": "North Kingston",
+  "slug": "north-kingston",
+  "score": 46.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0477",
+  "name": "Southampton",
+  "slug": "southampton",
+  "score": 46.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0479",
+  "name": "Kingston Village",
+  "slug": "kingston-village",
+  "score": 46.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0393",
+  "name": "South Gut St. Anns",
+  "slug": "south-gut-st-anns",
+  "score": 46.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0481",
+  "name": "Tremont",
+  "slug": "tremont",
+  "score": 46.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0363",
+  "name": "Cape Sable Island",
+  "slug": "cape-sable-island",
+  "score": 46.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0454",
+  "name": "Merigomish",
+  "slug": "merigomish",
+  "score": 46.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0482",
+  "name": "Scotsburn",
+  "slug": "scotsburn",
+  "score": 46.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0487",
+  "name": "Advocate Harbour",
+  "slug": "advocate-harbour",
+  "score": 46.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0490",
+  "name": "Torbrook",
+  "slug": "torbrook",
+  "score": 46.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0492",
+  "name": "Plymouth",
+  "slug": "plymouth",
+  "score": 46.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0467",
+  "name": "Cornwallis",
+  "slug": "cornwallis",
+  "score": 46,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0489",
+  "name": "Thorburn",
+  "slug": "thorburn",
+  "score": 46,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0491",
+  "name": "Collingwood Corner",
+  "slug": "collingwood-corner",
+  "score": 46,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0291",
+  "name": "Pictou Landing First Nation",
+  "slug": "pictou-landing-first-nation",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0380",
+  "name": "Meteghan",
+  "slug": "meteghan",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0450",
+  "name": "Boisdale",
+  "slug": "boisdale",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0451",
+  "name": "Beechmont",
+  "slug": "beechmont",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0452",
+  "name": "Sandfield",
+  "slug": "sandfield",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0459",
+  "name": "Bear Cove",
+  "slug": "bear-cove",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0460",
+  "name": "Halibut Bay",
+  "slug": "halibut-bay",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0461",
+  "name": "Bald Rock",
+  "slug": "bald-rock",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0488",
+  "name": "Linden",
+  "slug": "linden",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0493",
+  "name": "Port Mouton",
+  "slug": "port-mouton",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0494",
+  "name": "Malagash",
+  "slug": "malagash",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0495",
+  "name": "Boylston",
+  "slug": "boylston",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0496",
+  "name": "Hopewell",
+  "slug": "hopewell",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0498",
+  "name": "Greenfield (Queens)",
+  "slug": "greenfield-queens",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0499",
+  "name": "South Farmington",
+  "slug": "south-farmington",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0500",
+  "name": "Melvern Square",
+  "slug": "melvern-square",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0501",
+  "name": "Durham",
+  "slug": "durham",
+  "score": 45.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0449",
+  "name": "Ben Eoin",
+  "slug": "ben-eoin",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0458",
+  "name": "North West Arm",
+  "slug": "north-west-arm",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0462",
+  "name": "Lower Three Fathom Harbour",
+  "slug": "lower-three-fathom-harbour",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0471",
+  "name": "Bateston",
+  "slug": "bateston",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0497",
+  "name": "Abercrombie",
+  "slug": "abercrombie",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0510",
+  "name": "Pugwash Junction",
+  "slug": "pugwash-junction",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0511",
+  "name": "Monastery",
+  "slug": "monastery",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0512",
+  "name": "Alma",
+  "slug": "alma",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0513",
+  "name": "Lyons Brook",
+  "slug": "lyons-brook",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0515",
+  "name": "Afton",
+  "slug": "afton",
+  "score": 45.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0297",
+  "name": "Paqtnkek Mi'kmaw Nation",
+  "slug": "paqtnkek-mi-kmaw-nation",
+  "score": 45.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0403",
+  "name": "Woods Harbour",
+  "slug": "woods-harbour",
+  "score": 45.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0472",
+  "name": "Pleasant Point",
+  "slug": "pleasant-point",
+  "score": 45.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0514",
+  "name": "Little Harbour",
+  "slug": "little-harbour",
+  "score": 45.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0516",
+  "name": "Wallace Bay",
+  "slug": "wallace-bay",
+  "score": 45.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0373",
+  "name": "Annapolis Valley First Nation",
+  "slug": "annapolis-valley-first-nation",
+  "score": 45.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0526",
+  "name": "Heatherton",
+  "slug": "heatherton",
+  "score": 45.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0527",
+  "name": "Northport",
+  "slug": "northport",
+  "score": 45.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0528",
+  "name": "Lorneville",
+  "slug": "lorneville",
+  "score": 45.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0536",
+  "name": "Fenwick",
+  "slug": "fenwick",
+  "score": 45.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0453",
+  "name": "Church Point",
+  "slug": "church-point",
+  "score": 45.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0524",
+  "name": "Huntington",
+  "slug": "huntington",
+  "score": 45.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0447",
+  "name": "Elmsvale",
+  "slug": "elmsvale",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0448",
+  "name": "Pleasant Valley",
+  "slug": "pleasant-valley",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0463",
+  "name": "Saulnierville",
+  "slug": "saulnierville",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0464",
+  "name": "Tusket",
+  "slug": "tusket",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0484",
+  "name": "Englishtown",
+  "slug": "englishtown",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0485",
+  "name": "Hardwood Lands",
+  "slug": "hardwood-lands",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0486",
+  "name": "Ross Ferry",
+  "slug": "ross-ferry",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0507",
+  "name": "Big Ridge",
+  "slug": "big-ridge",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0523",
+  "name": "Dalem Lake",
+  "slug": "dalem-lake",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0541",
+  "name": "Round Hill",
+  "slug": "round-hill",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0542",
+  "name": "Amherst Shore",
+  "slug": "amherst-shore",
+  "score": 45.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0465",
+  "name": "Pubnico",
+  "slug": "pubnico",
+  "score": 45.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0532",
+  "name": "Grand Mira North",
+  "slug": "grand-mira-north",
+  "score": 45.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0543",
+  "name": "Lochaber",
+  "slug": "lochaber",
+  "score": 45.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0549",
+  "name": "Tidnish",
+  "slug": "tidnish",
+  "score": 45.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0550",
+  "name": "Goldboro",
+  "slug": "goldboro",
+  "score": 45.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0533",
+  "name": "Long Island Main",
+  "slug": "long-island-main",
+  "score": 45.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0551",
+  "name": "Isaacs Harbour",
+  "slug": "isaacs-harbour",
+  "score": 45.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0552",
+  "name": "Lequille",
+  "slug": "lequille",
+  "score": 45.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0553",
+  "name": "Lower South River",
+  "slug": "lower-south-river",
+  "score": 45.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0470",
+  "name": "South Maitland",
+  "slug": "south-maitland",
+  "score": 45,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0502",
+  "name": "West Jeddore",
+  "slug": "west-jeddore",
+  "score": 45,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0504",
+  "name": "Smiths Settlement",
+  "slug": "smiths-settlement",
+  "score": 45,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0506",
+  "name": "Loch Lomond (Rich)",
+  "slug": "loch-lomond-rich",
+  "score": 45,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0548",
+  "name": "Grand Mira South",
+  "slug": "grand-mira-south",
+  "score": 45,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0558",
+  "name": "South River",
+  "slug": "south-river",
+  "score": 45,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0559",
+  "name": "Clementsvale",
+  "slug": "clementsvale",
+  "score": 45,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0503",
+  "name": "East Jeddore",
+  "slug": "east-jeddore",
+  "score": 44.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0505",
+  "name": "Fourchu",
+  "slug": "fourchu",
+  "score": 44.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0518",
+  "name": "Stanley",
+  "slug": "stanley",
+  "score": 44.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0519",
+  "name": "Upper Nine Mile River",
+  "slug": "upper-nine-mile-river",
+  "score": 44.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0520",
+  "name": "Upper Rawdon",
+  "slug": "upper-rawdon",
+  "score": 44.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0567",
+  "name": "Deep Brook",
+  "slug": "deep-brook",
+  "score": 44.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0508",
+  "name": "Meteghan River",
+  "slug": "meteghan-river",
+  "score": 44.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0509",
+  "name": "West Pubnico",
+  "slug": "west-pubnico",
+  "score": 44.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0517",
+  "name": "Cooks Brook",
+  "slug": "cooks-brook",
+  "score": 44.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0521",
+  "name": "Washabuck",
+  "slug": "washabuck",
+  "score": 44.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0522",
+  "name": "Nyanza",
+  "slug": "nyanza",
+  "score": 44.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0535",
+  "name": "Weymouth",
+  "slug": "weymouth",
+  "score": 44.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0539",
+  "name": "Digby Neck",
+  "slug": "digby-neck",
+  "score": 44.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0566",
+  "name": "Sandy Point",
+  "slug": "sandy-point",
+  "score": 44.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0568",
+  "name": "Clementsport",
+  "slug": "clementsport",
+  "score": 44.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0480",
+  "name": "Spry Bay",
+  "slug": "spry-bay",
+  "score": 44.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0530",
+  "name": "Wentworth Creek",
+  "slug": "wentworth-creek",
+  "score": 44.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0531",
+  "name": "Framboise",
+  "slug": "framboise",
+  "score": 44.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0540",
+  "name": "Clyde River",
+  "slug": "clyde-river",
+  "score": 44.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0581",
+  "name": "Jordan Falls",
+  "slug": "jordan-falls",
+  "score": 44.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0582",
+  "name": "East Jordan",
+  "slug": "east-jordan",
+  "score": 44.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0583",
+  "name": "Jordan Bay",
+  "slug": "jordan-bay",
+  "score": 44.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0594",
+  "name": "Barrachois",
+  "slug": "barrachois",
+  "score": 44.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0595",
+  "name": "Long Lake (HRM)",
+  "slug": "long-lake-hrm",
+  "score": 44.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0483",
+  "name": "Habitant",
+  "slug": "habitant",
+  "score": 44.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0529",
+  "name": "Salmon River Bridge (HRM)",
+  "slug": "salmon-river-bridge-hrm",
+  "score": 44.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0538",
+  "name": "Grand River (Rich)",
+  "slug": "grand-river-rich",
+  "score": 44.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0584",
+  "name": "Smiths Cove",
+  "slug": "smiths-cove",
+  "score": 44.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0585",
+  "name": "Smith's Cove",
+  "slug": "smith-s-cove",
+  "score": 44.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0599",
+  "name": "Marshalltown",
+  "slug": "marshalltown",
+  "score": 44.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0609",
+  "name": "River Lake",
+  "slug": "river-lake",
+  "score": 44.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0610",
+  "name": "Glenmore",
+  "slug": "glenmore",
+  "score": 44.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0621",
+  "name": "West Loon Lake",
+  "slug": "west-loon-lake",
+  "score": 44.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0525",
+  "name": "Arcadia",
+  "slug": "arcadia",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0534",
+  "name": "Dayton",
+  "slug": "dayton",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0537",
+  "name": "Iona",
+  "slug": "iona",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0545",
+  "name": "Greenwood (HRM)",
+  "slug": "greenwood-hrm",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0592",
+  "name": "Catalone",
+  "slug": "catalone",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0598",
+  "name": "Centreville (Digby)",
+  "slug": "centreville-digby",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0615",
+  "name": "French Road",
+  "slug": "french-road",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0618",
+  "name": "Jacket Lake",
+  "slug": "jacket-lake",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0619",
+  "name": "Lindsey Lake",
+  "slug": "lindsey-lake",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0620",
+  "name": "East Loon Lake Village",
+  "slug": "east-loon-lake-village",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0622",
+  "name": "Governor Lake",
+  "slug": "governor-lake",
+  "score": 44.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0546",
+  "name": "Feltzen South",
+  "slug": "feltzen-south",
+  "score": 44.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0593",
+  "name": "Little Lorraine",
+  "slug": "little-lorraine",
+  "score": 44.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0616",
+  "name": "Beaver Cove",
+  "slug": "beaver-cove",
+  "score": 44.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0617",
+  "name": "Pace Settlement",
+  "slug": "pace-settlement",
+  "score": 44.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0628",
+  "name": "Barkhouse Settlement",
+  "slug": "barkhouse-settlement",
+  "score": 44.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0547",
+  "name": "Mount Denson",
+  "slug": "mount-denson",
+  "score": 44.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0556",
+  "name": "Marble Mountain",
+  "slug": "marble-mountain",
+  "score": 44.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0627",
+  "name": "Benacadie",
+  "slug": "benacadie",
+  "score": 44.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0629",
+  "name": "Higginsville",
+  "slug": "higginsville",
+  "score": 44.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0554",
+  "name": "Lower Ship Harbour",
+  "slug": "lower-ship-harbour",
+  "score": 44.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0555",
+  "name": "Park's Creek",
+  "slug": "park-s-creek",
+  "score": 44.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0557",
+  "name": "West Bay (Rich)",
+  "slug": "west-bay-rich",
+  "score": 44.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0560",
+  "name": "Dean",
+  "slug": "dean",
+  "score": 44.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0626",
+  "name": "Christmas Island",
+  "slug": "christmas-island",
+  "score": 44.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0635",
+  "name": "College Lake",
+  "slug": "college-lake",
+  "score": 44.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0636",
+  "name": "Chaplin",
+  "slug": "chaplin",
+  "score": 44.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0645",
+  "name": "Homeville",
+  "slug": "homeville",
+  "score": 44.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0562",
+  "name": "Pleasant Harbour",
+  "slug": "pleasant-harbour",
+  "score": 44.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0563",
+  "name": "Branch LaHave",
+  "slug": "branch-lahave",
+  "score": 44.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0565",
+  "name": "Cheverie",
+  "slug": "cheverie",
+  "score": 44.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0644",
+  "name": "Big Pond",
+  "slug": "big-pond",
+  "score": 44.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0561",
+  "name": "Margaree Harbour",
+  "slug": "margaree-harbour",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0564",
+  "name": "Upper LaHave",
+  "slug": "upper-lahave",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0573",
+  "name": "Crousetown",
+  "slug": "crousetown",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0574",
+  "name": "Forties Settlement",
+  "slug": "forties-settlement",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0576",
+  "name": "Belle Cote",
+  "slug": "belle-cote",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0579",
+  "name": "Cap Le Moine",
+  "slug": "cap-le-moine",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0597",
+  "name": "Port Maitland",
+  "slug": "port-maitland",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0642",
+  "name": "Murchyville",
+  "slug": "murchyville",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0643",
+  "name": "Southwest Cove",
+  "slug": "southwest-cove",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0654",
+  "name": "Catalone Gut",
+  "slug": "catalone-gut",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0655",
+  "name": "Juniper Mountain",
+  "slug": "juniper-mountain",
+  "score": 44,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0569",
+  "name": "Lake Ainslie",
+  "slug": "lake-ainslie",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0570",
+  "name": "Popes Harbour",
+  "slug": "popes-harbour",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0571",
+  "name": "Greenfield (Colch)",
+  "slug": "greenfield-colch",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0572",
+  "name": "Baker Settlement",
+  "slug": "baker-settlement",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0575",
+  "name": "Cookville",
+  "slug": "cookville",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0577",
+  "name": "Petit Etang",
+  "slug": "petit-etang",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0578",
+  "name": "Grand Etang",
+  "slug": "grand-etang",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0580",
+  "name": "West Bay Road",
+  "slug": "west-bay-road",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0596",
+  "name": "Hebron",
+  "slug": "hebron",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0611",
+  "name": "Overton",
+  "slug": "overton",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0637",
+  "name": "Grosses Coques",
+  "slug": "grosses-coques",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0651",
+  "name": "Gabarus",
+  "slug": "gabarus",
+  "score": 43.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0466",
+  "name": "Bear River First Nation",
+  "slug": "bear-river-first-nation",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0586",
+  "name": "Spry Harbour",
+  "slug": "spry-harbour",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0588",
+  "name": "Oakhill",
+  "slug": "oakhill",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0589",
+  "name": "Pinehurst",
+  "slug": "pinehurst",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0591",
+  "name": "Cap La Ronde",
+  "slug": "cap-la-ronde",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0646",
+  "name": "Sandy Cove",
+  "slug": "sandy-cove",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0647",
+  "name": "Plympton",
+  "slug": "plympton",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0648",
+  "name": "Port La Tour",
+  "slug": "port-la-tour",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0652",
+  "name": "Newcomb Corner",
+  "slug": "newcomb-corner",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0653",
+  "name": "Tarbot",
+  "slug": "tarbot",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0661",
+  "name": "Wreck Point",
+  "slug": "wreck-point",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0704",
+  "name": "Ironville",
+  "slug": "ironville",
+  "score": 43.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0544",
+  "name": "Moser River",
+  "slug": "moser-river",
+  "score": 43.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0587",
+  "name": "Mushaboom",
+  "slug": "mushaboom",
+  "score": 43.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0590",
+  "name": "Cape North",
+  "slug": "cape-north",
+  "score": 43.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0600",
+  "name": "Voglers Cove",
+  "slug": "voglers-cove",
+  "score": 43.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0601",
+  "name": "Dingwall",
+  "slug": "dingwall",
+  "score": 43.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0607",
+  "name": "Janvrin Island",
+  "slug": "janvrin-island",
+  "score": 43.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0608",
+  "name": "Lower River Inhabitants",
+  "slug": "lower-river-inhabitants",
+  "score": 43.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0660",
+  "name": "Breton Cove",
+  "slug": "breton-cove",
+  "score": 43.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0682",
+  "name": "Gabarus Lake",
+  "slug": "gabarus-lake",
+  "score": 43.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0602",
+  "name": "Sheffield Mills",
+  "slug": "sheffield-mills",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0603",
+  "name": "Blomidon",
+  "slug": "blomidon",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0604",
+  "name": "Upper Londonderry",
+  "slug": "upper-londonderry",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0605",
+  "name": "Middlewood",
+  "slug": "middlewood",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0606",
+  "name": "Strathlorne",
+  "slug": "strathlorne",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0677",
+  "name": "Chaswood",
+  "slug": "chaswood",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0678",
+  "name": "Caribou Mines",
+  "slug": "caribou-mines",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0679",
+  "name": "Debaies Cove",
+  "slug": "debaies-cove",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0680",
+  "name": "Myers Point",
+  "slug": "myers-point",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0681",
+  "name": "Smokey",
+  "slug": "smokey",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0724",
+  "name": "McAdams Lake",
+  "slug": "mcadams-lake",
+  "score": 43.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0612",
+  "name": "Rocky Bay",
+  "slug": "rocky-bay",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0614",
+  "name": "Folly Lake",
+  "slug": "folly-lake",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0662",
+  "name": "Comeauville",
+  "slug": "comeauville",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0663",
+  "name": "Belliveau Cove",
+  "slug": "belliveau-cove",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0664",
+  "name": "St. Bernard",
+  "slug": "st-bernard",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0665",
+  "name": "Lower Argyle",
+  "slug": "lower-argyle",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0668",
+  "name": "Ohio",
+  "slug": "ohio",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0669",
+  "name": "East Pubnico",
+  "slug": "east-pubnico",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0691",
+  "name": "Moose River Gold Mines",
+  "slug": "moose-river-gold-mines",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0692",
+  "name": "Mitchell Bay",
+  "slug": "mitchell-bay",
+  "score": 43.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0613",
+  "name": "Black Rock",
+  "slug": "black-rock",
+  "score": 43.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0623",
+  "name": "Port Dufferin",
+  "slug": "port-dufferin",
+  "score": 43.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0666",
+  "name": "North East Point",
+  "slug": "north-east-point",
+  "score": 43.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0667",
+  "name": "Brazil Lake",
+  "slug": "brazil-lake",
+  "score": 43.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0684",
+  "name": "Tiverton",
+  "slug": "tiverton",
+  "score": 43.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0732",
+  "name": "Big Pond Centre",
+  "slug": "big-pond-centre",
+  "score": 43.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0746",
+  "name": "Black Brook",
+  "slug": "black-brook",
+  "score": 43.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0624",
+  "name": "Sampsonville",
+  "slug": "sampsonville",
+  "score": 43.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0625",
+  "name": "Long Point (INV)",
+  "slug": "long-point-inv",
+  "score": 43.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0683",
+  "name": "Centreville (Shelburne)",
+  "slug": "centreville-shelburne",
+  "score": 43.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0685",
+  "name": "Middle West Pubnico",
+  "slug": "middle-west-pubnico",
+  "score": 43.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0686",
+  "name": "Lower West Pubnico",
+  "slug": "lower-west-pubnico",
+  "score": 43.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0701",
+  "name": "Mooseland",
+  "slug": "mooseland",
+  "score": 43.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0703",
+  "name": "Wreck Cove",
+  "slug": "wreck-cove",
+  "score": 43.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0731",
+  "name": "Shunacadie",
+  "slug": "shunacadie",
+  "score": 43.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0752",
+  "name": "Enon",
+  "slug": "enon",
+  "score": 43.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0630",
+  "name": "Halls Harbour",
+  "slug": "halls-harbour",
+  "score": 43.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0632",
+  "name": "Parrsboro Shore",
+  "slug": "parrsboro-shore",
+  "score": 43.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0634",
+  "name": "Troy",
+  "slug": "troy",
+  "score": 43.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0694",
+  "name": "Melbourne",
+  "slug": "melbourne",
+  "score": 43.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0695",
+  "name": "Pleasant Valley (Yar)",
+  "slug": "pleasant-valley-yar",
+  "score": 43.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0702",
+  "name": "Ostrea Lake",
+  "slug": "ostrea-lake",
+  "score": 43.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0714",
+  "name": "Ten Mile Lake",
+  "slug": "ten-mile-lake",
+  "score": 43.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0715",
+  "name": "Third Lake",
+  "slug": "third-lake",
+  "score": 43.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0741",
+  "name": "Peggys Cove",
+  "slug": "peggys-cove",
+  "score": 43.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0631",
+  "name": "Harrigan Cove",
+  "slug": "harrigan-cove",
+  "score": 43.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0633",
+  "name": "Diligent River",
+  "slug": "diligent-river",
+  "score": 43.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0693",
+  "name": "Salmon River (Yarmouth)",
+  "slug": "salmon-river-yarmouth",
+  "score": 43.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0705",
+  "name": "Freeport",
+  "slug": "freeport",
+  "score": 43.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0716",
+  "name": "Upper Lakeville",
+  "slug": "upper-lakeville",
+  "score": 43.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0638",
+  "name": "Port Greville",
+  "slug": "port-greville",
+  "score": 43,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0639",
+  "name": "Canso Causeway",
+  "slug": "canso-causeway",
+  "score": 43,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0640",
+  "name": "Earltown",
+  "slug": "earltown",
+  "score": 43,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0641",
+  "name": "Queensport",
+  "slug": "queensport",
+  "score": 43,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0706",
+  "name": "Westport",
+  "slug": "westport",
+  "score": 43,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0707",
+  "name": "Yarmouth Bar",
+  "slug": "yarmouth-bar",
+  "score": 43,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0708",
+  "name": "Chegoggin",
+  "slug": "chegoggin",
+  "score": 43,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0722",
+  "name": "Mill Lake",
+  "slug": "mill-lake",
+  "score": 43,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0649",
+  "name": "Thomson Station",
+  "slug": "thomson-station",
+  "score": 42.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0650",
+  "name": "Halfway River",
+  "slug": "halfway-river",
+  "score": 42.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0723",
+  "name": "South Harbour",
+  "slug": "south-harbour",
+  "score": 42.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0766",
+  "name": "Broughton",
+  "slug": "broughton",
+  "score": 42.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0658",
+  "name": "New Harbour",
+  "slug": "new-harbour",
+  "score": 42.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0730",
+  "name": "Murphy Cove",
+  "slug": "murphy-cove",
+  "score": 42.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0765",
+  "name": "Big Beach",
+  "slug": "big-beach",
+  "score": 42.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0656",
+  "name": "Hunts Point",
+  "slug": "hunts-point",
+  "score": 42.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0657",
+  "name": "Tatamagouche Mountain",
+  "slug": "tatamagouche-mountain",
+  "score": 42.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0659",
+  "name": "Eureka",
+  "slug": "eureka",
+  "score": 42.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0670",
+  "name": "Ecum Secum",
+  "slug": "ecum-secum",
+  "score": 42.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0740",
+  "name": "Beaver Dam",
+  "slug": "beaver-dam",
+  "score": 42.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0772",
+  "name": "Island View",
+  "slug": "island-view",
+  "score": 42.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0671",
+  "name": "Apple River",
+  "slug": "apple-river",
+  "score": 42.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0672",
+  "name": "Marie Joseph",
+  "slug": "marie-joseph",
+  "score": 42.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0673",
+  "name": "Tatamagouche Bay",
+  "slug": "tatamagouche-bay",
+  "score": 42.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0674",
+  "name": "Brule",
+  "slug": "brule",
+  "score": 42.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0675",
+  "name": "Whitehead",
+  "slug": "whitehead",
+  "score": 42.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0676",
+  "name": "Mount Thom",
+  "slug": "mount-thom",
+  "score": 42.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0781",
+  "name": "Castle Bay",
+  "slug": "castle-bay",
+  "score": 42.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0687",
+  "name": "Liscomb",
+  "slug": "liscomb",
+  "score": 42.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0744",
+  "name": "Terre Noire",
+  "slug": "terre-noire",
+  "score": 42.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0745",
+  "name": "Scotsville",
+  "slug": "scotsville",
+  "score": 42.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0785",
+  "name": "Gillis Lake",
+  "slug": "gillis-lake",
+  "score": 42.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0688",
+  "name": "Spa Springs",
+  "slug": "spa-springs",
+  "score": 42.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0689",
+  "name": "Malagash Point",
+  "slug": "malagash-point",
+  "score": 42.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0690",
+  "name": "Garden of Eden",
+  "slug": "garden-of-eden",
+  "score": 42.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0748",
+  "name": "White Point (VIC)",
+  "slug": "white-point-vic",
+  "score": 42.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0749",
+  "name": "Sugar Loaf",
+  "slug": "sugar-loaf",
+  "score": 42.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0750",
+  "name": "Red River",
+  "slug": "red-river",
+  "score": 42.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0751",
+  "name": "Alba",
+  "slug": "alba",
+  "score": 42.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0789",
+  "name": "Irishvale",
+  "slug": "irishvale",
+  "score": 42.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0796",
+  "name": "Round Island",
+  "slug": "round-island",
+  "score": 42.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0697",
+  "name": "Fox Harbour",
+  "slug": "fox-harbour",
+  "score": 42.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0698",
+  "name": "Churchville",
+  "slug": "churchville",
+  "score": 42.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0699",
+  "name": "Greenhill",
+  "slug": "greenhill",
+  "score": 42.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0696",
+  "name": "Port Joli",
+  "slug": "port-joli",
+  "score": 42.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0700",
+  "name": "Morristown (Ant)",
+  "slug": "morristown-ant",
+  "score": 42.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0709",
+  "name": "Gulf Shore",
+  "slug": "gulf-shore",
+  "score": 42.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0711",
+  "name": "Upper Nappan",
+  "slug": "upper-nappan",
+  "score": 42.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0712",
+  "name": "Larry's River",
+  "slug": "larry-s-river",
+  "score": 42.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0713",
+  "name": "Cape George",
+  "slug": "cape-george",
+  "score": 42.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0754",
+  "name": "Sober Island",
+  "slug": "sober-island",
+  "score": 42.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0755",
+  "name": "Barra Head",
+  "slug": "barra-head",
+  "score": 42.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0799",
+  "name": "Rock Elm",
+  "slug": "rock-elm",
+  "score": 42.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0710",
+  "name": "Port Howe",
+  "slug": "port-howe",
+  "score": 42.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0758",
+  "name": "Watt Section",
+  "slug": "watt-section",
+  "score": 42.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0717",
+  "name": "Caribou",
+  "slug": "caribou",
+  "score": 42,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0718",
+  "name": "Tupperville",
+  "slug": "tupperville",
+  "score": 42,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0719",
+  "name": "Sonora",
+  "slug": "sonora",
+  "score": 42,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0720",
+  "name": "Lorne",
+  "slug": "lorne",
+  "score": 42,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0721",
+  "name": "Cloverville",
+  "slug": "cloverville",
+  "score": 42,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0759",
+  "name": "Beaver Harbour",
+  "slug": "beaver-harbour",
+  "score": 42,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0760",
+  "name": "Marinette",
+  "slug": "marinette",
+  "score": 42,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0727",
+  "name": "Cross Roads Country Harbour",
+  "slug": "cross-roads-country-harbour",
+  "score": 41.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0728",
+  "name": "Barney's River",
+  "slug": "barney-s-river",
+  "score": 41.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0764",
+  "name": "Malay Falls",
+  "slug": "malay-falls",
+  "score": 41.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0768",
+  "name": "West Quoddy",
+  "slug": "west-quoddy",
+  "score": 41.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0725",
+  "name": "Shinimicas",
+  "slug": "shinimicas",
+  "score": 41.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0726",
+  "name": "Cole Harbour (Guy)",
+  "slug": "cole-harbour-guy",
+  "score": 41.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0729",
+  "name": "James River",
+  "slug": "james-river",
+  "score": 41.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0739",
+  "name": "Malignant Cove",
+  "slug": "malignant-cove",
+  "score": 41.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0769",
+  "name": "East Quoddy",
+  "slug": "east-quoddy",
+  "score": 41.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0735",
+  "name": "Lismore",
+  "slug": "lismore",
+  "score": 41.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0736",
+  "name": "Lakevale",
+  "slug": "lakevale",
+  "score": 41.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0737",
+  "name": "Beechwood",
+  "slug": "beechwood",
+  "score": 41.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0738",
+  "name": "Marshy Hope",
+  "slug": "marshy-hope",
+  "score": 41.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0801",
+  "name": "Grand Narrows",
+  "slug": "grand-narrows",
+  "score": 41.7,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0733",
+  "name": "Country Harbour",
+  "slug": "country-harbour",
+  "score": 41.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0734",
+  "name": "Port Bickerton",
+  "slug": "port-bickerton",
+  "score": 41.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0742",
+  "name": "Arisaig",
+  "slug": "arisaig",
+  "score": 41.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0743",
+  "name": "Bayfield",
+  "slug": "bayfield",
+  "score": 41.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0771",
+  "name": "Moosehead",
+  "slug": "moosehead",
+  "score": 41.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0802",
+  "name": "Middle Cape",
+  "slug": "middle-cape",
+  "score": 41.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0803",
+  "name": "Pipers Cove",
+  "slug": "pipers-cove",
+  "score": 41.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0773",
+  "name": "Spencer's Island",
+  "slug": "spencer-s-island",
+  "score": 41.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0747",
+  "name": "Bear River East",
+  "slug": "bear-river-east",
+  "score": 41.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0774",
+  "name": "Lochaber Mines",
+  "slug": "lochaber-mines",
+  "score": 41.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0778",
+  "name": "Necum Teuch",
+  "slug": "necum-teuch",
+  "score": 41.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0804",
+  "name": "St. Andrews Channel",
+  "slug": "st-andrews-channel",
+  "score": 41.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0779",
+  "name": "Half Island Cove",
+  "slug": "half-island-cove",
+  "score": 41.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0780",
+  "name": "Indian Harbour (Guy)",
+  "slug": "indian-harbour-guy",
+  "score": 41.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0784",
+  "name": "Ecum Secum (Guy)",
+  "slug": "ecum-secum-guy",
+  "score": 41.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0753",
+  "name": "Churchover",
+  "slug": "churchover",
+  "score": 41.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0805",
+  "name": "Upper Grand Mira",
+  "slug": "upper-grand-mira",
+  "score": 41.2,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0756",
+  "name": "Birchtown",
+  "slug": "birchtown",
+  "score": 41.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0757",
+  "name": "Rossway",
+  "slug": "rossway",
+  "score": 41.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0787",
+  "name": "Dover",
+  "slug": "dover",
+  "score": 41.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0788",
+  "name": "Stormont",
+  "slug": "stormont",
+  "score": 41.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0763",
+  "name": "Brighton",
+  "slug": "brighton",
+  "score": 41,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0794",
+  "name": "Fox Island Main",
+  "slug": "fox-island-main",
+  "score": 41,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0807",
+  "name": "Irish Cove",
+  "slug": "irish-cove",
+  "score": 41,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0761",
+  "name": "Gunning Cove",
+  "slug": "gunning-cove",
+  "score": 40.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0762",
+  "name": "Barton",
+  "slug": "barton",
+  "score": 40.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0795",
+  "name": "Cooks Cove",
+  "slug": "cooks-cove",
+  "score": 40.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0767",
+  "name": "Gilbert's Cove",
+  "slug": "gilbert-s-cove",
+  "score": 40.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0770",
+  "name": "Upper Clyde",
+  "slug": "upper-clyde",
+  "score": 40.6,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0797",
+  "name": "Wine Harbour",
+  "slug": "wine-harbour",
+  "score": 40.5,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0775",
+  "name": "Villagedale",
+  "slug": "villagedale",
+  "score": 40.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0777",
+  "name": "Port La Tour (Bar)",
+  "slug": "port-la-tour-bar",
+  "score": 40.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0798",
+  "name": "Tor Bay",
+  "slug": "tor-bay",
+  "score": 40.4,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0776",
+  "name": "Doctors Cove",
+  "slug": "doctors-cove",
+  "score": 40.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0800",
+  "name": "Charlos Cove",
+  "slug": "charlos-cove",
+  "score": 40.3,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0782",
+  "name": "Eel Brook",
+  "slug": "eel-brook",
+  "score": 40.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0783",
+  "name": "Hubbard Point",
+  "slug": "hubbard-point",
+  "score": 40.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0786",
+  "name": "Little River (Clare)",
+  "slug": "little-river-clare",
+  "score": 40.1,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0806",
+  "name": "Meat Cove",
+  "slug": "meat-cove",
+  "score": 40,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0790",
+  "name": "Mavillette",
+  "slug": "mavillette",
+  "score": 39.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0791",
+  "name": "Salmon River (Clare)",
+  "slug": "salmon-river-clare",
+  "score": 39.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0793",
+  "name": "Surette Island",
+  "slug": "surette-island",
+  "score": 39.9,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0792",
+  "name": "Cape St. Marys",
+  "slug": "cape-st-marys",
+  "score": 39.8,
+  "reason": "score<50 (thin-page firewall)"
+ },
+ {
+  "id": "NS-0066",
+  "name": "Enfield (EH)",
+  "slug": "enfield-eh",
+  "score": 56.5,
+  "reason": "duplicate of Enfield (NS-0062) — same community listed under two regions; one-URL law"
+ }
+]

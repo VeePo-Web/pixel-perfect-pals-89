@@ -1,0 +1,3558 @@
+[
+ {
+  "id": "NS-0220",
+  "slug": "pictou-county",
+  "url": "/areas/pictou-county",
+  "name": "Pictou County",
+  "type": "County Municipality",
+  "region": "Northumberland Shore",
+  "region_slug": "northumberland-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.6,
+   "lng": -62.7
+  },
+  "fsa": "B2H",
+  "population_2021": 21657,
+  "unified_score": 63.4,
+  "km_halifax": 126.1,
+  "km_sydney": 203,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Northumberland Shore",
+   "Pictou County"
+  ],
+  "hero": {
+   "overline": "Pictou County · Northumberland Shore · Nova Scotia",
+   "h1": "{SERVICE} in Pictou County, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Pictou County, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Pictou County, NS: {COMPANY_NAME} serves the Northumberland Shore's largest community with coastal-ready work built to last. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Pictou County",
+   "secondary_keywords": [
+    "{SERVICE} near me Pictou County",
+    "{BUSINESS_TYPE} Pictou County Nova Scotia",
+    "{SERVICE} New Glasgow area",
+    "{SERVICE} Northumberland Strait"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Pictou County coastal properties",
+    "{SERVICE} near New Glasgow",
+    "{SERVICE} Northumberland Strait beach area",
+    "{SERVICE} Pictou County waterfront homes"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Pictou County",
+    "what {SERVICE} does {COMPANY_NAME} offer in Pictou County",
+    "how fast can you get {SERVICE} in Pictou County"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Pictou County",
+    "who does {SERVICE} in Pictou County Nova Scotia",
+    "best {BUSINESS_TYPE} in Pictou County",
+    "{SERVICE} in New Glasgow and Pictou County",
+    "affordable {SERVICE} near the Northumberland Strait"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Pictou County, {COMPANY_NAME} serves the region's largest community — 21,657 residents across manufacturing and fishing towns near New Glasgow. We handle the salt air and Maritime winters of the warm Northumberland Strait shore with {SERVICE_LIST}. Call {PHONE}.",
+  "entity_description": "Pictou County is a county municipality on Nova Scotia's Northumberland Shore, with a 2021 census population of 21,657 — the most populous community in the region. Manufacturing and fishing anchor its economy, alongside education, agriculture, and Northumberland Strait beach tourism. The county fronts the warm Northumberland Strait, carries deep Scottish Highland heritage, and hosts the Pictou ferry to Prince Edward Island. Its towns cluster near New Glasgow, just 4.2 kilometres from the county centre.",
+  "about_md": "Pictou County is the most populous community on Nova Scotia's Northumberland Shore, home to 21,657 people at the 2021 census. That scale makes it the manufacturing and fishing heart of the north coast, and it shows in the steady rhythm of working towns clustered around New Glasgow, just 4.2 kilometres from the county centre.\n\nThe economy here runs on manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism. That mix keeps properties busy year-round — homes, shops, and commercial buildings that all need upkeep. For {SERVICE}, that steady demand is exactly why {COMPANY_NAME} invests in knowing the county well.\n\n## A coastal county built on the Strait\n\nPictou County fronts the warm Northumberland Strait, the warmest saltwater draw on Nova Scotia's north coast. Summer brings a busy beach-tourism season, and the county's Scottish Highland heritage, the Pictou ferry to Prince Edward Island, and the Northumberland Shore wine trail give the area its distinctive character. That coastal setting also shapes what {SERVICE} has to withstand: salt air, ocean winds, and Maritime winters that test every property season after season. {COMPANY_NAME} plans work around those conditions so your {PROPERTY_TYPE} holds up.\n\nAccess is easy, too. Pictou County sits about 126 kilometres from Halifax, close enough for the wider provincial market yet firmly its own place. The county wraps around the towns of New Glasgow, Stellarton, Trenton, Westville, and the harbour town of Pictou, each within a short drive of the others. That density means {COMPANY_NAME} can reach most of the county quickly, with a typical response time of {RESPONSE_TIME}.\n\nProperty owners here take real pride in maintenance, and the building stock reflects a long industrial and coastal history — from riverside homes to commercial buildings that anchor the county's small-business corridors. From family homes in the town cluster to farm buildings out in the countryside and the shops that line each main street, the county's properties span a wide mix of ages and uses. {COMPANY_NAME} tailors {SERVICE} to each one, and every job starts with a clear scope so owners know exactly what to expect. Whatever the structure, our approach stays the same: {UNIQUE_VALUE_PROP}. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} treats every job across Pictou County like it matters, because to the owner, it does.\n\nQuality {BUSINESS_TYPE} isn't an expense — it's an investment in a property's future, especially in a coastal climate that never stops working on your building. From the first {ESTIMATE_TYPE} to the finished result, we keep pricing transparent and workmanship guaranteed. Ready to protect your property across the Northumberland Shore's largest community? {CTA_PRIMARY} for your {ESTIMATE_TYPE} today, or call {PHONE}.",
+  "local_facts": [
+   "2021 census population: 21,657 — the most populous community on the Northumberland Shore",
+   "FSA postal prefix: B2H",
+   "126 km from Halifax; 203 km from Sydney",
+   "Nearest built community: New Glasgow, 4.2 km away",
+   "Economy: manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism",
+   "A county municipality in the Northumberland Shore region of Nova Scotia",
+   "Features warm Northumberland Strait beaches, Scottish Highland heritage, and the Pictou ferry to PEI"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Pictou County is the most populous of the Northumberland Shore's 8 published communities, with 21,657 residents — and its nearest built neighbour, New Glasgow, sits just 4.2 km away."
+  },
+  "services_grid": {
+   "heading": "Services in Pictou County",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou-county/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Pictou County"
+  },
+  "faqs": [
+   {
+    "question": "Does {COMPANY_NAME} provide {SERVICE} across all of Pictou County?",
+    "answer": "Yes. {COMPANY_NAME} covers the entire county, from New Glasgow, Stellarton, and Trenton to Westville and the harbour town of Pictou. Because these towns cluster within a few kilometres of each other, we reach most of Pictou County quickly, typically responding within {RESPONSE_TIME}."
+   },
+   {
+    "question": "How does the Northumberland Strait affect {SERVICE} in Pictou County?",
+    "answer": "Pictou County fronts the warm Northumberland Strait, so salt air and ocean winds reach properties across the county. {COMPANY_NAME} chooses materials and methods built for that coastal exposure, protecting your {PROPERTY_TYPE} through busy beach summers and hard Maritime winters alike."
+   },
+   {
+    "question": "How much does {SERVICE} cost in Pictou County?",
+    "answer": "Cost depends on your property and the scope of work, which is why {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Pricing stays in the {PRICE_RANGE} range with no surprises — you see the full breakdown before any {BUSINESS_TYPE} work begins, so you can plan your budget with confidence from the very first visit."
+   },
+   {
+    "question": "How fast can you respond in Pictou County?",
+    "answer": "With the county's towns clustered around New Glasgow, {COMPANY_NAME} usually responds within {RESPONSE_TIME}. For urgent {SERVICE} needs, we prioritize same-day service whenever possible, so you're never left waiting on a problem that can't wait. Across the county's tightly grouped towns, help is rarely far away."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Pictou County?",
+    "answer": "Because {COMPANY_NAME} pairs city-grade {SERVICE} with real local knowledge of the Northumberland Shore's largest community — its coastal climate, its building stock, and its working towns. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, we protect your investment. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Pictou County, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "new-glasgow",
+    "name": "New Glasgow",
+    "km": 4.2,
+    "url": "/areas/new-glasgow",
+    "anchor": "New Glasgow, the county's commercial centre 4.2 km along the East River"
+   },
+   {
+    "slug": "stellarton",
+    "name": "Stellarton",
+    "km": 5.4,
+    "url": "/areas/stellarton",
+    "anchor": "Stellarton, a neighbouring town 5.4 km to the southwest"
+   },
+   {
+    "slug": "trenton",
+    "name": "Trenton",
+    "km": 5.5,
+    "url": "/areas/trenton",
+    "anchor": "Trenton, 5.5 km off toward the East River"
+   },
+   {
+    "slug": "westville",
+    "name": "Westville",
+    "km": 5.8,
+    "url": "/areas/westville",
+    "anchor": "Westville, one of the county's working towns 5.8 km away"
+   },
+   {
+    "slug": "pictou",
+    "name": "Pictou",
+    "km": 8.8,
+    "url": "/areas/pictou",
+    "anchor": "the harbour town of Pictou, 8.8 km north on the Strait"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/northumberland-shore",
+   "name": "Northumberland Shore",
+   "anchor": "Northumberland Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-northumberland-shore",
+    "title": "What {SERVICE} Costs in Northumberland Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-northumberland-shore",
+    "title": "Northumberland Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-northumberland-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Northumberland Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-northumberland-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Northumberland Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Pictou County",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Pictou County quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "pictou-county"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+   "filename": "pictou-county-northumberland-shore-ns.webp",
+   "alt_layer1_geo": "Pictou County, Northumberland Shore Nova Scotia — the region's most populous county, fronting the warm Northumberland Strait with a ferry link to PEI",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Pictou County, Nova Scotia — Pictou County, Northumberland Shore Nova Scotia — the region's most populous county, fronting the warm Northumberland Strait with a ferry link to PEI",
+   "title": "Pictou County, Northumberland Shore Nova Scotia — the region's most populous county, fronting the warm Northumberland Strait with a ferry link to PEI",
+   "caption": "Pictou County, Northumberland Shore Nova Scotia — the region's most populous county, fronting the warm Northumberland Strait with a ferry link to PEI",
+   "exif_geo": {
+    "lat": 45.6,
+    "lng": -62.7,
+    "name": "Pictou County, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Virid — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "population scale (21,657, most populous in region)",
+   "economy (manufacturing, fishing)",
+   "coastal climate (Northumberland Strait, salt air)",
+   "distance/access (126 km Halifax, town cluster near New Glasgow)",
+   "building stock"
+  ],
+  "signals_count": 5,
+  "opener_words": "Pictou County is the most populous community on",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/pictou-county#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Pictou County",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Pictou County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "New Glasgow, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Stellarton, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Trenton, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.6,
+        "longitude": -62.7
+       },
+       "geoRadius": "3150"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Pictou County",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/pictou-county#page",
+     "url": "{BRAND_URL}/areas/pictou-county",
+     "name": "{SERVICE} in Pictou County, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/pictou-county#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/pictou-county#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Northumberland Shore",
+       "item": "{BRAND_URL}/areas/region/northumberland-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Pictou County",
+       "item": "{BRAND_URL}/areas/pictou-county"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/pictou-county#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Does {COMPANY_NAME} provide {SERVICE} across all of Pictou County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers the entire county, from New Glasgow, Stellarton, and Trenton to Westville and the harbour town of Pictou. Because these towns cluster within a few kilometres of each other, we reach most of Pictou County quickly, typically responding within {RESPONSE_TIME}."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How does the Northumberland Strait affect {SERVICE} in Pictou County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pictou County fronts the warm Northumberland Strait, so salt air and ocean winds reach properties across the county. {COMPANY_NAME} chooses materials and methods built for that coastal exposure, protecting your {PROPERTY_TYPE} through busy beach summers and hard Maritime winters alike."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How much does {SERVICE} cost in Pictou County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on your property and the scope of work, which is why {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Pricing stays in the {PRICE_RANGE} range with no surprises — you see the full breakdown before any {BUSINESS_TYPE} work begins, so you can plan your budget with confidence from the very first visit."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you respond in Pictou County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With the county's towns clustered around New Glasgow, {COMPANY_NAME} usually responds within {RESPONSE_TIME}. For urgent {SERVICE} needs, we prioritize same-day service whenever possible, so you're never left waiting on a problem that can't wait. Across the county's tightly grouped towns, help is rarely far away."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Pictou County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because {COMPANY_NAME} pairs city-grade {SERVICE} with real local knowledge of the Northumberland Shore's largest community — its coastal climate, its building stock, and its working towns. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, we protect your investment. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/pictou-county#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+     "name": "Pictou County, Northumberland Shore Nova Scotia — the region's most populous county, fronting the warm Northumberland Strait with a ferry link to PEI",
+     "caption": "Pictou County, Northumberland Shore Nova Scotia — the region's most populous county, fronting the warm Northumberland Strait with a ferry link to PEI",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Virid"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Pictou County, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.6,
+       "longitude": -62.7
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0086",
+  "slug": "antigonish-county",
+  "url": "/areas/antigonish-county",
+  "name": "Antigonish County",
+  "type": "County Municipality",
+  "region": "Northumberland Shore",
+  "region_slug": "northumberland-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.58,
+   "lng": -62
+  },
+  "fsa": "B2H",
+  "population_2021": 15140,
+  "unified_score": 60.9,
+  "km_halifax": 161.2,
+  "km_sydney": 152.9,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Northumberland Shore",
+   "Antigonish County"
+  ],
+  "hero": {
+   "overline": "Antigonish County · Northumberland Shore · Nova Scotia",
+   "h1": "{SERVICE} in Antigonish County, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Antigonish County, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Antigonish County, NS: {COMPANY_NAME} serves the Northumberland Shore's eastern anchor with coastal-ready, guaranteed work. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Antigonish County",
+   "secondary_keywords": [
+    "{SERVICE} near me Antigonish County",
+    "{BUSINESS_TYPE} Antigonish County Nova Scotia",
+    "{SERVICE} Antigonish area",
+    "{SERVICE} Northumberland Shore wine trail"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Antigonish County rural properties",
+    "{SERVICE} near the town of Antigonish",
+    "{SERVICE} Antigonish County coastal homes",
+    "{SERVICE} Cape George area Antigonish County"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Antigonish County",
+    "does {COMPANY_NAME} serve rural Antigonish County",
+    "how fast can you get {SERVICE} in Antigonish County"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Antigonish County",
+    "who does {SERVICE} in Antigonish County Nova Scotia",
+    "best {BUSINESS_TYPE} near Antigonish",
+    "{SERVICE} for rural properties in Antigonish County",
+    "{SERVICE} near the Northumberland Strait in Antigonish County"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Antigonish County, {COMPANY_NAME} serves the Northumberland Shore's eastern anchor — 15,140 residents around the town of Antigonish. We know the salt air, Highland-heritage towns, and Maritime winters of this coast, delivering reliable {SERVICE_LIST} for homes and businesses alike. Call {PHONE}.",
+  "entity_description": "Antigonish County is a county municipality on the eastern end of Nova Scotia's Northumberland Shore, with a 2021 census population of 15,140 — the region's second most populous community. Manufacturing and fishing drive its economy, alongside education, agriculture, and Northumberland Strait beach tourism. The county surrounds the town of Antigonish, carries Scottish Highland heritage, and sits closer to Sydney than to Halifax. Its warm Strait beaches and wine-trail country give it a distinct coastal character.",
+  "about_md": "Antigonish County anchors the eastern end of Nova Scotia's Northumberland Shore, and unusually for the region it sits closer to Sydney than to Halifax — roughly 153 kilometres to Cape Breton's largest city versus 161 to the capital. That position makes it the region's eastern gateway, wrapping around the town of Antigonish just 4.4 kilometres from the county's centre.\n\nWith 15,140 residents at the 2021 census, Antigonish County is the second most populous community on the shore. Its economy runs on manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism — a steady base that keeps homes, farms, and commercial buildings in constant need of care. For {SERVICE}, that reliable demand is why {COMPANY_NAME} makes a point of knowing the county's roads and building stock.\n\n## Highland country on the Strait\n\nScottish Highland heritage runs deep here, and the county's warm Northumberland Strait beaches, the Pictou ferry link to Prince Edward Island, and the Northumberland Shore wine trail give it a character all its own. That coastal setting is also what {SERVICE} has to stand up to. Salt air drifts inland from the Strait, ocean winds push against exposed structures, and Maritime winters bury the county in snow and freeze-thaw cycles. {COMPANY_NAME} chooses materials and timing that match those conditions so your {PROPERTY_TYPE} lasts.\n\nThe county's rural reach matters for scheduling. Farms and homes spread across a wide stretch of countryside between the coast and Cape George, so {COMPANY_NAME} plans routes to cover the area efficiently, with a typical response time of {RESPONSE_TIME}. The drive between the coast and the inland farms can be long, but {COMPANY_NAME} treats a remote job with the same urgency as one in town, and every visit begins with a straightforward assessment of the work. Whether the job is at a farmhouse inland or a property near the shore, the same standards apply.\n\nProperty owners in Antigonish County take real pride in maintenance, and the building stock spans everything from established family homes to commercial buildings serving the surrounding region. Our approach never changes with the address: {UNIQUE_VALUE_PROP}. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} treats work in the county's smallest hamlet the same as a job in a major city — because location should never decide service quality.\n\nQuality {BUSINESS_TYPE} protects a property's value through every season on this coast. From the first {ESTIMATE_TYPE} to the last detail, {COMPANY_NAME} keeps pricing transparent and workmanship guaranteed. Ready to protect your property on the eastern shore? {CTA_PRIMARY} for your {ESTIMATE_TYPE}, or call {PHONE}.",
+  "local_facts": [
+   "2021 census population: 15,140 — the second most populous community on the Northumberland Shore",
+   "FSA postal prefix: B2H",
+   "161 km from Halifax and 153 km from Sydney — closer to Sydney than to the capital",
+   "Surrounds the town of Antigonish, 4.4 km from the county centre",
+   "Economy: manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism",
+   "A county municipality in the Northumberland Shore region of Nova Scotia",
+   "Features warm Strait beaches, Scottish Highland heritage, and the Northumberland Shore wine trail"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Antigonish County sits closer to Sydney (152.9 km) than to Halifax (161.2 km) — one of just two of the shore's 8 published communities where that's true — and it ranks second in population among them with 15,140 residents."
+  },
+  "services_grid": {
+   "heading": "Services in Antigonish County",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish-county/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Antigonish County"
+  },
+  "faqs": [
+   {
+    "question": "Does {COMPANY_NAME} serve rural areas across Antigonish County?",
+    "answer": "Yes. {COMPANY_NAME} covers the whole county, from the town of Antigonish out to farms and coastal properties toward Cape George. We plan routes to reach rural addresses efficiently, and we typically respond within {RESPONSE_TIME} no matter where in the county you are."
+   },
+   {
+    "question": "Is {COMPANY_NAME} too far from Antigonish County to help?",
+    "answer": "Not at all. Antigonish County sits at the shore's eastern end, closer to Sydney than to Halifax, and {COMPANY_NAME} bases its {SERVICE} around serving this coast — not just the towns near the capital. Distance never changes the standard of work."
+   },
+   {
+    "question": "What does {SERVICE} cost in Antigonish County?",
+    "answer": "Every property is different, so {COMPANY_NAME} begins with a {ESTIMATE_TYPE} that lays out the full scope. Pricing stays within the {PRICE_RANGE} range, and you approve the breakdown before any {BUSINESS_TYPE} work starts — no surprises after the fact, whether the job is a small repair or a larger project."
+   },
+   {
+    "question": "How quickly can you get to a job in Antigonish County?",
+    "answer": "{COMPANY_NAME} typically responds within {RESPONSE_TIME}, even across the county's rural stretches between the coast and Cape George. For urgent {SERVICE} problems, we prioritize same-day service whenever possible, so a small issue doesn't have time to become an expensive one down the road."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Antigonish County?",
+    "answer": "Because {COMPANY_NAME} brings city-grade {SERVICE} to the shore's eastern anchor without cutting corners for distance. We know the county's coastal climate, Highland-heritage towns, and building stock. With {YEARS_IN_BUSINESS} years and a {RATING} rating behind us, your investment is protected. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Antigonish County, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "antigonish",
+    "name": "Antigonish",
+    "km": 4.4,
+    "url": "/areas/antigonish",
+    "anchor": "the town of Antigonish, its Highland-heart centre just 4.4 km away"
+   },
+   {
+    "slug": "guysborough",
+    "name": "Guysborough",
+    "km": 46.6,
+    "url": "/areas/guysborough",
+    "anchor": "Guysborough, 47 km south into the Eastern Shore"
+   },
+   {
+    "slug": "st-mary-s",
+    "name": "St. Mary's",
+    "km": 47.8,
+    "url": "/areas/st-mary-s",
+    "anchor": "St. Mary's, about 48 km down toward the Eastern Shore"
+   },
+   {
+    "slug": "trenton",
+    "name": "Trenton",
+    "km": 49.4,
+    "url": "/areas/trenton",
+    "anchor": "Trenton, roughly 49 km west in Pictou County"
+   },
+   {
+    "slug": "mulgrave",
+    "name": "Mulgrave",
+    "km": 49.5,
+    "url": "/areas/mulgrave",
+    "anchor": "Mulgrave, some 50 km east toward the Strait of Canso"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/northumberland-shore",
+   "name": "Northumberland Shore",
+   "anchor": "Northumberland Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-northumberland-shore",
+    "title": "What {SERVICE} Costs in Northumberland Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-northumberland-shore",
+    "title": "Northumberland Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-northumberland-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Northumberland Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-northumberland-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Northumberland Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Antigonish County",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Antigonish County quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "antigonish-county"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+   "filename": "antigonish-county-northumberland-shore-ns.webp",
+   "alt_layer1_geo": "Antigonish County, Northumberland Shore Nova Scotia — the region's eastern anchor, closer to Sydney than Halifax and steeped in Scottish Highland heritage",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Antigonish County, Nova Scotia — Antigonish County, Northumberland Shore Nova Scotia — the region's eastern anchor, closer to Sydney than Halifax and steeped in Scottish Highland heritage",
+   "title": "Antigonish County, Northumberland Shore Nova Scotia — the region's eastern anchor, closer to Sydney than Halifax and steeped in Scottish Highland heritage",
+   "caption": "Antigonish County, Northumberland Shore Nova Scotia — the region's eastern anchor, closer to Sydney than Halifax and steeped in Scottish Highland heritage",
+   "exif_geo": {
+    "lat": 45.58,
+    "lng": -62,
+    "name": "Antigonish County, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Virid — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "distance/access (153 km Sydney vs 161 km Halifax; rural spread)",
+   "population scale (15,140, second in region)",
+   "economy (manufacturing, fishing)",
+   "Highland heritage and Strait features",
+   "coastal climate (salt air, Maritime winters)"
+  ],
+  "signals_count": 5,
+  "opener_words": "Antigonish County anchors the eastern end of Nova",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/antigonish-county#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Antigonish County",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Antigonish County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Antigonish, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Guysborough, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "St. Mary's, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.58,
+        "longitude": -62
+       },
+       "geoRadius": "3300"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Antigonish County",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/antigonish-county#page",
+     "url": "{BRAND_URL}/areas/antigonish-county",
+     "name": "{SERVICE} in Antigonish County, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/antigonish-county#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/antigonish-county#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Northumberland Shore",
+       "item": "{BRAND_URL}/areas/region/northumberland-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Antigonish County",
+       "item": "{BRAND_URL}/areas/antigonish-county"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/antigonish-county#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Does {COMPANY_NAME} serve rural areas across Antigonish County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers the whole county, from the town of Antigonish out to farms and coastal properties toward Cape George. We plan routes to reach rural addresses efficiently, and we typically respond within {RESPONSE_TIME} no matter where in the county you are."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is {COMPANY_NAME} too far from Antigonish County to help?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not at all. Antigonish County sits at the shore's eastern end, closer to Sydney than to Halifax, and {COMPANY_NAME} bases its {SERVICE} around serving this coast — not just the towns near the capital. Distance never changes the standard of work."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Antigonish County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every property is different, so {COMPANY_NAME} begins with a {ESTIMATE_TYPE} that lays out the full scope. Pricing stays within the {PRICE_RANGE} range, and you approve the breakdown before any {BUSINESS_TYPE} work starts — no surprises after the fact, whether the job is a small repair or a larger project."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you get to a job in Antigonish County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} typically responds within {RESPONSE_TIME}, even across the county's rural stretches between the coast and Cape George. For urgent {SERVICE} problems, we prioritize same-day service whenever possible, so a small issue doesn't have time to become an expensive one down the road."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Antigonish County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because {COMPANY_NAME} brings city-grade {SERVICE} to the shore's eastern anchor without cutting corners for distance. We know the county's coastal climate, Highland-heritage towns, and building stock. With {YEARS_IN_BUSINESS} years and a {RATING} rating behind us, your investment is protected. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/antigonish-county#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+     "name": "Antigonish County, Northumberland Shore Nova Scotia — the region's eastern anchor, closer to Sydney than Halifax and steeped in Scottish Highland heritage",
+     "caption": "Antigonish County, Northumberland Shore Nova Scotia — the region's eastern anchor, closer to Sydney than Halifax and steeped in Scottish Highland heritage",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Virid"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Antigonish County, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.58,
+       "longitude": -62
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0026",
+  "slug": "new-glasgow",
+  "url": "/areas/new-glasgow",
+  "name": "New Glasgow",
+  "type": "Town",
+  "region": "Northumberland Shore",
+  "region_slug": "northumberland-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.5926,
+   "lng": -62.6467
+  },
+  "fsa": "B2H",
+  "population_2021": 9471,
+  "unified_score": 60.7,
+  "km_halifax": 127.8,
+  "km_sydney": 199.3,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Northumberland Shore",
+   "New Glasgow"
+  ],
+  "hero": {
+   "overline": "New Glasgow · Northumberland Shore · Nova Scotia",
+   "h1": "{SERVICE} in New Glasgow, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in New Glasgow, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in New Glasgow, NS: {COMPANY_NAME} serves East River homes and the downtown corridor with coastal-ready, guaranteed work. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} New Glasgow",
+   "secondary_keywords": [
+    "{SERVICE} near me New Glasgow",
+    "{BUSINESS_TYPE} New Glasgow Nova Scotia",
+    "{SERVICE} East River New Glasgow",
+    "{SERVICE} Glasgow Square New Glasgow"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} New Glasgow riverside properties",
+    "{SERVICE} near Glasgow Square New Glasgow",
+    "{SERVICE} New Glasgow heritage homes",
+    "{SERVICE} downtown New Glasgow commercial"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in New Glasgow",
+    "does {COMPANY_NAME} serve East River New Glasgow",
+    "how fast can you get {SERVICE} in New Glasgow"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in New Glasgow",
+    "who does {SERVICE} in New Glasgow Nova Scotia",
+    "best {BUSINESS_TYPE} in New Glasgow",
+    "{SERVICE} near the East River in New Glasgow",
+    "affordable {SERVICE} near Glasgow Square"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in New Glasgow, {COMPANY_NAME} works from the East River waterfront to the downtown business corridor, serving the largest town in Pictou County. We know its riverside properties and Scottish-heritage building stock, delivering {SERVICE_LIST} for homes and businesses across the town. Call {PHONE}.",
+  "entity_description": "New Glasgow is a town on Nova Scotia's Northumberland Shore and the commercial heart of Pictou County, with a 2021 census population of 9,471 — the region's largest town. Founded in 1875 and named after Glasgow, Scotland by Scottish settlers, it grew along the East River. Its economy draws on manufacturing, with the Michelin tire plant nearby, plus healthcare, retail, and a small-business corridor. Landmarks include Glasgow Square and the Carmichael Stewart House Museum.",
+  "about_md": "New Glasgow is the commercial heart of Pictou County, a riverside town of 9,471 people spread along the East River — the largest town on Nova Scotia's Northumberland Shore. Founded in 1875 and named after Glasgow, Scotland by Scottish settlers, it has grown into the retail and small-business hub for the whole county while keeping its working-class Maritime character.\n\nThe economy runs on more than one engine. Manufacturing leads the way, with the Michelin tire plant nearby, and healthcare, retail, and a busy small-business corridor round it out. As Pictou County's retail centre, the town also draws shoppers and workers from the surrounding communities, which keeps its commercial buildings and storefronts in steady use and steady need of care. That daily activity means downtime matters, so {COMPANY_NAME} works to keep disruption low and schedules around business hours where it can. That diversity keeps demand for {SERVICE} steady across homes, storefronts, and commercial buildings, which is why {COMPANY_NAME} has taken the time to learn how this town is built.\n\n## From the East River to downtown\n\nNew Glasgow's neighbourhoods each carry their own needs. Waterfront and riverside homes line the East River, downtown has been through a wave of revitalization around Glasgow Square, and heritage buildings like the Carmichael Stewart House Museum anchor the town's Scottish past. The Pictou County Wellness Centre and an emerging arts scene along the river round out a town that takes pride in its properties. {COMPANY_NAME} adapts {SERVICE} to each setting — a century-old home near the water asks for different care than a modern commercial space downtown.\n\nThe coastal climate shapes every job. New Glasgow sits inland of the warm Northumberland Strait, but salt air, ocean winds, and hard Maritime winters still reach the town and work on its buildings year after year. {COMPANY_NAME} chooses materials and timing to match, so your {PROPERTY_TYPE} holds up through freeze-thaw seasons and beyond.\n\nAccess is a strength, too. New Glasgow sits about 128 kilometres from Halifax, with its closest neighbour, Trenton, just 2.9 kilometres away, and Stellarton, Westville, and the harbour town of Pictou all within a short drive. That density lets {COMPANY_NAME} respond quickly, typically within {RESPONSE_TIME}, and cover the surrounding Pictou County towns from a single base.\n\nHomeowners and businesses here keep choosing local pros who understand the community — the building codes, the weather, the neighbourhood expectations. Our approach is simple: {UNIQUE_VALUE_PROP}. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} delivers transparent pricing and results that last through Nova Scotia winters. Ready to start? {CTA_PRIMARY} for your {ESTIMATE_TYPE}, or call {PHONE}.",
+  "local_facts": [
+   "2021 census population: 9,471 — the largest town on the Northumberland Shore",
+   "Founded 1875, named after Glasgow, Scotland by Scottish settlers",
+   "FSA postal prefix: B2H",
+   "Landmarks: Glasgow Square, Carmichael Stewart House Museum, Pictou County Wellness Centre",
+   "Economy: manufacturing (Michelin tire plant nearby), healthcare, retail, small-business corridor",
+   "128 km from Halifax; nearest community is Trenton, 2.9 km away",
+   "A riverside town on the East River in Pictou County, Nova Scotia"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "New Glasgow is the largest of the Northumberland Shore's 8 published communities by town population (9,471), and it ranks third overall behind Pictou County and Antigonish County; its nearest built neighbour, Trenton, lies just 2.9 km away."
+  },
+  "services_grid": {
+   "heading": "Services in New Glasgow",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/new-glasgow/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/new-glasgow/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/new-glasgow/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/new-glasgow/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/new-glasgow/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/new-glasgow/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, New Glasgow"
+  },
+  "faqs": [
+   {
+    "question": "Does {COMPANY_NAME} cover all of New Glasgow's neighbourhoods?",
+    "answer": "Yes. {COMPANY_NAME} works across New Glasgow, from East River waterfront homes to the downtown corridor around Glasgow Square. As the commercial centre of Pictou County, the town also puts us within a short drive of Trenton, Stellarton, and Westville. We typically respond within {RESPONSE_TIME}."
+   },
+   {
+    "question": "Do riverside properties along the East River need special care?",
+    "answer": "Often, yes. New Glasgow's East River waterfront homes face added moisture and exposure that inland properties don't. {COMPANY_NAME} accounts for that in every {ESTIMATE_TYPE}, choosing {SERVICE} materials and methods suited to riverside conditions so the work holds up through the town's damp seasons and hard winters."
+   },
+   {
+    "question": "How much does {SERVICE} cost in New Glasgow?",
+    "answer": "It depends on your property and scope, so {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Whether it's a heritage home near Glasgow Square or a downtown storefront, pricing stays in the {PRICE_RANGE} range with a full breakdown before any {BUSINESS_TYPE} work begins."
+   },
+   {
+    "question": "How fast can {COMPANY_NAME} respond in New Glasgow?",
+    "answer": "Quickly. Because New Glasgow is our hub for Pictou County, {COMPANY_NAME} typically responds within {RESPONSE_TIME}. For emergency {SERVICE} situations, we prioritize same-day service whenever possible, so urgent problems get attention before they grow into something larger and more expensive to fix."
+   },
+   {
+    "question": "Why do New Glasgow property owners choose {COMPANY_NAME}?",
+    "answer": "Because {COMPANY_NAME} has learned this town — its East River building stock, its Scottish heritage, its downtown, and its Maritime weather. We bring city-grade {SERVICE} with a local touch, backed by {YEARS_IN_BUSINESS} years of experience and a {RATING} rating. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across New Glasgow, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "trenton",
+    "name": "Trenton",
+    "km": 2.9,
+    "url": "/areas/trenton",
+    "anchor": "Trenton, just 2.9 km down the East River"
+   },
+   {
+    "slug": "stellarton",
+    "name": "Stellarton",
+    "km": 3.8,
+    "url": "/areas/stellarton",
+    "anchor": "Stellarton, a neighbouring town 3.8 km to the south"
+   },
+   {
+    "slug": "pictou-county",
+    "name": "Pictou County",
+    "km": 4.2,
+    "url": "/areas/pictou-county",
+    "anchor": "the wider Pictou County, whose centre sits 4.2 km off"
+   },
+   {
+    "slug": "westville",
+    "name": "Westville",
+    "km": 6.8,
+    "url": "/areas/westville",
+    "anchor": "Westville, 6.8 km west among the county's working towns"
+   },
+   {
+    "slug": "pictou",
+    "name": "Pictou",
+    "km": 10.8,
+    "url": "/areas/pictou",
+    "anchor": "the harbour town of Pictou, 10.8 km north on the Strait"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/northumberland-shore",
+   "name": "Northumberland Shore",
+   "anchor": "Northumberland Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-northumberland-shore",
+    "title": "What {SERVICE} Costs in Northumberland Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-northumberland-shore",
+    "title": "Northumberland Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-northumberland-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Northumberland Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-northumberland-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Northumberland Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, New Glasgow",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free New Glasgow quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "new-glasgow"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+   "filename": "new-glasgow-northumberland-shore-ns.webp",
+   "alt_layer1_geo": "New Glasgow, Northumberland Shore Nova Scotia — the largest town in Pictou County, built along the East River with Scottish roots dating to 1875",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in New Glasgow, Nova Scotia — New Glasgow, Northumberland Shore Nova Scotia — the largest town in Pictou County, built along the East River with Scottish roots dating to 1875",
+   "title": "New Glasgow, Northumberland Shore Nova Scotia — the largest town in Pictou County, built along the East River with Scottish roots dating to 1875",
+   "caption": "New Glasgow, Northumberland Shore Nova Scotia — the largest town in Pictou County, built along the East River with Scottish roots dating to 1875",
+   "exif_geo": {
+    "lat": 45.5926,
+    "lng": -62.6467,
+    "name": "New Glasgow, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Virid — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "population scale (9,471, largest town in region)",
+   "economy/employers (Michelin plant nearby, healthcare, retail)",
+   "named areas/landmarks (East River, Glasgow Square, Carmichael Stewart House)",
+   "coastal climate (salt air, Maritime winters)",
+   "distance/access (128 km Halifax, Trenton 2.9 km, town cluster)",
+   "building stock (riverside and heritage)"
+  ],
+  "signals_count": 6,
+  "opener_words": "New Glasgow is the commercial heart of Pictou",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/new-glasgow#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in New Glasgow",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "New Glasgow, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Trenton, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Stellarton, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Pictou County, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.5926,
+        "longitude": -62.6467
+       },
+       "geoRadius": "2175"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in New Glasgow",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/new-glasgow#page",
+     "url": "{BRAND_URL}/areas/new-glasgow",
+     "name": "{SERVICE} in New Glasgow, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/new-glasgow#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/new-glasgow#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Northumberland Shore",
+       "item": "{BRAND_URL}/areas/region/northumberland-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "New Glasgow",
+       "item": "{BRAND_URL}/areas/new-glasgow"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/new-glasgow#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Does {COMPANY_NAME} cover all of New Glasgow's neighbourhoods?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} works across New Glasgow, from East River waterfront homes to the downtown corridor around Glasgow Square. As the commercial centre of Pictou County, the town also puts us within a short drive of Trenton, Stellarton, and Westville. We typically respond within {RESPONSE_TIME}."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do riverside properties along the East River need special care?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often, yes. New Glasgow's East River waterfront homes face added moisture and exposure that inland properties don't. {COMPANY_NAME} accounts for that in every {ESTIMATE_TYPE}, choosing {SERVICE} materials and methods suited to riverside conditions so the work holds up through the town's damp seasons and hard winters."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How much does {SERVICE} cost in New Glasgow?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on your property and scope, so {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Whether it's a heritage home near Glasgow Square or a downtown storefront, pricing stays in the {PRICE_RANGE} range with a full breakdown before any {BUSINESS_TYPE} work begins."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can {COMPANY_NAME} respond in New Glasgow?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quickly. Because New Glasgow is our hub for Pictou County, {COMPANY_NAME} typically responds within {RESPONSE_TIME}. For emergency {SERVICE} situations, we prioritize same-day service whenever possible, so urgent problems get attention before they grow into something larger and more expensive to fix."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why do New Glasgow property owners choose {COMPANY_NAME}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because {COMPANY_NAME} has learned this town — its East River building stock, its Scottish heritage, its downtown, and its Maritime weather. We bring city-grade {SERVICE} with a local touch, backed by {YEARS_IN_BUSINESS} years of experience and a {RATING} rating. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/new-glasgow#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+     "name": "New Glasgow, Northumberland Shore Nova Scotia — the largest town in Pictou County, built along the East River with Scottish roots dating to 1875",
+     "caption": "New Glasgow, Northumberland Shore Nova Scotia — the largest town in Pictou County, built along the East River with Scottish roots dating to 1875",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Virid"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "New Glasgow, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.5926,
+       "longitude": -62.6467
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0093",
+  "slug": "stellarton",
+  "url": "/areas/stellarton",
+  "name": "Stellarton",
+  "type": "Town",
+  "region": "Northumberland Shore",
+  "region_slug": "northumberland-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.56,
+   "lng": -62.66
+  },
+  "fsa": "B2H",
+  "population_2021": 4208,
+  "unified_score": 56.1,
+  "km_halifax": 124.2,
+  "km_sydney": 201.5,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Northumberland Shore",
+   "Stellarton"
+  ],
+  "hero": {
+   "overline": "Stellarton · Northumberland Shore · Nova Scotia",
+   "h1": "{SERVICE} in Stellarton, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Stellarton, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Stellarton, NS: {COMPANY_NAME} serves this Pictou County town with fast, coastal-ready, guaranteed work. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Stellarton",
+   "secondary_keywords": [
+    "{SERVICE} near me Stellarton",
+    "{BUSINESS_TYPE} Stellarton Nova Scotia",
+    "{SERVICE} Stellarton Pictou County",
+    "{SERVICE} near New Glasgow Stellarton"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Stellarton family homes",
+    "{SERVICE} near New Glasgow and Stellarton",
+    "{SERVICE} Stellarton Pictou County properties",
+    "{SERVICE} Stellarton coastal weather"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Stellarton",
+    "does {COMPANY_NAME} serve Stellarton Pictou County",
+    "how fast can you get {SERVICE} in Stellarton"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Stellarton",
+    "who does {SERVICE} in Stellarton Nova Scotia",
+    "best {BUSINESS_TYPE} in Stellarton",
+    "{SERVICE} in Stellarton near New Glasgow",
+    "affordable {SERVICE} in Stellarton Pictou County"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Stellarton, {COMPANY_NAME} serves this Pictou County town of 4,208, set among the working towns just south of New Glasgow. We handle the salt air and Maritime winters of the Northumberland Shore with reliable {SERVICE_LIST} for every property. Call {PHONE}.",
+  "entity_description": "Stellarton is a town in Pictou County on Nova Scotia's Northumberland Shore, with a 2021 census population of 4,208. It sits in a tight cluster of working towns, just 3.8 kilometres from New Glasgow and 3.9 from Westville. Manufacturing and fishing drive its economy, alongside education, agriculture, and Northumberland Strait beach tourism. The town shares the region's Scottish Highland heritage and its setting near the warm Northumberland Strait, about 124 kilometres from Halifax.",
+  "about_md": "Stellarton sits at the centre of Pictou County's tight cluster of working towns on Nova Scotia's Northumberland Shore, just 3.8 kilometres from New Glasgow and 3.9 from Westville. Home to 4,208 people at the 2021 census, it is close enough to its neighbours to share their commercial life while keeping its own identity as one of the county's steady, hard-working communities.\n\nThe local economy runs on manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism. That mix gives the town a dependable base and keeps properties — family homes, shops, and commercial buildings alike — in regular need of upkeep. For {SERVICE}, that steady demand is exactly why {COMPANY_NAME} makes the effort to know Stellarton and its surrounding towns well.\n\n## A working town on the Strait shore\n\nStellarton shares the Northumberland Shore's defining traits: warm Northumberland Strait beaches, deep Scottish Highland heritage, the Pictou ferry link to Prince Edward Island, and the Northumberland Shore wine trail all give the area its character. That coastal setting also decides what {SERVICE} has to endure. Salt air reaches inland from the Strait, ocean winds press against exposed walls and roofs, and Maritime winters bring snow and freeze-thaw cycles that test every building. {COMPANY_NAME} matches materials and timing to those conditions so your {PROPERTY_TYPE} lasts.\n\nLocation works in the town's favour. Stellarton lies about 124 kilometres from Halifax, close to the wider provincial market, yet its real advantage is proximity — New Glasgow, Westville, Trenton, and the harbour town of Pictou all sit within a short drive. That density lets {COMPANY_NAME} reach Stellarton and its neighbours quickly, with a typical response time of {RESPONSE_TIME}.\n\nProperty owners here take pride in maintaining what they have, and the town's building stock reflects a long industrial history alongside established family neighbourhoods. Those neighbourhoods range from older streets near the town's industrial core to newer family developments, and each brings its own {SERVICE} needs. {COMPANY_NAME} reads those differences before quoting, so the plan fits the property rather than a one-size template. Whatever the structure, our standard never changes: {UNIQUE_VALUE_PROP}. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} treats a job in Stellarton with the same care as work in any major city — because location should never determine service quality.\n\nQuality {BUSINESS_TYPE} protects a property's value through every season on this coast. From the first {ESTIMATE_TYPE} to the finished result, {COMPANY_NAME} keeps pricing transparent and workmanship guaranteed. Ready to protect your Stellarton property? {CTA_PRIMARY} for your {ESTIMATE_TYPE}, or call {PHONE}.",
+  "local_facts": [
+   "2021 census population: 4,208",
+   "FSA postal prefix: B2H",
+   "124 km from Halifax; 201 km from Sydney",
+   "Nearest community: New Glasgow, 3.8 km away; Westville 3.9 km",
+   "Economy: manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism",
+   "A town in Pictou County, Northumberland Shore region of Nova Scotia",
+   "Shares warm Strait beaches, Scottish Highland heritage, and the Pictou ferry to PEI"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Stellarton sits at the tightest point of Pictou County's town cluster — 3.8 km from New Glasgow and 3.9 km from Westville — and ranks fifth in population among the Northumberland Shore's 8 published communities, with 4,208 residents."
+  },
+  "services_grid": {
+   "heading": "Services in Stellarton",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/stellarton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/stellarton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/stellarton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/stellarton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/stellarton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/stellarton/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Stellarton"
+  },
+  "faqs": [
+   {
+    "question": "Does {COMPANY_NAME} serve Stellarton and the nearby towns?",
+    "answer": "Yes. {COMPANY_NAME} covers Stellarton along with the neighbouring Pictou County towns — New Glasgow just 3.8 km off, Westville 3.9 km away, plus Trenton and the harbour town of Pictou. Because they cluster so close together, we reach Stellarton quickly, typically within {RESPONSE_TIME}, and can coordinate work across the county."
+   },
+   {
+    "question": "Because Stellarton is so close to New Glasgow, does that change scheduling?",
+    "answer": "It helps. Stellarton sits just 3.8 km from New Glasgow, our Pictou County hub, so {COMPANY_NAME} can often fit your {SERVICE} in alongside nearby jobs. That proximity means faster scheduling, lower travel overhead, and a quick response, usually within {RESPONSE_TIME}, no matter the size of the job."
+   },
+   {
+    "question": "What does {SERVICE} cost in Stellarton?",
+    "answer": "Costs vary with your property and the work involved, so {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Pricing stays in the {PRICE_RANGE} range, and you see the full breakdown before any {BUSINESS_TYPE} work begins — no surprises later, and no pressure to commit before you're ready."
+   },
+   {
+    "question": "How quickly can you respond in Stellarton?",
+    "answer": "Very quickly. With Stellarton at the heart of the Pictou County town cluster, {COMPANY_NAME} typically responds within {RESPONSE_TIME}. For urgent {SERVICE} needs, we prioritize same-day service whenever possible, so small problems don't have time to spread into bigger, costlier repairs down the line."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Stellarton?",
+    "answer": "Because {COMPANY_NAME} brings city-grade {SERVICE} to Stellarton without treating a small town as an afterthought. We know the coastal climate, the building stock, and the surrounding Pictou County towns. With {YEARS_IN_BUSINESS} years and a {RATING} rating, your property is in good hands. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Stellarton, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "new-glasgow",
+    "name": "New Glasgow",
+    "km": 3.8,
+    "url": "/areas/new-glasgow",
+    "anchor": "New Glasgow, the county's commercial centre just 3.8 km north"
+   },
+   {
+    "slug": "westville",
+    "name": "Westville",
+    "km": 3.9,
+    "url": "/areas/westville",
+    "anchor": "Westville, a neighbouring working town 3.9 km west"
+   },
+   {
+    "slug": "pictou-county",
+    "name": "Pictou County",
+    "km": 5.4,
+    "url": "/areas/pictou-county",
+    "anchor": "the wider Pictou County, its centre 5.4 km off"
+   },
+   {
+    "slug": "trenton",
+    "name": "Trenton",
+    "km": 6.6,
+    "url": "/areas/trenton",
+    "anchor": "Trenton, 6.6 km toward the East River"
+   },
+   {
+    "slug": "pictou",
+    "name": "Pictou",
+    "km": 13.8,
+    "url": "/areas/pictou",
+    "anchor": "the harbour town of Pictou, 13.8 km up the coast"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/northumberland-shore",
+   "name": "Northumberland Shore",
+   "anchor": "Northumberland Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-northumberland-shore",
+    "title": "What {SERVICE} Costs in Northumberland Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-northumberland-shore",
+    "title": "Northumberland Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-northumberland-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Northumberland Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-northumberland-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Northumberland Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Stellarton",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Stellarton quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "stellarton"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+   "filename": "stellarton-northumberland-shore-ns.webp",
+   "alt_layer1_geo": "Stellarton, Northumberland Shore Nova Scotia — a Pictou County town at the tight centre of the New Glasgow, Westville and Trenton cluster",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Stellarton, Nova Scotia — Stellarton, Northumberland Shore Nova Scotia — a Pictou County town at the tight centre of the New Glasgow, Westville and Trenton cluster",
+   "title": "Stellarton, Northumberland Shore Nova Scotia — a Pictou County town at the tight centre of the New Glasgow, Westville and Trenton cluster",
+   "caption": "Stellarton, Northumberland Shore Nova Scotia — a Pictou County town at the tight centre of the New Glasgow, Westville and Trenton cluster",
+   "exif_geo": {
+    "lat": 45.56,
+    "lng": -62.66,
+    "name": "Stellarton, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Virid — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "distance/cluster (3.8 km New Glasgow, 3.9 km Westville, 124 km Halifax)",
+   "population scale (4,208)",
+   "economy (manufacturing, fishing)",
+   "Strait features and Highland heritage",
+   "coastal climate (salt air, Maritime winters)"
+  ],
+  "signals_count": 5,
+  "opener_words": "Stellarton sits at the centre of Pictou County's",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/stellarton#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Stellarton",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Stellarton, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "New Glasgow, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Westville, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Pictou County, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.56,
+        "longitude": -62.66
+       },
+       "geoRadius": "2850"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Stellarton",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/stellarton#page",
+     "url": "{BRAND_URL}/areas/stellarton",
+     "name": "{SERVICE} in Stellarton, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/stellarton#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/stellarton#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Northumberland Shore",
+       "item": "{BRAND_URL}/areas/region/northumberland-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Stellarton",
+       "item": "{BRAND_URL}/areas/stellarton"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/stellarton#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Does {COMPANY_NAME} serve Stellarton and the nearby towns?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers Stellarton along with the neighbouring Pictou County towns — New Glasgow just 3.8 km off, Westville 3.9 km away, plus Trenton and the harbour town of Pictou. Because they cluster so close together, we reach Stellarton quickly, typically within {RESPONSE_TIME}, and can coordinate work across the county."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Because Stellarton is so close to New Glasgow, does that change scheduling?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It helps. Stellarton sits just 3.8 km from New Glasgow, our Pictou County hub, so {COMPANY_NAME} can often fit your {SERVICE} in alongside nearby jobs. That proximity means faster scheduling, lower travel overhead, and a quick response, usually within {RESPONSE_TIME}, no matter the size of the job."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Stellarton?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary with your property and the work involved, so {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Pricing stays in the {PRICE_RANGE} range, and you see the full breakdown before any {BUSINESS_TYPE} work begins — no surprises later, and no pressure to commit before you're ready."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you respond in Stellarton?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Very quickly. With Stellarton at the heart of the Pictou County town cluster, {COMPANY_NAME} typically responds within {RESPONSE_TIME}. For urgent {SERVICE} needs, we prioritize same-day service whenever possible, so small problems don't have time to spread into bigger, costlier repairs down the line."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Stellarton?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because {COMPANY_NAME} brings city-grade {SERVICE} to Stellarton without treating a small town as an afterthought. We know the coastal climate, the building stock, and the surrounding Pictou County towns. With {YEARS_IN_BUSINESS} years and a {RATING} rating, your property is in good hands. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/stellarton#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+     "name": "Stellarton, Northumberland Shore Nova Scotia — a Pictou County town at the tight centre of the New Glasgow, Westville and Trenton cluster",
+     "caption": "Stellarton, Northumberland Shore Nova Scotia — a Pictou County town at the tight centre of the New Glasgow, Westville and Trenton cluster",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Virid"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Stellarton, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.56,
+       "longitude": -62.66
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0098",
+  "slug": "westville",
+  "url": "/areas/westville",
+  "name": "Westville",
+  "type": "Town",
+  "region": "Northumberland Shore",
+  "region_slug": "northumberland-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.5483,
+   "lng": -62.7067
+  },
+  "fsa": "B2H",
+  "population_2021": 3774,
+  "unified_score": 56,
+  "km_halifax": 121,
+  "km_sydney": 205.3,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Northumberland Shore",
+   "Westville"
+  ],
+  "hero": {
+   "overline": "Westville · Northumberland Shore · Nova Scotia",
+   "h1": "{SERVICE} in Westville, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Westville, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Westville, NS: {COMPANY_NAME} serves this close-knit Pictou County town with fast, coastal-ready, guaranteed work. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Westville",
+   "secondary_keywords": [
+    "{SERVICE} near me Westville",
+    "{BUSINESS_TYPE} Westville Nova Scotia",
+    "{SERVICE} Westville Pictou County",
+    "{SERVICE} near Stellarton Westville"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Westville family homes",
+    "{SERVICE} near Stellarton and Westville",
+    "{SERVICE} Westville Pictou County properties",
+    "{SERVICE} Westville coastal weather"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Westville",
+    "does {COMPANY_NAME} serve Westville Pictou County",
+    "how fast can you get {SERVICE} in Westville"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Westville",
+    "who does {SERVICE} in Westville Nova Scotia",
+    "best {BUSINESS_TYPE} in Westville",
+    "{SERVICE} in Westville near Stellarton",
+    "affordable {SERVICE} in Westville Pictou County"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Westville, {COMPANY_NAME} serves this Pictou County town of 3,774, the closest community on the shore to Halifax and a short drive from New Glasgow. We handle the salt air and Maritime winters that test its properties with {SERVICE_LIST}. Call {PHONE}.",
+  "entity_description": "Westville is a town in Pictou County on Nova Scotia's Northumberland Shore, with a 2021 census population of 3,774. It sits about 121 kilometres from Halifax — the closest of the region's published communities to the capital — and just 3.9 kilometres from Stellarton. Manufacturing and fishing drive its economy, alongside education, agriculture, and Northumberland Strait beach tourism. The town shares the region's Scottish Highland heritage and its setting near the warm Northumberland Strait.",
+  "about_md": "Westville is the closest of the Northumberland Shore's published communities to Halifax, about 121 kilometres from the capital — a Pictou County town of 3,774 people on Nova Scotia's north coast. That position keeps it well connected to the wider province while it remains one of the county's tight cluster of working towns, sitting just 3.9 kilometres from Stellarton and 6.8 from New Glasgow.\n\nThe local economy runs on manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism. That steady base keeps the town's homes, shops, and commercial buildings in constant need of care, and it is exactly why {COMPANY_NAME} takes the time to understand how Westville and its neighbouring towns are built.\n\n## A close-knit town on the Strait shore\n\nWestville shares the traits that define the Northumberland Shore: warm Northumberland Strait beaches, deep Scottish Highland heritage, the Pictou ferry to Prince Edward Island, and the Northumberland Shore wine trail all shape the area's character. That coastal setting decides what {SERVICE} must withstand. Salt air drifts in from the Strait, ocean winds work at exposed roofs and walls, and Maritime winters pile on snow and freeze-thaw stress. {COMPANY_NAME} chooses materials and timing to match, so your {PROPERTY_TYPE} comes through each season intact.\n\nBeing close to Halifax is only part of the advantage. Westville's real strength is how tightly it sits among its neighbours — Stellarton, New Glasgow, Trenton, and the harbour town of Pictou are all a short drive away. That density lets {COMPANY_NAME} cover Westville and the surrounding Pictou County towns efficiently, with a typical response time of {RESPONSE_TIME}, whether the job is a quick repair or a larger project.\n\nProperty owners here take real pride in what they own, and the building stock spans established family homes and the commercial buildings that keep a small town running. Because the town sits so near its neighbours, {COMPANY_NAME} can often handle a Westville job the same week it works elsewhere in the county, keeping costs efficient and timelines tight. Every project still begins with a clear, written scope so nothing is left to guesswork. Whatever the address, our standard holds: {UNIQUE_VALUE_PROP}. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} gives a Westville job the same attention as work in any major centre — because a smaller town deserves no less.\n\nQuality {BUSINESS_TYPE} is an investment in a property's future, especially in a coastal climate that never stops testing a building. From the first {ESTIMATE_TYPE} to the last detail, {COMPANY_NAME} keeps pricing transparent and workmanship guaranteed. Ready to protect your Westville property? {CTA_PRIMARY} for your {ESTIMATE_TYPE}, or call {PHONE}.",
+  "local_facts": [
+   "2021 census population: 3,774",
+   "FSA postal prefix: B2H",
+   "About 121 km from Halifax — the closest of the region's 8 published communities to the capital",
+   "Nearest community: Stellarton, 3.9 km away",
+   "Economy: manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism",
+   "A town in Pictou County, Northumberland Shore region of Nova Scotia",
+   "Shares warm Strait beaches, Scottish Highland heritage, and the Northumberland Shore wine trail"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "At about 121 km from Halifax, Westville is the closest of the Northumberland Shore's 8 published communities to the provincial capital, and it ranks sixth among them in population with 3,774 residents."
+  },
+  "services_grid": {
+   "heading": "Services in Westville",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/westville/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/westville/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/westville/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/westville/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/westville/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/westville/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Westville"
+  },
+  "faqs": [
+   {
+    "question": "Does {COMPANY_NAME} serve Westville and nearby Pictou County towns?",
+    "answer": "Yes. {COMPANY_NAME} covers Westville along with Stellarton just 3.9 km away, New Glasgow, Trenton, and the harbour town of Pictou. The towns cluster close together, so we reach Westville quickly and can often coordinate work across the county in a single trip, typically responding within {RESPONSE_TIME}."
+   },
+   {
+    "question": "Does being closer to Halifax make {SERVICE} in Westville easier to schedule?",
+    "answer": "It can. Westville is the nearest of the shore's communities to Halifax, about 121 km out, which keeps us well connected to provincial suppliers and crews. That helps {COMPANY_NAME} schedule your {SERVICE} promptly, keep materials moving, and avoid the delays that distance can cause."
+   },
+   {
+    "question": "What does {SERVICE} cost in Westville?",
+    "answer": "It depends on your property and the scope of work, so {COMPANY_NAME} begins with a {ESTIMATE_TYPE}. Pricing stays within the {PRICE_RANGE} range, and you approve a full breakdown before any {BUSINESS_TYPE} work starts, so there are no surprises once the job is underway."
+   },
+   {
+    "question": "How fast can you respond in Westville?",
+    "answer": "Quickly. With Westville tucked among the Pictou County town cluster, {COMPANY_NAME} typically responds within {RESPONSE_TIME}. For urgent {SERVICE} problems, we prioritize same-day service whenever possible, so a small issue doesn't have time to grow into a larger, costlier repair, and being close to Halifax helps us keep materials on hand."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Westville?",
+    "answer": "Because {COMPANY_NAME} treats a close-knit town like Westville with the same care as a city job. We know the coastal climate, the local building stock, and the surrounding towns. With {YEARS_IN_BUSINESS} years and a {RATING} rating behind us, your property is protected. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Westville, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "stellarton",
+    "name": "Stellarton",
+    "km": 3.9,
+    "url": "/areas/stellarton",
+    "anchor": "Stellarton, its nearest neighbour just 3.9 km east"
+   },
+   {
+    "slug": "pictou-county",
+    "name": "Pictou County",
+    "km": 5.8,
+    "url": "/areas/pictou-county",
+    "anchor": "the wider Pictou County, centred 5.8 km away"
+   },
+   {
+    "slug": "new-glasgow",
+    "name": "New Glasgow",
+    "km": 6.8,
+    "url": "/areas/new-glasgow",
+    "anchor": "New Glasgow, the county's commercial hub 6.8 km off"
+   },
+   {
+    "slug": "trenton",
+    "name": "Trenton",
+    "km": 9.5,
+    "url": "/areas/trenton",
+    "anchor": "Trenton, 9.5 km toward the East River"
+   },
+   {
+    "slug": "pictou",
+    "name": "Pictou",
+    "km": 14.5,
+    "url": "/areas/pictou",
+    "anchor": "harbourside Pictou, 14.5 km up on the Strait"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/northumberland-shore",
+   "name": "Northumberland Shore",
+   "anchor": "Northumberland Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-northumberland-shore",
+    "title": "What {SERVICE} Costs in Northumberland Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-northumberland-shore",
+    "title": "Northumberland Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-northumberland-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Northumberland Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-northumberland-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Northumberland Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Westville",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Westville quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "westville"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+   "filename": "westville-northumberland-shore-ns.webp",
+   "alt_layer1_geo": "Westville, Northumberland Shore Nova Scotia — the Pictou County town nearest to Halifax, close beside Stellarton in the county's working-town cluster",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Westville, Nova Scotia — Westville, Northumberland Shore Nova Scotia — the Pictou County town nearest to Halifax, close beside Stellarton in the county's working-town cluster",
+   "title": "Westville, Northumberland Shore Nova Scotia — the Pictou County town nearest to Halifax, close beside Stellarton in the county's working-town cluster",
+   "caption": "Westville, Northumberland Shore Nova Scotia — the Pictou County town nearest to Halifax, close beside Stellarton in the county's working-town cluster",
+   "exif_geo": {
+    "lat": 45.5483,
+    "lng": -62.7067,
+    "name": "Westville, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Virid — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "distance/access (121 km Halifax, closest in region; 3.9 km Stellarton)",
+   "population scale (3,774)",
+   "economy (manufacturing, fishing)",
+   "Strait features and Highland heritage",
+   "coastal climate (salt air, Maritime winters)"
+  ],
+  "signals_count": 5,
+  "opener_words": "Westville is the closest of the Northumberland Shore's",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/westville#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Westville",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Westville, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Stellarton, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Pictou County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "New Glasgow, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.5483,
+        "longitude": -62.7067
+       },
+       "geoRadius": "2925"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Westville",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/westville#page",
+     "url": "{BRAND_URL}/areas/westville",
+     "name": "{SERVICE} in Westville, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/westville#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/westville#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Northumberland Shore",
+       "item": "{BRAND_URL}/areas/region/northumberland-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Westville",
+       "item": "{BRAND_URL}/areas/westville"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/westville#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Does {COMPANY_NAME} serve Westville and nearby Pictou County towns?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers Westville along with Stellarton just 3.9 km away, New Glasgow, Trenton, and the harbour town of Pictou. The towns cluster close together, so we reach Westville quickly and can often coordinate work across the county in a single trip, typically responding within {RESPONSE_TIME}."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does being closer to Halifax make {SERVICE} in Westville easier to schedule?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It can. Westville is the nearest of the shore's communities to Halifax, about 121 km out, which keeps us well connected to provincial suppliers and crews. That helps {COMPANY_NAME} schedule your {SERVICE} promptly, keep materials moving, and avoid the delays that distance can cause."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Westville?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on your property and the scope of work, so {COMPANY_NAME} begins with a {ESTIMATE_TYPE}. Pricing stays within the {PRICE_RANGE} range, and you approve a full breakdown before any {BUSINESS_TYPE} work starts, so there are no surprises once the job is underway."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you respond in Westville?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quickly. With Westville tucked among the Pictou County town cluster, {COMPANY_NAME} typically responds within {RESPONSE_TIME}. For urgent {SERVICE} problems, we prioritize same-day service whenever possible, so a small issue doesn't have time to grow into a larger, costlier repair, and being close to Halifax helps us keep materials on hand."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Westville?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because {COMPANY_NAME} treats a close-knit town like Westville with the same care as a city job. We know the coastal climate, the local building stock, and the surrounding towns. With {YEARS_IN_BUSINESS} years and a {RATING} rating behind us, your property is protected. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/westville#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+     "name": "Westville, Northumberland Shore Nova Scotia — the Pictou County town nearest to Halifax, close beside Stellarton in the county's working-town cluster",
+     "caption": "Westville, Northumberland Shore Nova Scotia — the Pictou County town nearest to Halifax, close beside Stellarton in the county's working-town cluster",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Virid"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Westville, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.5483,
+       "longitude": -62.7067
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0105",
+  "slug": "antigonish",
+  "url": "/areas/antigonish",
+  "name": "Antigonish",
+  "type": "Town",
+  "region": "Northumberland Shore",
+  "region_slug": "northumberland-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.62,
+   "lng": -61.9983
+  },
+  "fsa": "B2H",
+  "population_2021": 4364,
+  "unified_score": 55.4,
+  "km_halifax": 164.2,
+  "km_sydney": 151,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Northumberland Shore",
+   "Antigonish"
+  ],
+  "hero": {
+   "overline": "Antigonish · Northumberland Shore · Nova Scotia",
+   "h1": "{SERVICE} in Antigonish, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Antigonish, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Antigonish, NS: {COMPANY_NAME} serves this St. FX university town with coastal-ready, guaranteed work for homes and rentals. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Antigonish",
+   "secondary_keywords": [
+    "{SERVICE} near me Antigonish",
+    "{BUSINESS_TYPE} Antigonish Nova Scotia",
+    "{SERVICE} near St. FX Antigonish",
+    "{SERVICE} Antigonish student rentals"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Antigonish university rentals",
+    "{SERVICE} near St. Francis Xavier University",
+    "{SERVICE} Antigonish heritage homes",
+    "{SERVICE} Antigonish coastal weather"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Antigonish",
+    "does {COMPANY_NAME} serve student rentals in Antigonish",
+    "how fast can you get {SERVICE} in Antigonish"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Antigonish",
+    "who does {SERVICE} in Antigonish Nova Scotia",
+    "best {BUSINESS_TYPE} in Antigonish",
+    "{SERVICE} near St. FX in Antigonish",
+    "affordable {SERVICE} for rentals in Antigonish"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Antigonish, {COMPANY_NAME} serves this university town of 4,364, home to St. Francis Xavier University and the oldest Highland Games in North America. We know its campus-area rentals and downtown heritage properties, delivering reliable {SERVICE_LIST} for owners across the town. Call {PHONE}.",
+  "entity_description": "Antigonish is a town on the eastern Northumberland Shore of Nova Scotia, with a 2021 census population of 4,364. Known as the 'Highland Heart of Nova Scotia,' it is a university town powered by St. Francis Xavier University and St. Martha's Regional Hospital. Its economy also draws on agriculture and tourism. The town hosts the oldest Highland Games in North America, running since 1863, and landmarks include St. Ninian's Cathedral and the Antigonish Heritage Museum.",
+  "about_md": "Antigonish is the 'Highland Heart of Nova Scotia,' a university town of 4,364 people on the eastern Northumberland Shore, powered by St. Francis Xavier University and home to the oldest Highland Games in North America, running since 1863. That mix of academic energy and Scottish tradition gives the town a character unlike anywhere else on the coast — and shapes the kind of properties {COMPANY_NAME} works on here.\n\nThe economy leans on education and healthcare more than manufacturing. St. Francis Xavier University anchors the town, St. Martha's Regional Hospital serves the wider region, and agriculture and tourism round out the base. That means a steady mix of student housing, campus-adjacent homes, and commercial buildings, all needing regular care. The university brings a rhythm of its own, with demand shifting between the school terms and the quieter summer, and {COMPANY_NAME} works with that calendar to keep campus-area properties ready when students return. For {SERVICE}, {COMPANY_NAME} has learned how this university town is built and what its properties demand.\n\n## Campus, cathedral, and coast\n\nAntigonish's landmarks tell its story. St. FX campus sits at the heart of town, St. Ninian's Cathedral rises over the streets, the Antigonish Heritage Museum keeps its past, and the Antigonish Landing trail runs down toward the water, with Cape George and the Northumberland Shore beaches close by. Each setting asks something different, and {COMPANY_NAME} adapts {SERVICE} to fit — a heritage building near the cathedral is a different job from a modern rental near campus.\n\nThe coastal climate still shapes the work. Antigonish sits inland of the warm Northumberland Strait, but salt air, ocean winds, and hard Maritime winters reach the town and work on its buildings year after year. {COMPANY_NAME} chooses materials and timing that stand up to those conditions, so your {PROPERTY_TYPE} lasts through the freeze-thaw seasons.\n\nPosition sets Antigonish apart, too. At about 164 kilometres from Halifax but only 151 from Sydney, it is closer to Cape Breton than to the capital — the town wraps into Antigonish County, whose centre lies just 4.4 kilometres away. {COMPANY_NAME} bases its coverage around serving this eastern end of the shore properly, with a typical response time of {RESPONSE_TIME}.\n\nProperty owners here expect quality, from the university to the family neighbourhoods. Our approach holds steady: {UNIQUE_VALUE_PROP}. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} delivers transparent pricing and results that last through Nova Scotia winters. Ready to start? {CTA_PRIMARY} for your {ESTIMATE_TYPE}, or call {PHONE}.",
+  "local_facts": [
+   "2021 census population: 4,364",
+   "Founded 1889; the name comes from a Mi'kmaq word meaning 'place where branches are torn off'",
+   "FSA postal prefix: B2H",
+   "Landmarks: St. Francis Xavier University, St. Ninian's Cathedral, Antigonish Heritage Museum, Columbus Field",
+   "Economy: education (St. Francis Xavier University), healthcare (St. Martha's Regional Hospital), agriculture, tourism",
+   "About 164 km from Halifax and 151 km from Sydney — closer to Cape Breton's main city",
+   "Hosts the oldest Highland Games in North America, held since 1863"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "At 151 km from Sydney, Antigonish is the closest of the Northumberland Shore's 8 published communities to Cape Breton's main city, and it ranks fourth among them in population with 4,364 residents."
+  },
+  "services_grid": {
+   "heading": "Services in Antigonish",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/antigonish/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Antigonish"
+  },
+  "faqs": [
+   {
+    "question": "Does {COMPANY_NAME} serve all of Antigonish, including near St. FX?",
+    "answer": "Yes. {COMPANY_NAME} works throughout Antigonish, from campus-area homes and rentals near St. Francis Xavier University to heritage properties by St. Ninian's Cathedral and out into the surrounding Antigonish County, 4.4 km away. Wherever you are in town, we typically respond within {RESPONSE_TIME}."
+   },
+   {
+    "question": "Do you handle {SERVICE} for student rentals near St. FX?",
+    "answer": "Yes. Antigonish's status as a St. Francis Xavier University town means a lot of student housing and rentals that need reliable {SERVICE} between terms. {COMPANY_NAME} schedules around the academic calendar where it helps, keeping campus-area properties in good shape year-round."
+   },
+   {
+    "question": "How much does {SERVICE} cost in Antigonish?",
+    "answer": "It depends on the property and scope, so {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Whether it's a heritage home downtown or a rental near campus, pricing stays in the {PRICE_RANGE} range with a full breakdown before any {BUSINESS_TYPE} work begins, so you know the cost up front."
+   },
+   {
+    "question": "How quickly can you respond in Antigonish?",
+    "answer": "{COMPANY_NAME} typically responds within {RESPONSE_TIME} across Antigonish and the surrounding county. For emergency {SERVICE} situations, we prioritize same-day service whenever possible, so urgent problems at a home, rental, or business get attention fast before they turn into bigger, costlier repairs down the line."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Antigonish?",
+    "answer": "Because {COMPANY_NAME} understands this university town — its campus-area rentals, its heritage buildings, and the coastal climate on the shore's eastern end near St. Francis Xavier University. We bring city-grade {SERVICE} with local knowledge, backed by {YEARS_IN_BUSINESS} years and a {RATING} rating. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Antigonish, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "antigonish-county",
+    "name": "Antigonish County",
+    "km": 4.4,
+    "url": "/areas/antigonish-county",
+    "anchor": "the surrounding Antigonish County, its centre just 4.4 km away"
+   },
+   {
+    "slug": "guysborough",
+    "name": "Guysborough",
+    "km": 49.1,
+    "url": "/areas/guysborough",
+    "anchor": "Guysborough, about 49 km south into the Eastern Shore"
+   },
+   {
+    "slug": "mulgrave",
+    "name": "Mulgrave",
+    "km": 49.2,
+    "url": "/areas/mulgrave",
+    "anchor": "Mulgrave, roughly 49 km east toward the Strait of Canso"
+   },
+   {
+    "slug": "trenton",
+    "name": "Trenton",
+    "km": 49.4,
+    "url": "/areas/trenton",
+    "anchor": "Trenton, some 49 km west in Pictou County"
+   },
+   {
+    "slug": "port-hawkesbury",
+    "name": "Port Hawkesbury",
+    "km": 50.4,
+    "url": "/areas/port-hawkesbury",
+    "anchor": "Port Hawkesbury, about 50 km east across into Cape Breton"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/northumberland-shore",
+   "name": "Northumberland Shore",
+   "anchor": "Northumberland Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-northumberland-shore",
+    "title": "What {SERVICE} Costs in Northumberland Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-northumberland-shore",
+    "title": "Northumberland Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-northumberland-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Northumberland Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-northumberland-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Northumberland Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Antigonish",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Antigonish quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "antigonish"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+   "filename": "antigonish-northumberland-shore-ns.webp",
+   "alt_layer1_geo": "Antigonish, Northumberland Shore Nova Scotia — the Highland Heart university town, home to St. Francis Xavier University and North America's oldest Highland Games",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Antigonish, Nova Scotia — Antigonish, Northumberland Shore Nova Scotia — the Highland Heart university town, home to St. Francis Xavier University and North America's oldest Highland Games",
+   "title": "Antigonish, Northumberland Shore Nova Scotia — the Highland Heart university town, home to St. Francis Xavier University and North America's oldest Highland Games",
+   "caption": "Antigonish, Northumberland Shore Nova Scotia — the Highland Heart university town, home to St. Francis Xavier University and North America's oldest Highland Games",
+   "exif_geo": {
+    "lat": 45.62,
+    "lng": -61.9983,
+    "name": "Antigonish, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Virid — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "economy/employers (St. Francis Xavier University, St. Martha's Regional Hospital)",
+   "landmarks (St. Ninian's Cathedral, Antigonish Heritage Museum, St. FX campus, Antigonish Landing)",
+   "Highland Games heritage (oldest in North America)",
+   "coastal climate (salt air, Maritime winters)",
+   "distance/access (164 km Halifax, 151 km Sydney, 4.4 km county)",
+   "building stock (student rentals and heritage)"
+  ],
+  "signals_count": 6,
+  "opener_words": "Antigonish is the 'Highland Heart of Nova Scotia,'",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/antigonish#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Antigonish",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Antigonish, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Antigonish County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Guysborough, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Mulgrave, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.62,
+        "longitude": -61.9983
+       },
+       "geoRadius": "3300"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Antigonish",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/antigonish#page",
+     "url": "{BRAND_URL}/areas/antigonish",
+     "name": "{SERVICE} in Antigonish, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/antigonish#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/antigonish#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Northumberland Shore",
+       "item": "{BRAND_URL}/areas/region/northumberland-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Antigonish",
+       "item": "{BRAND_URL}/areas/antigonish"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/antigonish#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Does {COMPANY_NAME} serve all of Antigonish, including near St. FX?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} works throughout Antigonish, from campus-area homes and rentals near St. Francis Xavier University to heritage properties by St. Ninian's Cathedral and out into the surrounding Antigonish County, 4.4 km away. Wherever you are in town, we typically respond within {RESPONSE_TIME}."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Do you handle {SERVICE} for student rentals near St. FX?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Antigonish's status as a St. Francis Xavier University town means a lot of student housing and rentals that need reliable {SERVICE} between terms. {COMPANY_NAME} schedules around the academic calendar where it helps, keeping campus-area properties in good shape year-round."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How much does {SERVICE} cost in Antigonish?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on the property and scope, so {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Whether it's a heritage home downtown or a rental near campus, pricing stays in the {PRICE_RANGE} range with a full breakdown before any {BUSINESS_TYPE} work begins, so you know the cost up front."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you respond in Antigonish?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} typically responds within {RESPONSE_TIME} across Antigonish and the surrounding county. For emergency {SERVICE} situations, we prioritize same-day service whenever possible, so urgent problems at a home, rental, or business get attention fast before they turn into bigger, costlier repairs down the line."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Antigonish?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because {COMPANY_NAME} understands this university town — its campus-area rentals, its heritage buildings, and the coastal climate on the shore's eastern end near St. Francis Xavier University. We bring city-grade {SERVICE} with local knowledge, backed by {YEARS_IN_BUSINESS} years and a {RATING} rating. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/antigonish#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+     "name": "Antigonish, Northumberland Shore Nova Scotia — the Highland Heart university town, home to St. Francis Xavier University and North America's oldest Highland Games",
+     "caption": "Antigonish, Northumberland Shore Nova Scotia — the Highland Heart university town, home to St. Francis Xavier University and North America's oldest Highland Games",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Virid"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Antigonish, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.62,
+       "longitude": -61.9983
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0110",
+  "slug": "pictou",
+  "url": "/areas/pictou",
+  "name": "Pictou",
+  "type": "Town",
+  "region": "Northumberland Shore",
+  "region_slug": "northumberland-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.6783,
+   "lng": -62.7117
+  },
+  "fsa": "B2H",
+  "population_2021": 3186,
+  "unified_score": 55.3,
+  "km_halifax": 133,
+  "km_sydney": 201.3,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Northumberland Shore",
+   "Pictou"
+  ],
+  "hero": {
+   "overline": "Pictou · Northumberland Shore · Nova Scotia",
+   "h1": "{SERVICE} in Pictou, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Pictou, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Pictou, NS: {COMPANY_NAME} serves this harbour town's Water Street heritage buildings with coastal-ready, guaranteed work. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Pictou",
+   "secondary_keywords": [
+    "{SERVICE} near me Pictou",
+    "{BUSINESS_TYPE} Pictou Nova Scotia",
+    "{SERVICE} Water Street Pictou",
+    "{SERVICE} Pictou harbour"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Pictou heritage buildings",
+    "{SERVICE} Pictou Water Street district",
+    "{SERVICE} Pictou stone and brick homes",
+    "{SERVICE} Pictou waterfront properties"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Pictou",
+    "can {COMPANY_NAME} work on Pictou heritage buildings",
+    "how fast can you get {SERVICE} in Pictou"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Pictou",
+    "who does {SERVICE} in Pictou Nova Scotia",
+    "best {BUSINESS_TYPE} in Pictou",
+    "{SERVICE} for heritage buildings on Water Street Pictou",
+    "{SERVICE} near Hector Heritage Quay in Pictou"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Pictou, {COMPANY_NAME} serves this harbour town of 3,186, the 'Birthplace of New Scotland' with its Water Street stone-and-brick heritage district. We know its historic buildings and harbour-front coastal exposure, delivering careful {SERVICE_LIST} for every property. Call {PHONE}.",
+  "entity_description": "Pictou is a harbour town on Nova Scotia's Northumberland Shore, with a 2021 census population of 3,186. Known as the 'Birthplace of New Scotland,' it is where the Ship Hector landed in 1773, carrying the first Scottish Highlanders to the province. Its economy runs on tourism, fishing, arts and culture, and a ferry terminal serving Prince Edward Island. Landmarks include Hector Heritage Quay, the deCoste Performing Arts Centre, and the Water Street heritage district of stone and brick buildings.",
+  "about_md": "Pictou is the 'Birthplace of New Scotland,' the harbour town on Nova Scotia's Northumberland Shore where the Ship Hector landed in 1773, carrying the first wave of Scottish Highlanders to reach the province. That history still defines the town of 3,186, and it lives on in the stone and brick heritage buildings that line its waterfront. For {SERVICE}, that older building stock is exactly why {COMPANY_NAME} takes the time to know Pictou.\n\nThe economy here is built on tourism, fishing, arts and culture, and the ferry terminal that connects the town to Prince Edward Island. That mix draws visitors through the summer and keeps a working harbour busy year-round, so demand for {SERVICE} spans homes, heritage properties, and the small businesses that serve both locals and travellers. Summer fills the waterfront with visitors arriving by ferry and road, and the town's businesses lean on that season, so keeping storefronts and heritage properties in good repair is part of how Pictou presents itself to the world.\n\n## A working harbour with heritage bones\n\nPictou's landmarks anchor its character. Hector Heritage Quay holds the Ship Hector replica on the waterfront, the deCoste Performing Arts Centre draws crowds downtown, the Northumberland Fisheries Museum keeps the fishing heritage alive, and the Water Street heritage district gathers the town's historic stone and brick architecture. Those older buildings need careful, informed work, and {COMPANY_NAME} adapts {SERVICE} to the age and construction of each one rather than treating every property the same.\n\nThe coastal setting raises the stakes. Pictou sits right on the harbour, open to the warm Northumberland Strait, so salt air, ocean winds, and Maritime winters press hard against exposed structures. Heritage buildings especially feel it. {COMPANY_NAME} chooses materials and methods built for that exposure, protecting your {PROPERTY_TYPE} through busy tourist summers and harsh winters alike.\n\nPictou is a touch more set apart than its Pictou County neighbours. Its nearest built community, the county centre, lies 8.8 kilometres away, with New Glasgow about 10.8 kilometres off and Halifax roughly 133 kilometres distant. That bit of separation is part of the town's charm, and {COMPANY_NAME} plans coverage so the harbour town gets a prompt response, typically within {RESPONSE_TIME}.\n\nProperty owners here take real pride in preserving what makes Pictou special. Our standard fits that: {UNIQUE_VALUE_PROP}. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} delivers transparent pricing and results that last through Nova Scotia winters. Ready to protect your Pictou property? {CTA_PRIMARY} for your {ESTIMATE_TYPE}, or call {PHONE}.",
+  "local_facts": [
+   "2021 census population: 3,186",
+   "Founded 1767; the name comes from a Mi'kmaq word meaning 'explosion of gas'",
+   "FSA postal prefix: B2H",
+   "The 'Birthplace of New Scotland' — the Ship Hector landed here in 1773",
+   "Landmarks: Hector Heritage Quay, deCoste Performing Arts Centre, Northumberland Fisheries Museum, Water Street heritage district",
+   "Economy: tourism, fishing, ferry terminal to PEI, arts and culture, small business",
+   "A harbour town in Pictou County, Northumberland Shore, about 133 km from Halifax"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Pictou is the most set-apart of the Northumberland Shore's 8 published communities: its nearest built neighbour, the Pictou County centre, sits 8.8 km away — nearly three times the 2.9 km separating New Glasgow and Trenton. It ranks seventh among the eight in population, with 3,186 residents."
+  },
+  "services_grid": {
+   "heading": "Services in Pictou",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/pictou/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Pictou"
+  },
+  "faqs": [
+   {
+    "question": "Does {COMPANY_NAME} serve Pictou's waterfront and heritage areas?",
+    "answer": "Yes. {COMPANY_NAME} covers all of Pictou, from the Water Street heritage district and the harbourfront near Hector Heritage Quay to family neighbourhoods away from the water. Though a little set apart from Pictou County's other towns, the harbour town gets a prompt response, typically within {RESPONSE_TIME}."
+   },
+   {
+    "question": "Can you work on Pictou's stone and brick heritage buildings?",
+    "answer": "Yes. Pictou's Water Street district is full of historic stone and brick architecture that needs careful handling. {COMPANY_NAME} adapts {SERVICE} to the age and construction of each building and flags anything needing special care in your {ESTIMATE_TYPE} before work begins."
+   },
+   {
+    "question": "How much does {SERVICE} cost in Pictou?",
+    "answer": "It depends on your property and its age, so {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Heritage buildings on Water Street can take extra care, but pricing stays in the {PRICE_RANGE} range with a full breakdown before any {BUSINESS_TYPE} work begins, so you always know the cost first."
+   },
+   {
+    "question": "How fast can you respond in Pictou?",
+    "answer": "{COMPANY_NAME} typically responds within {RESPONSE_TIME}, even though Pictou sits a bit farther from its Pictou County neighbours. For emergency {SERVICE} situations, we prioritize same-day service whenever possible, so urgent harbour-town problems get quick attention before the salt air and coastal weather make them worse."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Pictou?",
+    "answer": "Because {COMPANY_NAME} respects what makes Pictou special — its Water Street heritage buildings, its working harbour, and its exposure to the Northumberland Strait. We bring city-grade {SERVICE} with local care, backed by {YEARS_IN_BUSINESS} years and a {RATING} rating. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Pictou, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "pictou-county",
+    "name": "Pictou County",
+    "km": 8.8,
+    "url": "/areas/pictou-county",
+    "anchor": "the wider Pictou County, its centre 8.8 km inland"
+   },
+   {
+    "slug": "trenton",
+    "name": "Trenton",
+    "km": 9.2,
+    "url": "/areas/trenton",
+    "anchor": "Trenton, about 9.2 km around toward the East River"
+   },
+   {
+    "slug": "new-glasgow",
+    "name": "New Glasgow",
+    "km": 10.8,
+    "url": "/areas/new-glasgow",
+    "anchor": "New Glasgow, the county's commercial hub 10.8 km south"
+   },
+   {
+    "slug": "stellarton",
+    "name": "Stellarton",
+    "km": 13.8,
+    "url": "/areas/stellarton",
+    "anchor": "Stellarton, roughly 13.8 km inland in the town cluster"
+   },
+   {
+    "slug": "westville",
+    "name": "Westville",
+    "km": 14.5,
+    "url": "/areas/westville",
+    "anchor": "Westville, some 14.5 km off among the county's working towns"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/northumberland-shore",
+   "name": "Northumberland Shore",
+   "anchor": "Northumberland Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-northumberland-shore",
+    "title": "What {SERVICE} Costs in Northumberland Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-northumberland-shore",
+    "title": "Northumberland Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-northumberland-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Northumberland Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-northumberland-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Northumberland Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Pictou",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Pictou quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "pictou"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+   "filename": "pictou-northumberland-shore-ns.webp",
+   "alt_layer1_geo": "Pictou, Northumberland Shore Nova Scotia — the harbour town billed as the Birthplace of New Scotland, where the Ship Hector landed in 1773",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Pictou, Nova Scotia — Pictou, Northumberland Shore Nova Scotia — the harbour town billed as the Birthplace of New Scotland, where the Ship Hector landed in 1773",
+   "title": "Pictou, Northumberland Shore Nova Scotia — the harbour town billed as the Birthplace of New Scotland, where the Ship Hector landed in 1773",
+   "caption": "Pictou, Northumberland Shore Nova Scotia — the harbour town billed as the Birthplace of New Scotland, where the Ship Hector landed in 1773",
+   "exif_geo": {
+    "lat": 45.6783,
+    "lng": -62.7117,
+    "name": "Pictou, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Virid — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "history (Ship Hector 1773, Birthplace of New Scotland)",
+   "landmarks (Hector Heritage Quay, deCoste Centre, Northumberland Fisheries Museum, Water Street district)",
+   "building stock (stone and brick heritage architecture)",
+   "economy (tourism, fishing, PEI ferry)",
+   "coastal climate (harbour exposure, salt air)",
+   "distance/access (8.8 km nearest, 133 km Halifax)"
+  ],
+  "signals_count": 6,
+  "opener_words": "Pictou is the 'Birthplace of New Scotland,' the",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/pictou#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Pictou",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Pictou, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Pictou County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Trenton, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "New Glasgow, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.6783,
+        "longitude": -62.7117
+       },
+       "geoRadius": "6600"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Pictou",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/pictou#page",
+     "url": "{BRAND_URL}/areas/pictou",
+     "name": "{SERVICE} in Pictou, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/pictou#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/pictou#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Northumberland Shore",
+       "item": "{BRAND_URL}/areas/region/northumberland-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Pictou",
+       "item": "{BRAND_URL}/areas/pictou"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/pictou#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Does {COMPANY_NAME} serve Pictou's waterfront and heritage areas?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers all of Pictou, from the Water Street heritage district and the harbourfront near Hector Heritage Quay to family neighbourhoods away from the water. Though a little set apart from Pictou County's other towns, the harbour town gets a prompt response, typically within {RESPONSE_TIME}."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Can you work on Pictou's stone and brick heritage buildings?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Pictou's Water Street district is full of historic stone and brick architecture that needs careful handling. {COMPANY_NAME} adapts {SERVICE} to the age and construction of each building and flags anything needing special care in your {ESTIMATE_TYPE} before work begins."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How much does {SERVICE} cost in Pictou?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on your property and its age, so {COMPANY_NAME} starts with a {ESTIMATE_TYPE}. Heritage buildings on Water Street can take extra care, but pricing stays in the {PRICE_RANGE} range with a full breakdown before any {BUSINESS_TYPE} work begins, so you always know the cost first."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you respond in Pictou?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} typically responds within {RESPONSE_TIME}, even though Pictou sits a bit farther from its Pictou County neighbours. For emergency {SERVICE} situations, we prioritize same-day service whenever possible, so urgent harbour-town problems get quick attention before the salt air and coastal weather make them worse."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Pictou?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because {COMPANY_NAME} respects what makes Pictou special — its Water Street heritage buildings, its working harbour, and its exposure to the Northumberland Strait. We bring city-grade {SERVICE} with local care, backed by {YEARS_IN_BUSINESS} years and a {RATING} rating. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/pictou#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+     "name": "Pictou, Northumberland Shore Nova Scotia — the harbour town billed as the Birthplace of New Scotland, where the Ship Hector landed in 1773",
+     "caption": "Pictou, Northumberland Shore Nova Scotia — the harbour town billed as the Birthplace of New Scotland, where the Ship Hector landed in 1773",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Virid"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Pictou, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.6783,
+       "longitude": -62.7117
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0126",
+  "slug": "trenton",
+  "url": "/areas/trenton",
+  "name": "Trenton",
+  "type": "Town",
+  "region": "Northumberland Shore",
+  "region_slug": "northumberland-shore",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.6167,
+   "lng": -62.6333
+  },
+  "fsa": "B2H",
+  "population_2021": 2638,
+  "unified_score": 55,
+  "km_halifax": 130.5,
+  "km_sydney": 197.5,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Northumberland Shore",
+   "Trenton"
+  ],
+  "hero": {
+   "overline": "Trenton · Northumberland Shore · Nova Scotia",
+   "h1": "{SERVICE} in Trenton, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Trenton, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Trenton, NS: {COMPANY_NAME} serves this Pictou County town near New Glasgow with fast, coastal-ready, guaranteed work. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Trenton",
+   "secondary_keywords": [
+    "{SERVICE} near me Trenton",
+    "{BUSINESS_TYPE} Trenton Nova Scotia",
+    "{SERVICE} Trenton Pictou County",
+    "{SERVICE} near New Glasgow Trenton"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Trenton family homes",
+    "{SERVICE} near New Glasgow and Trenton",
+    "{SERVICE} Trenton East River properties",
+    "{SERVICE} Trenton coastal weather"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Trenton",
+    "does {COMPANY_NAME} serve Trenton Pictou County",
+    "how fast can you get {SERVICE} in Trenton"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Trenton",
+    "who does {SERVICE} in Trenton Nova Scotia",
+    "best {BUSINESS_TYPE} in Trenton",
+    "{SERVICE} in Trenton near New Glasgow",
+    "affordable {SERVICE} in Trenton Pictou County"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Trenton, {COMPANY_NAME} serves this Pictou County town of 2,638, home to the Trenton Glass Museum just minutes from New Glasgow along the East River. We handle the salt air and Maritime winters that test its properties with dependable {SERVICE_LIST}. Call {PHONE}.",
+  "entity_description": "Trenton is a town in Pictou County on Nova Scotia's Northumberland Shore, with a 2021 census population of 2,638 — the smallest of the region's published communities. Home to the Trenton Glass Museum, it sits just 2.9 kilometres from New Glasgow along the East River. Manufacturing and fishing drive its economy, alongside education, agriculture, and Northumberland Strait beach tourism. The town shares the region's Scottish Highland heritage and its setting near the warm Northumberland Strait.",
+  "about_md": "Trenton is home to the Trenton Glass Museum, a Pictou County town of 2,638 people set just 2.9 kilometres from New Glasgow along the East River on Nova Scotia's Northumberland Shore. It is the smallest of the region's published communities, yet it sits at the centre of the county's tight cluster of working towns, close enough to share their commercial life while keeping its own identity.\n\nThe local economy runs on manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism. That steady base keeps the town's homes, shops, and commercial buildings in constant need of upkeep, and it is why {COMPANY_NAME} takes the time to understand how Trenton and its neighbouring towns are built.\n\n## A small town on the East River\n\nTrenton shares the traits that define the Northumberland Shore: warm Northumberland Strait beaches, deep Scottish Highland heritage, the Pictou ferry to Prince Edward Island, and the Northumberland Shore wine trail all shape the area's character. That coastal setting decides what {SERVICE} must withstand. Salt air drifts in from the Strait, ocean winds work at exposed roofs and walls, and Maritime winters bring snow and freeze-thaw stress. {COMPANY_NAME} matches materials and timing to those conditions so your {PROPERTY_TYPE} lasts.\n\nProximity is the town's practical strength. New Glasgow lies just 2.9 kilometres away, with Stellarton, the harbour town of Pictou, and Westville all a short drive off. That density lets {COMPANY_NAME} reach Trenton quickly and often fold its work in alongside nearby jobs, with a typical response time of {RESPONSE_TIME}. Halifax sits about 130 kilometres away, keeping the town connected to the wider provincial market without losing its small-town feel.\n\nProperty owners here take pride in what they own, and the building stock reflects the town's industrial roots alongside established family neighbourhoods. Some of the town's buildings date to its industrial past, while others are newer family homes, and {COMPANY_NAME} adjusts {SERVICE} to suit each rather than applying a single approach to every address. Every job still starts with a clear, written scope so owners know the plan before work begins. Whatever the address, our standard holds: {UNIQUE_VALUE_PROP}. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} gives a Trenton job the same care as work in any major centre — because location should never determine service quality.\n\nQuality {BUSINESS_TYPE} is an investment in a property's future, especially in a coastal climate that never stops testing a building. From the first {ESTIMATE_TYPE} to the finished result, {COMPANY_NAME} keeps pricing transparent and workmanship guaranteed. Ready to protect your Trenton property? {CTA_PRIMARY} for your {ESTIMATE_TYPE}, or call {PHONE}.",
+  "local_facts": [
+   "2021 census population: 2,638 — the smallest of the region's 8 published communities",
+   "Home to the Trenton Glass Museum",
+   "FSA postal prefix: B2H",
+   "Nearest community: New Glasgow, 2.9 km away along the East River",
+   "Economy: manufacturing, fishing, education, agriculture, and Northumberland Strait beach tourism",
+   "A town in Pictou County, Northumberland Shore region of Nova Scotia",
+   "About 130 km from Halifax; shares the region's warm Strait beaches and Highland heritage"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Trenton is the smallest of the Northumberland Shore's 8 published communities, with 2,638 residents; it also sits just 2.9 km from New Glasgow — the shortest distance between any two of those eight communities."
+  },
+  "services_grid": {
+   "heading": "Services in Trenton",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/trenton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/trenton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/trenton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/trenton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/trenton/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/trenton/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Trenton"
+  },
+  "faqs": [
+   {
+    "question": "Does {COMPANY_NAME} serve Trenton and nearby towns?",
+    "answer": "Yes. {COMPANY_NAME} covers Trenton along with New Glasgow just 2.9 km away, plus Stellarton, Westville, and the harbour town of Pictou. Because these towns cluster so close, we reach Trenton quickly and can coordinate work across the county, typically responding within {RESPONSE_TIME}."
+   },
+   {
+    "question": "Because Trenton is so close to New Glasgow, does that speed up service?",
+    "answer": "It helps. Trenton sits just 2.9 km from New Glasgow, our Pictou County hub — the shortest gap between any two communities on the shore. {COMPANY_NAME} can often fit your {SERVICE} in alongside nearby jobs, which means faster scheduling and less time waiting for a crew to arrive."
+   },
+   {
+    "question": "What does {SERVICE} cost in Trenton?",
+    "answer": "Costs depend on your property and the work involved, so {COMPANY_NAME} begins with a {ESTIMATE_TYPE}. Pricing stays within the {PRICE_RANGE} range, and you see a full breakdown before any {BUSINESS_TYPE} work starts — no surprises later, and no obligation to book until you're ready."
+   },
+   {
+    "question": "How fast can you respond in Trenton?",
+    "answer": "Very quickly. With Trenton just minutes from New Glasgow, {COMPANY_NAME} typically responds within {RESPONSE_TIME}. For urgent {SERVICE} problems, we prioritize same-day service whenever possible, so a small issue doesn't have time to grow into a costly one, as the two towns sit just 2.9 km apart."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Trenton?",
+    "answer": "Because {COMPANY_NAME} treats a small town like Trenton with the same care as a city job. We know the coastal climate, the local building stock, and the surrounding Pictou County towns. With {YEARS_IN_BUSINESS} years and a {RATING} rating, your property is protected. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Trenton, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "new-glasgow",
+    "name": "New Glasgow",
+    "km": 2.9,
+    "url": "/areas/new-glasgow",
+    "anchor": "New Glasgow, just 2.9 km up the East River"
+   },
+   {
+    "slug": "pictou-county",
+    "name": "Pictou County",
+    "km": 5.5,
+    "url": "/areas/pictou-county",
+    "anchor": "the wider Pictou County, centred 5.5 km away"
+   },
+   {
+    "slug": "stellarton",
+    "name": "Stellarton",
+    "km": 6.6,
+    "url": "/areas/stellarton",
+    "anchor": "Stellarton, a neighbouring town 6.6 km off"
+   },
+   {
+    "slug": "pictou",
+    "name": "Pictou",
+    "km": 9.2,
+    "url": "/areas/pictou",
+    "anchor": "the harbour town of Pictou, 9.2 km north on the Strait"
+   },
+   {
+    "slug": "westville",
+    "name": "Westville",
+    "km": 9.5,
+    "url": "/areas/westville",
+    "anchor": "Westville, 9.5 km west among the county's working towns"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/northumberland-shore",
+   "name": "Northumberland Shore",
+   "anchor": "Northumberland Shore service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-northumberland-shore",
+    "title": "What {SERVICE} Costs in Northumberland Shore: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-northumberland-shore",
+    "title": "Northumberland Shore Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-northumberland-shore",
+    "title": "How to Choose a {BUSINESS_TYPE} in Northumberland Shore"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-northumberland-shore",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Northumberland Shore, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Trenton",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Trenton quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "trenton"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+   "filename": "trenton-northumberland-shore-ns.webp",
+   "alt_layer1_geo": "Trenton, Northumberland Shore Nova Scotia — a small Pictou County town on the East River, home to the Trenton Glass Museum and minutes from New Glasgow",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Trenton, Nova Scotia — Trenton, Northumberland Shore Nova Scotia — a small Pictou County town on the East River, home to the Trenton Glass Museum and minutes from New Glasgow",
+   "title": "Trenton, Northumberland Shore Nova Scotia — a small Pictou County town on the East River, home to the Trenton Glass Museum and minutes from New Glasgow",
+   "caption": "Trenton, Northumberland Shore Nova Scotia — a small Pictou County town on the East River, home to the Trenton Glass Museum and minutes from New Glasgow",
+   "exif_geo": {
+    "lat": 45.6167,
+    "lng": -62.6333,
+    "name": "Trenton, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Virid — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "landmark (Trenton Glass Museum)",
+   "distance/cluster (2.9 km New Glasgow, 130 km Halifax)",
+   "population scale (2,638, smallest in region)",
+   "economy (manufacturing, fishing)",
+   "Strait features and Highland heritage",
+   "coastal climate (salt air, Maritime winters)"
+  ],
+  "signals_count": 6,
+  "opener_words": "Trenton is home to the Trenton Glass Museum,",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/trenton#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Trenton",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Trenton, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "New Glasgow, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Pictou County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Stellarton, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.6167,
+        "longitude": -62.6333
+       },
+       "geoRadius": "2175"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Trenton",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/trenton#page",
+     "url": "{BRAND_URL}/areas/trenton",
+     "name": "{SERVICE} in Trenton, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/trenton#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/trenton#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Northumberland Shore",
+       "item": "{BRAND_URL}/areas/region/northumberland-shore"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Trenton",
+       "item": "{BRAND_URL}/areas/trenton"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/trenton#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Does {COMPANY_NAME} serve Trenton and nearby towns?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers Trenton along with New Glasgow just 2.9 km away, plus Stellarton, Westville, and the harbour town of Pictou. Because these towns cluster so close, we reach Trenton quickly and can coordinate work across the county, typically responding within {RESPONSE_TIME}."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Because Trenton is so close to New Glasgow, does that speed up service?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It helps. Trenton sits just 2.9 km from New Glasgow, our Pictou County hub — the shortest gap between any two communities on the shore. {COMPANY_NAME} can often fit your {SERVICE} in alongside nearby jobs, which means faster scheduling and less time waiting for a crew to arrive."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Trenton?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs depend on your property and the work involved, so {COMPANY_NAME} begins with a {ESTIMATE_TYPE}. Pricing stays within the {PRICE_RANGE} range, and you see a full breakdown before any {BUSINESS_TYPE} work starts — no surprises later, and no obligation to book until you're ready."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you respond in Trenton?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Very quickly. With Trenton just minutes from New Glasgow, {COMPANY_NAME} typically responds within {RESPONSE_TIME}. For urgent {SERVICE} problems, we prioritize same-day service whenever possible, so a small issue doesn't have time to grow into a costly one, as the two towns sit just 2.9 km apart."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Trenton?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because {COMPANY_NAME} treats a small town like Trenton with the same care as a city job. We know the coastal climate, the local building stock, and the surrounding Pictou County towns. With {YEARS_IN_BUSINESS} years and a {RATING} rating, your property is protected. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/trenton#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cape_George_Lighthouse%2C_Antigonish_County%2C_Nova_Scotia%2C_Canada.JPG",
+     "name": "Trenton, Northumberland Shore Nova Scotia — a small Pictou County town on the East River, home to the Trenton Glass Museum and minutes from New Glasgow",
+     "caption": "Trenton, Northumberland Shore Nova Scotia — a small Pictou County town on the East River, home to the Trenton Glass Museum and minutes from New Glasgow",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Virid"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Trenton, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.6167,
+       "longitude": -62.6333
+      }
+     }
+    }
+   ]
+  }
+ }
+]

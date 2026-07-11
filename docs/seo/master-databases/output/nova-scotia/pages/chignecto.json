@@ -1,0 +1,2219 @@
+[
+ {
+  "id": "NS-0192",
+  "slug": "cumberland-county",
+  "url": "/areas/cumberland-county",
+  "name": "Cumberland County",
+  "type": "County Municipality",
+  "region": "Chignecto",
+  "region_slug": "chignecto",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.7,
+   "lng": -64.05
+  },
+  "fsa": "B4H",
+  "population_2021": 27025,
+  "unified_score": 63.9,
+  "km_halifax": 122.7,
+  "km_sydney": 302.2,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Chignecto",
+   "Cumberland County"
+  ],
+  "hero": {
+   "overline": "Cumberland County · Chignecto · Nova Scotia",
+   "h1": "{SERVICE} in Cumberland County, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Cumberland County, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} across Cumberland County — Amherst to Parrsboro, farms to the Fundy shore. Work built for coastal Maritime weather, {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Cumberland County",
+   "secondary_keywords": [
+    "{SERVICE} near me Cumberland County",
+    "{BUSINESS_TYPE} Cumberland County Nova Scotia",
+    "{SERVICE} Joggins area Cumberland County",
+    "{SERVICE} Tantramar Marshes area"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} for farm properties in Cumberland County",
+    "coastal {SERVICE} along the Bay of Fundy shore Cumberland County",
+    "{SERVICE} for rural homes near Springhill and Oxford",
+    "{SERVICE} built for Maritime weather in Cumberland County"
+   ],
+   "question_keywords": [
+    "how does Bay of Fundy weather affect {SERVICE} in Cumberland County",
+    "what does {SERVICE} cost in Cumberland County",
+    "who provides {SERVICE} across rural Cumberland County"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Cumberland County",
+    "who does {SERVICE} on farm properties in Cumberland County",
+    "best {BUSINESS_TYPE} between Amherst and Parrsboro",
+    "{SERVICE} near the Joggins Fossil Cliffs",
+    "get a {SERVICE} estimate for a rural Cumberland County property"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Cumberland County, {COMPANY_NAME} covers the whole county — from farms near the Tantramar Marshes to homes along the Bay of Fundy shore by the Joggins Fossil Cliffs. Coastal wind and moisture are factored into every job, and estimates are {ESTIMATE_TYPE}. Call {PHONE}.",
+  "entity_description": "Cumberland County is a county municipality in the Chignecto region of Nova Scotia, Canada, with a 2021 census population of 27,025 — the largest of the region's five published communities. It fronts the Bay of Fundy, home to the UNESCO-listed Joggins Fossil Cliffs and the Tantramar Marshes. Agriculture, forestry, border services, mining heritage, and fossil tourism drive its economy, and the county's mapped centre sits about 123 km from Halifax at the New Brunswick border.",
+  "about_md": "The Joggins Fossil Cliffs, a UNESCO World Heritage Site, stand at one edge of Cumberland County; the Tantramar Marshes stretch across another. Between them lies most of Nova Scotia's Chignecto region — 27,025 residents at the 2021 census, spread across farms, forest country, and the towns of Amherst, Springhill, Oxford, and Parrsboro. {COMPANY_NAME} provides {SERVICE} across every part of it.\n\nA county this size has no single property type. Amherst's downtown is known for its Victorian and sandstone architecture, while the wider county is dominated by working farm properties and modest homes in its smaller towns. Each asks something different of a {BUSINESS_TYPE}: a farmhouse in open country, a sandstone commercial building, and a small-town family home do not age the same way. {COMPANY_NAME} scopes {SERVICE} for each, and our {SERVICE_LIST} — from {SUBSERVICE_1} to {SUBSERVICE_2} — covers the full range on any {PROPERTY_TYPE}.\n\nWeather is the county's common denominator. Cumberland County fronts the Bay of Fundy, where powerful tides and open Maritime weather shape the coast from Joggins to Parrsboro, and wind and moisture off the water and across the Tantramar Marshes reach properties throughout the county. Exteriors here simply face more exposure than inland Nova Scotia, so we plan every job around it: {SERVICE_DESCRIPTION}\n\n## An economy built on the land\n\nAgriculture and forestry lead the county's economy, alongside border services on the Trans-Canada corridor, manufacturing, a deep mining heritage, and the fossil tourism anchored by Joggins and Parrsboro's geological attractions. Fort Beauséjour and the county's border position round out a region that works for its living. Working communities maintain their properties, and {COMPANY_NAME} — {YEARS_IN_BUSINESS} years in business, {RATING}-rated, with {CERTIFICATIONS} — has built its name on exactly that steady, referral-driven work.\n\nAccess is straightforward. The county's mapped centre sits 122.7 km from Halifax, with Springhill just 5.6 km away, Oxford 14.6 km, Amherst 19 km at the New Brunswick border, and Parrsboro 39.4 km toward the Fundy shore. Our crews travel the whole county, so a rural property gets the same {RESPONSE_TIME} response as an in-town address, with {AVAILABILITY} scheduling, a {ESTIMATE_TYPE} estimate on every {PROJECT_TYPE}, and transparent pricing that typically falls within {PRICE_RANGE}. {UNIQUE_VALUE_PROP}.\n\nFrom the fossil cliffs to the marshes to the farm roads between them, Cumberland County properties are investments worth protecting. {CTA_PRIMARY} today and get your {ESTIMATE_TYPE} estimate.",
+  "local_facts": [
+   "2021 census population: 27,025 — the largest of Chignecto's five published communities",
+   "Postal district: FSA B4H",
+   "122.7 km from Halifax and 302.2 km from Sydney",
+   "Home to the UNESCO-listed Joggins Fossil Cliffs, the Tantramar Marshes, and Fort Beauséjour",
+   "Bay of Fundy tides shape the county's coast from Joggins to Parrsboro",
+   "Economy: agriculture, forestry, border services, mining heritage, and fossil tourism",
+   "Type: county municipality in the Chignecto region of Nova Scotia"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Cumberland County ranks 1st by population among the 5 published Chignecto communities (27,025 at the 2021 census), and its nearest published community, Springhill, lies just 5.6 km from the county's mapped centre."
+  },
+  "services_grid": {
+   "heading": "Services in Cumberland County",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cumberland-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cumberland-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cumberland-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cumberland-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cumberland-county/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cumberland-county/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Cumberland County"
+  },
+  "faqs": [
+   {
+    "question": "Do you provide {SERVICE} everywhere in Cumberland County?",
+    "answer": "Yes. {COMPANY_NAME} serves the entire county municipality — Amherst at the New Brunswick border, Springhill, Oxford, Parrsboro on the Fundy shore, and every farm and rural road between them. Travel across the county is built into our scheduling, so rural properties get the same service as in-town addresses."
+   },
+   {
+    "question": "How do Bay of Fundy tides and the Tantramar Marshes affect {SERVICE} in Cumberland County?",
+    "answer": "They add real exposure. The county fronts the Bay of Fundy from the Joggins Fossil Cliffs to Parrsboro, and wind and moisture off the water and across the open Tantramar Marshes reach properties throughout the county. We choose materials and schedules built for that coastal Maritime weather, not inland conditions."
+   },
+   {
+    "question": "What does {SERVICE} cost in Cumberland County?",
+    "answer": "Most Cumberland County projects fall within {PRICE_RANGE}, depending on scope and property type — a working farm, a sandstone building in Amherst, and a modest small-town home each price differently. {COMPANY_NAME} gives a {ESTIMATE_TYPE} estimate with transparent, upfront pricing before any work begins."
+   },
+   {
+    "question": "How fast can you respond to a {SERVICE} call in Cumberland County?",
+    "answer": "We typically respond within {RESPONSE_TIME} anywhere in the county. The county's mapped centre sits just 5.6 km from Springhill and 19 km from Amherst, so crews are rarely far away, and {AVAILABILITY} scheduling covers urgent jobs on farms and in town alike."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Cumberland County?",
+    "answer": "Because we match the work to the county. With {YEARS_IN_BUSINESS} years in business, a {RATING} rating, and {CERTIFICATIONS}, {COMPANY_NAME} handles farm properties, Victorian and sandstone buildings, and modest small-town homes to the same standard — {UNIQUE_VALUE_PROP}. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Cumberland County, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "springhill",
+    "name": "Springhill",
+    "km": 5.6,
+    "url": "/areas/springhill",
+    "anchor": "Springhill, 5.6 km from the county's mapped centre"
+   },
+   {
+    "slug": "oxford",
+    "name": "Oxford",
+    "km": 14.6,
+    "url": "/areas/oxford",
+    "anchor": "Oxford, 14.6 km through farm country"
+   },
+   {
+    "slug": "amherst",
+    "name": "Amherst",
+    "km": 19,
+    "url": "/areas/amherst",
+    "anchor": "Amherst, 19 km away at the New Brunswick border"
+   },
+   {
+    "slug": "parrsboro",
+    "name": "Parrsboro",
+    "km": 39.4,
+    "url": "/areas/parrsboro",
+    "anchor": "Parrsboro, 39.4 km toward the Fundy shore"
+   },
+   {
+    "slug": "debert",
+    "name": "Debert",
+    "km": 54.2,
+    "url": "/areas/debert",
+    "anchor": "Debert, 54.2 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/chignecto",
+   "name": "Chignecto",
+   "anchor": "Chignecto service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-chignecto",
+    "title": "What {SERVICE} Costs in Chignecto: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-chignecto",
+    "title": "Chignecto Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-chignecto",
+    "title": "How to Choose a {BUSINESS_TYPE} in Chignecto"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-chignecto",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Chignecto, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Cumberland County",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Cumberland County quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "cumberland-county"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+   "filename": "cumberland-county-chignecto-ns.webp",
+   "alt_layer1_geo": "Cumberland County, Chignecto Nova Scotia — Bay of Fundy county stretching from the Joggins Fossil Cliffs to the Tantramar Marshes",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Cumberland County, Nova Scotia — Cumberland County, Chignecto Nova Scotia — Bay of Fundy county stretching from the Joggins Fossil Cliffs to the Tantramar Marshes",
+   "title": "Cumberland County, Chignecto Nova Scotia — Bay of Fundy county stretching from the Joggins Fossil Cliffs to the Tantramar Marshes",
+   "caption": "Cumberland County, Chignecto Nova Scotia — Bay of Fundy county stretching from the Joggins Fossil Cliffs to the Tantramar Marshes",
+   "exif_geo": {
+    "lat": 45.7,
+    "lng": -64.05,
+    "name": "Cumberland County, Nova Scotia"
+   },
+   "license": "CC BY-SA 4.0",
+   "attribution": "Staka — CC BY-SA 4.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "landmarks: Joggins Fossil Cliffs (UNESCO), Tantramar Marshes, Fort Beauséjour",
+   "climate: Bay of Fundy tides, wind and moisture across the county",
+   "building stock: farm properties, Amherst's Victorian and sandstone downtown, modest small-town homes",
+   "economy: agriculture, forestry, border services, mining heritage, fossil tourism",
+   "distance/access: 122.7 km to Halifax; Springhill 5.6 km, Amherst 19 km, Parrsboro 39.4 km",
+   "population scale: 27,025 — largest in the region"
+  ],
+  "signals_count": 6,
+  "opener_words": "The Joggins Fossil Cliffs, a UNESCO World Heritage",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/cumberland-county#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Cumberland County",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Cumberland County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Springhill, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Oxford, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Amherst, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.7,
+        "longitude": -64.05
+       },
+       "geoRadius": "4200"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Cumberland County",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/cumberland-county#page",
+     "url": "{BRAND_URL}/areas/cumberland-county",
+     "name": "{SERVICE} in Cumberland County, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/cumberland-county#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/cumberland-county#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Chignecto",
+       "item": "{BRAND_URL}/areas/region/chignecto"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Cumberland County",
+       "item": "{BRAND_URL}/areas/cumberland-county"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/cumberland-county#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you provide {SERVICE} everywhere in Cumberland County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} serves the entire county municipality — Amherst at the New Brunswick border, Springhill, Oxford, Parrsboro on the Fundy shore, and every farm and rural road between them. Travel across the county is built into our scheduling, so rural properties get the same service as in-town addresses."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How do Bay of Fundy tides and the Tantramar Marshes affect {SERVICE} in Cumberland County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They add real exposure. The county fronts the Bay of Fundy from the Joggins Fossil Cliffs to Parrsboro, and wind and moisture off the water and across the open Tantramar Marshes reach properties throughout the county. We choose materials and schedules built for that coastal Maritime weather, not inland conditions."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Cumberland County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most Cumberland County projects fall within {PRICE_RANGE}, depending on scope and property type — a working farm, a sandstone building in Amherst, and a modest small-town home each price differently. {COMPANY_NAME} gives a {ESTIMATE_TYPE} estimate with transparent, upfront pricing before any work begins."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you respond to a {SERVICE} call in Cumberland County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We typically respond within {RESPONSE_TIME} anywhere in the county. The county's mapped centre sits just 5.6 km from Springhill and 19 km from Amherst, so crews are rarely far away, and {AVAILABILITY} scheduling covers urgent jobs on farms and in town alike."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Cumberland County?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because we match the work to the county. With {YEARS_IN_BUSINESS} years in business, a {RATING} rating, and {CERTIFICATIONS}, {COMPANY_NAME} handles farm properties, Victorian and sandstone buildings, and modest small-town homes to the same standard — {UNIQUE_VALUE_PROP}. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/cumberland-county#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+     "name": "Cumberland County, Chignecto Nova Scotia — Bay of Fundy county stretching from the Joggins Fossil Cliffs to the Tantramar Marshes",
+     "caption": "Cumberland County, Chignecto Nova Scotia — Bay of Fundy county stretching from the Joggins Fossil Cliffs to the Tantramar Marshes",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Staka"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Cumberland County, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.7,
+       "longitude": -64.05
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0037",
+  "slug": "amherst",
+  "url": "/areas/amherst",
+  "name": "Amherst",
+  "type": "Town",
+  "region": "Chignecto",
+  "region_slug": "chignecto",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.8275,
+   "lng": -64.2133
+  },
+  "fsa": "B4H",
+  "population_2021": 9413,
+  "unified_score": 60.3,
+  "km_halifax": 140.3,
+  "km_sydney": 312.4,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Chignecto",
+   "Amherst"
+  ],
+  "hero": {
+   "overline": "Amherst · Chignecto · Nova Scotia",
+   "h1": "{SERVICE} in Amherst, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Amherst, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Amherst, NS — Nova Scotia's gateway town. Work suited to Victorian and sandstone buildings and Tantramar wind, with fast quotes. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Amherst",
+   "secondary_keywords": [
+    "{SERVICE} near me Amherst",
+    "{BUSINESS_TYPE} Amherst Nova Scotia",
+    "{SERVICE} downtown Amherst",
+    "{SERVICE} near Amherst Point Migratory Bird Sanctuary"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} for Victorian homes in Amherst",
+    "{SERVICE} for sandstone buildings in downtown Amherst",
+    "{SERVICE} near the New Brunswick border Amherst NS",
+    "{SERVICE} for wind-exposed properties by the Tantramar Marshes"
+   ],
+   "question_keywords": [
+    "what does {SERVICE} cost in Amherst NS",
+    "how do the Tantramar Marshes affect {SERVICE} in Amherst",
+    "who does {SERVICE} for Victorian and sandstone buildings in Amherst"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Amherst",
+    "{BUSINESS_TYPE} for an older sandstone building in Amherst",
+    "who does {SERVICE} near the New Brunswick border in Nova Scotia",
+    "{SERVICE} in Amherst near the Tantramar Marshes",
+    "how do I book {SERVICE} in Amherst NS"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Amherst, {COMPANY_NAME} serves Nova Scotia's gateway town — from the Victorian and sandstone downtown to homes near the Tantramar Marshes. Work is planned for Maritime wind and older building stock, with a {ESTIMATE_TYPE} estimate and {RESPONSE_TIME} response. Call {PHONE}.",
+  "entity_description": "Amherst is a town in Cumberland County, in the Chignecto region of Nova Scotia, Canada, with a 2021 census population of 9,413 — the second-largest community in the region. Founded in 1764 and named after Field Marshal Jeffery Amherst, it is the province's gateway community on the Trans-Canada corridor at the New Brunswick border. Its downtown is known for Victorian and sandstone architecture from its industrial heritage, and its economy runs on border services, manufacturing, agriculture, retail, and logistics.",
+  "about_md": "Amherst is the first town you meet entering Nova Scotia — the province's gateway on the Trans-Canada corridor, right at the New Brunswick border. Founded in 1764 and named after Field Marshal Jeffery Amherst, this town of 9,413 people carries a rich industrial heritage that still shows downtown, where Victorian and sandstone architecture line the streets. {COMPANY_NAME} provides {SERVICE} throughout Amherst and the border area, and this is a town we know well.\n\nLocation explains a lot here. Amherst's economy runs on border town services along the Trans-Canada corridor, plus manufacturing, agriculture, retail, and logistics — the working mix of a community that moves goods and people between provinces. That economy keeps both commercial buildings and family homes busy, and busy properties need maintenance. Our {SERVICE_LIST} covers the range, from {SUBSERVICE_1} for a downtown storefront to {SUBSERVICE_2} for a residential street.\n\nThe town's building stock deserves particular care. Sandstone and Victorian buildings from Amherst's industrial era do not behave like modern construction: they hold moisture differently, they weather differently, and they punish shortcuts. As a {BUSINESS_TYPE} with {YEARS_IN_BUSINESS} years in business and {CERTIFICATIONS}, {COMPANY_NAME} matches methods and materials to building age instead of treating every {PROPERTY_TYPE} the same.\n\n## Weather off the marshes\n\nAmherst sits beside the Tantramar Marshes, and that flat, open ground gives Maritime wind a clear run at the town. Add moisture off the Bay of Fundy side of Cumberland County and full Nova Scotia winters, and exteriors here work harder than they would inland. We plan {SERVICE} for that exposure — scheduling around the seasons and choosing finishes that last. The Amherst Point Migratory Bird Sanctuary just outside town and the nearby Fort Beauséjour–Fort Cumberland National Historic Site are reminders of how much open marsh and shoreline surround this community.\n\nAmherst also anchors its region. It is the second most populous of Chignecto's five published communities, sitting 140.3 km from Halifax, with Springhill 23 km away, Oxford 29 km, and the county's rural roads running in every direction. Our crews cover that whole run, so a call from an Amherst address gets a {RESPONSE_TIME} response and a {ESTIMATE_TYPE} estimate, with {AVAILABILITY} scheduling and pricing that typically lands in {PRICE_RANGE} depending on the {PROJECT_TYPE}.\n\nHistory matters in a town with a Cumberland County Museum and Chignecto Ship Railway heritage, but so does what comes next. Property owners here maintain what they have because it is worth keeping. {RATING}-rated and built on {UNIQUE_VALUE_PROP}, {COMPANY_NAME} is ready when your Amherst property needs work. {CTA_PRIMARY} today.",
+  "local_facts": [
+   "2021 census population: 9,413 — second-largest community in the Chignecto region",
+   "Founded in 1764 and named after Field Marshal Jeffery Amherst",
+   "Nova Scotia's gateway community — the first town entering the province from New Brunswick on the Trans-Canada corridor",
+   "Downtown known for Victorian and sandstone architecture from its industrial heritage",
+   "Landmarks: Cumberland County Museum, Amherst Point Migratory Bird Sanctuary, Fort Beauséjour–Fort Cumberland National Historic Site nearby",
+   "Postal district: FSA B4H; 140.3 km from Halifax",
+   "Economy: border town services, manufacturing, agriculture, retail, and logistics"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Amherst is the 2nd most populous of the 5 published Chignecto communities (9,413 in 2021); its nearest published neighbour is the Cumberland County centre point, 19 km away, with Springhill next at 23 km."
+  },
+  "services_grid": {
+   "heading": "Services in Amherst",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/amherst/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/amherst/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/amherst/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/amherst/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/amherst/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/amherst/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Amherst"
+  },
+  "faqs": [
+   {
+    "question": "Do you offer {SERVICE} throughout Amherst and the border area?",
+    "answer": "Yes. {COMPANY_NAME} covers all of Amherst, from the Victorian and sandstone downtown to newer neighbourhoods, plus the surrounding Cumberland County countryside. Being the gateway town on the Trans-Canada corridor makes Amherst easy to reach, and jobs near the marshes or the border schedule just as quickly."
+   },
+   {
+    "question": "Does Amherst's position beside the Tantramar Marshes change how {SERVICE} is done?",
+    "answer": "It does. The flat, open Tantramar Marshes give wind a clear run at Amherst properties, and Maritime moisture works on the town's older Victorian and sandstone buildings year-round. We factor that exposure — and the age of the downtown building stock — into materials, preparation, and timing on every job."
+   },
+   {
+    "question": "What does {SERVICE} cost in Amherst?",
+    "answer": "Amherst pricing typically falls in {PRICE_RANGE}, with the final number depending on scope and building age — a Victorian-era sandstone building prices differently from a newer family home. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate up front, so you see transparent pricing before committing to any work."
+   },
+   {
+    "question": "How quickly can you get to a job in Amherst?",
+    "answer": "Typically within {RESPONSE_TIME}. Amherst sits right on the Trans-Canada corridor — the first town inside Nova Scotia from New Brunswick — so access is direct, and {COMPANY_NAME} keeps {AVAILABILITY} scheduling for urgent work. Springhill (23 km) and Oxford (29 km) fall inside the same service run."
+   },
+   {
+    "question": "Why do Amherst property owners choose {COMPANY_NAME}?",
+    "answer": "Because we understand gateway-town buildings. Amherst's rich industrial heritage shows in its sandstone architecture, and its economy — border services, manufacturing, retail, logistics — keeps commercial and residential properties busy. {YEARS_IN_BUSINESS} years in business and a {RATING} rating back every {SERVICE} job. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Amherst, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "cumberland-county",
+    "name": "Cumberland County",
+    "km": 19,
+    "url": "/areas/cumberland-county",
+    "anchor": "the rural reaches of Cumberland County, whose mapped centre lies 19 km away"
+   },
+   {
+    "slug": "springhill",
+    "name": "Springhill",
+    "km": 23,
+    "url": "/areas/springhill",
+    "anchor": "the mining-heritage community of Springhill, 23 km southeast"
+   },
+   {
+    "slug": "oxford",
+    "name": "Oxford",
+    "km": 29,
+    "url": "/areas/oxford",
+    "anchor": "Oxford, 29 km away in farm country"
+   },
+   {
+    "slug": "parrsboro",
+    "name": "Parrsboro",
+    "km": 47.9,
+    "url": "/areas/parrsboro",
+    "anchor": "Parrsboro on the Fundy shore, 47.9 km distant"
+   },
+   {
+    "slug": "debert",
+    "name": "Debert",
+    "km": 72.8,
+    "url": "/areas/debert",
+    "anchor": "Debert, 72.8 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/chignecto",
+   "name": "Chignecto",
+   "anchor": "Chignecto service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-chignecto",
+    "title": "What {SERVICE} Costs in Chignecto: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-chignecto",
+    "title": "Chignecto Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-chignecto",
+    "title": "How to Choose a {BUSINESS_TYPE} in Chignecto"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-chignecto",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Chignecto, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Amherst",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Amherst quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "amherst"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+   "filename": "amherst-chignecto-ns.webp",
+   "alt_layer1_geo": "Amherst, Chignecto Nova Scotia — gateway town at the New Brunswick border on the Trans-Canada corridor",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Amherst, Nova Scotia — Amherst, Chignecto Nova Scotia — gateway town at the New Brunswick border on the Trans-Canada corridor",
+   "title": "Amherst, Chignecto Nova Scotia — gateway town at the New Brunswick border on the Trans-Canada corridor",
+   "caption": "Amherst, Chignecto Nova Scotia — gateway town at the New Brunswick border on the Trans-Canada corridor",
+   "exif_geo": {
+    "lat": 45.8275,
+    "lng": -64.2133,
+    "name": "Amherst, Nova Scotia"
+   },
+   "license": "CC BY-SA 4.0",
+   "attribution": "Staka — CC BY-SA 4.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "history: founded 1764, named after Field Marshal Jeffery Amherst",
+   "access: gateway town on the Trans-Canada corridor at the New Brunswick border; 140.3 km to Halifax",
+   "building stock: Victorian and sandstone downtown from the industrial era",
+   "climate: wind across the flat Tantramar Marshes plus Fundy-side moisture",
+   "economy: border town services, manufacturing, agriculture, retail, logistics",
+   "landmarks: Cumberland County Museum, Amherst Point Migratory Bird Sanctuary, Fort Beauséjour–Fort Cumberland nearby, Chignecto Ship Railway heritage"
+  ],
+  "signals_count": 6,
+  "opener_words": "Amherst is the first town you meet entering",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/amherst#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Amherst",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Amherst, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Cumberland County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Springhill, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Oxford, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8275,
+        "longitude": -64.2133
+       },
+       "geoRadius": "14250"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Amherst",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/amherst#page",
+     "url": "{BRAND_URL}/areas/amherst",
+     "name": "{SERVICE} in Amherst, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/amherst#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/amherst#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Chignecto",
+       "item": "{BRAND_URL}/areas/region/chignecto"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Amherst",
+       "item": "{BRAND_URL}/areas/amherst"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/amherst#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you offer {SERVICE} throughout Amherst and the border area?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers all of Amherst, from the Victorian and sandstone downtown to newer neighbourhoods, plus the surrounding Cumberland County countryside. Being the gateway town on the Trans-Canada corridor makes Amherst easy to reach, and jobs near the marshes or the border schedule just as quickly."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does Amherst's position beside the Tantramar Marshes change how {SERVICE} is done?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It does. The flat, open Tantramar Marshes give wind a clear run at Amherst properties, and Maritime moisture works on the town's older Victorian and sandstone buildings year-round. We factor that exposure — and the age of the downtown building stock — into materials, preparation, and timing on every job."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Amherst?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amherst pricing typically falls in {PRICE_RANGE}, with the final number depending on scope and building age — a Victorian-era sandstone building prices differently from a newer family home. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate up front, so you see transparent pricing before committing to any work."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you get to a job in Amherst?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically within {RESPONSE_TIME}. Amherst sits right on the Trans-Canada corridor — the first town inside Nova Scotia from New Brunswick — so access is direct, and {COMPANY_NAME} keeps {AVAILABILITY} scheduling for urgent work. Springhill (23 km) and Oxford (29 km) fall inside the same service run."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why do Amherst property owners choose {COMPANY_NAME}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because we understand gateway-town buildings. Amherst's rich industrial heritage shows in its sandstone architecture, and its economy — border services, manufacturing, retail, logistics — keeps commercial and residential properties busy. {YEARS_IN_BUSINESS} years in business and a {RATING} rating back every {SERVICE} job. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/amherst#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+     "name": "Amherst, Chignecto Nova Scotia — gateway town at the New Brunswick border on the Trans-Canada corridor",
+     "caption": "Amherst, Chignecto Nova Scotia — gateway town at the New Brunswick border on the Trans-Canada corridor",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Staka"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Amherst, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.8275,
+       "longitude": -64.2133
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0115",
+  "slug": "springhill",
+  "url": "/areas/springhill",
+  "name": "Springhill",
+  "type": "Community",
+  "region": "Chignecto",
+  "region_slug": "chignecto",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.65,
+   "lng": -64.06
+  },
+  "fsa": "B4H",
+  "population_2021": 2600,
+  "unified_score": 53.4,
+  "km_halifax": 117.6,
+  "km_sydney": 304,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Chignecto",
+   "Springhill"
+  ],
+  "hero": {
+   "overline": "Springhill · Chignecto · Nova Scotia",
+   "h1": "{SERVICE} in Springhill, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Springhill, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Springhill, NS. Coastal-grade work for this mining-heritage community's homes, backed by transparent pricing and fast response. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Springhill",
+   "secondary_keywords": [
+    "{SERVICE} near me Springhill",
+    "{BUSINESS_TYPE} Springhill Nova Scotia",
+    "{SERVICE} Springhill Cumberland County"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} for older small-town homes in Springhill",
+    "{SERVICE} in Springhill built for Maritime winters",
+    "{SERVICE} for rural properties around Springhill NS"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Springhill",
+    "how fast is {SERVICE} response in Springhill",
+    "what weather conditions affect {SERVICE} in Springhill Nova Scotia"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Springhill",
+    "who does {SERVICE} in Springhill Nova Scotia",
+    "{BUSINESS_TYPE} serving Springhill and Oxford",
+    "{SERVICE} for an older home in Springhill",
+    "get a quote for {SERVICE} in Springhill Cumberland County"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Springhill, {COMPANY_NAME} serves this mining-heritage community and the farm-and-forest country around it. Crews already cover the county's centre — Springhill sits just 5.6 km from its mapped middle — so response within {RESPONSE_TIME} is realistic. Estimates are {ESTIMATE_TYPE}. Call {PHONE}.",
+  "entity_description": "Springhill is a community in Cumberland County, in the Chignecto region of Nova Scotia, Canada, with a 2021 census population of 2,600. It sits in the county's inland farm-and-forest country, just 5.6 km from the county's mapped centre, and is best known for its mining heritage. The wider area's economy runs on agriculture, forestry, border services, mining heritage, and fossil tourism, and its housing is mostly modest small-town homes.",
+  "about_md": "Mining heritage runs deep in Springhill, and it still shapes how this community of 2,600 people carries itself. Set in Cumberland County's inland farm-and-forest country in the Chignecto region of Nova Scotia, Springhill is a place where homes get kept up and passed down, not flipped — and {COMPANY_NAME} provides the {SERVICE} that keeps them that way.\n\nPosition is Springhill's quiet advantage. The community sits just 5.6 km from Cumberland County's mapped centre point, with Oxford 17.4 km away, Amherst 23 km up at the New Brunswick border, and Parrsboro 34.5 km south toward the Fundy shore. At 117.6 km from Halifax, Springhill is also the second-closest of the region's five published communities to the capital. For a {BUSINESS_TYPE}, that central spot means crews pass through Springhill constantly — so a {SERVICE} call here never waits behind bigger towns.\n\nThe homes tell their own story. Cumberland County's building stock outside Amherst is dominated by farm properties and modest homes in small towns like Springhill, and modest does not mean low-maintenance. Older small-town houses need honest assessment and materials matched to their age, not one-size-fits-all fixes. {COMPANY_NAME} brings {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS}, and a {RATING} rating to exactly that kind of work, with {SERVICE_LIST} covering everything from {SUBSERVICE_1} to {SUBSERVICE_2} on any {PROPERTY_TYPE}.\n\n## Inland, but not out of the weather\n\nSpringhill sits inland, away from the immediate shoreline — but Chignecto fronts the Bay of Fundy, and wind and moisture off the water and across the Tantramar Marshes reach properties throughout Cumberland County. Add full Maritime winters and the freeze-thaw swings that come with them, and Springhill exteriors face nearly the same demands as coastal ones. We build every job to that coastal-climate standard: {SERVICE_DESCRIPTION}\n\nThe wider county economy — agriculture, forestry, border services, mining heritage, and fossil tourism — supports steady, working households that maintain what they own. That is our kind of customer. {COMPANY_NAME} offers {ESTIMATE_TYPE} estimates, transparent pricing that typically falls within {PRICE_RANGE} depending on the {PROJECT_TYPE}, {AVAILABILITY} scheduling, and a {RESPONSE_TIME} response for urgent calls in town or on the rural roads around it. {UNIQUE_VALUE_PROP}.\n\nSpringhill's story was built underground and in its landscapes; keeping its homes sound is how that story continues. {CTA_PRIMARY} today for your {ESTIMATE_TYPE} estimate.",
+  "local_facts": [
+   "2021 census population: 2,600 — third-largest of the region's five published communities",
+   "Community in Cumberland County, Chignecto region, Nova Scotia",
+   "Known for its mining heritage",
+   "Postal district: FSA B4H",
+   "117.6 km from Halifax and 304 km from Sydney",
+   "Sits 5.6 km from Cumberland County's mapped centre; Oxford is 17.4 km and Amherst 23 km away",
+   "Housing stock dominated by modest small-town homes"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Springhill ranks 3rd by population among Chignecto's 5 published communities and, at 117.6 km, is the second-closest of them to Halifax — only Parrsboro (102.9 km) is nearer."
+  },
+  "services_grid": {
+   "heading": "Services in Springhill",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/springhill/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/springhill/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/springhill/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/springhill/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/springhill/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/springhill/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Springhill"
+  },
+  "faqs": [
+   {
+    "question": "Do you provide {SERVICE} in Springhill and the surrounding countryside?",
+    "answer": "Yes. {COMPANY_NAME} serves all of Springhill plus the farm-and-forest country around it in Cumberland County. Because the community sits just 5.6 km from the county's mapped centre, our crews pass through constantly, and rural addresses outside town get the same scheduling priority as homes on Springhill's streets."
+   },
+   {
+    "question": "Springhill is inland — does coastal weather still affect {SERVICE} here?",
+    "answer": "Yes. Chignecto fronts the Bay of Fundy, and wind and moisture off the water and across the Tantramar Marshes reach properties throughout Cumberland County, Springhill included. Combined with full Maritime winters, that exposure means we build every Springhill job to coastal-climate standards rather than fair-weather ones."
+   },
+   {
+    "question": "What does {SERVICE} cost in Springhill?",
+    "answer": "Most Springhill projects fall within {PRICE_RANGE}, depending on scope and the age of the home — much of the local stock is modest small-town housing that rewards careful assessment. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate with transparent, upfront pricing, so you know the number before work begins."
+   },
+   {
+    "question": "How quickly can you respond to a {SERVICE} call in Springhill?",
+    "answer": "Typically within {RESPONSE_TIME}. Springhill's central position in Cumberland County — 17.4 km from Oxford and 23 km from Amherst — keeps it on routes we already travel, and {AVAILABILITY} scheduling lets us prioritize urgent Springhill jobs the same day whenever possible."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in this mining-heritage community?",
+    "answer": "Because we treat Springhill like the working community it is. Homes here get kept and handed down, and our {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS}, and {RATING} rating are built on exactly that steady, referral-driven maintenance work. {UNIQUE_VALUE_PROP}. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Springhill, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "cumberland-county",
+    "name": "Cumberland County",
+    "km": 5.6,
+    "url": "/areas/cumberland-county",
+    "anchor": "wider Cumberland County, whose mapped centre is only 5.6 km off"
+   },
+   {
+    "slug": "oxford",
+    "name": "Oxford",
+    "km": 17.4,
+    "url": "/areas/oxford",
+    "anchor": "the farm-country town of Oxford, 17.4 km east"
+   },
+   {
+    "slug": "amherst",
+    "name": "Amherst",
+    "km": 23,
+    "url": "/areas/amherst",
+    "anchor": "Amherst, 23 km up at the New Brunswick border"
+   },
+   {
+    "slug": "parrsboro",
+    "name": "Parrsboro",
+    "km": 34.5,
+    "url": "/areas/parrsboro",
+    "anchor": "Parrsboro and the Fundy shore, 34.5 km south"
+   },
+   {
+    "slug": "debert",
+    "name": "Debert",
+    "km": 51.9,
+    "url": "/areas/debert",
+    "anchor": "Debert, 51.9 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/chignecto",
+   "name": "Chignecto",
+   "anchor": "Chignecto service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-chignecto",
+    "title": "What {SERVICE} Costs in Chignecto: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-chignecto",
+    "title": "Chignecto Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-chignecto",
+    "title": "How to Choose a {BUSINESS_TYPE} in Chignecto"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-chignecto",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Chignecto, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Springhill",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Springhill quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "springhill"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+   "filename": "springhill-chignecto-ns.webp",
+   "alt_layer1_geo": "Springhill, Chignecto Nova Scotia — inland Cumberland County community shaped by its mining heritage",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Springhill, Nova Scotia — Springhill, Chignecto Nova Scotia — inland Cumberland County community shaped by its mining heritage",
+   "title": "Springhill, Chignecto Nova Scotia — inland Cumberland County community shaped by its mining heritage",
+   "caption": "Springhill, Chignecto Nova Scotia — inland Cumberland County community shaped by its mining heritage",
+   "exif_geo": {
+    "lat": 45.65,
+    "lng": -64.06,
+    "name": "Springhill, Nova Scotia"
+   },
+   "license": "CC BY-SA 4.0",
+   "attribution": "Staka — CC BY-SA 4.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "history/economy: mining heritage",
+   "geography: inland farm-and-forest country, 5.6 km from Cumberland County's mapped centre",
+   "climate: county-wide Bay of Fundy wind and moisture plus Maritime winters",
+   "building stock: modest small-town homes",
+   "distance/access: 117.6 km to Halifax (second-closest in region), Oxford 17.4 km, Amherst 23 km",
+   "population scale: 2,600, third in the region"
+  ],
+  "signals_count": 6,
+  "opener_words": "Mining heritage runs deep in Springhill, and it",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/springhill#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Springhill",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Springhill, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Cumberland County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Oxford, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Amherst, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.65,
+        "longitude": -64.06
+       },
+       "geoRadius": "4200"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Springhill",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/springhill#page",
+     "url": "{BRAND_URL}/areas/springhill",
+     "name": "{SERVICE} in Springhill, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/springhill#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/springhill#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Chignecto",
+       "item": "{BRAND_URL}/areas/region/chignecto"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Springhill",
+       "item": "{BRAND_URL}/areas/springhill"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/springhill#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you provide {SERVICE} in Springhill and the surrounding countryside?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} serves all of Springhill plus the farm-and-forest country around it in Cumberland County. Because the community sits just 5.6 km from the county's mapped centre, our crews pass through constantly, and rural addresses outside town get the same scheduling priority as homes on Springhill's streets."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Springhill is inland — does coastal weather still affect {SERVICE} here?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Chignecto fronts the Bay of Fundy, and wind and moisture off the water and across the Tantramar Marshes reach properties throughout Cumberland County, Springhill included. Combined with full Maritime winters, that exposure means we build every Springhill job to coastal-climate standards rather than fair-weather ones."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Springhill?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most Springhill projects fall within {PRICE_RANGE}, depending on scope and the age of the home — much of the local stock is modest small-town housing that rewards careful assessment. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate with transparent, upfront pricing, so you know the number before work begins."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you respond to a {SERVICE} call in Springhill?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically within {RESPONSE_TIME}. Springhill's central position in Cumberland County — 17.4 km from Oxford and 23 km from Amherst — keeps it on routes we already travel, and {AVAILABILITY} scheduling lets us prioritize urgent Springhill jobs the same day whenever possible."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in this mining-heritage community?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because we treat Springhill like the working community it is. Homes here get kept and handed down, and our {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS}, and {RATING} rating are built on exactly that steady, referral-driven maintenance work. {UNIQUE_VALUE_PROP}. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/springhill#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+     "name": "Springhill, Chignecto Nova Scotia — inland Cumberland County community shaped by its mining heritage",
+     "caption": "Springhill, Chignecto Nova Scotia — inland Cumberland County community shaped by its mining heritage",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Staka"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Springhill, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.65,
+       "longitude": -64.06
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0296",
+  "slug": "oxford",
+  "url": "/areas/oxford",
+  "name": "Oxford",
+  "type": "Town",
+  "region": "Chignecto",
+  "region_slug": "chignecto",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.7289,
+   "lng": -63.8671
+  },
+  "fsa": "B4H",
+  "population_2021": 1076,
+  "unified_score": 53.4,
+  "km_halifax": 122.3,
+  "km_sydney": 287.6,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Chignecto",
+   "Oxford"
+  ],
+  "hero": {
+   "overline": "Oxford · Chignecto · Nova Scotia",
+   "h1": "{SERVICE} in Oxford, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Oxford, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Oxford, NS — Chignecto's farm-country town. Durable work for homes and farm properties in Maritime weather. {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Oxford",
+   "secondary_keywords": [
+    "{SERVICE} near me Oxford NS",
+    "{BUSINESS_TYPE} Oxford Nova Scotia",
+    "{SERVICE} Oxford Cumberland County"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} for farmhouses near Oxford NS",
+    "{SERVICE} for modest small-town homes in Oxford",
+    "{SERVICE} in Oxford built for Cumberland County weather"
+   ],
+   "question_keywords": [
+    "what does {SERVICE} cost in Oxford NS",
+    "who does {SERVICE} on farms near Oxford",
+    "how quickly can I get {SERVICE} in Oxford Nova Scotia"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Oxford Nova Scotia",
+    "who does {SERVICE} for farms around Oxford NS",
+    "{BUSINESS_TYPE} covering Oxford and Springhill",
+    "{SERVICE} for a small-town home in Oxford",
+    "book a {SERVICE} estimate in Oxford Cumberland County"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Oxford, {COMPANY_NAME} serves Chignecto's farm-country town and the rural properties around it. Work is built for the Maritime weather that reaches across Cumberland County, with {ESTIMATE_TYPE} estimates, transparent pricing, and a {RESPONSE_TIME} response for homes and farms alike. Call {PHONE}.",
+  "entity_description": "Oxford is a town in Cumberland County, in the Chignecto region of Nova Scotia, Canada, with a 2021 census population of 1,076 — the smallest of the region's five published communities. It is a farm-country town in the agriculture and forestry belt that leads the regional economy, about 122 km from Halifax, with building stock dominated by modest small-town homes.",
+  "about_md": "Oxford is Chignecto's farm-country town: 1,076 people at the 2021 census, set in the agriculture and forestry belt that leads Cumberland County's economy. In this corner of Nova Scotia, working land surrounds working homes, and both need a {BUSINESS_TYPE} who understands them. {COMPANY_NAME} provides {SERVICE} in Oxford and across the rural roads around it.\n\nFarm country sets the terms here. Agriculture and forestry lead the regional economy, alongside border services on the Trans-Canada corridor and the mining heritage and fossil tourism that mark the wider county. Properties that earn their keep — farmhouses, outbuildings, and the modest homes that fill small towns like Oxford — cannot afford work that fails early. Our {SERVICE_LIST} runs from {SUBSERVICE_1} to {SUBSERVICE_2}, scoped for the way rural and small-town properties are actually used.\n\nWeather does not skip inland towns. Chignecto fronts the Bay of Fundy, and wind and moisture off the water and across the Tantramar Marshes reach properties throughout Cumberland County — Oxford included. Maritime winters then test every exterior surface and system. {COMPANY_NAME} plans {SERVICE} around those seasons, choosing materials and timing that hold up rather than chasing repairs later: {SERVICE_DESCRIPTION}\n\n## Small town, connected town\n\nOxford may be the smallest of the region's five published communities, but it is far from isolated. The town sits 14.6 km from Cumberland County's mapped centre, 17.4 km from Springhill, and 29 km from Amherst at the New Brunswick border. Halifax is 122.3 km away, and at 287.6 km Oxford is actually the closest published point in the region to Sydney. Debert, 45.7 km off in Central Nova Scotia, marks the next region over. For scheduling, that means Oxford sits on routes our crews already run — so a {RESPONSE_TIME} response is realistic, not a promise made from far away.\n\nWhat Oxford property owners get from {COMPANY_NAME}: a {ESTIMATE_TYPE} estimate, transparent pricing typically within {PRICE_RANGE} for a standard {PROJECT_TYPE}, {AVAILABILITY} scheduling, and workmanship backed by {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS}, and a {RATING} rating. {UNIQUE_VALUE_PROP}. Whether the job is a farmhouse outside town or a family {PROPERTY_TYPE} on a town street, the standard is the same.\n\nA town this size runs on trust and repeat work — there is nowhere to hide from a bad job. That suits us. {CTA_PRIMARY} and get your Oxford {SERVICE} project started.",
+  "local_facts": [
+   "2021 census population: 1,076 — the smallest of the region's five published communities",
+   "Town in Cumberland County, Chignecto region, Nova Scotia",
+   "Farm-country town in the agriculture and forestry belt that leads the regional economy",
+   "Postal district: FSA B4H",
+   "122.3 km from Halifax; at 287.6 km, the region's closest published community to Sydney",
+   "14.6 km from Cumberland County's mapped centre, 17.4 km from Springhill, 29 km from Amherst"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Oxford is the smallest of Chignecto's 5 published communities (1,076 at the 2021 census) yet the region's closest published point to Sydney at 287.6 km."
+  },
+  "services_grid": {
+   "heading": "Services in Oxford",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/oxford/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/oxford/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/oxford/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/oxford/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/oxford/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/oxford/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Oxford"
+  },
+  "faqs": [
+   {
+    "question": "Do you cover Oxford and the farms outside town?",
+    "answer": "Yes. {COMPANY_NAME} serves Oxford itself and the surrounding agriculture and forestry country that leads Cumberland County's economy. Farmhouses, outbuildings, and in-town homes all fall inside our normal service area, and rural distance never changes the standard of work or the {ESTIMATE_TYPE} estimate."
+   },
+   {
+    "question": "What local conditions affect {SERVICE} in Oxford?",
+    "answer": "Oxford sits inland in Cumberland County's farm-and-forest country, 14.6 km from the county's mapped centre, but wind and moisture off the Bay of Fundy still reach properties throughout the county. Add Maritime winters, and Oxford exteriors need the same weather-rated materials and timing as coastal jobs."
+   },
+   {
+    "question": "What does {SERVICE} cost in Oxford?",
+    "answer": "Typical Oxford projects price within {PRICE_RANGE}, with the final figure depending on scope — a working farm property and a modest in-town home are scoped differently. {COMPANY_NAME} gives a {ESTIMATE_TYPE} estimate with transparent pricing and no hidden fees before any {PROJECT_TYPE} begins."
+   },
+   {
+    "question": "How fast can you get to Oxford for {SERVICE}?",
+    "answer": "Usually within {RESPONSE_TIME}. Oxford lies 17.4 km from Springhill and 29 km from Amherst, on routes our crews already run through Cumberland County, and {AVAILABILITY} scheduling means urgent calls in town or on the farm roads can be prioritized quickly."
+   },
+   {
+    "question": "Why should Oxford property owners choose {COMPANY_NAME}?",
+    "answer": "Because small towns judge work honestly. In a farm-country town of 1,076 people, reputation is everything, and {COMPANY_NAME} has built ours over {YEARS_IN_BUSINESS} years with {CERTIFICATIONS} and a {RATING} rating. We treat every Oxford job as a referral in the making. {UNIQUE_VALUE_PROP}. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Oxford, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "cumberland-county",
+    "name": "Cumberland County",
+    "km": 14.6,
+    "url": "/areas/cumberland-county",
+    "anchor": "rural Cumberland County, centred 14.6 km away"
+   },
+   {
+    "slug": "springhill",
+    "name": "Springhill",
+    "km": 17.4,
+    "url": "/areas/springhill",
+    "anchor": "Springhill, 17.4 km west"
+   },
+   {
+    "slug": "amherst",
+    "name": "Amherst",
+    "km": 29,
+    "url": "/areas/amherst",
+    "anchor": "the border town of Amherst, 29 km distant"
+   },
+   {
+    "slug": "debert",
+    "name": "Debert",
+    "km": 45.7,
+    "url": "/areas/debert",
+    "anchor": "Debert, 45.7 km into Central Nova Scotia"
+   },
+   {
+    "slug": "parrsboro",
+    "name": "Parrsboro",
+    "km": 51,
+    "url": "/areas/parrsboro",
+    "anchor": "Parrsboro, 51 km off on the Fundy shore"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/chignecto",
+   "name": "Chignecto",
+   "anchor": "Chignecto service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-chignecto",
+    "title": "What {SERVICE} Costs in Chignecto: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-chignecto",
+    "title": "Chignecto Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-chignecto",
+    "title": "How to Choose a {BUSINESS_TYPE} in Chignecto"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-chignecto",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Chignecto, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Oxford",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Oxford quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "oxford"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+   "filename": "oxford-chignecto-ns.webp",
+   "alt_layer1_geo": "Oxford, Chignecto Nova Scotia — farm-country town in Cumberland County's inland agriculture and forestry belt",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Oxford, Nova Scotia — Oxford, Chignecto Nova Scotia — farm-country town in Cumberland County's inland agriculture and forestry belt",
+   "title": "Oxford, Chignecto Nova Scotia — farm-country town in Cumberland County's inland agriculture and forestry belt",
+   "caption": "Oxford, Chignecto Nova Scotia — farm-country town in Cumberland County's inland agriculture and forestry belt",
+   "exif_geo": {
+    "lat": 45.7289,
+    "lng": -63.8671,
+    "name": "Oxford, Nova Scotia"
+   },
+   "license": "CC BY-SA 4.0",
+   "attribution": "Staka — CC BY-SA 4.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "economy: agriculture and forestry farm country, with the wider county's border services, mining heritage, and fossil tourism",
+   "building stock: modest small-town homes and working farm properties",
+   "climate: Bay of Fundy wind and moisture reaching across Cumberland County, plus Maritime winters",
+   "distance/access: 122.3 km to Halifax, region's closest point to Sydney (287.6 km), Springhill 17.4 km, Amherst 29 km",
+   "population scale: smallest of the five published communities (1,076)"
+  ],
+  "signals_count": 5,
+  "opener_words": "Oxford is Chignecto's farm-country town: 1,076 people at",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/oxford#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Oxford",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Oxford, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Cumberland County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Springhill, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Amherst, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.7289,
+        "longitude": -63.8671
+       },
+       "geoRadius": "10950"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Oxford",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/oxford#page",
+     "url": "{BRAND_URL}/areas/oxford",
+     "name": "{SERVICE} in Oxford, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/oxford#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/oxford#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Chignecto",
+       "item": "{BRAND_URL}/areas/region/chignecto"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Oxford",
+       "item": "{BRAND_URL}/areas/oxford"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/oxford#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you cover Oxford and the farms outside town?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} serves Oxford itself and the surrounding agriculture and forestry country that leads Cumberland County's economy. Farmhouses, outbuildings, and in-town homes all fall inside our normal service area, and rural distance never changes the standard of work or the {ESTIMATE_TYPE} estimate."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What local conditions affect {SERVICE} in Oxford?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oxford sits inland in Cumberland County's farm-and-forest country, 14.6 km from the county's mapped centre, but wind and moisture off the Bay of Fundy still reach properties throughout the county. Add Maritime winters, and Oxford exteriors need the same weather-rated materials and timing as coastal jobs."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Oxford?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typical Oxford projects price within {PRICE_RANGE}, with the final figure depending on scope — a working farm property and a modest in-town home are scoped differently. {COMPANY_NAME} gives a {ESTIMATE_TYPE} estimate with transparent pricing and no hidden fees before any {PROJECT_TYPE} begins."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you get to Oxford for {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually within {RESPONSE_TIME}. Oxford lies 17.4 km from Springhill and 29 km from Amherst, on routes our crews already run through Cumberland County, and {AVAILABILITY} scheduling means urgent calls in town or on the farm roads can be prioritized quickly."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why should Oxford property owners choose {COMPANY_NAME}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because small towns judge work honestly. In a farm-country town of 1,076 people, reputation is everything, and {COMPANY_NAME} has built ours over {YEARS_IN_BUSINESS} years with {CERTIFICATIONS} and a {RATING} rating. We treat every Oxford job as a referral in the making. {UNIQUE_VALUE_PROP}. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/oxford#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+     "name": "Oxford, Chignecto Nova Scotia — farm-country town in Cumberland County's inland agriculture and forestry belt",
+     "caption": "Oxford, Chignecto Nova Scotia — farm-country town in Cumberland County's inland agriculture and forestry belt",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Staka"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Oxford, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.7289,
+       "longitude": -63.8671
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NS-0263",
+  "slug": "parrsboro",
+  "url": "/areas/parrsboro",
+  "name": "Parrsboro",
+  "type": "Community",
+  "region": "Chignecto",
+  "region_slug": "chignecto",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.405,
+   "lng": -64.331
+  },
+  "fsa": "B4H",
+  "population_2021": 1220,
+  "unified_score": 52.3,
+  "km_halifax": 102.9,
+  "km_sydney": 331,
+  "verification": "Census_Verified",
+  "data_sources": "Statistics Canada 2021 Census; Nova Scotia Municipal Affairs; Service Nova Scotia",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Chignecto",
+   "Parrsboro"
+  ],
+  "hero": {
+   "overline": "Parrsboro · Chignecto · Nova Scotia",
+   "h1": "{SERVICE} in Parrsboro, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Parrsboro, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Parrsboro, NS, where Fundy tides shape the shore. Coastal-tough work, {ESTIMATE_TYPE} estimates, {RESPONSE_TIME} response. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Parrsboro",
+   "secondary_keywords": [
+    "{SERVICE} near me Parrsboro",
+    "{BUSINESS_TYPE} Parrsboro Nova Scotia",
+    "{SERVICE} Parrsboro Fundy shore",
+    "{SERVICE} near Parrsboro geological attractions"
+   ],
+   "long_tail_keywords": [
+    "coastal {SERVICE} on the Fundy shore in Parrsboro",
+    "{SERVICE} for tide-exposed properties Parrsboro",
+    "{SERVICE} for small-town homes in Parrsboro NS"
+   ],
+   "question_keywords": [
+    "how do Fundy tides affect {SERVICE} in Parrsboro",
+    "what does {SERVICE} cost in Parrsboro",
+    "who provides {SERVICE} on the Parrsboro shore"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Parrsboro",
+    "who does {SERVICE} on the Fundy shore near Parrsboro",
+    "{BUSINESS_TYPE} that travels to Parrsboro in Cumberland County",
+    "{SERVICE} for a coastal home in Parrsboro NS",
+    "get a {SERVICE} quote near Parrsboro's geological attractions"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Parrsboro, {COMPANY_NAME} builds for the Fundy shore, where powerful tides and coastal weather test every exterior. Despite sitting 34.5 km from its nearest published neighbour, Parrsboro gets full coverage — {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response included. Call {PHONE}.",
+  "entity_description": "Parrsboro is a community in Cumberland County, in the Chignecto region of Nova Scotia, Canada, with a 2021 census population of 1,220. It sits on the Bay of Fundy shore, where powerful tides shape the coast, and its geological attractions anchor the region's fossil tourism. About 103 km from Halifax, Parrsboro is the closest of the region's five published communities to the capital, though its nearest published neighbour, Springhill, is 34.5 km away.",
+  "about_md": "Bay of Fundy tides shape the shore at Parrsboro, and the community's geological attractions draw visitors from far beyond Cumberland County. This is a Nova Scotia community of 1,220 people where the coast is not scenery — it is the defining fact of daily life, and it is the first thing {COMPANY_NAME} accounts for on every {SERVICE} job here.\n\nStart with the water. Chignecto's coast runs from the UNESCO-listed Joggins Fossil Cliffs down to Parrsboro, and the powerful tides and open Maritime weather along that shore work on buildings all year. Wind and moisture off the Fundy reach exteriors, roofs, and finishes harder here than almost anywhere inland. A {BUSINESS_TYPE} who plans for that — materials rated for coastal exposure, timing that respects the seasons — saves Parrsboro owners real money over one who does not. That is how {COMPANY_NAME} builds every {PROJECT_TYPE}: {SERVICE_DESCRIPTION}\n\nFossil tourism is part of the local economy alongside agriculture and forestry, and Parrsboro's geological attractions anchor the visitor trade at this end of the county. Homes here are mostly the modest small-town stock that fills Cumberland County outside Amherst — houses that reward steady, honest maintenance. Our {SERVICE_LIST} covers them fully, from {SUBSERVICE_1} to {SUBSERVICE_2}, on any {PROPERTY_TYPE}.\n\n## The far end of the county — still covered\n\nParrsboro is the most independent of the region's five published communities: its nearest published neighbour, Springhill, is 34.5 km away, and Amherst is 47.9 km. Yet at 102.9 km, Parrsboro is the closest of the five to Halifax, and the Annapolis Valley communities of Wolfville (35.1 km), Port Williams (35.6 km), and Kentville (38.6 km) sit within a similar radius. {COMPANY_NAME} treats none of that distance as a surcharge or an excuse: Parrsboro jobs get a {RESPONSE_TIME} response, a {ESTIMATE_TYPE} estimate, {AVAILABILITY} scheduling, and pricing that typically falls within {PRICE_RANGE} — the same transparent terms as anywhere else we work.\n\nWith {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS}, and a {RATING} rating, we have learned what Fundy-shore weather does to buildings and what stops it. Owners here understand that lesson better than anyone — in a community defined by the world's most powerful tides, maintenance is not optional, it is how property value survives. {UNIQUE_VALUE_PROP}. If your property faces those famous tides, {CTA_PRIMARY} today and get your {ESTIMATE_TYPE} estimate.",
+  "local_facts": [
+   "2021 census population: 1,220",
+   "Community in Cumberland County on the Bay of Fundy shore, Chignecto region, Nova Scotia",
+   "Parrsboro's geological attractions anchor the area's fossil tourism",
+   "Bay of Fundy tides shape the shore near Parrsboro",
+   "Postal district: FSA B4H",
+   "102.9 km from Halifax — the closest of the region's five published communities to the capital",
+   "Nearest published neighbour is Springhill, 34.5 km away"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Parrsboro has the region's largest gap to a served neighbour — 34.5 km to Springhill — yet at 102.9 km it is the closest of Chignecto's 5 published communities to Halifax."
+  },
+  "services_grid": {
+   "heading": "Services in Parrsboro",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/parrsboro/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/parrsboro/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/parrsboro/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/parrsboro/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/parrsboro/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/parrsboro/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Parrsboro"
+  },
+  "faqs": [
+   {
+    "question": "Do you actually serve Parrsboro, given its distance from other towns?",
+    "answer": "Yes, fully. Parrsboro's nearest published neighbour, Springhill, is 34.5 km away, but that distance is built into our Cumberland County scheduling. Parrsboro jobs get the same {RESPONSE_TIME} response, {ESTIMATE_TYPE} estimate, and pricing terms as anywhere else — remoteness is never treated as a surcharge."
+   },
+   {
+    "question": "How do Bay of Fundy tides affect {SERVICE} in Parrsboro?",
+    "answer": "Directly. The Fundy's powerful tides shape the shore at Parrsboro, and open Maritime weather off the water works on exteriors all year. We specify coastal-rated materials and schedule around the seasons so the work survives that exposure, instead of failing early the way inland-spec jobs often do here."
+   },
+   {
+    "question": "What does {SERVICE} cost in Parrsboro?",
+    "answer": "Most Parrsboro work falls within {PRICE_RANGE}, depending on scope and shore exposure — coastal-rated materials are specified where the property needs them. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate with transparent, upfront pricing, and travel to Parrsboro never appears as a hidden fee on the final bill."
+   },
+   {
+    "question": "How quickly do you respond to calls in Parrsboro?",
+    "answer": "Typically within {RESPONSE_TIME}. Parrsboro sits 102.9 km from Halifax — closer to the capital than any other published Chignecto community — and our {AVAILABILITY} scheduling reserves room for Fundy-shore runs, so urgent jobs here are prioritized rather than pushed behind in-town work."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} on the Fundy shore?",
+    "answer": "Because coastal work is a specialty, not an afterthought. With {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS}, and a {RATING} rating, we know what tides, wind, and Maritime moisture do to Parrsboro buildings and how to stop it. {UNIQUE_VALUE_PROP}. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Parrsboro, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "springhill",
+    "name": "Springhill",
+    "km": 34.5,
+    "url": "/areas/springhill",
+    "anchor": "Springhill, 34.5 km inland"
+   },
+   {
+    "slug": "wolfville",
+    "name": "Wolfville",
+    "km": 35.1,
+    "url": "/areas/wolfville",
+    "anchor": "Wolfville, 35.1 km away in the Annapolis Valley"
+   },
+   {
+    "slug": "port-williams",
+    "name": "Port Williams",
+    "km": 35.6,
+    "url": "/areas/port-williams",
+    "anchor": "Port Williams, 35.6 km distant in the Valley"
+   },
+   {
+    "slug": "kentville",
+    "name": "Kentville",
+    "km": 38.6,
+    "url": "/areas/kentville",
+    "anchor": "Kentville, at 38.6 km in the Annapolis Valley"
+   },
+   {
+    "slug": "new-minas",
+    "name": "New Minas",
+    "km": 39.1,
+    "url": "/areas/new-minas",
+    "anchor": "New Minas, 39.1 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/chignecto",
+   "name": "Chignecto",
+   "anchor": "Chignecto service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-chignecto",
+    "title": "What {SERVICE} Costs in Chignecto: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-chignecto",
+    "title": "Chignecto Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-chignecto",
+    "title": "How to Choose a {BUSINESS_TYPE} in Chignecto"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-chignecto",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Chignecto, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Parrsboro",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Parrsboro quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "parrsboro"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+   "filename": "parrsboro-chignecto-ns.webp",
+   "alt_layer1_geo": "Parrsboro, Chignecto Nova Scotia — Fundy-shore community where powerful tides meet famous geological attractions",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Parrsboro, Nova Scotia — Parrsboro, Chignecto Nova Scotia — Fundy-shore community where powerful tides meet famous geological attractions",
+   "title": "Parrsboro, Chignecto Nova Scotia — Fundy-shore community where powerful tides meet famous geological attractions",
+   "caption": "Parrsboro, Chignecto Nova Scotia — Fundy-shore community where powerful tides meet famous geological attractions",
+   "exif_geo": {
+    "lat": 45.405,
+    "lng": -64.331,
+    "name": "Parrsboro, Nova Scotia"
+   },
+   "license": "CC BY-SA 4.0",
+   "attribution": "Staka — CC BY-SA 4.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "geography/climate: Bay of Fundy tides shaping the shore, coastal Maritime weather",
+   "landmarks/economy: Parrsboro geological attractions and fossil tourism, Joggins Fossil Cliffs on the same coast",
+   "building stock: modest small-town homes",
+   "distance/access: most remote published community (34.5 km to Springhill) yet closest to Halifax (102.9 km); Annapolis Valley towns ~35-39 km",
+   "economy: agriculture and forestry alongside fossil tourism"
+  ],
+  "signals_count": 5,
+  "opener_words": "Bay of Fundy tides shape the shore at",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/parrsboro#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Parrsboro",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Parrsboro, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Springhill, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Wolfville, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Port Williams, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.405,
+        "longitude": -64.331
+       },
+       "geoRadius": "25000"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Parrsboro",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/parrsboro#page",
+     "url": "{BRAND_URL}/areas/parrsboro",
+     "name": "{SERVICE} in Parrsboro, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/parrsboro#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/parrsboro#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Chignecto",
+       "item": "{BRAND_URL}/areas/region/chignecto"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Parrsboro",
+       "item": "{BRAND_URL}/areas/parrsboro"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/parrsboro#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you actually serve Parrsboro, given its distance from other towns?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, fully. Parrsboro's nearest published neighbour, Springhill, is 34.5 km away, but that distance is built into our Cumberland County scheduling. Parrsboro jobs get the same {RESPONSE_TIME} response, {ESTIMATE_TYPE} estimate, and pricing terms as anywhere else — remoteness is never treated as a surcharge."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How do Bay of Fundy tides affect {SERVICE} in Parrsboro?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Directly. The Fundy's powerful tides shape the shore at Parrsboro, and open Maritime weather off the water works on exteriors all year. We specify coastal-rated materials and schedule around the seasons so the work survives that exposure, instead of failing early the way inland-spec jobs often do here."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Parrsboro?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most Parrsboro work falls within {PRICE_RANGE}, depending on scope and shore exposure — coastal-rated materials are specified where the property needs them. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate with transparent, upfront pricing, and travel to Parrsboro never appears as a hidden fee on the final bill."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly do you respond to calls in Parrsboro?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically within {RESPONSE_TIME}. Parrsboro sits 102.9 km from Halifax — closer to the capital than any other published Chignecto community — and our {AVAILABILITY} scheduling reserves room for Fundy-shore runs, so urgent jobs here are prioritized rather than pushed behind in-town work."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} on the Fundy shore?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because coastal work is a specialty, not an afterthought. With {YEARS_IN_BUSINESS} years in business, {CERTIFICATIONS}, and a {RATING} rating, we know what tides, wind, and Maritime moisture do to Parrsboro buildings and how to stop it. {UNIQUE_VALUE_PROP}. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/parrsboro#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+     "name": "Parrsboro, Chignecto Nova Scotia — Fundy-shore community where powerful tides meet famous geological attractions",
+     "caption": "Parrsboro, Chignecto Nova Scotia — Fundy-shore community where powerful tides meet famous geological attractions",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Staka"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Parrsboro, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.405,
+       "longitude": -64.331
+      }
+     }
+    }
+   ]
+  }
+ }
+]

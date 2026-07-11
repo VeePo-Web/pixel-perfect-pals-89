@@ -1,0 +1,44 @@
+{
+ "built": 248,
+ "byRegion": {
+  "annapolis-valley": 16,
+  "cape-breton": 55,
+  "central-nova-scotia": 14,
+  "chignecto": 5,
+  "eastern-shore": 3,
+  "fundy-shore": 6,
+  "halifax-metro": 130,
+  "northumberland-shore": 8,
+  "south-shore": 11
+ },
+ "byTier": {
+  "1": 13,
+  "2": 57,
+  "3": 178
+ },
+ "byType": {
+  "Regional Municipality": 3,
+  "County Municipality": 9,
+  "Town": 28,
+  "Community": 141,
+  "City": 2,
+  "First Nations Reserve": 4,
+  "District Municipality": 11,
+  "Urban Community": 5,
+  "Neighborhood": 45
+ },
+ "score_min": 50,
+ "score_max": 77.3,
+ "top10": [
+  "Halifax 77.3",
+  "Cape Breton 73.2",
+  "Sydney 70.4",
+  "Dartmouth 67.5",
+  "West Hants 67.3",
+  "East Hants 66.3",
+  "Kings County 66.2",
+  "Colchester County 65.9",
+  "Bedford 65.5",
+  "Lunenburg District 65.3"
+ ]
+}
