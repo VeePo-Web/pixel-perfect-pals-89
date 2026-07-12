@@ -1,1030 +1,7078 @@
 {
   "province": "Prince Edward Island",
-  "mode": "B (no vendor spreadsheet — enumerated from open data)",
-  "generated": "2026-07-11",
-  "sources": {
-    "population": "StatCan 2021 Census Table 98-10-0002 (OGL-Canada)",
-    "coordinates": "GeoNames CA gazetteer (CC BY 4.0)"
+  "mode": "B (enumerated from open data — no vendor spreadsheet)",
+  "generated": "2026-07-12",
+  "authoritativeSource": "NRCan Canadian Geographical Names Database (CGN) file cgn_pe_csv_eng — OGL-Canada; populations StatCan 2021 Table 98-10-0002",
+  "totalNamedFeaturesInCGN": 1871,
+  "populatedPlacesInCGN": 649,
+  "populatedPlaceBreakdown": {
+    "CITY": 2,
+    "TOWN": 11,
+    "VILG": 71,
+    "UNP": 564
   },
-  "scoreFormula": "unified SEO_Priority_Score (Population30 + SearchVol25 + Competition20 + Proximity15 + Economic10); hubs = Charlottetown, Summerside",
-  "gate": "score >= 50 AND real coords AND real 2021 population AND >=4 grounded local signals",
+  "nonPlaceFeaturesExcluded": {
+    "note": "not location pages",
+    "waterFeatures": 640,
+    "terrainFeatures": 424,
+    "administrativeAreas": 130
+  },
   "coverage": {
-    "intendedPlaces": 618,
-    "intendedBreakdown": {
-      "statcanCSDs": 98,
-      "geonamesOnlyLocalities": 520
-    },
-    "builtPages": 45,
-    "builtBreakdown": {
-      "statcanCSDsMergedInto36Pages": 52,
-      "geonamesNeighbourhoods": 9
-    },
-    "deferred": 557,
-    "deferredBreakdown": {
-      "csdPartsLotsSubGate": 46,
-      "geonamesLocalitiesBelowGate": 511
-    },
-    "identity": "618 = 61 promoted places (45 pages) + 557 deferred"
+    "intendedPopulatedPlaces": 649,
+    "builtPages": 67,
+    "builtFromCGNPlaces": 86,
+    "charlottetownNeighbourhoodsAdded": 7,
+    "deferred": 563,
+    "identity": "649 CGN populated places = 86 matched-built + 563 deferred; +7 Charlottetown neighbourhoods = 67 pages"
+  },
+  "deferredByReason": {
+    "unincorporated locality / dispersed place-name": 532,
+    "incorporated/village name without a distinct StatCan 2021 population record": 26,
+    "incorporated village but sub-100 population": 3,
+    "incorporated village below build tier / covered by parent-community context": 2
   },
   "regions": [
     {
       "slug": "queens-county",
-      "name": "Queens County",
-      "heroImage": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cavendish_Beach%2C_Prince_Edward_Island_%28471066%29_%289447867103%29.jpg"
+      "name": "Queens County"
     },
     {
       "slug": "prince-county",
-      "name": "Prince County",
-      "heroImage": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Confederation_Bridge.jpg"
+      "name": "Prince County"
     },
     {
       "slug": "kings-county",
-      "name": "Kings County",
-      "heroImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Prince_Edward_Island_009_%287893580298%29.jpg"
+      "name": "Kings County"
     }
   ],
-  "build": [
+  "builtPages": [
     {
       "slug": "charlottetown",
       "name": "Charlottetown",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 1,
-      "coordinates": {
-        "lat": 46.2346,
-        "lng": -63.1256
-      },
-      "streets": 6,
-      "landmarks": 7,
-      "nearest": [
-        "stratford",
-        "cornwall",
-        "brackley",
-        "clyde-river",
-        "sherwood"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2346,
+      "lng": -63.1256
     },
     {
       "slug": "stratford",
       "name": "Stratford",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 1,
-      "coordinates": {
-        "lat": 46.2179,
-        "lng": -63.0795
-      },
-      "streets": 5,
-      "landmarks": 5,
-      "nearest": [
-        "charlottetown",
-        "cornwall",
-        "brackley",
-        "clyde-river",
-        "belfast"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2179,
+      "lng": -63.0795
     },
     {
       "slug": "cornwall",
       "name": "Cornwall",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 1,
-      "coordinates": {
-        "lat": 46.2265,
-        "lng": -63.2181
-      },
-      "streets": 5,
-      "landmarks": 5,
-      "nearest": [
-        "clyde-river",
-        "charlottetown",
-        "west-river",
-        "miltonvale-park",
-        "stratford"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2265,
+      "lng": -63.2181
     },
     {
       "slug": "new-glasgow",
       "name": "New Glasgow",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.4168,
-        "lng": -63.3487
-      },
-      "streets": 3,
-      "landmarks": 5,
-      "nearest": [
-        "north-rustico",
-        "hunter-river",
-        "cavendish",
-        "new-london",
-        "north-shore"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4168,
+      "lng": -63.3487
     },
     {
       "slug": "north-shore",
       "name": "North Shore",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.3834,
-        "lng": -63.1154
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "brackley",
-        "miltonvale-park",
-        "charlottetown",
-        "north-rustico",
-        "hunter-river"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.3834,
+      "lng": -63.1154
     },
     {
       "slug": "west-river",
       "name": "West River",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.1668,
-        "lng": -63.2987
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "clyde-river",
-        "cornwall",
-        "victoria",
-        "charlottetown",
-        "crapaud"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.1668,
+      "lng": -63.2987
     },
     {
       "slug": "vernon-river",
       "name": "Vernon River",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.2001,
-        "lng": -62.832
-      },
-      "streets": 4,
-      "landmarks": 4,
-      "nearest": [
-        "belfast",
-        "stratford",
-        "three-rivers",
-        "charlottetown",
-        "clyde-river"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2001,
+      "lng": -62.832
     },
     {
       "slug": "belfast",
       "name": "Belfast",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.0668,
-        "lng": -62.882
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "vernon-river",
-        "stratford",
-        "charlottetown",
-        "three-rivers",
-        "clyde-river"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.0668,
+      "lng": -62.882
     },
     {
       "slug": "new-london",
       "name": "New London",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.4668,
-        "lng": -63.5154
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "cavendish",
-        "kensington",
-        "malpeque-bay",
-        "new-glasgow",
-        "north-rustico"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4668,
+      "lng": -63.5154
     },
     {
       "slug": "miltonvale-park",
       "name": "Miltonvale Park",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.3168,
-        "lng": -63.2154
-      },
-      "streets": 4,
-      "landmarks": 4,
-      "nearest": [
-        "brackley",
-        "cornwall",
-        "north-shore",
-        "hunter-river",
-        "charlottetown"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.3168,
+      "lng": -63.2154
     },
     {
       "slug": "brackley",
       "name": "Brackley",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.3168,
-        "lng": -63.1487
-      },
-      "streets": 3,
-      "landmarks": 5,
-      "nearest": [
-        "miltonvale-park",
-        "north-shore",
-        "charlottetown",
-        "cornwall",
-        "hunter-river"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.3168,
+      "lng": -63.1487
     },
     {
       "slug": "clyde-river",
       "name": "Clyde River",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.2168,
-        "lng": -63.2654
-      },
-      "streets": 3,
-      "landmarks": 4,
-      "nearest": [
-        "cornwall",
-        "west-river",
-        "charlottetown",
-        "miltonvale-park",
-        "crapaud"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2168,
+      "lng": -63.2654
     },
     {
       "slug": "hunter-river",
       "name": "Hunter River",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.3501,
-        "lng": -63.3487
-      },
-      "streets": 3,
-      "landmarks": 4,
-      "nearest": [
-        "new-glasgow",
-        "miltonvale-park",
-        "north-rustico",
-        "cavendish",
-        "brackley"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.3501,
+      "lng": -63.3487
     },
     {
       "slug": "north-rustico",
       "name": "North Rustico",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.4501,
-        "lng": -63.3154
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "new-glasgow",
-        "cavendish",
-        "hunter-river",
-        "new-london",
-        "north-shore"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4501,
+      "lng": -63.3154
     },
     {
       "slug": "cavendish",
       "name": "Cavendish",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.4807,
-        "lng": -63.3909
-      },
-      "streets": 3,
-      "landmarks": 5,
-      "nearest": [
-        "north-rustico",
-        "new-glasgow",
-        "new-london",
-        "hunter-river",
-        "north-shore"
-      ],
-      "hero": "community"
+      "lat": 46.4807,
+      "lng": -63.3909
     },
     {
       "slug": "crapaud",
       "name": "Crapaud",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.2334,
-        "lng": -63.4987
-      },
-      "streets": 4,
-      "landmarks": 4,
-      "nearest": [
-        "victoria",
-        "kinkora",
-        "borden-carleton",
-        "west-river",
-        "clyde-river"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2334,
+      "lng": -63.4987
     },
     {
       "slug": "victoria",
       "name": "Victoria",
       "region": "queens-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.2168,
-        "lng": -63.482
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "crapaud",
-        "kinkora",
-        "west-river",
-        "borden-carleton",
-        "clyde-river"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2168,
+      "lng": -63.482
     },
     {
       "slug": "downtown-charlottetown",
       "name": "Downtown Charlottetown",
       "region": "queens-county",
-      "city": "Charlottetown",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.2325,
-        "lng": -63.1273
-      },
-      "streets": 6,
-      "landmarks": 6,
-      "nearest": [
-        "charlottetown",
-        "brighton",
-        "spring-park",
-        "parkdale",
-        "sherwood"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2325,
+      "lng": -63.1273
     },
     {
       "slug": "sherwood",
       "name": "Sherwood",
       "region": "queens-county",
-      "city": "Charlottetown",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.2682,
-        "lng": -63.1284
-      },
-      "streets": 5,
-      "landmarks": 4,
-      "nearest": [
-        "charlottetown",
-        "west-royalty",
-        "east-royalty",
-        "parkdale",
-        "downtown-charlottetown"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2682,
+      "lng": -63.1284
     },
     {
       "slug": "west-royalty",
       "name": "West Royalty",
       "region": "queens-county",
-      "city": "Charlottetown",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.2584,
-        "lng": -63.1626
-      },
-      "streets": 5,
-      "landmarks": 4,
-      "nearest": [
-        "charlottetown",
-        "sherwood",
-        "parkdale",
-        "cornwall",
-        "east-royalty"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2584,
+      "lng": -63.1626
     },
     {
       "slug": "east-royalty",
       "name": "East Royalty",
       "region": "queens-county",
-      "city": "Charlottetown",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.2779,
-        "lng": -63.1023
-      },
-      "streets": 5,
-      "landmarks": 4,
-      "nearest": [
-        "charlottetown",
-        "sherwood",
-        "stratford",
-        "downtown-charlottetown",
-        "west-royalty"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2779,
+      "lng": -63.1023
     },
     {
       "slug": "spring-park",
       "name": "Spring Park",
       "region": "queens-county",
-      "city": "Charlottetown",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.2496,
-        "lng": -63.144
-      },
-      "streets": 5,
-      "landmarks": 4,
-      "nearest": [
-        "charlottetown",
-        "downtown-charlottetown",
-        "brighton",
-        "parkdale",
-        "sherwood"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2496,
+      "lng": -63.144
     },
     {
       "slug": "brighton",
       "name": "Brighton",
       "region": "queens-county",
-      "city": "Charlottetown",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.2354,
-        "lng": -63.144
-      },
-      "streets": 5,
-      "landmarks": 5,
-      "nearest": [
-        "charlottetown",
-        "downtown-charlottetown",
-        "spring-park",
-        "parkdale",
-        "sherwood"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.2354,
+      "lng": -63.144
     },
     {
       "slug": "parkdale",
       "name": "Parkdale",
       "region": "queens-county",
-      "city": "Charlottetown",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.252,
-        "lng": -63.1181
-      },
-      "streets": 5,
-      "landmarks": 4,
-      "nearest": [
-        "charlottetown",
-        "downtown-charlottetown",
-        "sherwood",
-        "spring-park",
-        "east-royalty"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.252,
+      "lng": -63.1181
     },
     {
       "slug": "summerside",
       "name": "Summerside",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 1,
-      "coordinates": {
-        "lat": 46.3912,
-        "lng": -63.7887
-      },
-      "streets": 6,
-      "landmarks": 7,
-      "nearest": [
-        "linkletter",
-        "miscouche",
-        "kensington",
-        "kinkora",
-        "wellington"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.3912,
+      "lng": -63.7887
     },
     {
       "slug": "kensington",
       "name": "Kensington",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.4334,
-        "lng": -63.6487
-      },
-      "streets": 5,
-      "landmarks": 4,
-      "nearest": [
-        "malpeque-bay",
-        "new-london",
-        "summerside",
-        "kinkora",
-        "miscouche"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4334,
+      "lng": -63.6487
     },
     {
       "slug": "borden-carleton",
       "name": "Borden-Carleton",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.2618,
-        "lng": -63.6726
-      },
-      "streets": 4,
-      "landmarks": 4,
-      "nearest": [
-        "kinkora",
-        "crapaud",
-        "victoria",
-        "summerside",
-        "linkletter"
-      ],
-      "hero": "community"
+      "lat": 46.2618,
+      "lng": -63.6726
     },
     {
       "slug": "kinkora",
       "name": "Kinkora",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.3168,
-        "lng": -63.5987
-      },
-      "streets": 3,
-      "landmarks": 3,
-      "nearest": [
-        "borden-carleton",
-        "crapaud",
-        "kensington",
-        "victoria",
-        "summerside"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.3168,
+      "lng": -63.5987
     },
     {
       "slug": "miscouche",
       "name": "Miscouche",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.4334,
-        "lng": -63.8654
-      },
-      "streets": 3,
-      "landmarks": 4,
-      "nearest": [
-        "linkletter",
-        "summerside",
-        "wellington",
-        "kensington",
-        "abram-village"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4334,
+      "lng": -63.8654
     },
     {
       "slug": "wellington",
       "name": "Wellington",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.4501,
-        "lng": -63.9987
-      },
-      "streets": 4,
-      "landmarks": 4,
-      "nearest": [
-        "abram-village",
-        "miscouche",
-        "linkletter",
-        "tyne-valley",
-        "summerside"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4501,
+      "lng": -63.9987
     },
     {
       "slug": "abram-village",
       "name": "Abram-Village",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.4501,
-        "lng": -64.082
-      },
-      "streets": 3,
-      "landmarks": 4,
-      "nearest": [
-        "wellington",
-        "miscouche",
-        "tyne-valley",
-        "linkletter",
-        "summerside"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4501,
+      "lng": -64.082
     },
     {
       "slug": "linkletter",
       "name": "Linkletter",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.4168,
-        "lng": -63.832
-      },
-      "streets": 3,
-      "landmarks": 4,
-      "nearest": [
-        "summerside",
-        "miscouche",
-        "wellington",
-        "kensington",
-        "abram-village"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4168,
+      "lng": -63.832
     },
     {
       "slug": "malpeque-bay",
       "name": "Malpeque Bay",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.5168,
-        "lng": -63.6487
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "kensington",
-        "new-london",
-        "summerside",
-        "linkletter",
-        "tyne-valley"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.5168,
+      "lng": -63.6487
     },
     {
       "slug": "tyne-valley",
       "name": "Tyne Valley",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.5834,
-        "lng": -63.932
-      },
-      "streets": 3,
-      "landmarks": 4,
-      "nearest": [
-        "wellington",
-        "miscouche",
-        "abram-village",
-        "malpeque-bay",
-        "linkletter"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.5834,
+      "lng": -63.932
     },
     {
       "slug": "alberton",
       "name": "Alberton",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.8168,
-        "lng": -64.0654
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "miminegash",
-        "tignish",
-        "oleary",
-        "tyne-valley",
-        "wellington"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.8168,
+      "lng": -64.0654
     },
     {
       "slug": "oleary",
       "name": "O'Leary",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.7168,
-        "lng": -64.232
-      },
-      "streets": 4,
-      "landmarks": 4,
-      "nearest": [
-        "alberton",
-        "miminegash",
-        "tyne-valley",
-        "tignish",
-        "wellington"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.7168,
+      "lng": -64.232
     },
     {
       "slug": "tignish",
       "name": "Tignish",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.9501,
-        "lng": -64.032
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "alberton",
-        "miminegash",
-        "oleary",
-        "tyne-valley",
-        "wellington"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.9501,
+      "lng": -64.032
     },
     {
       "slug": "miminegash",
       "name": "Miminegash",
       "region": "prince-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.8803,
-        "lng": -64.2282
-      },
-      "streets": 3,
-      "landmarks": 4,
-      "nearest": [
-        "alberton",
-        "tignish",
-        "oleary",
-        "tyne-valley",
-        "wellington"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.8803,
+      "lng": -64.2282
     },
     {
       "slug": "three-rivers",
       "name": "Three Rivers",
       "region": "kings-county",
-      "city": "Prince Edward Island",
       "tier": 1,
-      "coordinates": {
-        "lat": 46.1845,
-        "lng": -62.5679
-      },
-      "streets": 5,
-      "landmarks": 6,
-      "nearest": [
-        "montague",
-        "georgetown",
-        "vernon-river",
-        "murray-harbour",
-        "st-peters-bay"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.1845,
+      "lng": -62.5679
     },
     {
       "slug": "montague",
       "name": "Montague",
       "region": "kings-county",
-      "city": "Three Rivers",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.1668,
-        "lng": -62.6487
-      },
-      "streets": 5,
-      "landmarks": 5,
-      "nearest": [
-        "three-rivers",
-        "georgetown",
-        "vernon-river",
-        "murray-harbour",
-        "belfast"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.1668,
+      "lng": -62.6487
     },
     {
       "slug": "georgetown",
       "name": "Georgetown",
       "region": "kings-county",
-      "city": "Three Rivers",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.1834,
-        "lng": -62.532
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "three-rivers",
-        "montague",
-        "murray-harbour",
-        "vernon-river",
-        "st-peters-bay"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.1834,
+      "lng": -62.532
     },
     {
       "slug": "souris",
       "name": "Souris",
       "region": "kings-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.3501,
-        "lng": -62.2486
-      },
-      "streets": 5,
-      "landmarks": 5,
-      "nearest": [
-        "st-peters-bay",
-        "three-rivers",
-        "morell",
-        "murray-harbour",
-        "montague"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.3501,
+      "lng": -62.2486
     },
     {
       "slug": "morell",
       "name": "Morell",
       "region": "kings-county",
-      "city": "Prince Edward Island",
       "tier": 2,
-      "coordinates": {
-        "lat": 46.4168,
-        "lng": -62.6987
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "st-peters-bay",
-        "vernon-river",
-        "three-rivers",
-        "souris",
-        "north-shore"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4168,
+      "lng": -62.6987
     },
     {
       "slug": "st-peters-bay",
       "name": "St. Peters Bay",
       "region": "kings-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.4168,
-        "lng": -62.582
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "morell",
-        "three-rivers",
-        "souris",
-        "vernon-river",
-        "north-shore"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.4168,
+      "lng": -62.582
     },
     {
       "slug": "murray-harbour",
       "name": "Murray Harbour",
       "region": "kings-county",
-      "city": "Prince Edward Island",
       "tier": 3,
-      "coordinates": {
-        "lat": 46.0001,
-        "lng": -62.5153
-      },
-      "streets": 4,
-      "landmarks": 5,
-      "nearest": [
-        "three-rivers",
-        "belfast",
-        "montague",
-        "souris",
-        "vernon-river"
-      ],
-      "hero": "region-fallback"
+      "lat": 46.0001,
+      "lng": -62.5153
+    },
+    {
+      "slug": "murray-river",
+      "name": "Murray River",
+      "region": "kings-county",
+      "tier": 3,
+      "lat": 46.017,
+      "lng": -62.616
+    },
+    {
+      "slug": "cardigan",
+      "name": "Cardigan",
+      "region": "kings-county",
+      "tier": 3,
+      "lat": 46.233,
+      "lng": -62.618
+    },
+    {
+      "slug": "central-kings",
+      "name": "Central Kings",
+      "region": "kings-county",
+      "tier": 3,
+      "lat": 46.324,
+      "lng": -62.494
+    },
+    {
+      "slug": "eastern-kings",
+      "name": "Eastern Kings",
+      "region": "kings-county",
+      "tier": 3,
+      "lat": 46.435,
+      "lng": -62.116
+    },
+    {
+      "slug": "souris-west",
+      "name": "Souris West",
+      "region": "kings-county",
+      "tier": 3,
+      "lat": 46.359,
+      "lng": -62.283
+    },
+    {
+      "slug": "annandale-little-pond-howe-bay",
+      "name": "Annandale-Little Pond-Howe Bay",
+      "region": "kings-county",
+      "tier": 3,
+      "lat": 46.29,
+      "lng": -62.413
+    },
+    {
+      "slug": "mount-stewart",
+      "name": "Mount Stewart",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.368,
+      "lng": -62.875
+    },
+    {
+      "slug": "kingston",
+      "name": "Kingston",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.264,
+      "lng": -63.328
+    },
+    {
+      "slug": "hampshire",
+      "name": "Hampshire",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.287,
+      "lng": -63.273
+    },
+    {
+      "slug": "north-wiltshire",
+      "name": "North Wiltshire",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.298,
+      "lng": -63.324
+    },
+    {
+      "slug": "breadalbane",
+      "name": "Breadalbane",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.357,
+      "lng": -63.502
+    },
+    {
+      "slug": "warren-grove",
+      "name": "Warren Grove",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.273,
+      "lng": -63.221
+    },
+    {
+      "slug": "york",
+      "name": "York",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.316,
+      "lng": -63.098
+    },
+    {
+      "slug": "union-road",
+      "name": "Union Road",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.324,
+      "lng": -63.132
+    },
+    {
+      "slug": "alexandra",
+      "name": "Alexandra",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.196,
+      "lng": -63.032
+    },
+    {
+      "slug": "hazelbrook",
+      "name": "Hazelbrook",
+      "region": "queens-county",
+      "tier": 3,
+      "lat": 46.222,
+      "lng": -63
+    },
+    {
+      "slug": "bedeque",
+      "name": "Bedeque and Area",
+      "region": "prince-county",
+      "tier": 3,
+      "lat": 46.34,
+      "lng": -63.711
+    },
+    {
+      "slug": "sherbrooke",
+      "name": "Sherbrooke",
+      "region": "prince-county",
+      "tier": 3,
+      "lat": 46.425,
+      "lng": -63.781
+    },
+    {
+      "slug": "st-nicholas",
+      "name": "St. Nicholas",
+      "region": "prince-county",
+      "tier": 3,
+      "lat": 46.419,
+      "lng": -63.955
+    },
+    {
+      "slug": "greenmount-montrose",
+      "name": "Greenmount-Montrose",
+      "region": "prince-county",
+      "tier": 3,
+      "lat": 46.867,
+      "lng": -64.033
+    },
+    {
+      "slug": "st-felix",
+      "name": "St. Felix",
+      "region": "prince-county",
+      "tier": 3,
+      "lat": 46.927,
+      "lng": -64.023
+    },
+    {
+      "slug": "northport",
+      "name": "Northport",
+      "region": "prince-county",
+      "tier": 3,
+      "lat": 46.796,
+      "lng": -64.064
     }
   ],
-  "imageManifest": [
+  "cgnEnumeration": [
     {
-      "scope": "region",
-      "slug": "queens-county",
-      "tier": "region",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cavendish_Beach%2C_Prince_Edward_Island_%28471066%29_%289447867103%29.jpg",
-      "altStored": "Red sandstone cliffs and Gulf of St. Lawrence beach at Cavendish, Queens County, Prince Edward Island"
+      "name": "48 Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.255711,
+      "lng": -62.714472,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
     },
     {
-      "scope": "region",
-      "slug": "prince-county",
-      "tier": "region",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Confederation_Bridge.jpg",
-      "altStored": "The 12.9-kilometre Confederation Bridge crossing the Northumberland Strait to Borden-Carleton, Prince County, Prince Edward Island"
+      "name": "Abney",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 45.99428,
+      "lng": -62.569733,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
     },
     {
-      "scope": "region",
-      "slug": "kings-county",
-      "tier": "region",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Prince_Edward_Island_009_%287893580298%29.jpg",
-      "altStored": "Georgetown harbour and shoreline in eastern Kings County, Prince Edward Island"
+      "name": "Abram-Village",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.45,
+      "lng": -64.083333,
+      "pop": 340,
+      "score": 50.1,
+      "status": "BUILT"
     },
     {
-      "scope": "community",
-      "slug": "cavendish",
-      "tier": "real",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Cavendish_PE.jpg",
-      "altStored": "Cavendish farmland and Gulf shore, Queens County, Prince Edward Island — the Anne of Green Gables landscape"
+      "name": "Afton",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.17015,
+      "lng": -63.20324,
+      "pop": null,
+      "score": 36.7,
+      "status": "DEFERRED"
     },
     {
-      "scope": "community",
-      "slug": "borden-carleton",
-      "tier": "real",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Confederation_Bridge.jpg",
-      "altStored": "Confederation Bridge landing at Borden-Carleton, Prince County — the fixed link across the Northumberland Strait to New Brunswick"
+      "name": "Afton Road",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.378441,
+      "lng": -62.925412,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Alaska",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.616981,
+      "lng": -64.108677,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Albany",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.286052,
+      "lng": -63.643834,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Albany Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.27973,
+      "lng": -63.625043,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Alberry Plains",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.213237,
+      "lng": -62.792401,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Alberton",
+      "code": "TOWN",
+      "county": "Prince County",
+      "lat": 46.812804,
+      "lng": -64.065297,
+      "pop": 2230,
+      "score": 57,
+      "status": "BUILT"
+    },
+    {
+      "name": "Alberton South",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.797222,
+      "lng": -64.077778,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Albion",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.131422,
+      "lng": -62.554517,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Albion Cross",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.335771,
+      "lng": -62.486919,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Alexandra",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.19591,
+      "lng": -63.019479,
+      "pop": 252,
+      "score": 47.9,
+      "status": "BUILT"
+    },
+    {
+      "name": "Alexandra",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.195833,
+      "lng": -63.031944,
+      "pop": 252,
+      "score": 49.9,
+      "status": "BUILT"
+    },
+    {
+      "name": "Allisary",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.363564,
+      "lng": -62.851346,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Alliston",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.058406,
+      "lng": -62.606701,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Alma",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.861483,
+      "lng": -64.109542,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Anglo Rustico",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.442244,
+      "lng": -63.294859,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Anglo Tignish",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.975782,
+      "lng": -63.995718,
+      "pop": null,
+      "score": 33,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Annandale",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.260852,
+      "lng": -62.423688,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Annandale-Little Pond-Howe Bay",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.28963,
+      "lng": -62.41324,
+      "pop": 223,
+      "score": 48.3,
+      "status": "BUILT"
+    },
+    {
+      "name": "Appin Road",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.240808,
+      "lng": -63.396754,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Argyle Shore",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.164566,
+      "lng": -63.350792,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Arlington",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.529285,
+      "lng": -63.911495,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Ascension",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.959269,
+      "lng": -64.064692,
+      "pop": null,
+      "score": 33,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Ashton",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.424106,
+      "lng": -62.512003,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Auburn",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.293641,
+      "lng": -62.907948,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Augustine Cove",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.224984,
+      "lng": -63.608186,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Augustus",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.328339,
+      "lng": -62.890936,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Avondale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.243425,
+      "lng": -62.832019,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Baie-Egmont",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.483333,
+      "lng": -64.1,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Baldwin Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.266667,
+      "lng": -62.733333,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bangor",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.365833,
+      "lng": -62.690264,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bay Fortune",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.330669,
+      "lng": -62.361931,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bayfield",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.474622,
+      "lng": -62.201758,
+      "pop": null,
+      "score": 32.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bayside",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.518505,
+      "lng": -63.891903,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bayview",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.474687,
+      "lng": -63.436044,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Beach Point",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.013439,
+      "lng": -62.48013,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bear River",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.404009,
+      "lng": -62.358786,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bear River North",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.433333,
+      "lng": -62.366667,
+      "pop": null,
+      "score": 35.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bear River South",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.383333,
+      "lng": -62.35,
+      "pop": null,
+      "score": 35.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Beaton Road",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.631497,
+      "lng": -64.147957,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bedeque",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.336795,
+      "lng": -63.724678,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bedeque and Area",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.34,
+      "lng": -63.7105556,
+      "pop": 311,
+      "score": 50.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Bedford Corner",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.327885,
+      "lng": -63.01711,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bedford Station",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.336075,
+      "lng": -63.021491,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Belfast",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.1,
+      "lng": -62.883333,
+      "pop": 1687,
+      "score": 53.3,
+      "status": "BUILT"
+    },
+    {
+      "name": "Belfast",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.083333,
+      "lng": -62.883333,
+      "pop": 1687,
+      "score": 53.3,
+      "status": "BUILT"
+    },
+    {
+      "name": "Belfast",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.078521,
+      "lng": -62.878289,
+      "pop": 1687,
+      "score": 55.2,
+      "status": "BUILT"
+    },
+    {
+      "name": "Belle River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 45.986736,
+      "lng": -62.835186,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bellevue",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.107578,
+      "lng": -62.756735,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Belmont Lot 16",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.479574,
+      "lng": -63.823431,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bethel",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.244616,
+      "lng": -62.971293,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bideford",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.604664,
+      "lng": -63.913868,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Big Pond",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.464596,
+      "lng": -62.255069,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Birch Hill",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.214932,
+      "lng": -62.962493,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Birch Hill",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.555007,
+      "lng": -63.872175,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Black Banks",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.732794,
+      "lng": -64.001315,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bloomfield",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.774388,
+      "lng": -64.229438,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bloomfield Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.761313,
+      "lng": -64.180609,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bloomfield Station",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.766667,
+      "lng": -64.233333,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Blooming Point",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.386823,
+      "lng": -62.973183,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bonshaw",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.2,
+      "lng": -63.35,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bonshaw",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.193518,
+      "lng": -63.354074,
+      "pop": null,
+      "score": 36.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Borden",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.254167,
+      "lng": -63.695833,
+      "pop": 809,
+      "score": 50,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Borden-Carleton",
+      "code": "TOWN",
+      "county": "Prince County",
+      "lat": 46.261667,
+      "lng": -63.673889,
+      "pop": 788,
+      "score": 54,
+      "status": "BUILT"
+    },
+    {
+      "name": "Bothwell",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.403926,
+      "lng": -62.080305,
+      "pop": null,
+      "score": 32.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brackley",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.316667,
+      "lng": -63.15,
+      "pop": 586,
+      "score": 49.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Brackley",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.3130556,
+      "lng": -63.1638889,
+      "pop": 586,
+      "score": 51.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Brackley Beach",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.42405,
+      "lng": -63.192078,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brackley Point",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.384562,
+      "lng": -63.185047,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brae",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.659243,
+      "lng": -64.190998,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brae Harbour",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.616873,
+      "lng": -64.184152,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Breadalbane",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.356944,
+      "lng": -63.501944,
+      "pop": 170,
+      "score": 46.7,
+      "status": "BUILT"
+    },
+    {
+      "name": "Bridgetown",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.307418,
+      "lng": -62.525729,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brighton",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.234722,
+      "lng": -63.15,
+      "pop": null,
+      "score": 34.9,
+      "status": "BUILT"
+    },
+    {
+      "name": "Bristol",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.414263,
+      "lng": -62.729976,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brockton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.800701,
+      "lng": -64.249459,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brookfield",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.325734,
+      "lng": -63.28406,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brooklyn",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.093609,
+      "lng": -62.670434,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brooklyn",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.803389,
+      "lng": -64.110929,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brookvale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.283879,
+      "lng": -63.407696,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brudenell",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.187498,
+      "lng": -62.651874,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Brudenell",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.183333,
+      "lng": -62.616667,
+      "pop": null,
+      "score": 35.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bunbury",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.236111,
+      "lng": -63.086944,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Bungay",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.368139,
+      "lng": -63.312466,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Burlington",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.485384,
+      "lng": -63.603239,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Burnt Point",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.17774,
+      "lng": -62.507113,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Burton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.770739,
+      "lng": -64.334268,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Byrnes Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.329918,
+      "lng": -62.741993,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cable Head East",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.465847,
+      "lng": -62.568155,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cable Head West",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.458357,
+      "lng": -62.626112,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Caledonia",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.06031,
+      "lng": -62.71093,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cambridge",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.074497,
+      "lng": -62.525827,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Campbells Cove",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.475897,
+      "lng": -62.141725,
+      "pop": null,
+      "score": 32.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Campbellton",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.476196,
+      "lng": -63.475071,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Campbellton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.792011,
+      "lng": -64.299271,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Canavoy",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.399817,
+      "lng": -62.809998,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Canoe Cove",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.154769,
+      "lng": -63.295405,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cap-Egmont",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.402778,
+      "lng": -64.1,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cape Traverse",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.242671,
+      "lng": -63.637593,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cape Traverse Landing",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.235734,
+      "lng": -63.651494,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cape Wolfe",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.721232,
+      "lng": -64.393307,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cardigan",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.233333,
+      "lng": -62.616667,
+      "pop": 125,
+      "score": 43.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Cardigan",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.233057,
+      "lng": -62.61845,
+      "pop": 125,
+      "score": 45.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Cardigan North",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.241579,
+      "lng": -62.565132,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cardross",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.273942,
+      "lng": -62.628965,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Carleton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.692023,
+      "lng": -64.151894,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Carleton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.256944,
+      "lng": -63.668056,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Carleton Siding",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.2625,
+      "lng": -63.674444,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cascumpec",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.739718,
+      "lng": -64.091464,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cavendish",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.491261,
+      "lng": -63.378674,
+      "pop": null,
+      "score": 34,
+      "status": "BUILT"
+    },
+    {
+      "name": "Central Bedeque",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.339776,
+      "lng": -63.702692,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Central Kildare",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.872104,
+      "lng": -64.006147,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Central Kings",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.32437,
+      "lng": -62.49427,
+      "pop": 386,
+      "score": 49.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Central Lot 16",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.481111,
+      "lng": -63.870833,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Charlottetown",
+      "code": "CITY",
+      "county": "Queens County",
+      "lat": 46.240278,
+      "lng": -63.134722,
+      "pop": 38809,
+      "score": 71.3,
+      "status": "BUILT"
+    },
+    {
+      "name": "Chelton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.303945,
+      "lng": -63.744373,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Chepstow",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.354783,
+      "lng": -62.214904,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cherry Hill",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.370759,
+      "lng": -62.817132,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cherry Valley",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.174502,
+      "lng": -62.923408,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "China Point",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.146181,
+      "lng": -62.902328,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Christopher Cross",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.984788,
+      "lng": -64.042436,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Church Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.373698,
+      "lng": -62.621138,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Churchill",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.218077,
+      "lng": -63.330725,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Clarkin",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.244677,
+      "lng": -62.883241,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Clearspring",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.458834,
+      "lng": -62.344274,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Clermont",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.448574,
+      "lng": -63.678935,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Clinton",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.448395,
+      "lng": -63.547807,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Clyde",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.346212,
+      "lng": -63.397633,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Clyde River",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.22396,
+      "lng": -63.26364,
+      "pop": 614,
+      "score": 51.7,
+      "status": "BUILT"
+    },
+    {
+      "name": "Clyde River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.223874,
+      "lng": -63.25716,
+      "pop": 614,
+      "score": 49.7,
+      "status": "BUILT"
+    },
+    {
+      "name": "Coleman",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.685894,
+      "lng": -64.167927,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Colville",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.302501,
+      "lng": -63.2822,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Commercial Cross",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.127525,
+      "lng": -62.633146,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Conway",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.658148,
+      "lng": -63.990656,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cornwall",
+      "code": "TOWN",
+      "county": "Queens County",
+      "lat": 46.226389,
+      "lng": -63.219444,
+      "pop": 6574,
+      "score": 63.5,
+      "status": "BUILT"
+    },
+    {
+      "name": "Corran Ban",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.383336,
+      "lng": -63.039703,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Corraville",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.318421,
+      "lng": -62.610414,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Covehead",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.381988,
+      "lng": -63.12514,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Covehead Road",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.358563,
+      "lng": -63.115364,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Crapaud",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.239273,
+      "lng": -63.497083,
+      "pop": 361,
+      "score": 50.1,
+      "status": "BUILT"
+    },
+    {
+      "name": "Crosbys Mill",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.203783,
+      "lng": -63.35274,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cross River",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.49543,
+      "lng": -63.961921,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cross Roads",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.217602,
+      "lng": -63.077805,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Culloden",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.024032,
+      "lng": -62.776172,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cumberland",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.170547,
+      "lng": -63.159118,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Cymbria",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.402391,
+      "lng": -63.254771,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dalvay",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.411511,
+      "lng": -63.066466,
+      "pop": null,
+      "score": 36.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dalvay by the Sea",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.416915,
+      "lng": -63.07507,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Darlington",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.315255,
+      "lng": -63.325855,
+      "pop": 99,
+      "score": 43.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Darlington",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.31997,
+      "lng": -63.32478,
+      "pop": 99,
+      "score": 45.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Darnley",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.54123,
+      "lng": -63.634128,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Days Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.454699,
+      "lng": -63.977611,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "DeBlois",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.912608,
+      "lng": -64.112173,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "DeGros Marsh",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.2285,
+      "lng": -62.484587,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "DeSable",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.197484,
+      "lng": -63.414068,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Derby",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.639678,
+      "lng": -64.191,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dingwell",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.416667,
+      "lng": -62.666667,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dingwells Mills",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.359774,
+      "lng": -62.448244,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dock Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.810569,
+      "lng": -64.081965,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Donagh",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.263675,
+      "lng": -62.961798,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Donaldston",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.356794,
+      "lng": -63.005862,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Douglas",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.390367,
+      "lng": -62.815506,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dover",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.024277,
+      "lng": -62.642344,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dromore",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.3,
+      "lng": -62.833333,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dunblane",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.650107,
+      "lng": -64.343844,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dundas",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.316788,
+      "lng": -62.508736,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dundee",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.402628,
+      "lng": -62.767604,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dunedin",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.202148,
+      "lng": -63.287285,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Dunstaffnage",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.323418,
+      "lng": -63.032762,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Duvar",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.746088,
+      "lng": -64.228336,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Earnscliffe",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.139093,
+      "lng": -62.952743,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "East Baltic",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.433333,
+      "lng": -62.166667,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "East Bideford",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.623814,
+      "lng": -63.912923,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "East Point",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.446938,
+      "lng": -62.000095,
+      "pop": null,
+      "score": 32.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "East Royalty",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.277778,
+      "lng": -63.103611,
+      "pop": null,
+      "score": 34.8,
+      "status": "BUILT"
+    },
+    {
+      "name": "East Wiltshire",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.254167,
+      "lng": -63.215278,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Eastern Kings",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.43471,
+      "lng": -62.11616,
+      "pop": 687,
+      "score": 49.8,
+      "status": "BUILT"
+    },
+    {
+      "name": "Ebbsfleet",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.883333,
+      "lng": -64.233333,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Ebenezer",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.350875,
+      "lng": -63.259223,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Eglington",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.316417,
+      "lng": -62.369071,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Eldon",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.094524,
+      "lng": -62.887698,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Ellerslie",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.603346,
+      "lng": -63.944348,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Ellerslie-Bideford",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.60325,
+      "lng": -63.95103,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Elliotts",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.364209,
+      "lng": -63.465039,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Elliotvale",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.24652,
+      "lng": -62.773972,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Elmira",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.440591,
+      "lng": -62.064743,
+      "pop": null,
+      "score": 32.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Elmsdale",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.820158,
+      "lng": -64.139027,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Elmwood",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.244214,
+      "lng": -63.330506,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Emerald",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.366667,
+      "lng": -63.55,
+      "pop": null,
+      "score": 36.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Emyvale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.278303,
+      "lng": -63.358371,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Enmore",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.583983,
+      "lng": -64.040405,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fairfield",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.473107,
+      "lng": -62.113399,
+      "pop": null,
+      "score": 32.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fairview",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.178777,
+      "lng": -63.202313,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fanning Brook",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.339462,
+      "lng": -62.819459,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Farmington",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.383451,
+      "lng": -62.488736,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fernwood",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.321359,
+      "lng": -63.806818,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Five Houses",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.406335,
+      "lng": -62.532288,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Flat River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.009951,
+      "lng": -62.864735,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fodhla",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.096445,
+      "lng": -62.814302,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Forest Hill",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.360267,
+      "lng": -62.564646,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Forestview",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.723057,
+      "lng": -64.280197,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fort Augustus",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.321667,
+      "lng": -62.920865,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fortune Bridge",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.345804,
+      "lng": -62.377713,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fortune Cove",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.757877,
+      "lng": -64.129687,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fortune Harbour",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.335387,
+      "lng": -62.357484,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Founds Mills",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.438967,
+      "lng": -63.497815,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Foxley River",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.692473,
+      "lng": -64.012092,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Fredericton",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.360635,
+      "lng": -63.42618,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Freeland",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.677399,
+      "lng": -63.963105,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Freetown",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.37387,
+      "lng": -63.619784,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "French River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.516709,
+      "lng": -63.519396,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "French Village",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.402287,
+      "lng": -63.413534,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "French Village",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.409853,
+      "lng": -62.876592,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Frenchfort",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.317149,
+      "lng": -63.015301,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Gairloch",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.033333,
+      "lng": -62.816667,
+      "pop": null,
+      "score": 36,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Gambles Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.265514,
+      "lng": -63.516032,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Garfield",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.059895,
+      "lng": -62.858356,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Gaspereaux",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.106354,
+      "lng": -62.467702,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Georgetown",
+      "code": "TOWN",
+      "county": "Kings County",
+      "lat": 46.182095,
+      "lng": -62.532573,
+      "pop": null,
+      "score": 37.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Georgetown Royalty",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.20897,
+      "lng": -62.567355,
+      "pop": null,
+      "score": 35.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Gladstone",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.019347,
+      "lng": -62.567549,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glen Valley",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.349948,
+      "lng": -63.443759,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glencoe",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.201097,
+      "lng": -62.81395,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glencorradale",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.45,
+      "lng": -62.183333,
+      "pop": null,
+      "score": 32.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glenfanning",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.275303,
+      "lng": -62.587526,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glenfinnan",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.293998,
+      "lng": -62.969762,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glengarry",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.76244,
+      "lng": -64.31104,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glenmartin",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.072823,
+      "lng": -62.665579,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glenroy",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.356089,
+      "lng": -62.905374,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glenwilliam",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.048231,
+      "lng": -62.655464,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Glenwood",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.646994,
+      "lng": -64.312025,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Goose River",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.457079,
+      "lng": -62.507333,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Gowanbrae",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.38784,
+      "lng": -62.304027,
+      "pop": null,
+      "score": 33,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Grahams Road",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.428269,
+      "lng": -63.531141,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Grand River",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.508316,
+      "lng": -63.911574,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Grand Tracadie",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.389743,
+      "lng": -63.042725,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Grand Tracadie",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.39736,
+      "lng": -63.04427,
+      "pop": null,
+      "score": 36.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Grandview",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.123425,
+      "lng": -62.77344,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Granville",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.425847,
+      "lng": -63.469857,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Green Bay",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.254008,
+      "lng": -63.359665,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Green Gables",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.483333,
+      "lng": -63.383333,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Green Meadows",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.364374,
+      "lng": -62.732315,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Green Road",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.202455,
+      "lng": -63.382258,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Greenfield",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.181937,
+      "lng": -62.736713,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Greenmount",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.900813,
+      "lng": -64.040085,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Greenmount-Montrose",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.866667,
+      "lng": -64.033333,
+      "pop": 262,
+      "score": 48.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Greenvale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.340269,
+      "lng": -63.314724,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Greenvale",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.393936,
+      "lng": -62.18215,
+      "pop": null,
+      "score": 32.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Greenwich",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.436693,
+      "lng": -62.642688,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Guernsey Cove",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 45.986423,
+      "lng": -62.494856,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Haliburton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.707231,
+      "lng": -64.351881,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hamilton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.493225,
+      "lng": -63.702151,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hampshire",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.28727,
+      "lng": -63.27306,
+      "pop": 339,
+      "score": 50.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Hampshire",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.286595,
+      "lng": -63.279859,
+      "pop": 339,
+      "score": 48.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Hampton",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.212596,
+      "lng": -63.460918,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Harmony",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.523618,
+      "lng": -64.045797,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Harmony Junction",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.405887,
+      "lng": -62.253097,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Harper",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.936242,
+      "lng": -64.083732,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Harrington",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.350236,
+      "lng": -63.16771,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hartsville",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.319867,
+      "lng": -63.395688,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hazel Grove",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.366667,
+      "lng": -63.4,
+      "pop": null,
+      "score": 36.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hazelbrook",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.218078,
+      "lng": -62.991922,
+      "pop": 220,
+      "score": 47.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Hazelbrook",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.22242,
+      "lng": -62.9996,
+      "pop": 220,
+      "score": 49.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Hazelgrove",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.363375,
+      "lng": -63.402775,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Head of Cardigan",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.256831,
+      "lng": -62.69167,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Head of Hillsborough",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.367532,
+      "lng": -62.787813,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Head of Montague",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.163447,
+      "lng": -62.738848,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Heatherdale",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.114457,
+      "lng": -62.697628,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hebron",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.62972,
+      "lng": -64.257876,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hermanville",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.461322,
+      "lng": -62.279193,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hermitage",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.216667,
+      "lng": -62.833333,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Higgins Road",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.518372,
+      "lng": -64.075825,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "High Bank",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 45.968035,
+      "lng": -62.614956,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Highfield",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.288889,
+      "lng": -63.172222,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hillsborough Park",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.263056,
+      "lng": -63.098611,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hope River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.434164,
+      "lng": -63.401018,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hopefield",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 45.999803,
+      "lng": -62.684319,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Howe Bay",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.304759,
+      "lng": -62.412332,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Howlan",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.729625,
+      "lng": -64.224494,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Hunter River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.35,
+      "lng": -63.35,
+      "pop": 390,
+      "score": 48.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Hunter River",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.354948,
+      "lng": -63.34898,
+      "pop": 390,
+      "score": 50.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Huntley",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.846032,
+      "lng": -64.084172,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Indian River",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.477143,
+      "lng": -63.687276,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Inkerman",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.366667,
+      "lng": -63.4,
+      "pop": null,
+      "score": 36.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Inverness",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.650598,
+      "lng": -64.032312,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Iona",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.098131,
+      "lng": -62.805318,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Iris",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.016228,
+      "lng": -62.690698,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Irishtown",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.499737,
+      "lng": -63.589557,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Johnstons River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.269593,
+      "lng": -63.018221,
+      "pop": 371,
+      "score": 48.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Judes Point",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.95291,
+      "lng": -64.005702,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kelly Road",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.724254,
+      "lng": -64.130726,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kellys Cross",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.270187,
+      "lng": -63.447151,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kelvin",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.415574,
+      "lng": -63.616561,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kelvin Grove",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.410214,
+      "lng": -63.643602,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kensington",
+      "code": "TOWN",
+      "county": "Prince County",
+      "lat": 46.436664,
+      "lng": -63.637353,
+      "pop": 1812,
+      "score": 57.8,
+      "status": "BUILT"
+    },
+    {
+      "name": "Keppoch",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.197778,
+      "lng": -63.111111,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kildare Capes",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.901022,
+      "lng": -63.98186,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kilmuir",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.120508,
+      "lng": -62.66652,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kingsboro",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.392975,
+      "lng": -62.106607,
+      "pop": null,
+      "score": 32.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kingston",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.26404,
+      "lng": -63.32842,
+      "pop": 1111,
+      "score": 54.7,
+      "status": "BUILT"
+    },
+    {
+      "name": "Kingston",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.262922,
+      "lng": -63.27739,
+      "pop": 1111,
+      "score": 52.8,
+      "status": "BUILT"
+    },
+    {
+      "name": "Kinkora",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.316667,
+      "lng": -63.6,
+      "pop": 1285,
+      "score": 53,
+      "status": "BUILT"
+    },
+    {
+      "name": "Kinkora",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.322741,
+      "lng": -63.603098,
+      "pop": 1285,
+      "score": 55,
+      "status": "BUILT"
+    },
+    {
+      "name": "Kinlock",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.204167,
+      "lng": -63.090278,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Kinross",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.157889,
+      "lng": -62.809265,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Knutsford",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.696978,
+      "lng": -64.285767,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lady Fane",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.279548,
+      "lng": -63.521252,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lady Slipper",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.59242,
+      "lng": -64.03237,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lake Verde",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.233532,
+      "lng": -62.880269,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lakeville",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.461908,
+      "lng": -62.097965,
+      "pop": null,
+      "score": 32.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Launching Place",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.220219,
+      "lng": -62.431192,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lauretta",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.857197,
+      "lng": -64.15617,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Leards Mill",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.30008,
+      "lng": -62.710632,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lennox Island",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.602089,
+      "lng": -63.858229,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Leoville",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.929071,
+      "lng": -64.122931,
+      "pop": null,
+      "score": 33,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lewes",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.053836,
+      "lng": -62.743553,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lewis Point",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.251944,
+      "lng": -63.161944,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Linkletter",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.406927,
+      "lng": -63.835972,
+      "pop": 315,
+      "score": 50.5,
+      "status": "BUILT"
+    },
+    {
+      "name": "Little Harbour",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.356865,
+      "lng": -62.192088,
+      "pop": null,
+      "score": 32.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Little Pond",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.284195,
+      "lng": -62.410734,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Little Sands",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 45.96596,
+      "lng": -62.647043,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Little York",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.316667,
+      "lng": -63.1,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Locke Road",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.716652,
+      "lng": -64.313385,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Long Creek",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.171669,
+      "lng": -63.270933,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Long River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.490292,
+      "lng": -63.543172,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lorne Valley",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.266667,
+      "lng": -62.683333,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lorne Valley",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.269002,
+      "lng": -62.692705,
+      "pop": null,
+      "score": 36,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lot 11 and Area",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.666667,
+      "lng": -63.966667,
+      "pop": 617,
+      "score": 51,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Low Point",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.581982,
+      "lng": -63.862205,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Bedeque",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.344125,
+      "lng": -63.764177,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Darnley",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.555439,
+      "lng": -63.650379,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Freetown",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.363692,
+      "lng": -63.667548,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Hamilton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.506469,
+      "lng": -63.702595,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Malpeque",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.540199,
+      "lng": -63.692323,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Montague",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.15756,
+      "lng": -62.59206,
+      "pop": null,
+      "score": 35.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Montague",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.16609,
+      "lng": -62.559095,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower New Annan",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.427627,
+      "lng": -63.715182,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Newtown",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.109453,
+      "lng": -62.86092,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Rollo Bay",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.343998,
+      "lng": -62.301776,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lower Tryon",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.226598,
+      "lng": -63.549007,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Loyalist",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.301229,
+      "lng": -63.239901,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Lyndale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.15,
+      "lng": -62.783333,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "MacDougall",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.509714,
+      "lng": -63.937928,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Malpeque",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.526242,
+      "lng": -63.6862,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Malpeque Bay",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.51286,
+      "lng": -63.65577,
+      "pop": 1191,
+      "score": 54.8,
+      "status": "BUILT"
+    },
+    {
+      "name": "Maple Hill",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.350229,
+      "lng": -62.860571,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Maple Plains",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.29208,
+      "lng": -63.55858,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Maplewood",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.283333,
+      "lng": -63.45,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Margate",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.458903,
+      "lng": -63.588387,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Marie",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.405038,
+      "lng": -62.659105,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Marshfield",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.30281,
+      "lng": -63.069044,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Martinvale",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.295526,
+      "lng": -62.64362,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Maximeville",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.431947,
+      "lng": -64.134635,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mayfield",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.449234,
+      "lng": -63.355948,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "McNeills Mills",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.633142,
+      "lng": -63.96816,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Meadow Bank",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.200913,
+      "lng": -63.228226,
+      "pop": null,
+      "score": 36.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Meadowbank",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.2,
+      "lng": -63.233333,
+      "pop": null,
+      "score": 36.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Melville",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.019323,
+      "lng": -62.827015,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mermaid",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.262002,
+      "lng": -63.036255,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Middleton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.321658,
+      "lng": -63.644979,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Midgell",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.413493,
+      "lng": -62.637141,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Milburn",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.362283,
+      "lng": -62.636622,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Milburn",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.662155,
+      "lng": -64.274066,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mill River East",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.766063,
+      "lng": -64.145352,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mill Road",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.745911,
+      "lng": -64.124829,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mill Valley",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.402004,
+      "lng": -63.627804,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Millcove",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.357491,
+      "lng": -63.033627,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mills Point",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.450349,
+      "lng": -63.705311,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Milltown Cross",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.103567,
+      "lng": -62.622256,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Millvale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.410327,
+      "lng": -63.422598,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Millview",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.199092,
+      "lng": -62.874977,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Milo",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.647584,
+      "lng": -64.223843,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Milton Station",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.302104,
+      "lng": -63.211921,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Miltonvale Park",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.31422,
+      "lng": -63.22812,
+      "pop": 1196,
+      "score": 55,
+      "status": "BUILT"
+    },
+    {
+      "name": "Miminegash",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.881,
+      "lng": -64.226,
+      "pop": 1089,
+      "score": 51.2,
+      "status": "BUILT"
+    },
+    {
+      "name": "Miscouche",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.432615,
+      "lng": -63.868255,
+      "pop": 992,
+      "score": 52.7,
+      "status": "BUILT"
+    },
+    {
+      "name": "Mont-Carmel",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.4,
+      "lng": -64.033333,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Montague",
+      "code": "TOWN",
+      "county": "Kings County",
+      "lat": 46.169188,
+      "lng": -62.650681,
+      "pop": 74,
+      "score": 46.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Montague Junction",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.221017,
+      "lng": -62.603026,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Monticello",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.460953,
+      "lng": -62.449163,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Montrose",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.868668,
+      "lng": -64.065641,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Morell",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.416226,
+      "lng": -62.70506,
+      "pop": 1209,
+      "score": 54.2,
+      "status": "BUILT"
+    },
+    {
+      "name": "Morell East",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.389843,
+      "lng": -62.683144,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mount Albion",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.229927,
+      "lng": -62.944547,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mount Buchanan",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.080774,
+      "lng": -62.93792,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mount Herbert",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.230375,
+      "lng": -63.039398,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mount Hope",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.3675,
+      "lng": -62.5,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mount Mellick",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.20273,
+      "lng": -62.946273,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mount Pleasant",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.580557,
+      "lng": -64.008845,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mount Royal",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.682682,
+      "lng": -64.260282,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mount Stewart",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.367607,
+      "lng": -62.875153,
+      "pop": 226,
+      "score": 49.2,
+      "status": "BUILT"
+    },
+    {
+      "name": "Mount Tryon",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.283333,
+      "lng": -63.583333,
+      "pop": null,
+      "score": 36.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Mount Vernon",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.015998,
+      "lng": -62.743547,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Muddy Creek",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.4225,
+      "lng": -63.968056,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Munns Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.419778,
+      "lng": -62.088497,
+      "pop": null,
+      "score": 32.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Murray Harbour",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.005994,
+      "lng": -62.527523,
+      "pop": 628,
+      "score": 50.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Murray Harbour North",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.056179,
+      "lng": -62.485637,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Murray River",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.016962,
+      "lng": -62.615508,
+      "pop": 337,
+      "score": 49.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Murray Road",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.702879,
+      "lng": -63.981728,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Nail Pond",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.984722,
+      "lng": -64.063889,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Naufrage",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.467641,
+      "lng": -62.416677,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New Acadia",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.399866,
+      "lng": -62.396156,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New Annan",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.419701,
+      "lng": -63.711734,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New Argyle",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.169767,
+      "lng": -63.30419,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New Dominion",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.174905,
+      "lng": -63.240193,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New Glasgow",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.410492,
+      "lng": -63.349516,
+      "pop": 4277,
+      "score": 55.1,
+      "status": "BUILT"
+    },
+    {
+      "name": "New Glasgow Mills",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.434239,
+      "lng": -63.34778,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New Harmony",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.416667,
+      "lng": -62.233333,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New Haven",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.219239,
+      "lng": -63.297656,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New Haven-Riverdale",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.22672,
+      "lng": -63.32409,
+      "pop": null,
+      "score": 36.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New London",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.464494,
+      "lng": -63.511189,
+      "pop": 1521,
+      "score": 53.1,
+      "status": "BUILT"
+    },
+    {
+      "name": "New Perth",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.212137,
+      "lng": -62.698454,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "New Zealand",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.409989,
+      "lng": -62.313048,
+      "pop": null,
+      "score": 33,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Newport",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.218166,
+      "lng": -62.527885,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Newton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.340513,
+      "lng": -63.586323,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Newtown Cross",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.128309,
+      "lng": -62.822596,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Nine Mile Creek",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.147164,
+      "lng": -63.233132,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Norboro",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.411314,
+      "lng": -63.575709,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North Bedeque",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.366086,
+      "lng": -63.722361,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North Carleton",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.288322,
+      "lng": -63.698594,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North Enmore",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.602177,
+      "lng": -64.055416,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North Lake",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.460941,
+      "lng": -62.064994,
+      "pop": null,
+      "score": 32.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North Milton",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.333886,
+      "lng": -63.214681,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.258333,
+      "lng": -63.195833,
+      "pop": 157,
+      "score": 45,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North Rustico",
+      "code": "TOWN",
+      "county": "Queens County",
+      "lat": 46.458314,
+      "lng": -63.312995,
+      "pop": 648,
+      "score": 53.2,
+      "status": "BUILT"
+    },
+    {
+      "name": "North Rustico Harbour",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.456458,
+      "lng": -63.293581,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North Shore",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.38688,
+      "lng": -63.1211,
+      "pop": 2500,
+      "score": 56.3,
+      "status": "BUILT"
+    },
+    {
+      "name": "North St. Eleanors",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.444006,
+      "lng": -63.812246,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North Tryon",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.250924,
+      "lng": -63.54733,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "North Wiltshire",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.301482,
+      "lng": -63.333019,
+      "pop": 176,
+      "score": 44.9,
+      "status": "BUILT"
+    },
+    {
+      "name": "North Wiltshire",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.29833,
+      "lng": -63.32379,
+      "pop": 176,
+      "score": 46.9,
+      "status": "BUILT"
+    },
+    {
+      "name": "North Winsloe",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.35,
+      "lng": -63.2,
+      "pop": null,
+      "score": 36.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Northam",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.545724,
+      "lng": -63.965717,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Northport",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.796,
+      "lng": -64.064,
+      "pop": 157,
+      "score": 45.7,
+      "status": "BUILT"
+    },
+    {
+      "name": "Norway",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 47.008814,
+      "lng": -64.033655,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "O'Leary",
+      "code": "TOWN",
+      "county": "Prince County",
+      "lat": 46.707164,
+      "lng": -64.226838,
+      "pop": 2566,
+      "score": 57.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Ocean View",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.066667,
+      "lng": -62.816667,
+      "pop": null,
+      "score": 36.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Orwell",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.157899,
+      "lng": -62.832966,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Orwell Cove",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.141234,
+      "lng": -62.862135,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Oyster Bed",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.381726,
+      "lng": -63.23853,
+      "pop": null,
+      "score": 36.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Oyster Bed Bridge",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.388345,
+      "lng": -63.237005,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Palmer Road",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.91272,
+      "lng": -64.158979,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Panmure Island",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.141231,
+      "lng": -62.485687,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Park Corner",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.526589,
+      "lng": -63.557798,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Parkdale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.251944,
+      "lng": -63.119444,
+      "pop": null,
+      "score": 34.9,
+      "status": "BUILT"
+    },
+    {
+      "name": "Peakes",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.299738,
+      "lng": -62.779038,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Peakes Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.309227,
+      "lng": -62.734246,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pembroke",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.08408,
+      "lng": -62.477785,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Peters Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.066729,
+      "lng": -62.563843,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Peterville",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.937905,
+      "lng": -64.100951,
+      "pop": null,
+      "score": 33,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pinette",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.057765,
+      "lng": -62.905277,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pisquid",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.338803,
+      "lng": -62.856026,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pisquid East",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.316667,
+      "lng": -62.833333,
+      "pop": null,
+      "score": 36.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pisquid West",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.335705,
+      "lng": -62.869469,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Piusville",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.792512,
+      "lng": -64.192952,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pleasant Grove",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.363266,
+      "lng": -63.077219,
+      "pop": null,
+      "score": 36.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pleasant Grove",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.366667,
+      "lng": -63.066667,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pleasant Valley",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.366667,
+      "lng": -63.483333,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pleasant View",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.920355,
+      "lng": -64.185806,
+      "pop": null,
+      "score": 33,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Point Deroche",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.418782,
+      "lng": -62.90654,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Point Pleasant",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.041402,
+      "lng": -62.563849,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Point Prim",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.066667,
+      "lng": -62.983333,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pooles Corner",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.210881,
+      "lng": -62.652349,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Poplar Grove",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.655205,
+      "lng": -63.931749,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Poplar Point",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.281024,
+      "lng": -62.488768,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Port Borden",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.252778,
+      "lng": -63.698611,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Port Hill",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.579555,
+      "lng": -63.878298,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Port Hill Station",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.579182,
+      "lng": -63.95202,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Portage",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.664414,
+      "lng": -64.059673,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Pownal",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.202632,
+      "lng": -62.973091,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Priest Pond",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.478125,
+      "lng": -62.18042,
+      "pop": null,
+      "score": 32.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Primrose",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.298603,
+      "lng": -62.542282,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Profits Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.896645,
+      "lng": -64.08493,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Reads Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.402044,
+      "lng": -63.745667,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Red House",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.326941,
+      "lng": -62.392815,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Red Point",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.379573,
+      "lng": -62.140492,
+      "pop": null,
+      "score": 32.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rennies Road",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.376403,
+      "lng": -63.351782,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rice Point",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.134067,
+      "lng": -63.233995,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Richmond",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.507993,
+      "lng": -63.99147,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Riverdale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.233032,
+      "lng": -63.341203,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Riverton",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.310467,
+      "lng": -62.677278,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Robertson",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.177293,
+      "lng": -62.623876,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rock Barra",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.471123,
+      "lng": -62.236197,
+      "pop": null,
+      "score": 32.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rocky Point",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.20241,
+      "lng": -63.1505,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rollo Bay",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.35976,
+      "lng": -62.338688,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rollo Bay West",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.366667,
+      "lng": -62.366667,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rose Valley",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.320631,
+      "lng": -63.495325,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rosebank",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.794252,
+      "lng": -64.157612,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rosebank",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.218056,
+      "lng": -63.116667,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Roseberry",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.038348,
+      "lng": -62.873673,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rosehill",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.463056,
+      "lng": -63.859722,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Roseneath",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.210456,
+      "lng": -62.623144,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Roseville",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.821164,
+      "lng": -64.245436,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Ross Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.35987,
+      "lng": -63.706069,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Roxbury",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.70456,
+      "lng": -64.105302,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Royalty Junction",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.297289,
+      "lng": -63.141788,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Rusticoville",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.432721,
+      "lng": -63.318901,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Scotchfort",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.350466,
+      "lng": -62.920252,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Sea View",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.539347,
+      "lng": -63.594302,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Seabrook",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.425864,
+      "lng": -63.668853,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Seacow Pond",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 47.022523,
+      "lng": -63.991534,
+      "pop": null,
+      "score": 32.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Seal River",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.231711,
+      "lng": -62.543474,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Seal River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.197049,
+      "lng": -62.891909,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Searletown",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.301913,
+      "lng": -63.684976,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Selkirk",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.425545,
+      "lng": -62.444834,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Shamrock",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.321568,
+      "lng": -63.536849,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Sherbrooke",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.422222,
+      "lng": -63.7625,
+      "pop": 178,
+      "score": 45.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Sherbrooke",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.425,
+      "lng": -63.780556,
+      "pop": 178,
+      "score": 47.4,
+      "status": "BUILT"
+    },
+    {
+      "name": "Sherwood",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.268056,
+      "lng": -63.129722,
+      "pop": null,
+      "score": 34.9,
+      "status": "BUILT"
+    },
+    {
+      "name": "Skinners Pond",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.964129,
+      "lng": -64.117539,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Slemon Park",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.434722,
+      "lng": -63.822222,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Souris",
+      "code": "TOWN",
+      "county": "Kings County",
+      "lat": 46.354462,
+      "lng": -62.25164,
+      "pop": 1766,
+      "score": 56.1,
+      "status": "BUILT"
+    },
+    {
+      "name": "Souris Line Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.396611,
+      "lng": -62.249243,
+      "pop": null,
+      "score": 32.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Souris River",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.377164,
+      "lng": -62.28181,
+      "pop": null,
+      "score": 33,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Souris West",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.358823,
+      "lng": -62.283363,
+      "pop": 379,
+      "score": 49,
+      "status": "BUILT"
+    },
+    {
+      "name": "Souris West",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.366,
+      "lng": -62.287,
+      "pop": 379,
+      "score": 47,
+      "status": "BUILT"
+    },
+    {
+      "name": "South Freetown",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.355792,
+      "lng": -63.61594,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "South Granville",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.396237,
+      "lng": -63.465662,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "South Lake",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.422979,
+      "lng": -62.049479,
+      "pop": null,
+      "score": 32.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "South Melville",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.233396,
+      "lng": -63.433066,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "South Pinette",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.041377,
+      "lng": -62.910357,
+      "pop": null,
+      "score": 36.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "South Rustico",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.415757,
+      "lng": -63.291749,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Southampton",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.381306,
+      "lng": -62.583322,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Southport",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.226389,
+      "lng": -63.105556,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Southwest Lot 16",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.484206,
+      "lng": -63.900214,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Spring Park",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.2505556,
+      "lng": -63.1425,
+      "pop": null,
+      "score": 34.9,
+      "status": "BUILT"
+    },
+    {
+      "name": "Spring Valley",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.497267,
+      "lng": -63.625889,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Springbrook",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.493398,
+      "lng": -63.505726,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Springfield",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.389645,
+      "lng": -63.522885,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Springfield West",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.684082,
+      "lng": -64.359711,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Springhill",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.562756,
+      "lng": -64.004758,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Springton",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.320149,
+      "lng": -63.425008,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Springvale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.313629,
+      "lng": -63.245267,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St-Gilbert",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.483333,
+      "lng": -64.05,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St-Hubert",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.5,
+      "lng": -64.033333,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St-Nicholas",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.419444,
+      "lng": -63.955278,
+      "pop": 218,
+      "score": 47.5,
+      "status": "BUILT"
+    },
+    {
+      "name": "St-Philippe",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.5,
+      "lng": -64.066667,
+      "pop": null,
+      "score": 34.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St-Raphaël",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.433333,
+      "lng": -64.016667,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St-Timothée",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.416667,
+      "lng": -64.066667,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Andrews",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.383393,
+      "lng": -62.853126,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Ann",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.429418,
+      "lng": -63.399187,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Anthony",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.736897,
+      "lng": -64.17463,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Catherines",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.192006,
+      "lng": -63.297379,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Catherines",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.370376,
+      "lng": -62.21052,
+      "pop": null,
+      "score": 32.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Charles",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.394102,
+      "lng": -62.425122,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Chrysostome",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.508885,
+      "lng": -64.099595,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Dunstan's",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.256944,
+      "lng": -63.1375,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Edward",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.879048,
+      "lng": -64.182533,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Eleanors",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.421389,
+      "lng": -63.811111,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Felix",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.933333,
+      "lng": -64.016667,
+      "pop": 314,
+      "score": 46.7,
+      "status": "BUILT"
+    },
+    {
+      "name": "St. Felix",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.926724,
+      "lng": -64.022814,
+      "pop": 314,
+      "score": 48.8,
+      "status": "BUILT"
+    },
+    {
+      "name": "St. Georges",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.261237,
+      "lng": -62.485448,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Lawrence",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.846349,
+      "lng": -64.21311,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Louis",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.886032,
+      "lng": -64.144346,
+      "pop": 69,
+      "score": 43.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Margarets",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.455356,
+      "lng": -62.382339,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Marys Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.083228,
+      "lng": -62.614569,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Nicholas",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.419444,
+      "lng": -63.955278,
+      "pop": 218,
+      "score": 49.5,
+      "status": "BUILT"
+    },
+    {
+      "name": "St. Patrick Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.329964,
+      "lng": -62.776759,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Patricks",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.392829,
+      "lng": -63.384899,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Peter and St. Paul",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.917633,
+      "lng": -64.070289,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Peters Bay",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.417767,
+      "lng": -62.581769,
+      "pop": 231,
+      "score": 48.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "St. Peters Harbour",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.433333,
+      "lng": -62.75,
+      "pop": null,
+      "score": 33.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Roch",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.911977,
+      "lng": -64.058161,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "St. Teresa",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.281888,
+      "lng": -62.743036,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Stanchel",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.319604,
+      "lng": -63.465453,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Stanhope",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.406773,
+      "lng": -63.107568,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Stanhope Bayshore",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.416667,
+      "lng": -63.116667,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Stanhope by the Sea",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.413464,
+      "lng": -63.112838,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Stanley Bridge",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.46248,
+      "lng": -63.462202,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Stanley Bridge, Hope River, Bayview, Cavendish and North Rustico",
+      "code": "MUN1",
+      "county": "Queens County",
+      "lat": 46.480556,
+      "lng": -63.392222,
+      "pop": 359,
+      "score": 47.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Stratford",
+      "code": "TOWN",
+      "county": "Queens County",
+      "lat": 46.217778,
+      "lng": -63.080833,
+      "pop": 10927,
+      "score": 64.7,
+      "status": "BUILT"
+    },
+    {
+      "name": "Strathcona",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.322888,
+      "lng": -62.556824,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Strathgartney",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.216859,
+      "lng": -63.3351,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Sturgeon",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.109028,
+      "lng": -62.522775,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Suffolk",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.331738,
+      "lng": -63.06439,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Summerfield",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.400633,
+      "lng": -63.549762,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Summerside",
+      "code": "CITY",
+      "county": "Prince County",
+      "lat": 46.395833,
+      "lng": -63.788889,
+      "pop": 16001,
+      "score": 68.5,
+      "status": "BUILT"
+    },
+    {
+      "name": "Summerville",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.213754,
+      "lng": -62.757512,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Surrey",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.068661,
+      "lng": -62.814408,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Tarantum",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.290726,
+      "lng": -62.952977,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Tea Hill",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.211111,
+      "lng": -63.066667,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Tenmile House",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.334518,
+      "lng": -62.983044,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Tignish",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.95,
+      "lng": -64.033333,
+      "pop": 1800,
+      "score": 52.2,
+      "status": "BUILT"
+    },
+    {
+      "name": "Tignish",
+      "code": "TOWN",
+      "county": "Prince County",
+      "lat": 46.950493,
+      "lng": -64.033583,
+      "pop": 1800,
+      "score": 56.2,
+      "status": "BUILT"
+    },
+    {
+      "name": "Tignish Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.946941,
+      "lng": -64.049099,
+      "pop": null,
+      "score": 33.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Tignish Shore",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.946234,
+      "lng": -63.995183,
+      "pop": 64,
+      "score": 43.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Toronto",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.452469,
+      "lng": -63.379967,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Tracadie",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.346978,
+      "lng": -62.963221,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Tracadie Cross",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.351091,
+      "lng": -62.961412,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Travellers Rest",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.41828,
+      "lng": -63.738666,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Tryon",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.237796,
+      "lng": -63.542841,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Tyne Valley",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.57423,
+      "lng": -63.929317,
+      "pop": 669,
+      "score": 51.5,
+      "status": "BUILT"
+    },
+    {
+      "name": "Tyrone",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.278574,
+      "lng": -63.343459,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Uigg",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.16362,
+      "lng": -62.813079,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Union",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.310996,
+      "lng": -63.126524,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Union Corner",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.389029,
+      "lng": -63.993215,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Union Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.181027,
+      "lng": -62.699713,
+      "pop": 213,
+      "score": 46.8,
+      "status": "BUILT"
+    },
+    {
+      "name": "Union Road",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.333333,
+      "lng": -63.133333,
+      "pop": 213,
+      "score": 47.5,
+      "status": "BUILT"
+    },
+    {
+      "name": "Union Road",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.324427,
+      "lng": -63.131959,
+      "pop": 213,
+      "score": 49.5,
+      "status": "BUILT"
+    },
+    {
+      "name": "Unionvale",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.714575,
+      "lng": -64.18375,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Upton",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.339764,
+      "lng": -62.539067,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Urbainville",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.463659,
+      "lng": -64.037277,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Valley",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.065789,
+      "lng": -62.792773,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Valleyfield",
+      "code": "VILG",
+      "county": "Kings County",
+      "lat": 46.13022,
+      "lng": -62.70985,
+      "pop": null,
+      "score": 36,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Valleyfield",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.129582,
+      "lng": -62.735966,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Vernon Bridge",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.175412,
+      "lng": -62.882157,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Vernon River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.207886,
+      "lng": -62.833242,
+      "pop": 2499,
+      "score": 54.1,
+      "status": "BUILT"
+    },
+    {
+      "name": "Victoria",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.217024,
+      "lng": -63.493174,
+      "pop": 139,
+      "score": 46.1,
+      "status": "BUILT"
+    },
+    {
+      "name": "Victoria Cross",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.164509,
+      "lng": -62.695113,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Victoria West",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.543729,
+      "lng": -64.057883,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Village Green",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.214031,
+      "lng": -62.924702,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Warren Grove",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.27306,
+      "lng": -63.22132,
+      "pop": 374,
+      "score": 50.7,
+      "status": "BUILT"
+    },
+    {
+      "name": "Waterford",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.94682,
+      "lng": -64.163985,
+      "pop": null,
+      "score": 33,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Waterside",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.197911,
+      "lng": -62.958007,
+      "pop": null,
+      "score": 34.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Watervale",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.267747,
+      "lng": -62.896312,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Websters Corner",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.308456,
+      "lng": -62.953741,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Wellington",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.45,
+      "lng": -64,
+      "pop": 1811,
+      "score": 53.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Wellington",
+      "code": "VILG",
+      "county": "Prince County",
+      "lat": 46.450804,
+      "lng": -63.998283,
+      "pop": 1811,
+      "score": 55.6,
+      "status": "BUILT"
+    },
+    {
+      "name": "Wellington Centre",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.489112,
+      "lng": -63.987244,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Wellington Station",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.45,
+      "lng": -64,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "West Cape",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.677068,
+      "lng": -64.407612,
+      "pop": null,
+      "score": 33.3,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "West Covehead",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.396176,
+      "lng": -63.136502,
+      "pop": null,
+      "score": 34.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "West Devon",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.667928,
+      "lng": -64.117811,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "West Point",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.626696,
+      "lng": -64.371454,
+      "pop": 235,
+      "score": 46.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "West River",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.17168,
+      "lng": -63.29479,
+      "pop": 3473,
+      "score": 57,
+      "status": "BUILT"
+    },
+    {
+      "name": "West Royalty",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.258333,
+      "lng": -63.163889,
+      "pop": null,
+      "score": 34.9,
+      "status": "BUILT"
+    },
+    {
+      "name": "West St. Peters",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.412104,
+      "lng": -62.776528,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Westmoreland",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.268732,
+      "lng": -63.490471,
+      "pop": null,
+      "score": 34.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Wheatley River",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.373112,
+      "lng": -63.28978,
+      "pop": null,
+      "score": 34.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Whim Road",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.133669,
+      "lng": -62.59999,
+      "pop": null,
+      "score": 33.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "White Sands",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 45.971962,
+      "lng": -62.54933,
+      "pop": null,
+      "score": 33.4,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Wild Harbour",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.421619,
+      "lng": -62.863694,
+      "pop": null,
+      "score": 34.1,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Wilmot",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.394444,
+      "lng": -63.7625,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Wilmot",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.007082,
+      "lng": -62.577913,
+      "pop": null,
+      "score": 33.5,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Wilmot Valley",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.399479,
+      "lng": -63.697188,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Windon",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.351155,
+      "lng": -62.721891,
+      "pop": null,
+      "score": 34,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Winsloe",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.293333,
+      "lng": -63.178889,
+      "pop": null,
+      "score": 34.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Winsloe South",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.313007,
+      "lng": -63.176015,
+      "pop": null,
+      "score": 34.7,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Wood Island",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46,
+      "lng": -62.75,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Wood Islands",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 45.966135,
+      "lng": -62.751096,
+      "pop": null,
+      "score": 33.8,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Woodstock",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.717759,
+      "lng": -64.165422,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Woodvale",
+      "code": "UNP",
+      "county": "Prince County",
+      "lat": 46.884763,
+      "lng": -64.084244,
+      "pop": null,
+      "score": 33.2,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "Woodville Mills",
+      "code": "UNP",
+      "county": "Kings County",
+      "lat": 46.238729,
+      "lng": -62.510263,
+      "pop": null,
+      "score": 33.6,
+      "status": "DEFERRED"
+    },
+    {
+      "name": "York",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.316667,
+      "lng": -63.1,
+      "pop": 387,
+      "score": 48.8,
+      "status": "BUILT"
+    },
+    {
+      "name": "York",
+      "code": "VILG",
+      "county": "Queens County",
+      "lat": 46.315983,
+      "lng": -63.097506,
+      "pop": 387,
+      "score": 50.8,
+      "status": "BUILT"
+    },
+    {
+      "name": "York Point",
+      "code": "UNP",
+      "county": "Queens County",
+      "lat": 46.223333,
+      "lng": -63.168056,
+      "pop": null,
+      "score": 34.9,
+      "status": "DEFERRED"
     }
   ]
 }
