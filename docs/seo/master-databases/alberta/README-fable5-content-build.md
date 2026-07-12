@@ -13,6 +13,20 @@
 > ≥4 real signals, ≥1 info-gain, question-format FAQs) and lives as portable JSON in `data/` for import
 > into the app dataset.
 
+## Live-app integration (done)
+
+All 95 towns are integrated into the live app. The 75 that weren't already in Batch 1 were
+transformed into token-free `Community` objects (the app's convention: geographic intelligence only —
+the trade/business copy is applied at render from `src/config/template/remix-variables.ts`, and FAQs
+are built by `buildFAQs()`), then appended to `AB_COMMUNITIES` in
+[`src/data/locations/alberta.ts`](../../../../src/data/locations/alberta.ts). `shortDescription` comes
+from the token-free `Entity_Description`; `fullDescription` is the token-free geographic prose (all
+`{TOKEN}` and first-person service sentences stripped); `streets`/`landmarks` are extracted only from
+the grounded prose (never invented — empty where none are grounded). Verified: `tsc --noEmit` clean,
+sitemap regenerated (95 Alberta community routes under `/areas-we-serve/{region}/{slug}`), and the
+6 remaining preflight failures are all pre-existing brand/template rails (BookingModal, footer NAP,
+Privacy/Terms, WCAG) unrelated to this data.
+
 ## Pipeline
 
 1. **Load + defect sweep** — 1,912 rows, 4 sheets. **0 duplicate slugs, 0 `{{}}` double-curly** (clean in
