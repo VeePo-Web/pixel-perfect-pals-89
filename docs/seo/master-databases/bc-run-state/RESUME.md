@@ -1,10 +1,13 @@
 # British Columbia Build — Run State & Resume Instructions
 
-> **COMPLETE (2026-07-11).** All 182 publishable locations generated; 181 Verified & published,
-> 1 held Needs_Review (BC-0358, coordinate defect). Final results: **`AUDIT-REPORT.md`**; deliverables
-> in **`deliverables/`**. The notes below record how the run was executed and resumed after two
-> Fable-5 monthly-spend-limit interruptions (each resumed from checkpoint with the manifest filtered
-> to remaining IDs). Kept for reproducibility and as the template for the next province.
+> **COMPLETE + CENSUS-EXPANDED (2026-07-12).** Enumeration expanded from the 480-row spreadsheet to the
+> full **1,986-place BC census** (GeoNames CC-BY merged/deduped vs the sheet). Gated: **194 built &
+> Verified** (181 original + 13 new distinct communities), 1 Needs_Review (BC-0358), 1,791 deferred —
+> reconciles exactly. Final results: **`AUDIT-REPORT.md`**; deliverables in **`deliverables/`** (upgraded
+> xlsx now carries all 1,986 rows). Census pipeline: `enumerate.js → merge_census.js → score_universe.js →
+> refine_gate.js → split_suburbs.js → finalize_new.js → assemble2.js → build_artifacts2.js`. The notes
+> below record the original 182-row run (resumed after Fable-5 spend-limit interruptions). Reusable
+> template for the next province.
 
 ## What is complete (Phases A–C, deterministic — do NOT redo)
 
