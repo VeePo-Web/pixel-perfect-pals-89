@@ -117,6 +117,10 @@ Yes. From Moncton we cover Riverview (5 km), Dieppe (9 km), Salisbury (20 km), M
 
 <iframe data-src="https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}" title="Map of Moncton, New Brunswick" loading="lazy"></iframe>
 
+## Neighbourhoods we serve in Moncton
+
+- [Downtown Moncton's Main Street core](/areas/moncton/downtown-moncton) — the bilingual commercial heart on the bend of the tidal Petitcodiac
+
 ## Nearby areas we serve
 
 - [Riverview, on the far bank of the tidal Petitcodiac](/areas/riverview) — 5 km from downtown Moncton

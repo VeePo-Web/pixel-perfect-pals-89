@@ -1,0 +1,158 @@
+{
+  "neighborhoods": [
+    {
+      "slug": "uptown-saint-john",
+      "name": "Uptown Saint John",
+      "parentSlug": "saint-john",
+      "parentName": "Saint John",
+      "region": "Fundy & Greater Saint John",
+      "regionSlug": "fundy-saint-john",
+      "county": "Saint John",
+      "lat": 45.2733, "lng": -66.0589,
+      "gnPop": 8221,
+      "geoTrait": "brick-and-stone heritage core on the harbour hill",
+      "hook": "Saint John's historic core — the brick-and-stone streetscape rebuilt after the Great Fire of 1877, wrapped around the City Market and King Street.",
+      "facts": [
+        "Rebuilt in brick and stone after the Great Fire of 1877 destroyed much of the old wooden town",
+        "Saint John City Market is Canada's oldest continuing farmers' market",
+        "King Street and Prince William Street anchor the heritage retail core",
+        "Imperial Theatre and King's Square sit at its centre",
+        "One of Canada's best-preserved 19th-century commercial districts"
+      ],
+      "streets": ["King Street", "Prince William Street"],
+      "siblings": ["north-end-saint-john", "south-end-saint-john", "west-side-saint-john"]
+    },
+    {
+      "slug": "north-end-saint-john",
+      "name": "the North End",
+      "displayName": "the North End of Saint John",
+      "parentSlug": "saint-john",
+      "parentName": "Saint John",
+      "region": "Fundy & Greater Saint John",
+      "regionSlug": "fundy-saint-john",
+      "county": "Saint John",
+      "lat": 45.2700, "lng": -66.0810,
+      "gnPop": 5389,
+      "geoTrait": "older harbour-side district below the Saint John Throughway",
+      "hook": "Saint John's historic working district north of uptown — older harbour-side housing along Main Street, hard hit by the highway era and now slowly reinvesting.",
+      "facts": [
+        "Historic working-class district north of the uptown peninsula",
+        "Older housing stock along Main Street, much of it pre-war",
+        "Divided from uptown when the Saint John Throughway was built through it",
+        "Overlooks the harbour and the Reversing Falls approaches"
+      ],
+      "streets": ["Main Street"],
+      "siblings": ["uptown-saint-john", "south-end-saint-john", "west-side-saint-john"]
+    },
+    {
+      "slug": "south-end-saint-john",
+      "name": "the South End",
+      "displayName": "the South End of Saint John",
+      "parentSlug": "saint-john",
+      "parentName": "Saint John",
+      "region": "Fundy & Greater Saint John",
+      "regionSlug": "fundy-saint-john",
+      "county": "Saint John",
+      "lat": 45.2650, "lng": -66.0570,
+      "gnPop": 2442,
+      "geoTrait": "waterfront peninsula tip of dense Victorian rowhousing",
+      "hook": "The waterfront tip of the Saint John peninsula — dense Victorian rowhousing between uptown and the harbour, one of the city's most historic residential quarters.",
+      "facts": [
+        "Occupies the southern tip of the uptown peninsula on the harbour",
+        "Dense Victorian and Edwardian rowhousing, much rebuilt after the 1877 fire",
+        "Fronts the working harbour and the port",
+        "Home to Rockwood-era heritage streets and the waterfront"
+      ],
+      "streets": [],
+      "siblings": ["uptown-saint-john", "north-end-saint-john", "west-side-saint-john"]
+    },
+    {
+      "slug": "west-side-saint-john",
+      "name": "the West Side",
+      "displayName": "the West Side of Saint John",
+      "parentSlug": "saint-john",
+      "parentName": "Saint John",
+      "region": "Fundy & Greater Saint John",
+      "regionSlug": "fundy-saint-john",
+      "county": "Saint John",
+      "lat": 45.2500, "lng": -66.1000,
+      "gnPop": 3630,
+      "geoTrait": "harbour's west shore around the Reversing Falls",
+      "hook": "Saint John's West Side — the Lancaster and Carleton communities across the harbour, home to the Reversing Falls Rapids and the Carleton Martello Tower.",
+      "facts": [
+        "Comprises the historic Carleton and Lancaster communities west of the harbour",
+        "The Reversing Falls Rapids sit where the Saint John River meets the Bay of Fundy here",
+        "Carleton Martello Tower National Historic Site overlooks the harbour",
+        "Anchored around Simms Corner and the west-side waterfront"
+      ],
+      "streets": [],
+      "siblings": ["uptown-saint-john", "north-end-saint-john", "south-end-saint-john"]
+    },
+    {
+      "slug": "downtown-fredericton",
+      "name": "Downtown Fredericton",
+      "parentSlug": "fredericton",
+      "parentName": "Fredericton",
+      "region": "Capital & River Valley",
+      "regionSlug": "capital-river-valley",
+      "county": "York",
+      "lat": 45.9620, "lng": -66.6400,
+      "gnPop": 5193,
+      "geoTrait": "riverfront Garrison District on the Saint John River",
+      "hook": "Fredericton's riverfront heart — the historic Garrison District, Officers' Square and Queen Street, where the capital's government and heritage core meet the Saint John River.",
+      "facts": [
+        "Built around the historic Garrison District and Officers' Square",
+        "Queen Street is the capital's main heritage commercial spine",
+        "Beaverbrook Art Gallery and the provincial legislature sit here",
+        "Fronts the Saint John River, with flood-aware riverfront blocks after 2018 and 2019",
+        "Christ Church Cathedral anchors the east downtown"
+      ],
+      "streets": ["Queen Street", "King Street"],
+      "siblings": ["marysville"]
+    },
+    {
+      "slug": "marysville",
+      "name": "Marysville",
+      "parentSlug": "fredericton",
+      "parentName": "Fredericton",
+      "region": "Capital & River Valley",
+      "regionSlug": "capital-river-valley",
+      "county": "York",
+      "lat": 45.9800, "lng": -66.5850,
+      "gnPop": null,
+      "geoTrait": "planned 19th-century cotton-mill town on the Nashwaak River",
+      "hook": "Fredericton's north-side company town — a planned 19th-century cotton-mill village on the Nashwaak River, and one of Canada's best-preserved industrial National Historic Sites.",
+      "facts": [
+        "Marysville is a National Historic Site of Canada",
+        "Built as a planned cotton-mill company town by Alexander 'Boss' Gibson in the 1800s",
+        "Rows of brick mill-worker housing and the great brick cotton mill survive",
+        "Sits on the Nashwaak River on Fredericton's north side",
+        "Amalgamated into Fredericton but keeps a distinct village identity"
+      ],
+      "streets": [],
+      "siblings": ["downtown-fredericton"]
+    },
+    {
+      "slug": "downtown-moncton",
+      "name": "Downtown Moncton",
+      "parentSlug": "moncton",
+      "parentName": "Moncton",
+      "region": "Greater Moncton & Southeast",
+      "regionSlug": "greater-moncton-southeast",
+      "county": "Westmorland",
+      "lat": 46.0920, "lng": -64.7850,
+      "gnPop": 7837,
+      "geoTrait": "Main Street core on the bend of the tidal Petitcodiac",
+      "hook": "Moncton's Main Street core on the bend of the tidal Petitcodiac — the Avenir Centre, Resurgo Place and the downtown that anchors Atlantic Canada's fastest-growing city.",
+      "facts": [
+        "Centred on Main Street along the tidal Petitcodiac River",
+        "The Avenir Centre arena anchors the downtown entertainment district",
+        "Resurgo Place museum tells the city's railway story",
+        "The Petitcodiac tidal bore runs past the downtown riverfront",
+        "Bilingual commercial core of the Greater Moncton region"
+      ],
+      "streets": ["Main Street"],
+      "siblings": []
+    }
+  ]
+}

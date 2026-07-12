@@ -117,6 +117,11 @@ Fast — {RESPONSE_TIME} is our standard response for Fredericton, and the capit
 
 *Interactive map loads on click (facade):* `https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}`
 
+## Neighbourhoods we serve in Fredericton
+
+- [Downtown Fredericton's Garrison District](/areas/fredericton/downtown-fredericton) — the riverfront heritage core around Queen Street and Officers' Square
+- [Marysville, the north-side mill town](/areas/fredericton/marysville) — a National Historic Site of planned brick mill-worker housing on the Nashwaak
+
 ## Nearby areas we serve
 
 - [New Maryland, the bedroom village 7 km south](/areas/new-maryland) — leafy single-family subdivisions on the plateau just past the city line.

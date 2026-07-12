@@ -120,6 +120,13 @@ Yes — our Saint John crews also cover Rothesay (15 km), Grand Bay-Westfield (1
 <!-- Map facade: on click, replace the placeholder image above with
 <iframe src="https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}" loading="lazy"></iframe> -->
 
+## Neighbourhoods we serve in Saint John
+
+- [Uptown Saint John's heritage core](/areas/saint-john/uptown-saint-john) — the brick-and-stone district rebuilt after the 1877 fire
+- [The North End along Main Street](/areas/saint-john/north-end-saint-john) — the historic working district north of uptown
+- [The South End's Victorian rowhousing](/areas/saint-john/south-end-saint-john) — the waterfront tip of the peninsula
+- [The West Side at the Reversing Falls](/areas/saint-john/west-side-saint-john) — the Carleton and Lancaster communities across the harbour
+
 ## Nearby areas we serve
 
 - [Rothesay's estate-lot riverfront, 15 km up the Kennebecasis](/areas/rothesay) — the valley's establishment address, minutes from the city

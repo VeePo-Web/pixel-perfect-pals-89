@@ -4,6 +4,12 @@
 > the Universal Location-Page Architect run. Services stay niche-agnostic `{TOKENS}`; every place fact is
 > real and grounded. This is the auditable record of the run: what was enumerated, what was built, what
 > was deferred and why, and the full defect sweep.
+>
+> **Update (completeness audit):** the enumeration was later cross-validated against a second independent
+> gazetteer (GeoNames) and a **neighbourhood tier** was added. The definitive INTENDED set is now
+> **2,391 places**, with **73 place pages built** (66 locations + 7 neighbourhoods) and **81 total URLs**.
+> See [`COVERAGE-AUDIT.md`](COVERAGE-AUDIT.md) for the full two-source reconciliation. Numbers below reflect
+> the original 66-location run; the coverage audit supersedes the totals.
 
 ## 1. Mode & grounding sources
 

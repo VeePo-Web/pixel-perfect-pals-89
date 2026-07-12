@@ -7,6 +7,7 @@ const expected = new Set(pass.map(c=>c.slug));
 
 const locFiles = fs.readdirSync(path.join(BASE,'pages')).filter(f=>f.endsWith('.md') && f!=='areas-hub.md');
 const regFiles = fs.existsSync(path.join(BASE,'pages/regions')) ? fs.readdirSync(path.join(BASE,'pages/regions')).filter(f=>f.endsWith('.md')) : [];
+const nbhdFiles = fs.existsSync(path.join(BASE,'pages/neighborhoods')) ? fs.readdirSync(path.join(BASE,'pages/neighborhoods')).filter(f=>f.endsWith('.md')) : [];
 const report = { files: locFiles.length, regions: regFiles.length, missing: [], extra: [], defects: {} };
 for (const s of expected) if (!locFiles.includes(s+'.md')) report.missing.push(s);
 for (const f of locFiles) if (!expected.has(f.replace(/\.md$/,''))) report.extra.push(f);
@@ -23,10 +24,10 @@ function section(body, startRe) {
   return next === -1 ? rest : rest.slice(0, next);
 }
 
-for (const f of [...locFiles.map(f=>['pages',f]), ...regFiles.map(f=>['pages/regions',f]), [ 'pages','areas-hub.md']]) {
+for (const f of [...locFiles.map(f=>['pages',f]), ...regFiles.map(f=>['pages/regions',f]), ...nbhdFiles.map(f=>['pages/neighborhoods',f]), [ 'pages','areas-hub.md']]) {
   const p = path.join(BASE, f[0], f[1]);
   const t = fs.readFileSync(p,'utf8');
-  const isLoc = f[0]==='pages' && f[1]!=='areas-hub.md';
+  const isLoc = (f[0]==='pages' && f[1]!=='areas-hub.md') || f[0]==='pages/neighborhoods';
   dblCurly += (t.match(/\{\{/g)||[]).length;
   if ((t.match(/Call \{PHONE\}/g)||[]).length < (isLoc?3:1)) phoneFails.push(f[1]);
   const alt = (t.match(/imageAltGeo: ?"([^"]+)"/)||[])[1];
@@ -39,7 +40,7 @@ for (const f of [...locFiles.map(f=>['pages',f]), ...regFiles.map(f=>['pages/reg
     const body = t.replace(/^---[\s\S]*?---/,'');
     const c = pass.find(c=>c.slug===f[1].replace(/\.md$/,''));
     if (c && !body.includes(`/areas/region/`)) noRegionLink.push(f[1]);
-    const near = new Set((body.match(/\/areas\/(?!region)[a-z0-9-]+/g)||[]).map(x=>x.replace('/areas/','')).filter(s=>s!==c.slug && expected.has(s)));
+    const near = new Set((body.match(/\/areas\/(?!region)[a-z0-9-]+/g)||[]).map(x=>x.replace('/areas/','')).filter(s=>s!==(c&&c.slug) && expected.has(s)));
     if (c && near.size < Math.min(3,c.nearby.length)) fewNearby.push(f[1]+':'+near.size);
     if ((body.match(/\/blog\//g)||[]).length < 2) fewBlog.push(f[1]);
     // word counts
@@ -58,7 +59,7 @@ for (const f of [...locFiles.map(f=>['pages',f]), ...regFiles.map(f=>['pages/reg
     }
   }
   // JSON-LD
-  const jm = t.match(/```json\n([\s\S]*?)```/);
+  const jm = t.match(/```json\r?\n([\s\S]*?)```/);
   if (!jm) { jsonErr.push(f[1]+' no-json'); continue; }
   let g; try { g = JSON.parse(jm[1]); } catch(e) { jsonErr.push(f[1]+' parse:'+e.message.slice(0,40)); continue; }
   const graph = g['@graph']||[];
@@ -85,6 +86,7 @@ sm+=`  <url><loc>{BRAND_URL}/areas</loc><lastmod>${today}</lastmod><priority>0.8
 const cur = JSON.parse(fs.readFileSync(path.join(__dirname,'nb_curated_facts.json'),'utf8'));
 for (const r of Object.values(cur.regions)) sm+=`  <url><loc>{BRAND_URL}/areas/region/${r.slug}</loc><lastmod>${today}</lastmod><priority>0.7</priority></url>\n`;
 for (const c of [...pass].sort((a,b)=>b.score-a.score)) sm+=`  <url><loc>{BRAND_URL}/areas/${c.slug}</loc><lastmod>${today}</lastmod><priority>${(c.score/100).toFixed(2)}</priority></url>\n`;
+for (const f of nbhdFiles) { const t=fs.readFileSync(path.join(BASE,'pages/neighborhoods',f),'utf8'); const u=(t.match(/^url: (.+)$/m)||[])[1]; if(u) sm+=`  <url><loc>{BRAND_URL}${u}</loc><lastmod>${today}</lastmod><priority>0.55</priority></url>\n`; }
 sm+='</urlset>\n';
 fs.writeFileSync(path.join(BASE,'data/sitemap-areas.xml'), sm);
 console.log(JSON.stringify(report,null,1));

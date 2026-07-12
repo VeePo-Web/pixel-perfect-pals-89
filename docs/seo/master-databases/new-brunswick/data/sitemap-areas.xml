@@ -74,4 +74,11 @@
   <url><loc>{BRAND_URL}/areas/petit-rocher</loc><lastmod>2026-07-10</lastmod><priority>0.50</priority></url>
   <url><loc>{BRAND_URL}/areas/hartland</loc><lastmod>2026-07-10</lastmod><priority>0.50</priority></url>
   <url><loc>{BRAND_URL}/areas/tracy</loc><lastmod>2026-07-10</lastmod><priority>0.50</priority></url>
+  <url><loc>{BRAND_URL}/areas/fredericton/downtown-fredericton</loc><lastmod>2026-07-10</lastmod><priority>0.55</priority></url>
+  <url><loc>{BRAND_URL}/areas/moncton/downtown-moncton</loc><lastmod>2026-07-10</lastmod><priority>0.55</priority></url>
+  <url><loc>{BRAND_URL}/areas/fredericton/marysville</loc><lastmod>2026-07-10</lastmod><priority>0.55</priority></url>
+  <url><loc>{BRAND_URL}/areas/saint-john/north-end-saint-john</loc><lastmod>2026-07-10</lastmod><priority>0.55</priority></url>
+  <url><loc>{BRAND_URL}/areas/saint-john/south-end-saint-john</loc><lastmod>2026-07-10</lastmod><priority>0.55</priority></url>
+  <url><loc>{BRAND_URL}/areas/saint-john/uptown-saint-john</loc><lastmod>2026-07-10</lastmod><priority>0.55</priority></url>
+  <url><loc>{BRAND_URL}/areas/saint-john/west-side-saint-john</loc><lastmod>2026-07-10</lastmod><priority>0.55</priority></url>
 </urlset>
