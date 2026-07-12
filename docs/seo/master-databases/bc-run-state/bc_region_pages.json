@@ -162,6 +162,11 @@
     "score": 62
    },
    {
+    "name": "Aldergrove",
+    "url": "/areas/aldergrove-bc",
+    "score": 61.5
+   },
+   {
     "name": "Quilchena",
     "url": "/areas/quilchena-bc",
     "score": 61.3
@@ -222,6 +227,11 @@
     "score": 55.9
    },
    {
+    "name": "Bradner",
+    "url": "/areas/bradner-bc",
+    "score": 55.7
+   },
+   {
     "name": "Crescent Beach",
     "url": "/areas/crescent-beach-bc",
     "score": 54.4
@@ -230,6 +240,11 @@
     "name": "Belcarra",
     "url": "/areas/belcarra-bc",
     "score": 53.7
+   },
+   {
+    "name": "Sunset Beach",
+    "url": "/areas/sunset-beach-bc",
+    "score": 50.7
    }
   ]
  },
@@ -339,6 +354,21 @@
     "name": "Brentwood Bay",
     "url": "/areas/brentwood-bay-bc",
     "score": 57
+   },
+   {
+    "name": "Cowichan Bay",
+    "url": "/areas/cowichan-bay-bc",
+    "score": 55.9
+   },
+   {
+    "name": "Cherry Point",
+    "url": "/areas/cherry-point-bc",
+    "score": 50.8
+   },
+   {
+    "name": "Shirley",
+    "url": "/areas/shirley-bc",
+    "score": 50.3
    }
   ]
  },
@@ -624,6 +654,11 @@
     "score": 51.2
    },
    {
+    "name": "Oyster River",
+    "url": "/areas/oyster-river-bc",
+    "score": 51
+   },
+   {
     "name": "Gold River",
     "url": "/areas/gold-river-bc",
     "score": 50.8
@@ -693,6 +728,11 @@
     "score": 56.3
    },
    {
+    "name": "Langdale",
+    "url": "/areas/langdale-bc",
+    "score": 55.8
+   },
+   {
     "name": "Ganges",
     "url": "/areas/ganges-bc",
     "score": 55.4
@@ -716,6 +756,26 @@
     "name": "Madeira Park",
     "url": "/areas/madeira-park-bc",
     "score": 53.5
+   },
+   {
+    "name": "Welcome Beach",
+    "url": "/areas/welcome-beach-bc",
+    "score": 53.4
+   },
+   {
+    "name": "Youbou",
+    "url": "/areas/youbou-bc",
+    "score": 53.2
+   },
+   {
+    "name": "South Pender Harbour",
+    "url": "/areas/south-pender-harbour-bc",
+    "score": 53.1
+   },
+   {
+    "name": "Fairwinds",
+    "url": "/areas/fairwinds-bc",
+    "score": 53
    },
    {
     "name": "Texada Island",
@@ -765,6 +825,11 @@
     "name": "Lillooet",
     "url": "/areas/lillooet-bc",
     "score": 53.3
+   },
+   {
+    "name": "Mount Currie",
+    "url": "/areas/mount-currie-bc",
+    "score": 51.8
    },
    {
     "name": "Britannia Beach",

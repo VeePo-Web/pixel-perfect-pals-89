@@ -314,6 +314,11 @@
     "anchor": "Pemberton (25 km)"
    },
    {
+    "url": "/areas/mount-currie-bc",
+    "km": 28,
+    "anchor": "Mount Currie (28 km)"
+   },
+   {
     "url": "/areas/squamish-bc",
     "km": 48,
     "anchor": "Squamish (48 km)"
@@ -322,11 +327,6 @@
     "url": "/areas/britannia-beach-bc",
     "km": 57,
     "anchor": "Britannia Beach (57 km)"
-   },
-   {
-    "url": "/areas/lions-bay-bc",
-    "km": 76,
-    "anchor": "Lions Bay (76 km)"
    }
   ],
   "down_links": [],
@@ -525,6 +525,16 @@
     "anchor": "Mission (9 km)"
    },
    {
+    "url": "/areas/bradner-bc",
+    "km": 10,
+    "anchor": "Bradner (10 km)"
+   },
+   {
+    "url": "/areas/aldergrove-bc",
+    "km": 12,
+    "anchor": "Aldergrove (12 km)"
+   },
+   {
     "url": "/areas/yarrow-bc",
     "km": 19,
     "anchor": "Yarrow (19 km)"
@@ -533,16 +543,6 @@
     "url": "/areas/langley-city-bc",
     "km": 20,
     "anchor": "Langley (City) (20 km)"
-   },
-   {
-    "url": "/areas/fraser-valley-regional-district-bc",
-    "km": 23,
-    "anchor": "Fraser Valley Regional District (23 km)"
-   },
-   {
-    "url": "/areas/vedder-crossing-bc",
-    "km": 25,
-    "anchor": "Vedder Crossing (25 km)"
    }
   ],
   "down_links": [],
@@ -1286,19 +1286,19 @@
     "anchor": "Lions Bay (28 km)"
    },
    {
+    "url": "/areas/sunset-beach-bc",
+    "km": 34,
+    "anchor": "Sunset Beach (34 km)"
+   },
+   {
     "url": "/areas/bowen-island-bc",
     "km": 38,
     "anchor": "Bowen Island (38 km)"
    },
    {
-    "url": "/areas/north-vancouver-district-bc",
-    "km": 40,
-    "anchor": "North Vancouver (District) (40 km)"
-   },
-   {
-    "url": "/areas/west-vancouver-bc",
-    "km": 41,
-    "anchor": "West Vancouver (41 km)"
+    "url": "/areas/langdale-bc",
+    "km": 38,
+    "anchor": "Langdale (38 km)"
    }
   ],
   "down_links": [],
@@ -1777,14 +1777,14 @@
     "anchor": "Galiano Island (14 km)"
    },
    {
-    "url": "/areas/cowichan-valley-regional-district-bc",
-    "km": 15,
-    "anchor": "Cowichan Valley Regional District (15 km)"
+    "url": "/areas/cowichan-bay-bc",
+    "km": 14,
+    "anchor": "Cowichan Bay (14 km)"
    },
    {
-    "url": "/areas/cowichan-tribes-bc",
-    "km": 15,
-    "anchor": "Cowichan Tribes (15 km)"
+    "url": "/areas/cherry-point-bc",
+    "km": 14,
+    "anchor": "Cherry Point (14 km)"
    }
   ],
   "down_links": [],
@@ -1821,6 +1821,16 @@
     "anchor": "Langley (Township) (7 km)"
    },
    {
+    "url": "/areas/aldergrove-bc",
+    "km": 8,
+    "anchor": "Aldergrove (8 km)"
+   },
+   {
+    "url": "/areas/bradner-bc",
+    "km": 11,
+    "anchor": "Bradner (11 km)"
+   },
+   {
     "url": "/areas/maple-ridge-bc",
     "km": 13,
     "anchor": "Maple Ridge (13 km)"
@@ -1829,16 +1839,6 @@
     "url": "/areas/pitt-meadows-bc",
     "km": 17,
     "anchor": "Pitt Meadows (17 km)"
-   },
-   {
-    "url": "/areas/mission-bc",
-    "km": 19,
-    "anchor": "Mission (19 km)"
-   },
-   {
-    "url": "/areas/fraser-heights-bc",
-    "km": 19,
-    "anchor": "Fraser Heights (19 km)"
    }
   ],
   "down_links": [],
@@ -1880,6 +1880,11 @@
     "anchor": "Quadra Island (19 km)"
    },
    {
+    "url": "/areas/oyster-river-bc",
+    "km": 19,
+    "anchor": "Oyster River (19 km)"
+   },
+   {
     "url": "/areas/cortes-island-bc",
     "km": 23,
     "anchor": "Cortes Island (23 km)"
@@ -1888,11 +1893,6 @@
     "url": "/areas/black-creek-bc",
     "km": 23,
     "anchor": "Black Creek (23 km)"
-   },
-   {
-    "url": "/areas/courtenay-bc",
-    "km": 41,
-    "anchor": "Courtenay (41 km)"
    }
   ],
   "down_links": [],
@@ -1983,6 +1983,16 @@
     "anchor": "Abbotsford (9 km)"
    },
    {
+    "url": "/areas/bradner-bc",
+    "km": 9,
+    "anchor": "Bradner (9 km)"
+   },
+   {
+    "url": "/areas/aldergrove-bc",
+    "km": 14,
+    "anchor": "Aldergrove (14 km)"
+   },
+   {
     "url": "/areas/langley-city-bc",
     "km": 19,
     "anchor": "Langley (City) (19 km)"
@@ -1991,16 +2001,6 @@
     "url": "/areas/yarrow-bc",
     "km": 20,
     "anchor": "Yarrow (20 km)"
-   },
-   {
-    "url": "/areas/maple-ridge-bc",
-    "km": 23,
-    "anchor": "Maple Ridge (23 km)"
-   },
-   {
-    "url": "/areas/fraser-valley-regional-district-bc",
-    "km": 23,
-    "anchor": "Fraser Valley Regional District (23 km)"
    }
   ],
   "down_links": [],
@@ -2101,14 +2101,14 @@
     "anchor": "Nanoose Bay (10 km)"
    },
    {
+    "url": "/areas/fairwinds-bc",
+    "km": 14,
+    "anchor": "Fairwinds (14 km)"
+   },
+   {
     "url": "/areas/lantzville-bc",
     "km": 19,
     "anchor": "Lantzville (19 km)"
-   },
-   {
-    "url": "/areas/nanaimo-regional-district-bc",
-    "km": 26,
-    "anchor": "Nanaimo Regional District (26 km)"
    }
   ],
   "down_links": [],
@@ -2464,6 +2464,11 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/shirley-bc",
+    "km": 13,
+    "anchor": "Shirley (13 km)"
+   },
+   {
     "url": "/areas/metchosin-bc",
     "km": 14,
     "anchor": "Metchosin (14 km)"
@@ -2482,11 +2487,6 @@
     "url": "/areas/highlands-bc",
     "km": 21,
     "anchor": "Highlands (21 km)"
-   },
-   {
-    "url": "/areas/capital-regional-district-bc",
-    "km": 22,
-    "anchor": "Capital Regional District (22 km)"
    }
   ],
   "down_links": [],
@@ -2582,6 +2582,11 @@
     "anchor": "Brentwood Bay (8 km)"
    },
    {
+    "url": "/areas/cherry-point-bc",
+    "km": 14,
+    "anchor": "Cherry Point (14 km)"
+   },
+   {
     "url": "/areas/central-saanich-bc",
     "km": 15,
     "anchor": "Central Saanich (15 km)"
@@ -2590,11 +2595,6 @@
     "url": "/areas/cordova-bay-bc",
     "km": 15,
     "anchor": "Cordova Bay (15 km)"
-   },
-   {
-    "url": "/areas/cobble-hill-bc",
-    "km": 17,
-    "anchor": "Cobble Hill (17 km)"
    }
   ],
   "down_links": [],
@@ -2641,14 +2641,14 @@
     "anchor": "Nanoose Bay (19 km)"
    },
    {
+    "url": "/areas/fairwinds-bc",
+    "km": 24,
+    "anchor": "Fairwinds (24 km)"
+   },
+   {
     "url": "/areas/hornby-island-bc",
     "km": 27,
     "anchor": "Hornby Island (27 km)"
-   },
-   {
-    "url": "/areas/lantzville-bc",
-    "km": 28,
-    "anchor": "Lantzville (28 km)"
    }
   ],
   "down_links": [],
@@ -3127,14 +3127,14 @@
     "anchor": "North Cowichan (5 km)"
    },
    {
+    "url": "/areas/cowichan-bay-bc",
+    "km": 8,
+    "anchor": "Cowichan Bay (8 km)"
+   },
+   {
     "url": "/areas/crofton-bc",
     "km": 11,
     "anchor": "Crofton (11 km)"
-   },
-   {
-    "url": "/areas/cobble-hill-bc",
-    "km": 12,
-    "anchor": "Cobble Hill (12 km)"
    }
   ],
   "down_links": [],
@@ -3333,6 +3333,11 @@
     "anchor": "Squamish-Lillooet Regional District (2 km)"
    },
    {
+    "url": "/areas/mount-currie-bc",
+    "km": 6,
+    "anchor": "Mount Currie (6 km)"
+   },
+   {
     "url": "/areas/whistler-bc",
     "km": 25,
     "anchor": "Whistler (25 km)"
@@ -3346,11 +3351,6 @@
     "url": "/areas/lillooet-bc",
     "km": 73,
     "anchor": "Lillooet (73 km)"
-   },
-   {
-    "url": "/areas/britannia-beach-bc",
-    "km": 82,
-    "anchor": "Britannia Beach (82 km)"
    }
   ],
   "down_links": [],
@@ -3544,6 +3544,11 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/sunset-beach-bc",
+    "km": 7,
+    "anchor": "Sunset Beach (7 km)"
+   },
+   {
     "url": "/areas/lions-bay-bc",
     "km": 11,
     "anchor": "Lions Bay (11 km)"
@@ -3554,19 +3559,14 @@
     "anchor": "Gibsons (12 km)"
    },
    {
+    "url": "/areas/langdale-bc",
+    "km": 12,
+    "anchor": "Langdale (12 km)"
+   },
+   {
     "url": "/areas/west-vancouver-bc",
     "km": 14,
     "anchor": "West Vancouver (14 km)"
-   },
-   {
-    "url": "/areas/university-endowment-lands-bc",
-    "km": 15,
-    "anchor": "University Endowment Lands (15 km)"
-   },
-   {
-    "url": "/areas/vancouver-bc",
-    "km": 19,
-    "anchor": "Vancouver (19 km)"
    }
   ],
   "down_links": [],
@@ -3824,6 +3824,11 @@
     "anchor": "Roberts Creek (10 km)"
    },
    {
+    "url": "/areas/welcome-beach-bc",
+    "km": 10,
+    "anchor": "Welcome Beach (10 km)"
+   },
+   {
     "url": "/areas/halfmoon-bay-bc",
     "km": 12,
     "anchor": "Halfmoon Bay (12 km)"
@@ -3832,11 +3837,6 @@
     "url": "/areas/gibsons-bc",
     "km": 20,
     "anchor": "Gibsons (20 km)"
-   },
-   {
-    "url": "/areas/madeira-park-bc",
-    "km": 25,
-    "anchor": "Madeira Park (25 km)"
    }
   ],
   "down_links": [],
@@ -4300,6 +4300,11 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/langdale-bc",
+    "km": 4,
+    "anchor": "Langdale (4 km)"
+   },
+   {
     "url": "/areas/roberts-creek-bc",
     "km": 11,
     "anchor": "Roberts Creek (11 km)"
@@ -4310,19 +4315,14 @@
     "anchor": "Bowen Island (12 km)"
    },
    {
+    "url": "/areas/sunset-beach-bc",
+    "km": 19,
+    "anchor": "Sunset Beach (19 km)"
+   },
+   {
     "url": "/areas/sechelt-bc",
     "km": 20,
     "anchor": "Sechelt (20 km)"
-   },
-   {
-    "url": "/areas/lions-bay-bc",
-    "km": 20,
-    "anchor": "Lions Bay (20 km)"
-   },
-   {
-    "url": "/areas/sunshine-coast-regional-district-bc",
-    "km": 24,
-    "anchor": "Sunshine Coast Regional District (24 km)"
    }
   ],
   "down_links": [],
@@ -4364,6 +4364,11 @@
     "anchor": "Lantzville (7 km)"
    },
    {
+    "url": "/areas/fairwinds-bc",
+    "km": 13,
+    "anchor": "Fairwinds (13 km)"
+   },
+   {
     "url": "/areas/cedar-bc",
     "km": 14,
     "anchor": "Cedar (14 km)"
@@ -4372,11 +4377,6 @@
     "url": "/areas/nanoose-bay-bc",
     "km": 16,
     "anchor": "Nanoose Bay (16 km)"
-   },
-   {
-    "url": "/areas/gabriola-island-bc",
-    "km": 16,
-    "anchor": "Gabriola Island (16 km)"
    }
   ],
   "down_links": [],
@@ -4806,9 +4806,9 @@
     "anchor": "Crofton (8 km)"
    },
    {
-    "url": "/areas/chemainus-bc",
-    "km": 13,
-    "anchor": "Chemainus (13 km)"
+    "url": "/areas/cowichan-bay-bc",
+    "km": 10,
+    "anchor": "Cowichan Bay (10 km)"
    }
   ],
   "down_links": [],
@@ -5223,6 +5223,11 @@
     "anchor": "Pemberton (2 km)"
    },
    {
+    "url": "/areas/mount-currie-bc",
+    "km": 6,
+    "anchor": "Mount Currie (6 km)"
+   },
+   {
     "url": "/areas/whistler-bc",
     "km": 23,
     "anchor": "Whistler (23 km)"
@@ -5236,11 +5241,6 @@
     "url": "/areas/lillooet-bc",
     "km": 74,
     "anchor": "Lillooet (74 km)"
-   },
-   {
-    "url": "/areas/britannia-beach-bc",
-    "km": 80,
-    "anchor": "Britannia Beach (80 km)"
    }
   ],
   "down_links": [],
@@ -5277,6 +5277,11 @@
     "anchor": "Sechelt (4 km)"
    },
    {
+    "url": "/areas/welcome-beach-bc",
+    "km": 7,
+    "anchor": "Welcome Beach (7 km)"
+   },
+   {
     "url": "/areas/halfmoon-bay-bc",
     "km": 8,
     "anchor": "Halfmoon Bay (8 km)"
@@ -5290,11 +5295,6 @@
     "url": "/areas/madeira-park-bc",
     "km": 21,
     "anchor": "Madeira Park (21 km)"
-   },
-   {
-    "url": "/areas/gibsons-bc",
-    "km": 24,
-    "anchor": "Gibsons (24 km)"
    }
   ],
   "down_links": [],
@@ -5390,6 +5390,11 @@
     "anchor": "Quadra Island (28 km)"
    },
    {
+    "url": "/areas/oyster-river-bc",
+    "km": 30,
+    "anchor": "Oyster River (30 km)"
+   },
+   {
     "url": "/areas/black-creek-bc",
     "km": 32,
     "anchor": "Black Creek (32 km)"
@@ -5398,11 +5403,6 @@
     "url": "/areas/cortes-island-bc",
     "km": 41,
     "anchor": "Cortes Island (41 km)"
-   },
-   {
-    "url": "/areas/gold-river-bc",
-    "km": 47,
-    "anchor": "Gold River (47 km)"
    }
   ],
   "down_links": [],
@@ -6804,9 +6804,9 @@
     "anchor": "Crofton (8 km)"
    },
    {
-    "url": "/areas/chemainus-bc",
-    "km": 13,
-    "anchor": "Chemainus (13 km)"
+    "url": "/areas/cowichan-bay-bc",
+    "km": 10,
+    "anchor": "Cowichan Bay (10 km)"
    }
   ],
   "down_links": [],
@@ -6838,6 +6838,11 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/sunset-beach-bc",
+    "km": 6,
+    "anchor": "Sunset Beach (6 km)"
+   },
+   {
     "url": "/areas/bowen-island-bc",
     "km": 11,
     "anchor": "Bowen Island (11 km)"
@@ -6853,14 +6858,9 @@
     "anchor": "North Vancouver (District) (17 km)"
    },
    {
-    "url": "/areas/north-vancouver-city-bc",
-    "km": 19,
-    "anchor": "North Vancouver (City) (19 km)"
-   },
-   {
-    "url": "/areas/britannia-beach-bc",
-    "km": 19,
-    "anchor": "Britannia Beach (19 km)"
+    "url": "/areas/langdale-bc",
+    "km": 18,
+    "anchor": "Langdale (18 km)"
    }
   ],
   "down_links": [],
@@ -7108,6 +7108,11 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/youbou-bc",
+    "km": 12,
+    "anchor": "Youbou (12 km)"
+   },
+   {
     "url": "/areas/north-cowichan-bc",
     "km": 24,
     "anchor": "North Cowichan (24 km)"
@@ -7126,11 +7131,6 @@
     "url": "/areas/ladysmith-bc",
     "km": 26,
     "anchor": "Ladysmith (26 km)"
-   },
-   {
-    "url": "/areas/cowichan-valley-regional-district-bc",
-    "km": 26,
-    "anchor": "Cowichan Valley Regional District (26 km)"
    }
   ],
   "down_links": [],
@@ -7216,6 +7216,11 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/fairwinds-bc",
+    "km": 5,
+    "anchor": "Fairwinds (5 km)"
+   },
+   {
     "url": "/areas/nanaimo-regional-district-bc",
     "km": 7,
     "anchor": "Nanaimo Regional District (7 km)"
@@ -7234,11 +7239,6 @@
     "url": "/areas/parksville-bc",
     "km": 19,
     "anchor": "Parksville (19 km)"
-   },
-   {
-    "url": "/areas/cedar-bc",
-    "km": 22,
-    "anchor": "Cedar (22 km)"
    }
   ],
   "down_links": [],
@@ -7270,6 +7270,11 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/fairwinds-bc",
+    "km": 6,
+    "anchor": "Fairwinds (6 km)"
+   },
+   {
     "url": "/areas/parksville-bc",
     "km": 10,
     "anchor": "Parksville (10 km)"
@@ -7288,11 +7293,6 @@
     "url": "/areas/nanaimo-regional-district-bc",
     "km": 16,
     "anchor": "Nanaimo Regional District (16 km)"
-   },
-   {
-    "url": "/areas/qualicum-beach-bc",
-    "km": 19,
-    "anchor": "Qualicum Beach (19 km)"
    }
   ],
   "down_links": [],
@@ -7437,6 +7437,16 @@
     "anchor": "Cobble Hill (4 km)"
    },
    {
+    "url": "/areas/cowichan-bay-bc",
+    "km": 9,
+    "anchor": "Cowichan Bay (9 km)"
+   },
+   {
+    "url": "/areas/cherry-point-bc",
+    "km": 9,
+    "anchor": "Cherry Point (9 km)"
+   },
+   {
     "url": "/areas/duncan-bc",
     "km": 15,
     "anchor": "Duncan (15 km)"
@@ -7445,16 +7455,6 @@
     "url": "/areas/brentwood-bay-bc",
     "km": 16,
     "anchor": "Brentwood Bay (16 km)"
-   },
-   {
-    "url": "/areas/north-saanich-bc",
-    "km": 17,
-    "anchor": "North Saanich (17 km)"
-   },
-   {
-    "url": "/areas/cowichan-valley-regional-district-bc",
-    "km": 17,
-    "anchor": "Cowichan Valley Regional District (17 km)"
    }
   ],
   "down_links": [],
@@ -7977,6 +7977,11 @@
     "anchor": "Ashcroft (47 km)"
    },
    {
+    "url": "/areas/mount-currie-bc",
+    "km": 68,
+    "anchor": "Mount Currie (68 km)"
+   },
+   {
     "url": "/areas/pemberton-bc",
     "km": 73,
     "anchor": "Pemberton (73 km)"
@@ -7990,11 +7995,6 @@
     "url": "/areas/logan-lake-bc",
     "km": 83,
     "anchor": "Logan Lake (83 km)"
-   },
-   {
-    "url": "/areas/whistler-bc",
-    "km": 96,
-    "anchor": "Whistler (96 km)"
    }
   ],
   "down_links": [],
@@ -8365,14 +8365,14 @@
     "anchor": "Black Creek (66 km)"
    },
    {
+    "url": "/areas/oyster-river-bc",
+    "km": 66,
+    "anchor": "Oyster River (66 km)"
+   },
+   {
     "url": "/areas/tofino-bc",
     "km": 70,
     "anchor": "Tofino (70 km)"
-   },
-   {
-    "url": "/areas/quadra-island-bc",
-    "km": 74,
-    "anchor": "Quadra Island (74 km)"
    }
   ],
   "down_links": [],
@@ -8517,6 +8517,16 @@
     "anchor": "Shawnigan Lake (4 km)"
    },
    {
+    "url": "/areas/cowichan-bay-bc",
+    "km": 6,
+    "anchor": "Cowichan Bay (6 km)"
+   },
+   {
+    "url": "/areas/cherry-point-bc",
+    "km": 6,
+    "anchor": "Cherry Point (6 km)"
+   },
+   {
     "url": "/areas/duncan-bc",
     "km": 12,
     "anchor": "Duncan (12 km)"
@@ -8525,16 +8535,6 @@
     "url": "/areas/cowichan-valley-regional-district-bc",
     "km": 14,
     "anchor": "Cowichan Valley Regional District (14 km)"
-   },
-   {
-    "url": "/areas/cowichan-tribes-bc",
-    "km": 14,
-    "anchor": "Cowichan Tribes (14 km)"
-   },
-   {
-    "url": "/areas/sidney-bc",
-    "km": 17,
-    "anchor": "Sidney (17 km)"
    }
   ],
   "down_links": [],
@@ -8635,14 +8635,14 @@
     "anchor": "Nanoose Bay (12 km)"
    },
    {
+    "url": "/areas/fairwinds-bc",
+    "km": 18,
+    "anchor": "Fairwinds (18 km)"
+   },
+   {
     "url": "/areas/lantzville-bc",
     "km": 22,
     "anchor": "Lantzville (22 km)"
-   },
-   {
-    "url": "/areas/nanaimo-regional-district-bc",
-    "km": 28,
-    "anchor": "Nanaimo Regional District (28 km)"
    }
   ],
   "down_links": [],
@@ -8782,6 +8782,11 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/welcome-beach-bc",
+    "km": 4,
+    "anchor": "Welcome Beach (4 km)"
+   },
+   {
     "url": "/areas/sunshine-coast-regional-district-bc",
     "km": 8,
     "anchor": "Sunshine Coast Regional District (8 km)"
@@ -8797,14 +8802,9 @@
     "anchor": "Madeira Park (14 km)"
    },
    {
-    "url": "/areas/roberts-creek-bc",
-    "km": 21,
-    "anchor": "Roberts Creek (21 km)"
-   },
-   {
-    "url": "/areas/gibsons-bc",
-    "km": 32,
-    "anchor": "Gibsons (32 km)"
+    "url": "/areas/south-pender-harbour-bc",
+    "km": 15,
+    "anchor": "South Pender Harbour (15 km)"
    }
   ],
   "down_links": [],
@@ -8836,9 +8836,19 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/youbou-bc",
+    "km": 39,
+    "anchor": "Youbou (39 km)"
+   },
+   {
     "url": "/areas/lake-cowichan-bc",
     "km": 42,
     "anchor": "Lake Cowichan (42 km)"
+   },
+   {
+    "url": "/areas/shirley-bc",
+    "km": 43,
+    "anchor": "Shirley (43 km)"
    },
    {
     "url": "/areas/sooke-bc",
@@ -8849,16 +8859,6 @@
     "url": "/areas/shawnigan-lake-bc",
     "km": 59,
     "anchor": "Shawnigan Lake (59 km)"
-   },
-   {
-    "url": "/areas/duncan-bc",
-    "km": 60,
-    "anchor": "Duncan (60 km)"
-   },
-   {
-    "url": "/areas/north-cowichan-bc",
-    "km": 61,
-    "anchor": "North Cowichan (61 km)"
    }
   ],
   "down_links": [],
@@ -8905,14 +8905,14 @@
     "anchor": "Strathcona Regional District (28 km)"
    },
    {
+    "url": "/areas/oyster-river-bc",
+    "km": 38,
+    "anchor": "Oyster River (38 km)"
+   },
+   {
     "url": "/areas/black-creek-bc",
     "km": 42,
     "anchor": "Black Creek (42 km)"
-   },
-   {
-    "url": "/areas/courtenay-bc",
-    "km": 60,
-    "anchor": "Courtenay (60 km)"
    }
   ],
   "down_links": [],
@@ -8954,19 +8954,19 @@
     "anchor": "Gibsons (11 km)"
    },
    {
+    "url": "/areas/langdale-bc",
+    "km": 12,
+    "anchor": "Langdale (12 km)"
+   },
+   {
     "url": "/areas/sunshine-coast-regional-district-bc",
     "km": 14,
     "anchor": "Sunshine Coast Regional District (14 km)"
    },
    {
-    "url": "/areas/halfmoon-bay-bc",
-    "km": 21,
-    "anchor": "Halfmoon Bay (21 km)"
-   },
-   {
-    "url": "/areas/bowen-island-bc",
-    "km": 23,
-    "anchor": "Bowen Island (23 km)"
+    "url": "/areas/welcome-beach-bc",
+    "km": 19,
+    "anchor": "Welcome Beach (19 km)"
    }
   ],
   "down_links": [],
@@ -9224,6 +9224,11 @@
     "anchor": "Quadra Island (23 km)"
    },
    {
+    "url": "/areas/oyster-river-bc",
+    "km": 30,
+    "anchor": "Oyster River (30 km)"
+   },
+   {
     "url": "/areas/black-creek-bc",
     "km": 34,
     "anchor": "Black Creek (34 km)"
@@ -9232,11 +9237,6 @@
     "url": "/areas/strathcona-regional-district-bc",
     "km": 41,
     "anchor": "Strathcona Regional District (41 km)"
-   },
-   {
-    "url": "/areas/powell-river-bc",
-    "km": 44,
-    "anchor": "Powell River (44 km)"
    }
   ],
   "down_links": [],
@@ -9430,6 +9430,11 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/oyster-river-bc",
+    "km": 4,
+    "anchor": "Oyster River (4 km)"
+   },
+   {
     "url": "/areas/courtenay-bc",
     "km": 19,
     "anchor": "Courtenay (19 km)"
@@ -9448,11 +9453,6 @@
     "url": "/areas/comox-bc",
     "km": 24,
     "anchor": "Comox (24 km)"
-   },
-   {
-    "url": "/areas/cumberland-bc",
-    "km": 25,
-    "anchor": "Cumberland (25 km)"
    }
   ],
   "down_links": [],
@@ -9612,9 +9612,9 @@
     "anchor": "Madeira Park (29 km)"
    },
    {
-    "url": "/areas/denman-island-bc",
-    "km": 33,
-    "anchor": "Denman Island (33 km)"
+    "url": "/areas/south-pender-harbour-bc",
+    "km": 29,
+    "anchor": "South Pender Harbour (29 km)"
    }
   ],
   "down_links": [],
@@ -9646,9 +9646,19 @@
   },
   "sideways_links": [
    {
+    "url": "/areas/south-pender-harbour-bc",
+    "km": 0,
+    "anchor": "South Pender Harbour (0 km)"
+   },
+   {
     "url": "/areas/halfmoon-bay-bc",
     "km": 14,
     "anchor": "Halfmoon Bay (14 km)"
+   },
+   {
+    "url": "/areas/welcome-beach-bc",
+    "km": 18,
+    "anchor": "Welcome Beach (18 km)"
    },
    {
     "url": "/areas/sunshine-coast-regional-district-bc",
@@ -9659,16 +9669,6 @@
     "url": "/areas/sechelt-bc",
     "km": 25,
     "anchor": "Sechelt (25 km)"
-   },
-   {
-    "url": "/areas/texada-island-bc",
-    "km": 29,
-    "anchor": "Texada Island (29 km)"
-   },
-   {
-    "url": "/areas/roberts-creek-bc",
-    "km": 35,
-    "anchor": "Roberts Creek (35 km)"
    }
   ],
   "down_links": [],
@@ -9764,19 +9764,19 @@
     "anchor": "Lions Bay (19 km)"
    },
    {
+    "url": "/areas/sunset-beach-bc",
+    "km": 26,
+    "anchor": "Sunset Beach (26 km)"
+   },
+   {
     "url": "/areas/bowen-island-bc",
     "km": 29,
     "anchor": "Bowen Island (29 km)"
    },
    {
-    "url": "/areas/north-vancouver-district-bc",
-    "km": 33,
-    "anchor": "North Vancouver (District) (33 km)"
-   },
-   {
-    "url": "/areas/west-vancouver-bc",
-    "km": 33,
-    "anchor": "West Vancouver (33 km)"
+    "url": "/areas/langdale-bc",
+    "km": 29,
+    "anchor": "Langdale (29 km)"
    }
   ],
   "down_links": [],
@@ -9842,6 +9842,708 @@
    {
     "url": "/blog/bc-fraser-valley-seasonal-guide-2026",
     "anchor": "Seasonal {SERVICE} timing in the Fraser Valley"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-0632",
+  "name": "Bradner",
+  "region": "Metro Vancouver",
+  "url": "/areas/bradner-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/metro-vancouver",
+   "/areas/bradner-bc"
+  ],
+  "up_link": {
+   "name": "Metro Vancouver Regional District",
+   "url": "/areas/metro-vancouver-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/aldergrove-bc",
+    "km": 6,
+    "anchor": "Aldergrove (6 km)"
+   },
+   {
+    "url": "/areas/mission-bc",
+    "km": 9,
+    "anchor": "Mission (9 km)"
+   },
+   {
+    "url": "/areas/abbotsford-bc",
+    "km": 10,
+    "anchor": "Abbotsford (10 km)"
+   },
+   {
+    "url": "/areas/langley-city-bc",
+    "km": 11,
+    "anchor": "Langley (City) (11 km)"
+   },
+   {
+    "url": "/areas/langley-township-bc",
+    "km": 18,
+    "anchor": "Langley (Township) (18 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-metro-vancouver-cost-guide-2026",
+    "anchor": "Metro Vancouver {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-metro-vancouver-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Metro Vancouver"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1123",
+  "name": "Langdale",
+  "region": "Gulf Islands & Sunshine Coast",
+  "url": "/areas/langdale-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/gulf-islands-sunshine-coast",
+   "/areas/langdale-bc"
+  ],
+  "up_link": {
+   "name": "Sunshine Coast Regional District",
+   "url": "/areas/sunshine-coast-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/gibsons-bc",
+    "km": 4,
+    "anchor": "Gibsons (4 km)"
+   },
+   {
+    "url": "/areas/bowen-island-bc",
+    "km": 12,
+    "anchor": "Bowen Island (12 km)"
+   },
+   {
+    "url": "/areas/roberts-creek-bc",
+    "km": 12,
+    "anchor": "Roberts Creek (12 km)"
+   },
+   {
+    "url": "/areas/sunset-beach-bc",
+    "km": 17,
+    "anchor": "Sunset Beach (17 km)"
+   },
+   {
+    "url": "/areas/lions-bay-bc",
+    "km": 18,
+    "anchor": "Lions Bay (18 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-cost-guide-2026",
+    "anchor": "Gulf Islands & Sunshine Coast {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Gulf Islands & Sunshine Coast"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1244",
+  "name": "Mount Currie",
+  "region": "Sea-to-Sky",
+  "url": "/areas/mount-currie-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/sea-to-sky",
+   "/areas/mount-currie-bc"
+  ],
+  "up_link": {
+   "name": "Squamish-Lillooet Regional District",
+   "url": "/areas/squamish-lillooet-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/pemberton-bc",
+    "km": 6,
+    "anchor": "Pemberton (6 km)"
+   },
+   {
+    "url": "/areas/squamish-lillooet-regional-district-bc",
+    "km": 6,
+    "anchor": "Squamish-Lillooet Regional District (6 km)"
+   },
+   {
+    "url": "/areas/whistler-bc",
+    "km": 28,
+    "anchor": "Whistler (28 km)"
+   },
+   {
+    "url": "/areas/lillooet-bc",
+    "km": 68,
+    "anchor": "Lillooet (68 km)"
+   },
+   {
+    "url": "/areas/squamish-bc",
+    "km": 75,
+    "anchor": "Squamish (75 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-sea-to-sky-cost-guide-2026",
+    "anchor": "Sea-to-Sky {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-sea-to-sky-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Sea-to-Sky"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1325",
+  "name": "Oyster River",
+  "region": "Vancouver Island Central & North",
+  "url": "/areas/oyster-river-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/vancouver-island-central-north",
+   "/areas/oyster-river-bc"
+  ],
+  "up_link": {
+   "name": "Nanaimo Regional District",
+   "url": "/areas/nanaimo-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/black-creek-bc",
+    "km": 4,
+    "anchor": "Black Creek (4 km)"
+   },
+   {
+    "url": "/areas/campbell-river-bc",
+    "km": 19,
+    "anchor": "Campbell River (19 km)"
+   },
+   {
+    "url": "/areas/courtenay-bc",
+    "km": 22,
+    "anchor": "Courtenay (22 km)"
+   },
+   {
+    "url": "/areas/comox-valley-regional-district-bc",
+    "km": 23,
+    "anchor": "Comox Valley Regional District (23 km)"
+   },
+   {
+    "url": "/areas/comox-bc",
+    "km": 27,
+    "anchor": "Comox (27 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-vancouver-island-central-north-cost-guide-2026",
+    "anchor": "Vancouver Island Central & North {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-vancouver-island-central-north-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Vancouver Island Central & North"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1495",
+  "name": "Shirley",
+  "region": "Vancouver Island South",
+  "url": "/areas/shirley-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/vancouver-island-south",
+   "/areas/shirley-bc"
+  ],
+  "up_link": {
+   "name": "Capital Regional District",
+   "url": "/areas/capital-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/sooke-bc",
+    "km": 13,
+    "anchor": "Sooke (13 km)"
+   },
+   {
+    "url": "/areas/metchosin-bc",
+    "km": 27,
+    "anchor": "Metchosin (27 km)"
+   },
+   {
+    "url": "/areas/langford-bc",
+    "km": 30,
+    "anchor": "Langford (30 km)"
+   },
+   {
+    "url": "/areas/colwood-bc",
+    "km": 30,
+    "anchor": "Colwood (30 km)"
+   },
+   {
+    "url": "/areas/capital-regional-district-bc",
+    "km": 32,
+    "anchor": "Capital Regional District (32 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-vancouver-island-south-cost-guide-2026",
+    "anchor": "Vancouver Island South {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-vancouver-island-south-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Vancouver Island South"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1589",
+  "name": "Sunset Beach",
+  "region": "Metro Vancouver",
+  "url": "/areas/sunset-beach-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/metro-vancouver",
+   "/areas/sunset-beach-bc"
+  ],
+  "up_link": {
+   "name": "Metro Vancouver Regional District",
+   "url": "/areas/metro-vancouver-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/lions-bay-bc",
+    "km": 6,
+    "anchor": "Lions Bay (6 km)"
+   },
+   {
+    "url": "/areas/bowen-island-bc",
+    "km": 7,
+    "anchor": "Bowen Island (7 km)"
+   },
+   {
+    "url": "/areas/west-vancouver-bc",
+    "km": 10,
+    "anchor": "West Vancouver (10 km)"
+   },
+   {
+    "url": "/areas/north-vancouver-district-bc",
+    "km": 14,
+    "anchor": "North Vancouver (District) (14 km)"
+   },
+   {
+    "url": "/areas/university-endowment-lands-bc",
+    "km": 15,
+    "anchor": "University Endowment Lands (15 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-metro-vancouver-cost-guide-2026",
+    "anchor": "Metro Vancouver {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-metro-vancouver-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Metro Vancouver"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1693",
+  "name": "Welcome Beach",
+  "region": "Gulf Islands & Sunshine Coast",
+  "url": "/areas/welcome-beach-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/gulf-islands-sunshine-coast",
+   "/areas/welcome-beach-bc"
+  ],
+  "up_link": {
+   "name": "Sunshine Coast Regional District",
+   "url": "/areas/sunshine-coast-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/halfmoon-bay-bc",
+    "km": 4,
+    "anchor": "Halfmoon Bay (4 km)"
+   },
+   {
+    "url": "/areas/sunshine-coast-regional-district-bc",
+    "km": 7,
+    "anchor": "Sunshine Coast Regional District (7 km)"
+   },
+   {
+    "url": "/areas/sechelt-bc",
+    "km": 10,
+    "anchor": "Sechelt (10 km)"
+   },
+   {
+    "url": "/areas/madeira-park-bc",
+    "km": 18,
+    "anchor": "Madeira Park (18 km)"
+   },
+   {
+    "url": "/areas/south-pender-harbour-bc",
+    "km": 18,
+    "anchor": "South Pender Harbour (18 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-cost-guide-2026",
+    "anchor": "Gulf Islands & Sunshine Coast {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Gulf Islands & Sunshine Coast"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1751",
+  "name": "Youbou",
+  "region": "Gulf Islands & Sunshine Coast",
+  "url": "/areas/youbou-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/gulf-islands-sunshine-coast",
+   "/areas/youbou-bc"
+  ],
+  "up_link": {
+   "name": "Sunshine Coast Regional District",
+   "url": "/areas/sunshine-coast-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/lake-cowichan-bc",
+    "km": 12,
+    "anchor": "Lake Cowichan (12 km)"
+   },
+   {
+    "url": "/areas/cassidy-bc",
+    "km": 31,
+    "anchor": "Cassidy (31 km)"
+   },
+   {
+    "url": "/areas/ladysmith-bc",
+    "km": 32,
+    "anchor": "Ladysmith (32 km)"
+   },
+   {
+    "url": "/areas/saltair-bc",
+    "km": 33,
+    "anchor": "Saltair (33 km)"
+   },
+   {
+    "url": "/areas/north-cowichan-bc",
+    "km": 36,
+    "anchor": "North Cowichan (36 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-cost-guide-2026",
+    "anchor": "Gulf Islands & Sunshine Coast {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Gulf Islands & Sunshine Coast"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1797",
+  "name": "Aldergrove",
+  "region": "Metro Vancouver",
+  "url": "/areas/aldergrove-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/metro-vancouver",
+   "/areas/aldergrove-bc"
+  ],
+  "up_link": {
+   "name": "Metro Vancouver Regional District",
+   "url": "/areas/metro-vancouver-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/bradner-bc",
+    "km": 6,
+    "anchor": "Bradner (6 km)"
+   },
+   {
+    "url": "/areas/langley-city-bc",
+    "km": 8,
+    "anchor": "Langley (City) (8 km)"
+   },
+   {
+    "url": "/areas/abbotsford-bc",
+    "km": 12,
+    "anchor": "Abbotsford (12 km)"
+   },
+   {
+    "url": "/areas/mission-bc",
+    "km": 14,
+    "anchor": "Mission (14 km)"
+   },
+   {
+    "url": "/areas/langley-township-bc",
+    "km": 15,
+    "anchor": "Langley (Township) (15 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-metro-vancouver-cost-guide-2026",
+    "anchor": "Metro Vancouver {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-metro-vancouver-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Metro Vancouver"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1799",
+  "name": "Cowichan Bay",
+  "region": "Vancouver Island South",
+  "url": "/areas/cowichan-bay-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/vancouver-island-south",
+   "/areas/cowichan-bay-bc"
+  ],
+  "up_link": {
+   "name": "Capital Regional District",
+   "url": "/areas/capital-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/cherry-point-bc",
+    "km": 5,
+    "anchor": "Cherry Point (5 km)"
+   },
+   {
+    "url": "/areas/cobble-hill-bc",
+    "km": 6,
+    "anchor": "Cobble Hill (6 km)"
+   },
+   {
+    "url": "/areas/duncan-bc",
+    "km": 8,
+    "anchor": "Duncan (8 km)"
+   },
+   {
+    "url": "/areas/shawnigan-lake-bc",
+    "km": 9,
+    "anchor": "Shawnigan Lake (9 km)"
+   },
+   {
+    "url": "/areas/cowichan-valley-regional-district-bc",
+    "km": 10,
+    "anchor": "Cowichan Valley Regional District (10 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-vancouver-island-south-cost-guide-2026",
+    "anchor": "Vancouver Island South {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-vancouver-island-south-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Vancouver Island South"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1829",
+  "name": "Fairwinds",
+  "region": "Gulf Islands & Sunshine Coast",
+  "url": "/areas/fairwinds-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/gulf-islands-sunshine-coast",
+   "/areas/fairwinds-bc"
+  ],
+  "up_link": {
+   "name": "Sunshine Coast Regional District",
+   "url": "/areas/sunshine-coast-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/lantzville-bc",
+    "km": 5,
+    "anchor": "Lantzville (5 km)"
+   },
+   {
+    "url": "/areas/nanoose-bay-bc",
+    "km": 6,
+    "anchor": "Nanoose Bay (6 km)"
+   },
+   {
+    "url": "/areas/nanaimo-regional-district-bc",
+    "km": 13,
+    "anchor": "Nanaimo Regional District (13 km)"
+   },
+   {
+    "url": "/areas/parksville-bc",
+    "km": 14,
+    "anchor": "Parksville (14 km)"
+   },
+   {
+    "url": "/areas/nanaimo-bc",
+    "km": 18,
+    "anchor": "Nanaimo (18 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-cost-guide-2026",
+    "anchor": "Gulf Islands & Sunshine Coast {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Gulf Islands & Sunshine Coast"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1831",
+  "name": "South Pender Harbour",
+  "region": "Gulf Islands & Sunshine Coast",
+  "url": "/areas/south-pender-harbour-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/gulf-islands-sunshine-coast",
+   "/areas/south-pender-harbour-bc"
+  ],
+  "up_link": {
+   "name": "Sunshine Coast Regional District",
+   "url": "/areas/sunshine-coast-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/madeira-park-bc",
+    "km": 0,
+    "anchor": "Madeira Park (0 km)"
+   },
+   {
+    "url": "/areas/halfmoon-bay-bc",
+    "km": 15,
+    "anchor": "Halfmoon Bay (15 km)"
+   },
+   {
+    "url": "/areas/welcome-beach-bc",
+    "km": 18,
+    "anchor": "Welcome Beach (18 km)"
+   },
+   {
+    "url": "/areas/sunshine-coast-regional-district-bc",
+    "km": 21,
+    "anchor": "Sunshine Coast Regional District (21 km)"
+   },
+   {
+    "url": "/areas/sechelt-bc",
+    "km": 26,
+    "anchor": "Sechelt (26 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-cost-guide-2026",
+    "anchor": "Gulf Islands & Sunshine Coast {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-gulf-islands-sunshine-coast-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Gulf Islands & Sunshine Coast"
+   }
+  ]
+ },
+ {
+  "Location_ID": "BC-1839",
+  "name": "Cherry Point",
+  "region": "Vancouver Island South",
+  "url": "/areas/cherry-point-bc",
+  "breadcrumb": [
+   "/",
+   "/areas",
+   "/areas/region/vancouver-island-south",
+   "/areas/cherry-point-bc"
+  ],
+  "up_link": {
+   "name": "Capital Regional District",
+   "url": "/areas/capital-regional-district-bc"
+  },
+  "sideways_links": [
+   {
+    "url": "/areas/cowichan-bay-bc",
+    "km": 5,
+    "anchor": "Cowichan Bay (5 km)"
+   },
+   {
+    "url": "/areas/cobble-hill-bc",
+    "km": 6,
+    "anchor": "Cobble Hill (6 km)"
+   },
+   {
+    "url": "/areas/shawnigan-lake-bc",
+    "km": 9,
+    "anchor": "Shawnigan Lake (9 km)"
+   },
+   {
+    "url": "/areas/duncan-bc",
+    "km": 13,
+    "anchor": "Duncan (13 km)"
+   },
+   {
+    "url": "/areas/salt-spring-island-bc",
+    "km": 14,
+    "anchor": "Salt Spring Island (14 km)"
+   }
+  ],
+  "down_links": [],
+  "blog_links": [
+   {
+    "url": "/blog/bc-vancouver-island-south-cost-guide-2026",
+    "anchor": "Vancouver Island South {SERVICE} cost guide (2026)"
+   },
+   {
+    "url": "/blog/bc-vancouver-island-south-seasonal-guide-2026",
+    "anchor": "Seasonal {SERVICE} timing in the Vancouver Island South"
    }
   ]
  }

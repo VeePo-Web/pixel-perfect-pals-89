@@ -1,0 +1,66 @@
+{
+ "Location_ID": "BC-1244",
+ "Location_Name": "Mount Currie",
+ "Location_Type": "Community",
+ "Parent_Municipality": null,
+ "Parent_Region": "Sea-to-Sky",
+ "Province": "British Columbia",
+ "Latitude": 50.3167,
+ "Longitude": -122.7167,
+ "FSA": null,
+ "Population_2021_Census": 1242,
+ "Population_Source": "GeoNames (CC-BY)",
+ "Distance_From_Vancouver_KM": 119,
+ "Distance_From_Victoria_KM": 215,
+ "Unified_Score": 51.8,
+ "URL_Slug": "mount-currie-bc",
+ "existing_Entity_Description": null,
+ "existing_Local_Facts": null,
+ "existing_Long_Description": null,
+ "Notes": "Enumerated from GeoNames census expansion (not in original spreadsheet). Population is a GeoNames estimate — treat as approximate; omit any uncertain specifics.",
+ "REGION_BUNDLE": {
+  "climate": "Steep climate gradient in 120 km: mild wet coastal at Squamish to alpine snow country at Whistler; heavy winter snow loads and freeze-thaw at elevation; intense short building seasons up-corridor.",
+  "terrain": "The Sea-to-Sky Highway (Highway 99) corridor from Howe Sound fjord through the Coast Mountains: granite walls (the Stawamus Chief), glacier-fed rivers, and alpine terrain around Whistler and Pemberton.",
+  "economy": "Whistler Blackcomb (North America's largest ski resort) drives a four-season tourism economy; Squamish is one of BC's fastest-growing municipalities with an outdoor-recreation and commuter economy; Pemberton anchors farming (famous seed potatoes).",
+  "building_stock": "Alpine chalets and lodges built for snow load, resort strata condos in Whistler, and new family subdivisions in Squamish; Pemberton mixes farm properties and new development.",
+  "landmarks": [
+   "Stawamus Chief",
+   "Whistler Blackcomb",
+   "Howe Sound",
+   "Shannon Falls",
+   "Highway 99 (Sea-to-Sky Highway)"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Pemberton",
+   "slug": "pemberton-bc",
+   "km": 6
+  },
+  {
+   "name": "Squamish-Lillooet Regional District",
+   "slug": "squamish-lillooet-regional-district-bc",
+   "km": 6
+  },
+  {
+   "name": "Whistler",
+   "slug": "whistler-bc",
+   "km": 28
+  },
+  {
+   "name": "Lillooet",
+   "slug": "lillooet-bc",
+   "km": 68
+  },
+  {
+   "name": "Squamish",
+   "slug": "squamish-bc",
+   "km": 75
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Sea-to-Sky",
+  "slug": ""
+ }
+}

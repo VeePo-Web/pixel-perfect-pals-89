@@ -3437,5 +3437,252 @@
   "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
   "width": 1200,
   "height": 900
+ },
+ {
+  "Location_ID": "BC-0632",
+  "filename": "bradner-metro-vancouver-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Bradner, Fraser Valley British Columbia — rural daffodil farms and blueberry fields on rolling uplands west of Abbotsford",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Bradner, British Columbia — Bradner, Fraser Valley British Columbia — rural daffodil farms and blueberry fields on rolling uplands west of Abbotsford",
+  "title": "Bradner, Fraser Valley British Columbia — rural daffodil farms and blueberry fields on rolling uplands west of Abbotsford",
+  "caption": "Bradner, Fraser Valley British Columbia — rural daffodil farms and blueberry fields on rolling uplands west of Abbotsford",
+  "exif_geo": {
+   "lat": 49.1,
+   "lng": -122.4167,
+   "name": "Bradner"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1123",
+  "filename": "langdale-gulf-islands-sunshine-coast-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Langdale, Gulf Islands & Sunshine Coast British Columbia — forested eastern shore of Howe Sound at the Sunshine Coast ferry terminal",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Langdale, British Columbia — Langdale, Gulf Islands & Sunshine Coast British Columbia — forested eastern shore of Howe Sound at the Sunshine Coast ferry terminal",
+  "title": "Langdale, Gulf Islands & Sunshine Coast British Columbia — forested eastern shore of Howe Sound at the Sunshine Coast ferry terminal",
+  "caption": "Langdale, Gulf Islands & Sunshine Coast British Columbia — forested eastern shore of Howe Sound at the Sunshine Coast ferry terminal",
+  "exif_geo": {
+   "lat": 49.4339,
+   "lng": -123.4798,
+   "name": "Langdale"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1244",
+  "filename": "mount-currie-sea-to-sky-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Mount Currie, Sea-to-Sky British Columbia — Lil'wat Nation community on the Pemberton Valley floor beneath the peak it is named for",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Mount Currie, British Columbia — Mount Currie, Sea-to-Sky British Columbia — Lil'wat Nation community on the Pemberton Valley floor beneath the peak it is named for",
+  "title": "Mount Currie, Sea-to-Sky British Columbia — Lil'wat Nation community on the Pemberton Valley floor beneath the peak it is named for",
+  "caption": "Mount Currie, Sea-to-Sky British Columbia — Lil'wat Nation community on the Pemberton Valley floor beneath the peak it is named for",
+  "exif_geo": {
+   "lat": 50.3167,
+   "lng": -122.7167,
+   "name": "Mount Currie"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1325",
+  "filename": "oyster-river-vancouver-island-central-north-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Oyster River, Vancouver Island Central & North British Columbia — the salmon-bearing Oyster River estuary meeting the Strait of Georgia near Saratoga Beach",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Oyster River, British Columbia — Oyster River, Vancouver Island Central & North British Columbia — the salmon-bearing Oyster River estuary meeting the Strait of Georgia near Saratoga Beach",
+  "title": "Oyster River, Vancouver Island Central & North British Columbia — the salmon-bearing Oyster River estuary meeting the Strait of Georgia near Saratoga Beach",
+  "caption": "Oyster River, Vancouver Island Central & North British Columbia — the salmon-bearing Oyster River estuary meeting the Strait of Georgia near Saratoga Beach",
+  "exif_geo": {
+   "lat": 49.8667,
+   "lng": -125.1333,
+   "name": "Oyster River"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1495",
+  "filename": "shirley-vancouver-island-south-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Shirley, Vancouver Island South British Columbia — coastal community on the Strait of Juan de Fuca beside the 1912 Sheringham Point Lighthouse",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Shirley, British Columbia — Shirley, Vancouver Island South British Columbia — coastal community on the Strait of Juan de Fuca beside the 1912 Sheringham Point Lighthouse",
+  "title": "Shirley, Vancouver Island South British Columbia — coastal community on the Strait of Juan de Fuca beside the 1912 Sheringham Point Lighthouse",
+  "caption": "Shirley, Vancouver Island South British Columbia — coastal community on the Strait of Juan de Fuca beside the 1912 Sheringham Point Lighthouse",
+  "exif_geo": {
+   "lat": 48.3891,
+   "lng": -123.9049,
+   "name": "Shirley"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1589",
+  "filename": "sunset-beach-metro-vancouver-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Sunset Beach, Metro Vancouver British Columbia — oceanfront homes on the steep eastern shore of Howe Sound along the Sea-to-Sky Highway",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Sunset Beach, British Columbia — Sunset Beach, Metro Vancouver British Columbia — oceanfront homes on the steep eastern shore of Howe Sound along the Sea-to-Sky Highway",
+  "title": "Sunset Beach, Metro Vancouver British Columbia — oceanfront homes on the steep eastern shore of Howe Sound along the Sea-to-Sky Highway",
+  "caption": "Sunset Beach, Metro Vancouver British Columbia — oceanfront homes on the steep eastern shore of Howe Sound along the Sea-to-Sky Highway",
+  "exif_geo": {
+   "lat": 49.3998,
+   "lng": -123.2484,
+   "name": "Sunset Beach"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1693",
+  "filename": "welcome-beach-gulf-islands-sunshine-coast-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Welcome Beach, Gulf Islands & Sunshine Coast British Columbia — rocky Salish Sea shoreline near Sargeant Bay Provincial Park between Sechelt and Halfmoon Bay",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Welcome Beach, British Columbia — Welcome Beach, Gulf Islands & Sunshine Coast British Columbia — rocky Salish Sea shoreline near Sargeant Bay Provincial Park between Sechelt and Halfmoon Bay",
+  "title": "Welcome Beach, Gulf Islands & Sunshine Coast British Columbia — rocky Salish Sea shoreline near Sargeant Bay Provincial Park between Sechelt and Halfmoon Bay",
+  "caption": "Welcome Beach, Gulf Islands & Sunshine Coast British Columbia — rocky Salish Sea shoreline near Sargeant Bay Provincial Park between Sechelt and Halfmoon Bay",
+  "exif_geo": {
+   "lat": 49.4796,
+   "lng": -123.8924,
+   "name": "Welcome Beach"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1751",
+  "filename": "youbou-gulf-islands-sunshine-coast-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Youbou, Gulf Islands & Sunshine Coast British Columbia — a former sawmill community strung along the forested north shore of Cowichan Lake",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Youbou, British Columbia — Youbou, Gulf Islands & Sunshine Coast British Columbia — a former sawmill community strung along the forested north shore of Cowichan Lake",
+  "title": "Youbou, Gulf Islands & Sunshine Coast British Columbia — a former sawmill community strung along the forested north shore of Cowichan Lake",
+  "caption": "Youbou, Gulf Islands & Sunshine Coast British Columbia — a former sawmill community strung along the forested north shore of Cowichan Lake",
+  "exif_geo": {
+   "lat": 48.8663,
+   "lng": -124.2027,
+   "name": "Youbou"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1797",
+  "filename": "aldergrove-metro-vancouver-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Aldergrove, Metro Vancouver British Columbia — Fraser Valley farmland along the Highway 13 approach to the Aldergrove-Lynden border crossing",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Aldergrove, British Columbia — Aldergrove, Metro Vancouver British Columbia — Fraser Valley farmland along the Highway 13 approach to the Aldergrove-Lynden border crossing",
+  "title": "Aldergrove, Metro Vancouver British Columbia — Fraser Valley farmland along the Highway 13 approach to the Aldergrove-Lynden border crossing",
+  "caption": "Aldergrove, Metro Vancouver British Columbia — Fraser Valley farmland along the Highway 13 approach to the Aldergrove-Lynden border crossing",
+  "exif_geo": {
+   "lat": 49.058,
+   "lng": -122.4709,
+   "name": "Aldergrove"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1799",
+  "filename": "cowichan-bay-vancouver-island-south-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Cowichan Bay, Vancouver Island South British Columbia — a floating-home village on the estuary where the Cowichan and Koksilah rivers meet the Salish Sea",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Cowichan Bay, British Columbia — Cowichan Bay, Vancouver Island South British Columbia — a floating-home village on the estuary where the Cowichan and Koksilah rivers meet the Salish Sea",
+  "title": "Cowichan Bay, Vancouver Island South British Columbia — a floating-home village on the estuary where the Cowichan and Koksilah rivers meet the Salish Sea",
+  "caption": "Cowichan Bay, Vancouver Island South British Columbia — a floating-home village on the estuary where the Cowichan and Koksilah rivers meet the Salish Sea",
+  "exif_geo": {
+   "lat": 48.7337,
+   "lng": -123.6174,
+   "name": "Cowichan Bay"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1829",
+  "filename": "fairwinds-gulf-islands-sunshine-coast-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Fairwinds, Gulf Islands & Sunshine Coast British Columbia — waterfront golf-and-marina community on the Strait of Georgia at Nanoose Bay",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Fairwinds, British Columbia — Fairwinds, Gulf Islands & Sunshine Coast British Columbia — waterfront golf-and-marina community on the Strait of Georgia at Nanoose Bay",
+  "title": "Fairwinds, Gulf Islands & Sunshine Coast British Columbia — waterfront golf-and-marina community on the Strait of Georgia at Nanoose Bay",
+  "caption": "Fairwinds, Gulf Islands & Sunshine Coast British Columbia — waterfront golf-and-marina community on the Strait of Georgia at Nanoose Bay",
+  "exif_geo": {
+   "lat": 49.2759,
+   "lng": -124.1278,
+   "name": "Fairwinds"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1831",
+  "filename": "south-pender-harbour-gulf-islands-sunshine-coast-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "South Pender Harbour, Gulf Islands & Sunshine Coast British Columbia — a labyrinth of forested coves and inlets on the Sechelt Peninsula known as the 'Venice of the North'",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in South Pender Harbour, British Columbia — South Pender Harbour, Gulf Islands & Sunshine Coast British Columbia — a labyrinth of forested coves and inlets on the Sechelt Peninsula known as the 'Venice of the North'",
+  "title": "South Pender Harbour, Gulf Islands & Sunshine Coast British Columbia — a labyrinth of forested coves and inlets on the Sechelt Peninsula known as the 'Venice of the North'",
+  "caption": "South Pender Harbour, Gulf Islands & Sunshine Coast British Columbia — a labyrinth of forested coves and inlets on the Sechelt Peninsula known as the 'Venice of the North'",
+  "exif_geo": {
+   "lat": 49.622,
+   "lng": -124.0248,
+   "name": "South Pender Harbour"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
+ },
+ {
+  "Location_ID": "BC-1839",
+  "filename": "cherry-point-vancouver-island-south-bc.webp",
+  "tier": "flag",
+  "layer1_alt_geo": "Cherry Point, Vancouver Island South British Columbia — vineyard slopes meeting the pebbled Cowichan Bay shoreline of Satellite Channel",
+  "layer2_alt_rendered": "{SERVICE_CATEGORY} in Cherry Point, British Columbia — Cherry Point, Vancouver Island South British Columbia — vineyard slopes meeting the pebbled Cowichan Bay shoreline of Satellite Channel",
+  "title": "Cherry Point, Vancouver Island South British Columbia — vineyard slopes meeting the pebbled Cowichan Bay shoreline of Satellite Channel",
+  "caption": "Cherry Point, Vancouver Island South British Columbia — vineyard slopes meeting the pebbled Cowichan Bay shoreline of Satellite Channel",
+  "exif_geo": {
+   "lat": 48.7122,
+   "lng": -123.5587,
+   "name": "Cherry Point"
+  },
+  "license": "CC0/Public-Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "// Wikimedia Commons — CC0/Public-Domain — Flag of British Columbia (fallback; alt/EXIF describe the place)",
+  "width": 1200,
+  "height": 900
  }
 ]

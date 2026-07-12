@@ -1,0 +1,66 @@
+{
+ "Location_ID": "BC-1495",
+ "Location_Name": "Shirley",
+ "Location_Type": "Community",
+ "Parent_Municipality": null,
+ "Parent_Region": "Vancouver Island South",
+ "Province": "British Columbia",
+ "Latitude": 48.3891,
+ "Longitude": -123.9049,
+ "FSA": null,
+ "Population_2021_Census": 485,
+ "Population_Source": "GeoNames (CC-BY)",
+ "Distance_From_Vancouver_KM": 115,
+ "Distance_From_Victoria_KM": 40,
+ "Unified_Score": 50.3,
+ "URL_Slug": "shirley-bc",
+ "existing_Entity_Description": null,
+ "existing_Local_Facts": null,
+ "existing_Long_Description": null,
+ "Notes": "Enumerated from GeoNames census expansion (not in original spreadsheet). Population is a GeoNames estimate — treat as approximate; omit any uncertain specifics.",
+ "REGION_BUNDLE": {
+  "climate": "The mildest climate in Canada: sub-Mediterranean pattern with dry summers and wet winters; Victoria sits in the Olympic Mountains rain shadow with roughly half Vancouver's rainfall; ocean salt air affects exposed exteriors.",
+  "terrain": "Rocky Salish Sea coastline, Garry oak meadows, and the Saanich Peninsula's farmland; the Malahat ridge separates Greater Victoria from the Cowichan Valley.",
+  "economy": "Provincial government (Victoria is BC's capital), CFB Esquimalt (Pacific naval base), University of Victoria, tourism, marine industries, and tech ('Tectoria').",
+  "building_stock": "Canada's oldest housing stock profile by share of pre-1960 homes: heritage Victorian and Edwardian houses, post-war bungalows in Saanich, condo towers in the core, and acreage properties up the peninsula.",
+  "landmarks": [
+   "BC Legislature",
+   "Inner Harbour",
+   "Butchart Gardens",
+   "Mount Douglas (PKOLS)",
+   "Saanich Peninsula"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Sooke",
+   "slug": "sooke-bc",
+   "km": 13
+  },
+  {
+   "name": "Metchosin",
+   "slug": "metchosin-bc",
+   "km": 27
+  },
+  {
+   "name": "Langford",
+   "slug": "langford-bc",
+   "km": 30
+  },
+  {
+   "name": "Colwood",
+   "slug": "colwood-bc",
+   "km": 30
+  },
+  {
+   "name": "Capital Regional District",
+   "slug": "capital-regional-district-bc",
+   "km": 32
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Vancouver Island South",
+  "slug": ""
+ }
+}

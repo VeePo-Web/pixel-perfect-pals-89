@@ -1,0 +1,66 @@
+{
+ "Location_ID": "BC-0632",
+ "Location_Name": "Bradner",
+ "Location_Type": "Community",
+ "Parent_Municipality": null,
+ "Parent_Region": "Metro Vancouver",
+ "Province": "British Columbia",
+ "Latitude": 49.1,
+ "Longitude": -122.4167,
+ "FSA": null,
+ "Population_2021_Census": 3213,
+ "Population_Source": "GeoNames (CC-BY)",
+ "Distance_From_Vancouver_KM": 55,
+ "Distance_From_Victoria_KM": 102,
+ "Unified_Score": 55.7,
+ "URL_Slug": "bradner-bc",
+ "existing_Entity_Description": null,
+ "existing_Local_Facts": null,
+ "existing_Long_Description": null,
+ "Notes": "Enumerated from GeoNames census expansion (not in original spreadsheet). Population is a GeoNames estimate — treat as approximate; omit any uncertain specifics.",
+ "REGION_BUNDLE": {
+  "climate": "Mild oceanic coastal climate: wet, mild winters (rain far more often than snow at sea level), warm dry summers; heavy November-March rainfall drives moisture, drainage and moss/algae issues on building exteriors; freeze-thaw is rare at sea level but real on the North Shore slopes.",
+  "terrain": "Delta and floodplain of the Fraser River meeting the Coast Mountains and the Salish Sea; North Shore municipalities climb steep forested mountain slopes; Richmond and Delta sit on low-lying river delta soils.",
+  "economy": "Canada's third-largest metropolitan economy: Port of Vancouver (Canada's largest port), film/TV production, tech, finance, construction and real estate; major institutions include UBC, SFU, Vancouver International Airport (YVR) in Richmond.",
+  "building_stock": "The widest mix in BC: pre-war character homes and Vancouver Specials, leaky-condo-era mid-rises now rehabilitated, glass high-rise towers, and large new master-planned suburbs (Surrey, Langley); strata-governed multi-family housing is a defining feature.",
+  "landmarks": [
+   "Stanley Park",
+   "Lions Gate Bridge",
+   "Grouse Mountain",
+   "Fraser River",
+   "Burrard Inlet"
+  ]
+ },
+ "NEARBY_AREAS": [
+  {
+   "name": "Aldergrove",
+   "slug": "aldergrove-bc",
+   "km": 6
+  },
+  {
+   "name": "Mission",
+   "slug": "mission-bc",
+   "km": 9
+  },
+  {
+   "name": "Abbotsford",
+   "slug": "abbotsford-bc",
+   "km": 10
+  },
+  {
+   "name": "Langley (City)",
+   "slug": "langley-city-bc",
+   "km": 11
+  },
+  {
+   "name": "Langley (Township)",
+   "slug": "langley-township-bc",
+   "km": 18
+  }
+ ],
+ "CHILD_PAGES": [],
+ "UP_LINK": {
+  "name": "Metro Vancouver",
+  "slug": ""
+ }
+}
