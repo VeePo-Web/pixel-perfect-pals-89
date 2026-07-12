@@ -1774,6 +1774,449 @@
   }
  },
  {
+  "id": "NSX-lower-economy",
+  "slug": "lower-economy",
+  "url": "/areas/lower-economy",
+  "name": "Lower Economy",
+  "type": "Community",
+  "region": "Chignecto",
+  "region_slug": "chignecto",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.40129,
+   "lng": -63.98589
+  },
+  "fsa": null,
+  "population_2021": 1111,
+  "unified_score": 52.5,
+  "km_halifax": 89.7,
+  "km_sydney": 306,
+  "verification": "GeoNames_Pop",
+  "data_sources": "GeoNames (CC-BY); StatCan admin geography",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Chignecto",
+   "Lower Economy"
+  ],
+  "hero": {
+   "overline": "Lower Economy · Chignecto · Nova Scotia",
+   "h1": "{SERVICE} in Lower Economy, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Lower Economy, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Lower Economy, NS — {COMPANY_NAME} covers this Bay of Fundy shore community and the rural Chignecto roads with weather-ready work. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Lower Economy",
+   "secondary_keywords": [
+    "{SERVICE} near me Lower Economy",
+    "{BUSINESS_TYPE} Lower Economy Nova Scotia",
+    "{SERVICE} Bay of Fundy shore Chignecto",
+    "{SERVICE} Cambridge NS area"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Lower Economy Bay of Fundy shore",
+    "{SERVICE} for rural properties near Lower Economy",
+    "{SERVICE} Lower Economy Chignecto Nova Scotia",
+    "{SERVICE} farm properties Lower Economy area"
+   ],
+   "question_keywords": [
+    "does {COMPANY_NAME} serve Lower Economy",
+    "how does Bay of Fundy weather affect {SERVICE} Lower Economy",
+    "what does {SERVICE} cost in Lower Economy"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Lower Economy",
+    "who does {SERVICE} on the Bay of Fundy shore near Lower Economy",
+    "best {BUSINESS_TYPE} in Lower Economy Nova Scotia",
+    "{SERVICE} near Cambridge and Lower Economy",
+    "{SERVICE} for a rural property in Lower Economy Chignecto"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Lower Economy, {COMPANY_NAME} works this remote stretch of Bay of Fundy shore, about 24 kilometres from the nearest built-up community at Cambridge and roughly 90 from Halifax. We match every material and schedule to coastal wind and moisture, so rural jobs hold up through full Maritime seasons. Call {PHONE}.",
+  "entity_description": "Lower Economy is a small community on the Bay of Fundy shore in the Chignecto region of Nova Scotia, with an estimated population of about 1,111. It sits in a rural, farm-and-forest part of the province roughly 90 kilometres from Halifax and more than 300 kilometres from Sydney. The nearest built-up community, Cambridge, lies about 24 kilometres away, making Lower Economy one of the quieter addresses in a region whose economy runs on agriculture, forestry, and the Bay of Fundy coast.",
+  "about_md": "Lower Economy is a small Bay of Fundy shore community in the Chignecto region of Nova Scotia, with an estimated population of about 1,111. It sits in rural, farm-and-forest country roughly 90 kilometres from Halifax and more than 300 kilometres from Sydney, which makes it one of the quieter, more remote addresses in the region. {COMPANY_NAME} provides {SERVICE} here and across the surrounding Chignecto communities, reaching properties from the shoreline to the back roads inland.\n\nWhat sets Lower Economy apart is how far it sits from everything else. The nearest built-up community, Cambridge, is 24 kilometres away, and other neighbours are farther still — Parrsboro at about 27 kilometres and Springhill at roughly 28. For a {BUSINESS_TYPE}, that means travel and scheduling have to be planned around a genuinely rural service area rather than a compact town grid. Distance here is a fact of daily life, not an excuse. {COMPANY_NAME} builds that travel into every job, so a property on the Fundy shore gets the same {RESPONSE_TIME} response and {ESTIMATE_TYPE} estimate as work in a larger centre.\n\n## {SERVICE} built for Fundy-shore weather\n\nThe coastal setting shapes the work. Powerful tides and open Maritime weather move off the Bay of Fundy, and wind and moisture reach shore properties around Lower Economy with more force than inland Nova Scotia sees. The region carries a true coastal Maritime climate, and buildings near the water feel it in every season. {COMPANY_NAME} plans each {SERVICE} project around those conditions, choosing materials and timing that hold up through full Maritime seasons instead of needing early repairs. Getting that right is the difference between work that lasts and work that has to be redone in a few years.\n\nThe wider Chignecto economy runs on agriculture and forestry, and that shows in the way people live out here. Around Lower Economy you find farm properties and modest family homes rather than dense subdivisions — the kind of building stock that rewards a {BUSINESS_TYPE} who understands older rural construction and open, weather-exposed sites. Those homes need different care than a sheltered in-town build, and knowing that up front keeps a project on budget. Our {SERVICE_LIST} covers each of them, and {UNIQUE_VALUE_PROP}.\n\nWhether your property sits right on the Bay of Fundy shore or back along the rural roads toward Cambridge, {COMPANY_NAME} serves Lower Economy with {YEARS_IN_BUSINESS} years of experience and a {RATING} rating. We treat a remote Fundy-shore address the same way we would a job in the busiest part of the county — with a clear plan, honest pricing, and materials matched to the coast. {CTA_PRIMARY} today for a {ESTIMATE_TYPE} estimate on your {PROJECT_TYPE}.",
+  "local_facts": [
+   "Lower Economy is a Community in the Chignecto region of Nova Scotia.",
+   "Estimated population of about 1,111 (GeoNames estimate; not a StatCan census count).",
+   "About 89.7 km from Halifax and roughly 306 km from Sydney.",
+   "The nearest built-up community is Cambridge, 24.3 km away.",
+   "Other nearby communities include Parrsboro (26.9 km) and Springhill (28.3 km).",
+   "Sits on the Bay of Fundy shore in a rural, farm-and-forest part of the region."
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Among Lower Economy's five nearest Chignecto communities, all lie beyond 24 km — the closest, Cambridge, at 24.3 km and the farthest, Oxford, at 37.6 km — making Lower Economy one of the most geographically isolated of the region's published places."
+  },
+  "services_grid": {
+   "heading": "Services in Lower Economy",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/lower-economy/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/lower-economy/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/lower-economy/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/lower-economy/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/lower-economy/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/lower-economy/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Lower Economy"
+  },
+  "faqs": [
+   {
+    "question": "Does {COMPANY_NAME} provide {SERVICE} in Lower Economy?",
+    "answer": "Yes. {COMPANY_NAME} serves Lower Economy and the surrounding Bay of Fundy shore in the Chignecto region, along with nearby communities like Cambridge, 24 kilometres away, and Parrsboro. Town, farm, or shoreline property, we cover the rural service area around Lower Economy and provide a {ESTIMATE_TYPE} estimate on every job."
+   },
+   {
+    "question": "How does Lower Economy's remote location affect getting {SERVICE}?",
+    "answer": "Lower Economy is one of the more isolated addresses in Chignecto — the nearest built-up community, Cambridge, is 24 kilometres off, and Halifax is nearly 90. {COMPANY_NAME} plans travel into every schedule, so distance never means slower service or a higher {PRICE_RANGE} than comparable in-town work would carry."
+   },
+   {
+    "question": "Does Bay of Fundy weather affect {SERVICE} in Lower Economy?",
+    "answer": "Yes. Wind and moisture off the Bay of Fundy reach shore properties around Lower Economy with more force than inland Nova Scotia sees. We factor that exposure into every {SERVICE} job — material choice and timing both — so the work holds up through full Maritime seasons instead of needing early repairs."
+   },
+   {
+    "question": "What does {SERVICE} cost in Lower Economy?",
+    "answer": "Pricing depends on your property and the scope of work, and our {PRICE_RANGE} reflects the {SERVICE_CATEGORY} you need. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate up front for every Lower Economy project, so you see the full cost before any work begins — no surprises on a rural Fundy-shore job."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Lower Economy?",
+    "answer": "With {YEARS_IN_BUSINESS} years in business and a {RATING} rating, {COMPANY_NAME} knows how Fundy-shore weather and rural distance shape work around Lower Economy. We respond within {RESPONSE_TIME} and stand behind every job with {CERTIFICATIONS}. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Lower Economy, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "cambridge",
+    "name": "Cambridge",
+    "km": 24.3,
+    "url": "/areas/cambridge",
+    "anchor": "Cambridge, the nearest built-up community, 24 km inland from the shore"
+   },
+   {
+    "slug": "parrsboro",
+    "name": "Parrsboro",
+    "km": 26.9,
+    "url": "/areas/parrsboro",
+    "anchor": "Parrsboro, roughly 27 km along the Fundy shore and known for its geological attractions"
+   },
+   {
+    "slug": "springhill",
+    "name": "Springhill",
+    "km": 28.3,
+    "url": "/areas/springhill",
+    "anchor": "Springhill, about 28 km off and shaped by its mining heritage"
+   },
+   {
+    "slug": "cumberland-county",
+    "name": "Cumberland County",
+    "km": 33.6,
+    "url": "/areas/cumberland-county",
+    "anchor": "rural Cumberland County, the wider farm-and-forest country beyond Lower Economy"
+   },
+   {
+    "slug": "oxford",
+    "name": "Oxford",
+    "km": 37.6,
+    "url": "/areas/oxford",
+    "anchor": "the farm-country town of Oxford, some 38 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/chignecto",
+   "name": "Chignecto",
+   "anchor": "Chignecto service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-chignecto",
+    "title": "What {SERVICE} Costs in Chignecto: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-chignecto",
+    "title": "Chignecto Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-chignecto",
+    "title": "How to Choose a {BUSINESS_TYPE} in Chignecto"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-chignecto",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Chignecto, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Lower Economy",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Lower Economy quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "lower-economy"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+   "filename": "lower-economy-chignecto-ns.webp",
+   "alt_layer1_geo": "Lower Economy, Chignecto Nova Scotia — a small Bay of Fundy shore community roughly 90 km from Halifax and 24 km from its nearest built-up neighbour",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Lower Economy, Nova Scotia — Lower Economy, Chignecto Nova Scotia — a small Bay of Fundy shore community roughly 90 km from Halifax and 24 km from its nearest built-up neighbour",
+   "title": "Lower Economy, Chignecto Nova Scotia — a small Bay of Fundy shore community roughly 90 km from Halifax and 24 km from its nearest built-up neighbour",
+   "caption": "Lower Economy, Chignecto Nova Scotia — a small Bay of Fundy shore community roughly 90 km from Halifax and 24 km from its nearest built-up neighbour",
+   "exif_geo": {
+    "lat": 45.40129,
+    "lng": -63.98589,
+    "name": "Lower Economy, Nova Scotia"
+   },
+   "license": "CC BY-SA 4.0",
+   "attribution": "Staka — CC BY-SA 4.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "Bay of Fundy coastal shore position and Maritime climate exposure",
+   "Rural isolation — nearest built-up community (Cambridge) 24.3 km away",
+   "Distance and access — about 90 km from Halifax, 306 km from Sydney",
+   "Small population scale (estimated about 1,111)",
+   "Regional agriculture-and-forestry economy with farm-and-modest-home building stock"
+  ],
+  "signals_count": 5,
+  "opener_words": "Lower Economy is a small Bay of Fundy",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/lower-economy#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Lower Economy",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Lower Economy, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Cambridge, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Parrsboro, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Springhill, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.40129,
+        "longitude": -63.98589
+       },
+       "geoRadius": "18225"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Lower Economy",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/lower-economy#page",
+     "url": "{BRAND_URL}/areas/lower-economy",
+     "name": "{SERVICE} in Lower Economy, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/lower-economy#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/lower-economy#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Chignecto",
+       "item": "{BRAND_URL}/areas/region/chignecto"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Lower Economy",
+       "item": "{BRAND_URL}/areas/lower-economy"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/lower-economy#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Does {COMPANY_NAME} provide {SERVICE} in Lower Economy?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} serves Lower Economy and the surrounding Bay of Fundy shore in the Chignecto region, along with nearby communities like Cambridge, 24 kilometres away, and Parrsboro. Town, farm, or shoreline property, we cover the rural service area around Lower Economy and provide a {ESTIMATE_TYPE} estimate on every job."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How does Lower Economy's remote location affect getting {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lower Economy is one of the more isolated addresses in Chignecto — the nearest built-up community, Cambridge, is 24 kilometres off, and Halifax is nearly 90. {COMPANY_NAME} plans travel into every schedule, so distance never means slower service or a higher {PRICE_RANGE} than comparable in-town work would carry."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does Bay of Fundy weather affect {SERVICE} in Lower Economy?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Wind and moisture off the Bay of Fundy reach shore properties around Lower Economy with more force than inland Nova Scotia sees. We factor that exposure into every {SERVICE} job — material choice and timing both — so the work holds up through full Maritime seasons instead of needing early repairs."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in Lower Economy?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pricing depends on your property and the scope of work, and our {PRICE_RANGE} reflects the {SERVICE_CATEGORY} you need. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate up front for every Lower Economy project, so you see the full cost before any work begins — no surprises on a rural Fundy-shore job."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Lower Economy?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With {YEARS_IN_BUSINESS} years in business and a {RATING} rating, {COMPANY_NAME} knows how Fundy-shore weather and rural distance shape work around Lower Economy. We respond within {RESPONSE_TIME} and stand behind every job with {CERTIFICATIONS}. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/lower-economy#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+     "name": "Lower Economy, Chignecto Nova Scotia — a small Bay of Fundy shore community roughly 90 km from Halifax and 24 km from its nearest built-up neighbour",
+     "caption": "Lower Economy, Chignecto Nova Scotia — a small Bay of Fundy shore community roughly 90 km from Halifax and 24 km from its nearest built-up neighbour",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Staka"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Lower Economy, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.40129,
+       "longitude": -63.98589
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
   "id": "NS-0263",
   "slug": "parrsboro",
   "url": "/areas/parrsboro",

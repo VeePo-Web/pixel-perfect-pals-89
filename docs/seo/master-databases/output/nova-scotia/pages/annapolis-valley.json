@@ -7061,5 +7061,447 @@
     }
    ]
   }
+ },
+ {
+  "id": "NSX-cambridge",
+  "slug": "cambridge",
+  "url": "/areas/cambridge",
+  "name": "Cambridge",
+  "type": "Community",
+  "region": "Annapolis Valley",
+  "region_slug": "annapolis-valley",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.20235,
+   "lng": -64.11336
+  },
+  "fsa": null,
+  "population_2021": 703,
+  "unified_score": 50,
+  "km_halifax": 74.7,
+  "km_sydney": 322.5,
+  "verification": "GeoNames_Pop",
+  "data_sources": "GeoNames (CC-BY); StatCan admin geography",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Annapolis Valley",
+   "Cambridge"
+  ],
+  "hero": {
+   "overline": "Cambridge · Annapolis Valley · Nova Scotia",
+   "h1": "{SERVICE} in Cambridge, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Cambridge, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Cambridge, NS — {COMPANY_NAME} serves farms and homes across this quiet Annapolis Valley community with {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Cambridge",
+   "secondary_keywords": [
+    "{SERVICE} near me Cambridge",
+    "{BUSINESS_TYPE} Cambridge Nova Scotia",
+    "{SERVICE} Cambridge Annapolis Valley"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} for farm properties Cambridge",
+    "{SERVICE} rural acreage Cambridge Annapolis Valley",
+    "{SERVICE} near Hantsport Cambridge NS",
+    "{SERVICE} orchard properties Cambridge"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Cambridge",
+    "who provides {SERVICE} in Cambridge NS",
+    "how fast can a {BUSINESS_TYPE} reach Cambridge"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Cambridge",
+    "best {BUSINESS_TYPE} in Cambridge Nova Scotia",
+    "{SERVICE} for a farm property near Cambridge",
+    "who does {SERVICE} between Cambridge and Hantsport",
+    "{SERVICE} in the Annapolis Valley near Wolfville"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Cambridge, {COMPANY_NAME} works across this quiet stretch of the Annapolis Valley floor, from farm and orchard properties to in-town homes, about 15.4 km from Hantsport and 74.7 km from Halifax. We plan around the valley's Bay of Fundy weather. Call {PHONE}.",
+  "entity_description": "Cambridge is a small farming community in the Annapolis Valley region of Nova Scotia, Canada, with an estimated population of about 703. It sits on the broad valley floor roughly 74.7 km from Halifax, in a stretch of orchard and farm country framed by the Blomidon cliffs and the Bay of Fundy tides. The nearest built-up community is Hantsport, about 15.4 km away, which leaves Cambridge set among the farmland and food-processing operations that define the valley's apple and vineyard economy.",
+  "about_md": "Cambridge sits farther from any town than almost any community its size in the Annapolis Valley, with about 15.4 kilometres of orchard and farmland separating it from Hantsport, its nearest built-up neighbour. This small Nova Scotia community of an estimated 703 people lies on the broad valley floor, roughly 74.7 kilometres from Halifax, deep in the apple and vineyard country that gives the region its name. {COMPANY_NAME} brings {SERVICE} to Cambridge and the farms and homes scattered around it.\n\nThat rural setting shapes the {PROPERTY_TYPE} work we do here. Agriculture leads the valley's economy — apple orchards, vineyards, and farming — backed by food processing and agri-tourism, with the military at CFB Greenwood and agricultural research in Kentville anchoring the wider region. Around Cambridge that means many jobs involve working farm properties, rural acreage, and older farmhouses rather than dense subdivisions. Heritage farmhouses and outbuildings are common, and they call for a {BUSINESS_TYPE} who understands older rural construction. {COMPANY_NAME} scales {SERVICE} for that mix, handling large rural lots as readily as smaller in-town homes, and backs every project with {ESTIMATE_TYPE} estimates so there are no surprises.\n\n## Weather and the valley calendar\nNova Scotia's maritime climate sets the rhythm for {SERVICE} in Cambridge. The Bay of Fundy and its tides lie just beyond the valley's rim, and the same seasonal conditions that sustain the region's orchards and vineyards also decide the best windows for property work. {COMPANY_NAME} plans {PROJECT_TYPE} around that calendar rather than against it, timing work to suit the valley's weather so your {PROPERTY_TYPE} stays protected through every season.\n\nCambridge's position deep in the farmland is part of its appeal, but it can also mean slow service from companies based outside the region. Because {COMPANY_NAME} works throughout the Annapolis Valley, our typical response time is {RESPONSE_TIME} even for communities well off the main routes. Cambridge lies about 23.4 kilometres from Wolfville and its Acadia University campus, roughly 23.8 kilometres from Falmouth in the valley's wine-tour country, and around 24.4 kilometres from Windsor, so we fold it into the schedule that serves the valley's larger towns. That regional coverage keeps Cambridge from being an afterthought on the calendar.\n\nWith {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} treats every {PROPERTY_TYPE} in Cambridge with care, whether it is a working farm on the valley floor or a family home in the community. {UNIQUE_VALUE_PROP} — that is what sets our {BUSINESS_TYPE} apart. {CTA_PRIMARY} or call {PHONE} to talk through your project today.",
+  "local_facts": [
+   "Cambridge has an estimated population of about 703 (GeoNames-sourced, not census-verified).",
+   "It lies about 74.7 km from Halifax and 322.5 km from Sydney.",
+   "The nearest built-up community is Hantsport, about 15.4 km away.",
+   "Wolfville and Acadia University are about 23.4 km away; Windsor is about 24.4 km.",
+   "Cambridge is a farming community on the Annapolis Valley floor in Nova Scotia.",
+   "The surrounding regional economy centres on apple orchards, vineyards, and food processing."
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Cambridge's nearest built-up community, Hantsport, sits 15.4 km away — the largest nearest-neighbour gap among this batch's two communities, marking Cambridge as the more isolated, deep-valley-floor settlement of the pair."
+  },
+  "services_grid": {
+   "heading": "Services in Cambridge",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cambridge/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cambridge/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cambridge/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cambridge/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cambridge/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/cambridge/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Cambridge"
+  },
+  "faqs": [
+   {
+    "question": "Do you provide {SERVICE} in Cambridge?",
+    "answer": "Yes. {COMPANY_NAME} provides {SERVICE} throughout Cambridge and the surrounding Annapolis Valley farmland. Whether your property is a working farm on the valley floor or an in-town home, we schedule {SERVICE} across the region without extra travel charges. Cambridge sits about 74.7 km from Halifax, well within our Annapolis Valley service area."
+   },
+   {
+    "question": "Does Cambridge's distance from town affect {SERVICE}?",
+    "answer": "Cambridge is one of the more isolated valley communities, about 15.4 km from Hantsport, its nearest built-up neighbour. That distance rarely changes the {SERVICE} itself, but it does mean choosing a {BUSINESS_TYPE} who already works this stretch of farmland. {COMPANY_NAME} covers the full valley, so reaching Cambridge is routine for our crews."
+   },
+   {
+    "question": "How much does {SERVICE} cost in Cambridge?",
+    "answer": "{SERVICE} in Cambridge is priced by the scope of your project, not by how far out you live. Rural acreage and larger farm properties can take more time than compact in-town lots, so {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates up front. That way you see the full cost before any work on your {PROPERTY_TYPE} begins."
+   },
+   {
+    "question": "How quickly can you reach Cambridge?",
+    "answer": "Our typical response time in Cambridge is {RESPONSE_TIME}. Because {COMPANY_NAME} dispatches from within the Annapolis Valley rather than from Halifax, the community's rural setting does not slow us down. We fold Cambridge into the same schedule that serves Wolfville, Windsor, and Hantsport, so your project keeps moving."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Cambridge?",
+    "answer": "{COMPANY_NAME} pairs {YEARS_IN_BUSINESS} years of experience with a {RATING} rating and real knowledge of the Annapolis Valley's farm and orchard properties. We plan {SERVICE} around the valley's Bay of Fundy weather and treat every {PROPERTY_TYPE} in Cambridge with care. {UNIQUE_VALUE_PROP}. To book, Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Cambridge, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "hantsport",
+    "name": "Hantsport",
+    "km": 15.4,
+    "url": "/areas/hantsport",
+    "anchor": "Hantsport, the nearest town, about 15.4 km along the valley floor"
+   },
+   {
+    "slug": "wolfville",
+    "name": "Wolfville",
+    "km": 23.4,
+    "url": "/areas/wolfville",
+    "anchor": "Wolfville, roughly 23.4 km off, home to Acadia University and the Blomidon lookoff"
+   },
+   {
+    "slug": "falmouth",
+    "name": "Falmouth",
+    "km": 23.8,
+    "url": "/areas/falmouth",
+    "anchor": "Falmouth, about 23.8 km away in the valley's wine-tour country"
+   },
+   {
+    "slug": "lower-economy",
+    "name": "Lower Economy",
+    "km": 24.3,
+    "url": "/areas/lower-economy",
+    "anchor": "Lower Economy, 24.3 km away"
+   },
+   {
+    "slug": "windsor",
+    "name": "Windsor",
+    "km": 24.4,
+    "url": "/areas/windsor",
+    "anchor": "Windsor and its surrounding farmland, some 24.4 km from Cambridge"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/annapolis-valley",
+   "name": "Annapolis Valley",
+   "anchor": "Annapolis Valley service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-annapolis-valley",
+    "title": "What {SERVICE} Costs in Annapolis Valley: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-annapolis-valley",
+    "title": "Annapolis Valley Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-annapolis-valley",
+    "title": "How to Choose a {BUSINESS_TYPE} in Annapolis Valley"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-annapolis-valley",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Annapolis Valley, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Cambridge",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Cambridge quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "cambridge"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/View_from_the_South_Mountain_%28Gaspereau%29_looking_at_Cape_Blomidon_and_the_North_Mountain_across_the_Valley.jpg",
+   "filename": "cambridge-annapolis-valley-ns.webp",
+   "alt_layer1_geo": "Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Cambridge, Nova Scotia — Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport",
+   "title": "Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport",
+   "caption": "Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport",
+   "exif_geo": {
+    "lat": 45.20235,
+    "lng": -64.11336,
+    "name": "Cambridge, Nova Scotia"
+   },
+   "license": "CC BY-SA 4.0",
+   "attribution": "Eric.stewart — CC BY-SA 4.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "distance/access (74.7 km to Halifax, 15.4 km isolation from Hantsport, 23.4 km Wolfville, 24.4 km Windsor)",
+   "population scale (estimated about 703, small)",
+   "maritime Bay of Fundy climate localized to service timing",
+   "regional agriculture economy (apple orchards, vineyards, food processing)",
+   "building stock (working farms, rural acreage, older farmhouses, in-town homes)"
+  ],
+  "signals_count": 5,
+  "opener_words": "Cambridge sits farther from any town than almost",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/cambridge#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Cambridge",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Cambridge, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Hantsport, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Wolfville, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Falmouth, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.20235,
+        "longitude": -64.11336
+       },
+       "geoRadius": "11550"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Cambridge",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/cambridge#page",
+     "url": "{BRAND_URL}/areas/cambridge",
+     "name": "{SERVICE} in Cambridge, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/cambridge#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/cambridge#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Annapolis Valley",
+       "item": "{BRAND_URL}/areas/region/annapolis-valley"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Cambridge",
+       "item": "{BRAND_URL}/areas/cambridge"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/cambridge#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you provide {SERVICE} in Cambridge?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} provides {SERVICE} throughout Cambridge and the surrounding Annapolis Valley farmland. Whether your property is a working farm on the valley floor or an in-town home, we schedule {SERVICE} across the region without extra travel charges. Cambridge sits about 74.7 km from Halifax, well within our Annapolis Valley service area."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does Cambridge's distance from town affect {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cambridge is one of the more isolated valley communities, about 15.4 km from Hantsport, its nearest built-up neighbour. That distance rarely changes the {SERVICE} itself, but it does mean choosing a {BUSINESS_TYPE} who already works this stretch of farmland. {COMPANY_NAME} covers the full valley, so reaching Cambridge is routine for our crews."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How much does {SERVICE} cost in Cambridge?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{SERVICE} in Cambridge is priced by the scope of your project, not by how far out you live. Rural acreage and larger farm properties can take more time than compact in-town lots, so {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates up front. That way you see the full cost before any work on your {PROPERTY_TYPE} begins."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you reach Cambridge?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our typical response time in Cambridge is {RESPONSE_TIME}. Because {COMPANY_NAME} dispatches from within the Annapolis Valley rather than from Halifax, the community's rural setting does not slow us down. We fold Cambridge into the same schedule that serves Wolfville, Windsor, and Hantsport, so your project keeps moving."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Cambridge?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} pairs {YEARS_IN_BUSINESS} years of experience with a {RATING} rating and real knowledge of the Annapolis Valley's farm and orchard properties. We plan {SERVICE} around the valley's Bay of Fundy weather and treat every {PROPERTY_TYPE} in Cambridge with care. {UNIQUE_VALUE_PROP}. To book, Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/cambridge#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/View_from_the_South_Mountain_%28Gaspereau%29_looking_at_Cape_Blomidon_and_the_North_Mountain_across_the_Valley.jpg",
+     "name": "Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport",
+     "caption": "Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Eric.stewart"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Cambridge, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.20235,
+       "longitude": -64.11336
+      }
+     }
+    }
+   ]
+  }
  }
 ]

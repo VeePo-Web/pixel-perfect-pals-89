@@ -3650,6 +3650,13 @@
     "km": 39.5,
     "url": "/areas/whycocomagh",
     "anchor": "Whycocomagh, about 40 km toward the Bras d'Or Lake"
+   },
+   {
+    "slug": "st-peter-s",
+    "name": "St. Peter's",
+    "km": 2.1,
+    "url": "/areas/st-peter-s",
+    "anchor": "St. Peter's, 2.1 km away"
    }
   ],
   "parent_region_link": {
@@ -3891,6 +3898,450 @@
        "@type": "GeoCoordinates",
        "latitude": 45.65,
        "longitude": -60.9
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NSX-whitney-pier",
+  "slug": "whitney-pier",
+  "url": "/areas/whitney-pier",
+  "name": "Whitney Pier",
+  "type": "Community",
+  "region": "Cape Breton",
+  "region_slug": "cape-breton",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 46.15931,
+   "lng": -60.18662
+  },
+  "fsa": null,
+  "population_2021": 4612,
+  "unified_score": 58,
+  "km_halifax": 313.3,
+  "km_sydney": 2.7,
+  "verification": "GeoNames_Pop",
+  "data_sources": "GeoNames (CC-BY); StatCan admin geography",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Cape Breton",
+   "Whitney Pier"
+  ],
+  "hero": {
+   "overline": "Whitney Pier · Cape Breton · Nova Scotia",
+   "h1": "{SERVICE} in Whitney Pier, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Whitney Pier, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Whitney Pier, Sydney — {COMPANY_NAME} serves this coal-and-steel neighbourhood's older homes with {ESTIMATE_TYPE} estimates and fast response. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Whitney Pier",
+   "secondary_keywords": [
+    "{SERVICE} near me Whitney Pier",
+    "{BUSINESS_TYPE} Whitney Pier Nova Scotia",
+    "{SERVICE} Whitney Pier Sydney",
+    "{SERVICE} near South Bar"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} Whitney Pier older homes",
+    "{SERVICE} Whitney Pier coal-town housing",
+    "{SERVICE} Whitney Pier near Sydney Harbour",
+    "{SERVICE} Whitney Pier Cape Breton"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Whitney Pier",
+    "who does {SERVICE} in Whitney Pier Sydney",
+    "what {SERVICE} suits older Whitney Pier homes"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Whitney Pier",
+    "best {BUSINESS_TYPE} in Whitney Pier Sydney",
+    "{SERVICE} for an older home in Whitney Pier",
+    "who does {SERVICE} near South Bar and Sydney",
+    "{SERVICE} in Whitney Pier Cape Breton Nova Scotia"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Whitney Pier, {COMPANY_NAME} serves this multicultural coal-and-steel neighbourhood at Sydney's edge, barely 3 km from downtown and about a kilometre from South Bar. {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response suit its older, industrial-era homes on Sydney Harbour. Call {PHONE}.",
+  "entity_description": "Whitney Pier is a neighbourhood of Sydney in the Cape Breton Regional Municipality, Nova Scotia, Canada, with an estimated population of about 4,612. It grew up around the island's coal-and-steel industry, and the former steel plant site nearby is now Open Hearth Park. The Pier sits about 3 kilometres from downtown Sydney on Sydney Harbour, with much of its housing dating to the coal-town era around 1901. Its economy is tied to Sydney's base of tourism, education, and healthcare.",
+  "about_md": "Whitney Pier is Sydney's multicultural coal-and-steel neighbourhood, a working community on Sydney Harbour in Cape Breton, Nova Scotia, that grew up around the island's industrial heart. For generations, families drawn from across the world settled here to work the coal and steel that built the region, and that heritage still shapes the streets. The former steel plant site nearby is now Open Hearth Park, a reminder of the industry that gave the Pier its name and character.\n\nWhitney Pier sits barely 3 kilometres from downtown Sydney, with South Bar about a kilometre away and Point Edward and Mill Creek close by. That means {SERVICE} here is city-adjacent work: {COMPANY_NAME} reaches the neighbourhood quickly, with {RESPONSE_TIME} response and {ESTIMATE_TYPE} estimates that respect the age and character of Pier {PROPERTY_TYPE}.\n\n## {SERVICE} for coal-town housing\n\nBuilding stock tells Whitney Pier's story. Cape Breton's coal towns date largely to around 1901, and much of the Pier's housing carries that industrial-era vintage — older homes that have stood through more than a century of Maritime winters. Cape Breton runs on serious island weather; nearby Glace Bay takes its name from the French \"baie de Glace,\" or \"ice bay,\" a plain statement of what the cold season brings to this coast. Freeze-thaw, snow load, and salt air off Sydney Harbour all wear on an older building, so {COMPANY_NAME} plans {SERVICE_CATEGORY} work with that vintage housing in mind.\n\nWith an estimated population of about 4,612, Whitney Pier is a close-knit part of the Cape Breton Regional Municipality, and Sydney anchors the surrounding economy. The city runs on tourism, education at Cape Breton University, healthcare at the Cape Breton Regional Hospital, government services, and a cruise port at the Sydney Marine Terminal. That urban base means steady demand for {SERVICE}, and {COMPANY_NAME} treats each Pier {PROPERTY_TYPE} on its own terms rather than as one more address.\n\nSydney itself was founded in 1785, and its older streets and the Pier's coal-town rows sit side by side — a spread of building ages that keeps every {SERVICE} job a little different. The Big Fiddle on the Sydney waterfront and the cruise ships that dock at the Marine Terminal mark how far the city has come from its industrial past, even as much of the housing that industry built still stands and still needs care.\n\nBecause the neighbourhood sits right at Sydney's edge, {COMPANY_NAME} already covers these streets daily for {SERVICE_LIST}, from South Bar to Point Edward. A job in Whitney Pier gets the same {RESPONSE_TIME} attention as any in the city core.\n\n{COMPANY_NAME} has spent {YEARS_IN_BUSINESS} years earning a {RATING} rating across Cape Breton by knowing its communities. {UNIQUE_VALUE_PROP} Get {ESTIMATE_TYPE} estimates on {SERVICE_LIST}, and {CTA_PRIMARY} when you're ready.",
+  "local_facts": [
+   "Estimated population of about 4,612 (GeoNames)",
+   "A neighbourhood of Sydney in the Cape Breton Regional Municipality, Nova Scotia",
+   "About 3 km from downtown Sydney; roughly 313 km from Halifax",
+   "Nearest built-up community is South Bar, about 1.2 km away",
+   "Grew up around Cape Breton's coal-and-steel industry; Open Hearth Park sits on the former steel plant site nearby",
+   "Housing largely dates to the coal-town era of around 1901"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Whitney Pier's nearest built-up community is South Bar, just 1.2 km away — the shortest gap to a neighbour among this batch of Cape Breton places, reflecting how tightly it sits within greater Sydney."
+  },
+  "services_grid": {
+   "heading": "Services in Whitney Pier",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/whitney-pier/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/whitney-pier/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/whitney-pier/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/whitney-pier/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/whitney-pier/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/whitney-pier/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Whitney Pier"
+  },
+  "faqs": [
+   {
+    "question": "Do you serve {SERVICE} in Whitney Pier?",
+    "answer": "Yes. {COMPANY_NAME} covers Whitney Pier and the rest of greater Sydney, including South Bar just over a kilometre away and Point Edward across the harbour. Because the Pier sits right at Sydney's edge, crews reach it quickly for {SERVICE_LIST}, treating each Pier {PROPERTY_TYPE} as part of the daily city route."
+   },
+   {
+    "question": "Does Whitney Pier's older housing affect {SERVICE}?",
+    "answer": "Often, yes. Much of Whitney Pier's housing dates to the coal-town era around 1901, built when the neighbourhood grew around Cape Breton's steel industry. {COMPANY_NAME} plans {SERVICE} for that vintage stock, accounting for how century-old homes near Sydney Harbour have weathered Maritime winters."
+   },
+   {
+    "question": "How much does {SERVICE} cost in Whitney Pier?",
+    "answer": "Every Whitney Pier job starts with a {ESTIMATE_TYPE} estimate up front. Cost depends on the scope and the {PROPERTY_TYPE} — the neighbourhood's older, industrial-era homes can differ a lot from one to the next. {COMPANY_NAME} keeps pricing transparent, with no hidden add-ons."
+   },
+   {
+    "question": "How fast can you respond in Whitney Pier?",
+    "answer": "{COMPANY_NAME} offers {RESPONSE_TIME} response in Whitney Pier. Sitting barely 3 km from downtown Sydney, the neighbourhood is part of the daily service area, so urgent {SERVICE} needs are handled quickly — no waiting because of distance, with a crew usually only minutes away in the city core."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Whitney Pier?",
+    "answer": "{COMPANY_NAME} brings {YEARS_IN_BUSINESS} years and a {RATING} rating to Whitney Pier, and it respects the neighbourhood's coal-and-steel heritage and older housing. {UNIQUE_VALUE_PROP} From {ESTIMATE_TYPE} estimates to finished work, this island is home turf, and the Pier's older homes are exactly the kind of work the team knows best. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Whitney Pier, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "south-bar",
+    "name": "South Bar",
+    "km": 1.2,
+    "url": "/areas/south-bar",
+    "anchor": "South Bar, barely a kilometre along the shore"
+   },
+   {
+    "slug": "cape-breton",
+    "name": "Cape Breton",
+    "km": 2.6,
+    "url": "/areas/cape-breton",
+    "anchor": "Cape Breton, 2.6 km away"
+   },
+   {
+    "slug": "sydney",
+    "name": "Sydney",
+    "km": 2.6,
+    "url": "/areas/sydney",
+    "anchor": "Sydney, the island's urban heart about 3 km west"
+   },
+   {
+    "slug": "point-edward",
+    "name": "Point Edward",
+    "km": 2.6,
+    "url": "/areas/point-edward",
+    "anchor": "Point Edward, roughly 3 km across the harbour"
+   },
+   {
+    "slug": "mill-creek",
+    "name": "Mill Creek",
+    "km": 4.4,
+    "url": "/areas/mill-creek",
+    "anchor": "Mill Creek, about 4 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/cape-breton",
+   "name": "Cape Breton",
+   "anchor": "Cape Breton service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-cape-breton",
+    "title": "What {SERVICE} Costs in Cape Breton: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-cape-breton",
+    "title": "Cape Breton Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-cape-breton",
+    "title": "How to Choose a {BUSINESS_TYPE} in Cape Breton"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-cape-breton",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Cape Breton, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Whitney Pier",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Whitney Pier quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "whitney-pier"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg",
+   "filename": "whitney-pier-cape-breton-ns.webp",
+   "alt_layer1_geo": "Whitney Pier, Cape Breton Nova Scotia — Sydney's historic coal-and-steel neighbourhood on Sydney Harbour",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Whitney Pier, Nova Scotia — Whitney Pier, Cape Breton Nova Scotia — Sydney's historic coal-and-steel neighbourhood on Sydney Harbour",
+   "title": "Whitney Pier, Cape Breton Nova Scotia — Sydney's historic coal-and-steel neighbourhood on Sydney Harbour",
+   "caption": "Whitney Pier, Cape Breton Nova Scotia — Sydney's historic coal-and-steel neighbourhood on Sydney Harbour",
+   "exif_geo": {
+    "lat": 46.15931,
+    "lng": -60.18662,
+    "name": "Whitney Pier, Nova Scotia"
+   },
+   "license": "CC BY-SA 4.0",
+   "attribution": "ArcaneCraeda — CC BY-SA 4.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "identity/heritage: multicultural coal-and-steel neighbourhood; Open Hearth Park on the former steel plant site",
+   "proximity: about 3 km from downtown Sydney, South Bar 1.2 km",
+   "building stock: coal-town housing from around 1901",
+   "climate tied to service: Maritime winters and salt air off Sydney Harbour",
+   "economy: Sydney's tourism, Cape Breton University, Cape Breton Regional Hospital, cruise port",
+   "population scale: about 4,612"
+  ],
+  "signals_count": 6,
+  "opener_words": "Whitney Pier is Sydney's multicultural coal-and-steel neighbourhood, a",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/whitney-pier#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Whitney Pier",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Whitney Pier, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "South Bar, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Cape Breton, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Sydney, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 46.15931,
+        "longitude": -60.18662
+       },
+       "geoRadius": "2000"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Whitney Pier",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/whitney-pier#page",
+     "url": "{BRAND_URL}/areas/whitney-pier",
+     "name": "{SERVICE} in Whitney Pier, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/whitney-pier#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/whitney-pier#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Cape Breton",
+       "item": "{BRAND_URL}/areas/region/cape-breton"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Whitney Pier",
+       "item": "{BRAND_URL}/areas/whitney-pier"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/whitney-pier#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you serve {SERVICE} in Whitney Pier?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} covers Whitney Pier and the rest of greater Sydney, including South Bar just over a kilometre away and Point Edward across the harbour. Because the Pier sits right at Sydney's edge, crews reach it quickly for {SERVICE_LIST}, treating each Pier {PROPERTY_TYPE} as part of the daily city route."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does Whitney Pier's older housing affect {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often, yes. Much of Whitney Pier's housing dates to the coal-town era around 1901, built when the neighbourhood grew around Cape Breton's steel industry. {COMPANY_NAME} plans {SERVICE} for that vintage stock, accounting for how century-old homes near Sydney Harbour have weathered Maritime winters."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How much does {SERVICE} cost in Whitney Pier?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every Whitney Pier job starts with a {ESTIMATE_TYPE} estimate up front. Cost depends on the scope and the {PROPERTY_TYPE} — the neighbourhood's older, industrial-era homes can differ a lot from one to the next. {COMPANY_NAME} keeps pricing transparent, with no hidden add-ons."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you respond in Whitney Pier?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} offers {RESPONSE_TIME} response in Whitney Pier. Sitting barely 3 km from downtown Sydney, the neighbourhood is part of the daily service area, so urgent {SERVICE} needs are handled quickly — no waiting because of distance, with a crew usually only minutes away in the city core."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Whitney Pier?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} brings {YEARS_IN_BUSINESS} years and a {RATING} rating to Whitney Pier, and it respects the neighbourhood's coal-and-steel heritage and older housing. {UNIQUE_VALUE_PROP} From {ESTIMATE_TYPE} estimates to finished work, this island is home turf, and the Pier's older homes are exactly the kind of work the team knows best. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/whitney-pier#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg",
+     "name": "Whitney Pier, Cape Breton Nova Scotia — Sydney's historic coal-and-steel neighbourhood on Sydney Harbour",
+     "caption": "Whitney Pier, Cape Breton Nova Scotia — Sydney's historic coal-and-steel neighbourhood on Sydney Harbour",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "ArcaneCraeda"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Whitney Pier, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 46.15931,
+       "longitude": -60.18662
       }
      }
     }
@@ -10935,6 +11386,443 @@
   }
  },
  {
+  "id": "NSX-st-peter-s",
+  "slug": "st-peter-s",
+  "url": "/areas/st-peter-s",
+  "name": "St. Peter's",
+  "type": "Community",
+  "region": "Cape Breton",
+  "region_slug": "cape-breton",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.65659,
+   "lng": -60.87421
+  },
+  "fsa": null,
+  "population_2021": 2634,
+  "unified_score": 54.7,
+  "km_halifax": 239.6,
+  "km_sydney": 75.4,
+  "verification": "GeoNames_Pop",
+  "data_sources": "GeoNames (CC-BY); StatCan admin geography",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Cape Breton",
+   "St. Peter's"
+  ],
+  "hero": {
+   "overline": "St. Peter's · Cape Breton · Nova Scotia",
+   "h1": "{SERVICE} in St. Peter's, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in St. Peter's, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in St. Peter's, Cape Breton — {COMPANY_NAME} serves this southern Richmond County community with {ESTIMATE_TYPE} estimates and quick response. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} St. Peter's",
+   "secondary_keywords": [
+    "{SERVICE} near me St. Peter's",
+    "{BUSINESS_TYPE} St. Peter's Nova Scotia",
+    "{SERVICE} St. Peter's Richmond County",
+    "{SERVICE} near Isle Madame"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} St. Peter's coastal homes",
+    "{SERVICE} St. Peter's near Bras d'Or Lake",
+    "{SERVICE} St. Peter's Richmond County",
+    "{SERVICE} St. Peter's southern Cape Breton"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in St. Peter's",
+    "who offers {SERVICE} in St. Peter's Richmond County",
+    "how fast can you reach St. Peter's for {SERVICE}"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in St. Peter's",
+    "best {BUSINESS_TYPE} in St. Peter's Cape Breton",
+    "{SERVICE} close to Isle Madame and Richmond County",
+    "who does {SERVICE} near the Bras d'Or Lake",
+    "{SERVICE} for a home in St. Peter's Nova Scotia"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in St. Peter's, {COMPANY_NAME} covers this southern Cape Breton community in Richmond County, near Isle Madame and the Bras d'Or Lake UNESCO Biosphere. {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response come standard for coastal properties facing hard Maritime winters. Call {PHONE}.",
+  "entity_description": "St. Peter's is a community in Richmond County, in the Cape Breton region of Nova Scotia, Canada, with an estimated population of about 2,634. It sits at the island's southern end near the Bras d'Or Lake UNESCO Biosphere, about 75 kilometres from Sydney and 240 from Halifax, with Isle Madame roughly 20 kilometres to the southeast. Fishing and tourism lead the local economy, and the community shares Cape Breton's Maritime coastal climate of hard winters.",
+  "about_md": "St. Peter's anchors the southern end of Cape Breton, Nova Scotia, near the Bras d'Or Lake UNESCO Biosphere that shapes the island's interior. It sits in Richmond County — the nearest county community is barely 2 kilometres away — with Isle Madame about 20 kilometres to the southeast. Sydney is roughly 75 kilometres north and Halifax about 240 kilometres away. That southern, water-edged position gives {SERVICE} here a distinctly coastal character.\n\nWith an estimated population of about 2,634, St. Peter's is a small community where word travels and a contractor's reputation is the whole business. {COMPANY_NAME} works accordingly — {ESTIMATE_TYPE} estimates before the job starts, {RESPONSE_TIME} response when something can't wait, and pricing explained up front for every {PROPERTY_TYPE}.\n\n## {SERVICE} on Cape Breton's south coast\n\nWeather runs the schedule for {SERVICE} on this island. Cape Breton has a Maritime island climate, and winter is serious business — up the coast, Glace Bay is named for the French \"baie de Glace,\" or \"ice bay,\" which says plainly what the cold months bring. Sitting between the open Atlantic and the Bras d'Or waters, St. Peter's takes its share of coastal damp, wind, and freeze-thaw, all of which wear on a building over time. {COMPANY_NAME} plans {SERVICE_CATEGORY} work around those conditions so {PROPERTY_TYPE} owners aren't caught out.\n\nThe local economy tracks the rest of Richmond County, where fishing and tourism lead, supported by the services that keep a rural community going. Building stock spans a range of ages rather than one uniform development, so no two {SERVICE} jobs match — a reason a proper walk-through and a {ESTIMATE_TYPE} estimate come first.\n\nIts position at the island's southern gateway keeps St. Peter's connected: {COMPANY_NAME} already travels these roads for {SERVICE_LIST}, reaching Isle Madame, the rest of Richmond County, and north toward Sydney. A job here gets the same attention as one in a bigger town.\n\nThe Bras d'Or Lake UNESCO Biosphere that St. Peter's sits beside is one of Cape Breton's signature draws, and the tourism it brings — along with the Celtic and Acadian culture that carries the counties — shapes the seasonal rhythm of work here. {COMPANY_NAME} plans {SERVICE} around that rhythm, booking peak-season jobs early while keeping room for the urgent calls that a coastal winter can bring to {PROPERTY_TYPE} owners along this shore.\n\n{COMPANY_NAME} has spent {YEARS_IN_BUSINESS} years earning a {RATING} rating across Cape Breton by treating each community on its own terms. {UNIQUE_VALUE_PROP} Get {ESTIMATE_TYPE} estimates on {SERVICE_LIST}, and {CTA_PRIMARY} when you're ready.",
+  "local_facts": [
+   "Estimated population of about 2,634 (GeoNames)",
+   "In Richmond County, Cape Breton region, Nova Scotia",
+   "About 75 km from Sydney and 240 km from Halifax",
+   "Sits near the southern end of the Bras d'Or Lake UNESCO Biosphere",
+   "Isle Madame about 20 km to the southeast",
+   "Shares Cape Breton's Maritime coastal climate with hard winters"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "St. Peter's sits just 2.1 km from Richmond County's nearest community and about 20 km from Isle Madame, placing it squarely at the southern edge of this batch of Cape Breton places."
+  },
+  "services_grid": {
+   "heading": "Services in St. Peter's",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-peter-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-peter-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-peter-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-peter-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-peter-s/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/st-peter-s/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, St. Peter's"
+  },
+  "faqs": [
+   {
+    "question": "Do you offer {SERVICE} in St. Peter's?",
+    "answer": "Yes. {COMPANY_NAME} serves St. Peter's and the surrounding Richmond County, reaching Isle Madame about 20 km away and communities north toward Sydney. Crews already travel these southern Cape Breton roads for {SERVICE_LIST}, so St. Peter's {PROPERTY_TYPE} owners get prompt, full service."
+   },
+   {
+    "question": "Does St. Peter's coastal setting affect {SERVICE}?",
+    "answer": "Yes. St. Peter's sits at Cape Breton's southern gateway, between the open Atlantic and the Bras d'Or Lake waters, so buildings here face coastal wind, damp, and salt air. {COMPANY_NAME} plans {SERVICE} with that exposure in mind, protecting {PROPERTY_TYPE} against the conditions this position brings."
+   },
+   {
+    "question": "What does {SERVICE} cost in St. Peter's?",
+    "answer": "St. Peter's jobs begin with a {ESTIMATE_TYPE} estimate, so you know the price before work starts. The total reflects the scope and the {PROPERTY_TYPE}, since local homes vary in age and style. {COMPANY_NAME} keeps every quote clear and free of surprises."
+   },
+   {
+    "question": "How quickly can you reach St. Peter's?",
+    "answer": "{COMPANY_NAME} offers {RESPONSE_TIME} response in St. Peter's. With Richmond County right next door and regular routes toward Isle Madame and Sydney, urgent {SERVICE} calls in this southern community get prompt attention rather than a long wait, even in the depths of a coastal winter."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in St. Peter's?",
+    "answer": "{COMPANY_NAME} brings {YEARS_IN_BUSINESS} years and a {RATING} rating to every St. Peter's job, treating this southern Cape Breton community on its own terms. {UNIQUE_VALUE_PROP} From the first {ESTIMATE_TYPE} estimate to the final check, you deal with people who know the island. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across St. Peter's, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "richmond-county",
+    "name": "Richmond County",
+    "km": 2.1,
+    "url": "/areas/richmond-county",
+    "anchor": "Richmond County, whose nearest community sits just 2 km away"
+   },
+   {
+    "slug": "isle-madame",
+    "name": "Isle Madame",
+    "km": 20,
+    "url": "/areas/isle-madame",
+    "anchor": "Isle Madame, about 20 km to the southeast"
+   },
+   {
+    "slug": "eskasoni-first-nation",
+    "name": "Eskasoni First Nation",
+    "km": 37.2,
+    "url": "/areas/eskasoni-first-nation",
+    "anchor": "Eskasoni First Nation, about 37 km to the north"
+   },
+   {
+    "slug": "port-hawkesbury",
+    "name": "Port Hawkesbury",
+    "km": 37.3,
+    "url": "/areas/port-hawkesbury",
+    "anchor": "Port Hawkesbury, some 37 km toward the Strait of Canso"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/cape-breton",
+   "name": "Cape Breton",
+   "anchor": "Cape Breton service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-cape-breton",
+    "title": "What {SERVICE} Costs in Cape Breton: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-cape-breton",
+    "title": "Cape Breton Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-cape-breton",
+    "title": "How to Choose a {BUSINESS_TYPE} in Cape Breton"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-cape-breton",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Cape Breton, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, St. Peter's",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free St. Peter's quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "st-peter-s"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg",
+   "filename": "st-peter-s-cape-breton-ns.webp",
+   "alt_layer1_geo": "St. Peter's, Cape Breton Nova Scotia — a Richmond County community at the island's southern gateway near the Bras d'Or Lake",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in St. Peter's, Nova Scotia — St. Peter's, Cape Breton Nova Scotia — a Richmond County community at the island's southern gateway near the Bras d'Or Lake",
+   "title": "St. Peter's, Cape Breton Nova Scotia — a Richmond County community at the island's southern gateway near the Bras d'Or Lake",
+   "caption": "St. Peter's, Cape Breton Nova Scotia — a Richmond County community at the island's southern gateway near the Bras d'Or Lake",
+   "exif_geo": {
+    "lat": 45.65659,
+    "lng": -60.87421,
+    "name": "St. Peter's, Nova Scotia"
+   },
+   "license": "CC BY-SA 4.0",
+   "attribution": "ArcaneCraeda — CC BY-SA 4.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "position/landmark: southern Cape Breton near the Bras d'Or Lake UNESCO Biosphere",
+   "proximity: Richmond County community 2.1 km, Isle Madame 20 km",
+   "distance/access: about 75 km from Sydney, 240 km from Halifax",
+   "population scale: about 2,634",
+   "climate tied to service: Maritime coastal winters between the Atlantic and Bras d'Or waters",
+   "economy: Richmond County fishing and tourism"
+  ],
+  "signals_count": 6,
+  "opener_words": "St. Peter's anchors the southern end of Cape",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/st-peter-s#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in St. Peter's",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "St. Peter's, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Richmond County, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Isle Madame, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Princeville, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.65659,
+        "longitude": -60.87421
+       },
+       "geoRadius": "2000"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in St. Peter's",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/st-peter-s#page",
+     "url": "{BRAND_URL}/areas/st-peter-s",
+     "name": "{SERVICE} in St. Peter's, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/st-peter-s#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/st-peter-s#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Cape Breton",
+       "item": "{BRAND_URL}/areas/region/cape-breton"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "St. Peter's",
+       "item": "{BRAND_URL}/areas/st-peter-s"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/st-peter-s#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you offer {SERVICE} in St. Peter's?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} serves St. Peter's and the surrounding Richmond County, reaching Isle Madame about 20 km away and communities north toward Sydney. Crews already travel these southern Cape Breton roads for {SERVICE_LIST}, so St. Peter's {PROPERTY_TYPE} owners get prompt, full service."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does St. Peter's coastal setting affect {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. St. Peter's sits at Cape Breton's southern gateway, between the open Atlantic and the Bras d'Or Lake waters, so buildings here face coastal wind, damp, and salt air. {COMPANY_NAME} plans {SERVICE} with that exposure in mind, protecting {PROPERTY_TYPE} against the conditions this position brings."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What does {SERVICE} cost in St. Peter's?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "St. Peter's jobs begin with a {ESTIMATE_TYPE} estimate, so you know the price before work starts. The total reflects the scope and the {PROPERTY_TYPE}, since local homes vary in age and style. {COMPANY_NAME} keeps every quote clear and free of surprises."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you reach St. Peter's?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} offers {RESPONSE_TIME} response in St. Peter's. With Richmond County right next door and regular routes toward Isle Madame and Sydney, urgent {SERVICE} calls in this southern community get prompt attention rather than a long wait, even in the depths of a coastal winter."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in St. Peter's?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{COMPANY_NAME} brings {YEARS_IN_BUSINESS} years and a {RATING} rating to every St. Peter's job, treating this southern Cape Breton community on its own terms. {UNIQUE_VALUE_PROP} From the first {ESTIMATE_TYPE} estimate to the final check, you deal with people who know the island. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/st-peter-s#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg",
+     "name": "St. Peter's, Cape Breton Nova Scotia — a Richmond County community at the island's southern gateway near the Bras d'Or Lake",
+     "caption": "St. Peter's, Cape Breton Nova Scotia — a Richmond County community at the island's southern gateway near the Bras d'Or Lake",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "ArcaneCraeda"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "St. Peter's, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.65659,
+       "longitude": -60.87421
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
   "id": "NS-0100",
   "slug": "isle-madame",
   "url": "/areas/isle-madame",
@@ -13344,6 +14232,13 @@
     "km": 3.7,
     "url": "/areas/membertou-first-nation",
     "anchor": "Membertou First Nation, some 3.7 km distant"
+   },
+   {
+    "slug": "whitney-pier",
+    "name": "Whitney Pier",
+    "km": 1.2,
+    "url": "/areas/whitney-pier",
+    "anchor": "Whitney Pier, 1.2 km away"
    }
   ],
   "parent_region_link": {

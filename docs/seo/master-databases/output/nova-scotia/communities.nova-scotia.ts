@@ -1,7 +1,7 @@
 // =============================================================================
 // AREAS WE SERVE — NOVA SCOTIA DATA (generated 2026-07-11)
 //
-// 248 publishable locations + 9 regions, built by the Universal
+// 260 publishable locations + 9 regions, built by the Universal
 // Location-Page Architect from the master SEO database (Mode A), unified re-score,
 // publish gate (score >= 50 + real geo + real pop), and grounded LLM content.
 //
@@ -664,6 +664,39 @@ Position is this community's quiet strength. At 55.3 km from Halifax, Three Mile
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/9/95/View_from_the_South_Mountain_%28Gaspereau%29_looking_at_Cape_Blomidon_and_the_North_Mountain_across_the_Valley.jpg", alt: "{SERVICE_CATEGORY} in Three Mile Plains, Nova Scotia — Three Mile Plains, Annapolis Valley Nova Scotia — West Hants community 2.2 km from Windsor at the Halifax end of the valley" },
   },
   {
+    slug: "cambridge",
+    name: "Cambridge",
+    region: "annapolis-valley",
+    city: "Cambridge",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 45.20235, lng: -64.11336 },
+    tier: 3,
+    shortDescription: `For {SERVICE} in Cambridge, {COMPANY_NAME} works across this quiet stretch of the Annapolis Valley floor, from farm and orchard properties to in-town homes, about 15.4 km from Hantsport and 74.7 km from Halifax. We plan around the valley's Bay of Fundy weather. Call {PHONE}.`,
+    fullDescription: `Cambridge sits farther from any town than almost any community its size in the Annapolis Valley, with about 15.4 kilometres of orchard and farmland separating it from Hantsport, its nearest built-up neighbour. This small Nova Scotia community of an estimated 703 people lies on the broad valley floor, roughly 74.7 kilometres from Halifax, deep in the apple and vineyard country that gives the region its name. {COMPANY_NAME} brings {SERVICE} to Cambridge and the farms and homes scattered around it.
+
+That rural setting shapes the {PROPERTY_TYPE} work we do here. Agriculture leads the valley's economy — apple orchards, vineyards, and farming — backed by food processing and agri-tourism, with the military at CFB Greenwood and agricultural research in Kentville anchoring the wider region. Around Cambridge that means many jobs involve working farm properties, rural acreage, and older farmhouses rather than dense subdivisions. Heritage farmhouses and outbuildings are common, and they call for a {BUSINESS_TYPE} who understands older rural construction. {COMPANY_NAME} scales {SERVICE} for that mix, handling large rural lots as readily as smaller in-town homes, and backs every project with {ESTIMATE_TYPE} estimates so there are no surprises.
+
+## Weather and the valley calendar
+Nova Scotia's maritime climate sets the rhythm for {SERVICE} in Cambridge. The Bay of Fundy and its tides lie just beyond the valley's rim, and the same seasonal conditions that sustain the region's orchards and vineyards also decide the best windows for property work. {COMPANY_NAME} plans {PROJECT_TYPE} around that calendar rather than against it, timing work to suit the valley's weather so your {PROPERTY_TYPE} stays protected through every season.
+
+Cambridge's position deep in the farmland is part of its appeal, but it can also mean slow service from companies based outside the region. Because {COMPANY_NAME} works throughout the Annapolis Valley, our typical response time is {RESPONSE_TIME} even for communities well off the main routes. Cambridge lies about 23.4 kilometres from Wolfville and its Acadia University campus, roughly 23.8 kilometres from Falmouth in the valley's wine-tour country, and around 24.4 kilometres from Windsor, so we fold it into the schedule that serves the valley's larger towns. That regional coverage keeps Cambridge from being an afterthought on the calendar.
+
+With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} treats every {PROPERTY_TYPE} in Cambridge with care, whether it is a working farm on the valley floor or a family home in the community. {UNIQUE_VALUE_PROP} — that is what sets our {BUSINESS_TYPE} apart. {CTA_PRIMARY} or call {PHONE} to talk through your project today.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Cambridge","{SERVICE} near me Cambridge","{BUSINESS_TYPE} Cambridge Nova Scotia","{SERVICE} Cambridge Annapolis Valley"],
+    faqs: [
+      { question: `Do you provide {SERVICE} in Cambridge?`, answer: `Yes. {COMPANY_NAME} provides {SERVICE} throughout Cambridge and the surrounding Annapolis Valley farmland. Whether your property is a working farm on the valley floor or an in-town home, we schedule {SERVICE} across the region without extra travel charges. Cambridge sits about 74.7 km from Halifax, well within our Annapolis Valley service area.` },
+      { question: `Does Cambridge's distance from town affect {SERVICE}?`, answer: `Cambridge is one of the more isolated valley communities, about 15.4 km from Hantsport, its nearest built-up neighbour. That distance rarely changes the {SERVICE} itself, but it does mean choosing a {BUSINESS_TYPE} who already works this stretch of farmland. {COMPANY_NAME} covers the full valley, so reaching Cambridge is routine for our crews.` },
+      { question: `How much does {SERVICE} cost in Cambridge?`, answer: `{SERVICE} in Cambridge is priced by the scope of your project, not by how far out you live. Rural acreage and larger farm properties can take more time than compact in-town lots, so {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates up front. That way you see the full cost before any work on your {PROPERTY_TYPE} begins.` },
+      { question: `How quickly can you reach Cambridge?`, answer: `Our typical response time in Cambridge is {RESPONSE_TIME}. Because {COMPANY_NAME} dispatches from within the Annapolis Valley rather than from Halifax, the community's rural setting does not slow us down. We fold Cambridge into the same schedule that serves Wolfville, Windsor, and Hantsport, so your project keeps moving.` },
+      { question: `Why choose {COMPANY_NAME} for {SERVICE} in Cambridge?`, answer: `{COMPANY_NAME} pairs {YEARS_IN_BUSINESS} years of experience with a {RATING} rating and real knowledge of the Annapolis Valley's farm and orchard properties. We plan {SERVICE} around the valley's Bay of Fundy weather and treat every {PROPERTY_TYPE} in Cambridge with care. {UNIQUE_VALUE_PROP}. To book, Call {PHONE}.` }
+    ],
+    nearestCommunities: ["hantsport","wolfville","falmouth","lower-economy","windsor"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/9/95/View_from_the_South_Mountain_%28Gaspereau%29_looking_at_Cape_Blomidon_and_the_North_Mountain_across_the_Valley.jpg", alt: "{SERVICE_CATEGORY} in Cambridge, Nova Scotia — Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport" },
+  },
+  {
     slug: "cape-breton",
     name: "Cape Breton",
     region: "cape-breton",
@@ -975,8 +1008,46 @@ Even as the closest island county to the mainland, Richmond is firmly Cape Breto
       { question: `How much does {SERVICE} cost in Richmond County?`, answer: `Every job starts with a {ESTIMATE_TYPE} estimate, so the price is clear before work begins. Cost depends on scope, the {PROPERTY_TYPE}, and location within a rural county, and {COMPANY_NAME} keeps its pricing transparent with no hidden fees, so a home far down the coast is quoted as fairly as one near town.` },
       { question: `Why choose {COMPANY_NAME} for {SERVICE} in Richmond County?`, answer: `{COMPANY_NAME} brings {YEARS_IN_BUSINESS} years and a {RATING} rating to this southern coastal county. {UNIQUE_VALUE_PROP} We know its rural distances and its Maritime weather, we plan routes to reach spread-out properties, and we back each job with {ESTIMATE_TYPE} estimates and clear pricing while treating every property on its own terms. Call {PHONE}.` }
     ],
-    nearestCommunities: ["isle-madame","port-hawkesbury","mulgrave","eskasoni-first-nation","whycocomagh"],
+    nearestCommunities: ["isle-madame","port-hawkesbury","mulgrave","eskasoni-first-nation","whycocomagh","st-peter-s"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg", alt: "{SERVICE_CATEGORY} in Richmond County, Nova Scotia — Richmond County, Cape Breton Nova Scotia — the island's southern gateway, closest to the mainland" },
+  },
+  {
+    slug: "whitney-pier",
+    name: "Whitney Pier",
+    region: "cape-breton",
+    city: "Whitney Pier",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 46.15931, lng: -60.18662 },
+    tier: 2,
+    shortDescription: `For {SERVICE} in Whitney Pier, {COMPANY_NAME} serves this multicultural coal-and-steel neighbourhood at Sydney's edge, barely 3 km from downtown and about a kilometre from South Bar. {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response suit its older, industrial-era homes on Sydney Harbour. Call {PHONE}.`,
+    fullDescription: `Whitney Pier is Sydney's multicultural coal-and-steel neighbourhood, a working community on Sydney Harbour in Cape Breton, Nova Scotia, that grew up around the island's industrial heart. For generations, families drawn from across the world settled here to work the coal and steel that built the region, and that heritage still shapes the streets. The former steel plant site nearby is now Open Hearth Park, a reminder of the industry that gave the Pier its name and character.
+
+Whitney Pier sits barely 3 kilometres from downtown Sydney, with South Bar about a kilometre away and Point Edward and Mill Creek close by. That means {SERVICE} here is city-adjacent work: {COMPANY_NAME} reaches the neighbourhood quickly, with {RESPONSE_TIME} response and {ESTIMATE_TYPE} estimates that respect the age and character of Pier {PROPERTY_TYPE}.
+
+## {SERVICE} for coal-town housing
+
+Building stock tells Whitney Pier's story. Cape Breton's coal towns date largely to around 1901, and much of the Pier's housing carries that industrial-era vintage — older homes that have stood through more than a century of Maritime winters. Cape Breton runs on serious island weather; nearby Glace Bay takes its name from the French "baie de Glace," or "ice bay," a plain statement of what the cold season brings to this coast. Freeze-thaw, snow load, and salt air off Sydney Harbour all wear on an older building, so {COMPANY_NAME} plans {SERVICE_CATEGORY} work with that vintage housing in mind.
+
+With an estimated population of about 4,612, Whitney Pier is a close-knit part of the Cape Breton Regional Municipality, and Sydney anchors the surrounding economy. The city runs on tourism, education at Cape Breton University, healthcare at the Cape Breton Regional Hospital, government services, and a cruise port at the Sydney Marine Terminal. That urban base means steady demand for {SERVICE}, and {COMPANY_NAME} treats each Pier {PROPERTY_TYPE} on its own terms rather than as one more address.
+
+Sydney itself was founded in 1785, and its older streets and the Pier's coal-town rows sit side by side — a spread of building ages that keeps every {SERVICE} job a little different. The Big Fiddle on the Sydney waterfront and the cruise ships that dock at the Marine Terminal mark how far the city has come from its industrial past, even as much of the housing that industry built still stands and still needs care.
+
+Because the neighbourhood sits right at Sydney's edge, {COMPANY_NAME} already covers these streets daily for {SERVICE_LIST}, from South Bar to Point Edward. A job in Whitney Pier gets the same {RESPONSE_TIME} attention as any in the city core.
+
+{COMPANY_NAME} has spent {YEARS_IN_BUSINESS} years earning a {RATING} rating across Cape Breton by knowing its communities. {UNIQUE_VALUE_PROP} Get {ESTIMATE_TYPE} estimates on {SERVICE_LIST}, and {CTA_PRIMARY} when you're ready.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Whitney Pier","{SERVICE} near me Whitney Pier","{BUSINESS_TYPE} Whitney Pier Nova Scotia","{SERVICE} Whitney Pier Sydney","{SERVICE} near South Bar"],
+    faqs: [
+      { question: `Do you serve {SERVICE} in Whitney Pier?`, answer: `Yes. {COMPANY_NAME} covers Whitney Pier and the rest of greater Sydney, including South Bar just over a kilometre away and Point Edward across the harbour. Because the Pier sits right at Sydney's edge, crews reach it quickly for {SERVICE_LIST}, treating each Pier {PROPERTY_TYPE} as part of the daily city route.` },
+      { question: `Does Whitney Pier's older housing affect {SERVICE}?`, answer: `Often, yes. Much of Whitney Pier's housing dates to the coal-town era around 1901, built when the neighbourhood grew around Cape Breton's steel industry. {COMPANY_NAME} plans {SERVICE} for that vintage stock, accounting for how century-old homes near Sydney Harbour have weathered Maritime winters.` },
+      { question: `How much does {SERVICE} cost in Whitney Pier?`, answer: `Every Whitney Pier job starts with a {ESTIMATE_TYPE} estimate up front. Cost depends on the scope and the {PROPERTY_TYPE} — the neighbourhood's older, industrial-era homes can differ a lot from one to the next. {COMPANY_NAME} keeps pricing transparent, with no hidden add-ons.` },
+      { question: `How fast can you respond in Whitney Pier?`, answer: `{COMPANY_NAME} offers {RESPONSE_TIME} response in Whitney Pier. Sitting barely 3 km from downtown Sydney, the neighbourhood is part of the daily service area, so urgent {SERVICE} needs are handled quickly — no waiting because of distance, with a crew usually only minutes away in the city core.` },
+      { question: `Why choose {COMPANY_NAME} for {SERVICE} in Whitney Pier?`, answer: `{COMPANY_NAME} brings {YEARS_IN_BUSINESS} years and a {RATING} rating to Whitney Pier, and it respects the neighbourhood's coal-and-steel heritage and older housing. {UNIQUE_VALUE_PROP} From {ESTIMATE_TYPE} estimates to finished work, this island is home turf, and the Pier's older homes are exactly the kind of work the team knows best. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["south-bar","cape-breton","sydney","point-edward","mill-creek"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg", alt: "{SERVICE_CATEGORY} in Whitney Pier, Nova Scotia — Whitney Pier, Cape Breton Nova Scotia — Sydney's historic coal-and-steel neighbourhood on Sydney Harbour" },
   },
   {
     slug: "dominion",
@@ -1516,6 +1587,44 @@ Scotchtown's greatest practical advantage is proximity: from here, a {BUSINESS_T
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg", alt: "{SERVICE_CATEGORY} in Scotchtown, Nova Scotia — Scotchtown, Cape Breton Nova Scotia — a shoreline community barely 1.1 km from Victoria Mines and 2.6 km from New Waterford" },
   },
   {
+    slug: "st-peter-s",
+    name: "St. Peter's",
+    region: "cape-breton",
+    city: "St. Peter's",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 45.65659, lng: -60.87421 },
+    tier: 3,
+    shortDescription: `For {SERVICE} in St. Peter's, {COMPANY_NAME} covers this southern Cape Breton community in Richmond County, near Isle Madame and the Bras d'Or Lake UNESCO Biosphere. {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response come standard for coastal properties facing hard Maritime winters. Call {PHONE}.`,
+    fullDescription: `St. Peter's anchors the southern end of Cape Breton, Nova Scotia, near the Bras d'Or Lake UNESCO Biosphere that shapes the island's interior. It sits in Richmond County — the nearest county community is barely 2 kilometres away — with Isle Madame about 20 kilometres to the southeast. Sydney is roughly 75 kilometres north and Halifax about 240 kilometres away. That southern, water-edged position gives {SERVICE} here a distinctly coastal character.
+
+With an estimated population of about 2,634, St. Peter's is a small community where word travels and a contractor's reputation is the whole business. {COMPANY_NAME} works accordingly — {ESTIMATE_TYPE} estimates before the job starts, {RESPONSE_TIME} response when something can't wait, and pricing explained up front for every {PROPERTY_TYPE}.
+
+## {SERVICE} on Cape Breton's south coast
+
+Weather runs the schedule for {SERVICE} on this island. Cape Breton has a Maritime island climate, and winter is serious business — up the coast, Glace Bay is named for the French "baie de Glace," or "ice bay," which says plainly what the cold months bring. Sitting between the open Atlantic and the Bras d'Or waters, St. Peter's takes its share of coastal damp, wind, and freeze-thaw, all of which wear on a building over time. {COMPANY_NAME} plans {SERVICE_CATEGORY} work around those conditions so {PROPERTY_TYPE} owners aren't caught out.
+
+The local economy tracks the rest of Richmond County, where fishing and tourism lead, supported by the services that keep a rural community going. Building stock spans a range of ages rather than one uniform development, so no two {SERVICE} jobs match — a reason a proper walk-through and a {ESTIMATE_TYPE} estimate come first.
+
+Its position at the island's southern gateway keeps St. Peter's connected: {COMPANY_NAME} already travels these roads for {SERVICE_LIST}, reaching Isle Madame, the rest of Richmond County, and north toward Sydney. A job here gets the same attention as one in a bigger town.
+
+The Bras d'Or Lake UNESCO Biosphere that St. Peter's sits beside is one of Cape Breton's signature draws, and the tourism it brings — along with the Celtic and Acadian culture that carries the counties — shapes the seasonal rhythm of work here. {COMPANY_NAME} plans {SERVICE} around that rhythm, booking peak-season jobs early while keeping room for the urgent calls that a coastal winter can bring to {PROPERTY_TYPE} owners along this shore.
+
+{COMPANY_NAME} has spent {YEARS_IN_BUSINESS} years earning a {RATING} rating across Cape Breton by treating each community on its own terms. {UNIQUE_VALUE_PROP} Get {ESTIMATE_TYPE} estimates on {SERVICE_LIST}, and {CTA_PRIMARY} when you're ready.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} St. Peter's","{SERVICE} near me St. Peter's","{BUSINESS_TYPE} St. Peter's Nova Scotia","{SERVICE} St. Peter's Richmond County","{SERVICE} near Isle Madame"],
+    faqs: [
+      { question: `Do you offer {SERVICE} in St. Peter's?`, answer: `Yes. {COMPANY_NAME} serves St. Peter's and the surrounding Richmond County, reaching Isle Madame about 20 km away and communities north toward Sydney. Crews already travel these southern Cape Breton roads for {SERVICE_LIST}, so St. Peter's {PROPERTY_TYPE} owners get prompt, full service.` },
+      { question: `Does St. Peter's coastal setting affect {SERVICE}?`, answer: `Yes. St. Peter's sits at Cape Breton's southern gateway, between the open Atlantic and the Bras d'Or Lake waters, so buildings here face coastal wind, damp, and salt air. {COMPANY_NAME} plans {SERVICE} with that exposure in mind, protecting {PROPERTY_TYPE} against the conditions this position brings.` },
+      { question: `What does {SERVICE} cost in St. Peter's?`, answer: `St. Peter's jobs begin with a {ESTIMATE_TYPE} estimate, so you know the price before work starts. The total reflects the scope and the {PROPERTY_TYPE}, since local homes vary in age and style. {COMPANY_NAME} keeps every quote clear and free of surprises.` },
+      { question: `How quickly can you reach St. Peter's?`, answer: `{COMPANY_NAME} offers {RESPONSE_TIME} response in St. Peter's. With Richmond County right next door and regular routes toward Isle Madame and Sydney, urgent {SERVICE} calls in this southern community get prompt attention rather than a long wait, even in the depths of a coastal winter.` },
+      { question: `Why choose {COMPANY_NAME} for {SERVICE} in St. Peter's?`, answer: `{COMPANY_NAME} brings {YEARS_IN_BUSINESS} years and a {RATING} rating to every St. Peter's job, treating this southern Cape Breton community on its own terms. {UNIQUE_VALUE_PROP} From the first {ESTIMATE_TYPE} estimate to the final check, you deal with people who know the island. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["richmond-county","isle-madame","eskasoni-first-nation","port-hawkesbury"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg", alt: "{SERVICE_CATEGORY} in St. Peter's, Nova Scotia — St. Peter's, Cape Breton Nova Scotia — a Richmond County community at the island's southern gateway near the Bras d'Or Lake" },
+  },
+  {
     slug: "isle-madame",
     name: "Isle Madame",
     region: "cape-breton",
@@ -1713,7 +1822,7 @@ For {SERVICE} in South Bar, {COMPANY_NAME} brings professional execution, honest
       { question: `How fast can you get to South Bar?`, answer: `Very fast. Because South Bar is only 1.8 kilometres from Sydney, {COMPANY_NAME} usually responds within {RESPONSE_TIME}, and often sooner. For {SERVICE} emergencies in South Bar, we prioritize same-day service whenever possible thanks to that short distance. Being right beside the city is South Bar's biggest service advantage.` },
       { question: `Why choose {COMPANY_NAME} for {SERVICE} in South Bar?`, answer: `{COMPANY_NAME} combines {YEARS_IN_BUSINESS} years of experience and a {RATING} rating with genuine knowledge of Cape Breton's coastal conditions. {UNIQUE_VALUE_PROP} From small repairs to full projects, South Bar's spot beside Sydney means quick, dependable service every time, backed by real coastal know-how. Call {PHONE}.` }
     ],
-    nearestCommunities: ["cape-breton","sydney","mill-creek","point-edward","membertou-first-nation"],
+    nearestCommunities: ["cape-breton","sydney","mill-creek","point-edward","membertou-first-nation","whitney-pier"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg", alt: "{SERVICE_CATEGORY} in South Bar, Nova Scotia — South Bar, Cape Breton Nova Scotia — a community of 673 barely 1.8 km from Sydney, one of the island's closest to the city" },
   },
   {
@@ -2572,7 +2681,7 @@ For homeowners and businesses across the district, the promise is simple. Every 
       { question: `How much does {SERVICE} cost in East Hants?`, answer: `Cost depends on your property and scope — a working farm outside Uniacke is a different job than a home in Elmsdale. {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates with transparent, upfront pricing and no hidden fees, so you know the figure before any {SERVICE} work begins in East Hants.` },
       { question: `Why choose {COMPANY_NAME} for {SERVICE} in East Hants?`, answer: `Homeowners and businesses across East Hants choose {COMPANY_NAME} because we pair local knowledge of Central Nova Scotia's Maritime conditions with professional-grade {SERVICE}. Our {UNIQUE_VALUE_PROP} sets us apart from other {BUSINESS_TYPE} providers in the district, and every job is fully licensed and insured. Call {PHONE}.` }
     ],
-    nearestCommunities: ["uniacke","elmsdale","enfield-eh","enfield","milford"],
+    nearestCommunities: ["uniacke","elmsdale","enfield","milford"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg", alt: "{SERVICE_CATEGORY} in East Hants, Nova Scotia — East Hants, Central Nova Scotia — a district municipality of 24,539 spanning the highway communities north of Halifax" },
   },
   {
@@ -2700,7 +2809,7 @@ For homeowners and businesses across the community, the promise is simple. Every
       { question: `How much does {SERVICE} cost in Elmsdale?`, answer: `Pricing for {SERVICE} in Elmsdale varies with scope and complexity, and the mix ranges from farm properties to newer commuter-belt homes. {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates with transparent, upfront pricing and no hidden fees, so you know the figure before work starts. Get your personalized Elmsdale quote first.` },
       { question: `Why choose {COMPANY_NAME} for {SERVICE} in Elmsdale?`, answer: `Elmsdale homeowners and businesses choose {COMPANY_NAME} because we pair local knowledge of the East Hants district and its Maritime conditions with professional-grade {SERVICE}. Our {UNIQUE_VALUE_PROP} sets us apart from other {BUSINESS_TYPE} providers in the area, and every job is fully licensed and insured. Call {PHONE}.` }
     ],
-    nearestCommunities: ["enfield-eh","enfield","lantz","milford","east-hants"],
+    nearestCommunities: ["enfield","lantz","milford","east-hants"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg", alt: "{SERVICE_CATEGORY} in Elmsdale, Nova Scotia — Elmsdale, Central Nova Scotia — a community of 4,000 in the East Hants district, 34.8 km from Halifax" },
   },
   {
@@ -2734,8 +2843,42 @@ What you get from {COMPANY_NAME} in Uniacke: {SERVICE_LIST}, delivered with tran
       { question: `How quickly can you respond to a {SERVICE} call in Uniacke?`, answer: `Typically within {RESPONSE_TIME}. Uniacke's corridor position between Halifax and the East Hants centre means our crews pass through regularly rather than making special trips. For urgent {SERVICE} situations we prioritize same-day attendance whenever possible, in Uniacke and across East Hants.` },
       { question: `Why choose {COMPANY_NAME} for {SERVICE} in Uniacke?`, answer: `Because we know this mix of properties. Uniacke pairs farm operations with commuter households, and we handle both — backed by {YEARS_IN_BUSINESS} years in business, a {RATING} rating, and {CERTIFICATIONS}. Every estimate is {ESTIMATE_TYPE}, and pricing stays transparent from the first visit to the final invoice. {UNIQUE_VALUE_PROP}. Call {PHONE}.` }
     ],
-    nearestCommunities: ["east-hants","upper-sackville","beaver-bank","middle-sackville","elmsdale"],
+    nearestCommunities: ["east-hants","upper-sackville","beaver-bank","middle-sackville","elmsdale","mount-uniacke"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg", alt: "{SERVICE_CATEGORY} in Uniacke, Nova Scotia — Uniacke, Central Nova Scotia, Nova Scotia — East Hants community 31 km from Halifax, where the region meets Halifax Metro" },
+  },
+  {
+    slug: "mount-uniacke",
+    name: "Mount Uniacke",
+    region: "central-nova-scotia",
+    city: "Mount Uniacke",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 44.90015, lng: -63.83202 },
+    tier: 3,
+    shortDescription: `For {SERVICE} in Mount Uniacke, {COMPANY_NAME} serves this inland Central Nova Scotia community of about 3,501 people, just 34.5 km from Halifax and 8.9 km from Uniacke. We bring {SERVICE_CATEGORY} work built for Maritime conditions, backed by {ESTIMATE_TYPE} estimates. Call {PHONE}.`,
+    fullDescription: `Mount Uniacke sits about 34.5 kilometres from Halifax, close enough for the daily commute yet firmly part of the rural landscape of Central Nova Scotia. That inland position — on the corridor linking the province's largest city to its agricultural centre — is the first thing to understand about the community, and it shapes the {SERVICE} that makes sense here. {COMPANY_NAME} brings {SERVICE_CATEGORY} work to this stretch of the region, backed by {YEARS_IN_BUSINESS} years of experience and a {RATING} rating.
+
+With an estimated population of about 3,501 — a GeoNames figure rather than a StatCan census count — Mount Uniacke is a substantial community by rural Central Nova Scotia standards. It anchors a cluster of nearby places: Uniacke sits just 8.9 kilometres away, Springfield Lake about 11.8 kilometres off, and Upper Sackville roughly 14.2 kilometres toward the Halifax metro edge. For a {BUSINESS_TYPE}, that means one trip can cover several communities, which is part of how we keep {RESPONSE_TIME} response realistic across this end of the region.
+
+## Weather that shapes the work
+
+Weather drives a lot of what we do. Mount Uniacke shares Nova Scotia's Maritime climate, where property owners understand that steady upkeep matters through wet, windy, and freeze-thaw conditions. {COMPANY_NAME} plans {SERVICE} around those Maritime realities — timing the job for the season and choosing an approach that holds up over the long run. {UNIQUE_VALUE_PROP}, and every job starts with a {ESTIMATE_TYPE} estimate so you know the price before we begin. Because the community is inland rather than coastal, we plan around the region's general weather without the extra exposure a shoreline property would see.
+
+The properties here reflect the region's mix. Central Nova Scotia's economy runs on agriculture and dairy farming, and its building stock ranges from working farm properties across the countryside to homes and small businesses in its communities. Mount Uniacke's rural setting means we see both — and we match our {SERVICE_CATEGORY} work to the property in front of us, whether that is a rural homestead or a house near the community core. Being 34.5 kilometres from Halifax and 315.7 kilometres from Sydney, Mount Uniacke leans toward the metro side of the province, and our crews travel the same routes that connect it to the wider region.
+
+Whether your property is in the heart of Mount Uniacke or out toward Uniacke or Springfield Lake, {COMPANY_NAME} delivers {SERVICE} you can rely on. {CTA_PRIMARY}, or call {PHONE} and we'll take it from there.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Mount Uniacke","{SERVICE} near me Mount Uniacke","{BUSINESS_TYPE} Mount Uniacke Nova Scotia","{SERVICE} Uniacke area","{SERVICE} near Springfield Lake"],
+    faqs: [
+      { question: `Do you offer {SERVICE} in Mount Uniacke?`, answer: `Yes. {COMPANY_NAME} serves Mount Uniacke and the communities around it, including Uniacke 8.9 km away, Springfield Lake, and Upper Sackville. Because Mount Uniacke sits about 34.5 km from Halifax on a well-connected corridor, we keep {RESPONSE_TIME} response realistic across this part of Central Nova Scotia.` },
+      { question: `Does Mount Uniacke's inland location affect {SERVICE}?`, answer: `It does. Mount Uniacke is an inland community about 34.5 km from Halifax, so it sees the region's Maritime weather without a coastal exposure, and its rural properties spread across a wide area. {COMPANY_NAME} plans {SERVICE} around that inland, small-community setting for results that last.` },
+      { question: `How much does {SERVICE} cost in Mount Uniacke?`, answer: `Cost depends on your property and the scope of work — a rural property outside Mount Uniacke is a different job than a home in the community's core. {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates, so you know the price before any work begins, with no surprises.` },
+      { question: `How fast can you reach Mount Uniacke?`, answer: `Quickly. Mount Uniacke's position about 34.5 km from Halifax and just 8.9 km from Uniacke keeps it well within our service range, so we offer {RESPONSE_TIME} response. Tell us where you are and what you need, and {COMPANY_NAME} will schedule the work promptly.` },
+      { question: `Why choose {COMPANY_NAME} for {SERVICE} in Mount Uniacke?`, answer: `Because we know this part of Central Nova Scotia — the inland communities near Uniacke and Springfield Lake, the Maritime conditions, and the mix of rural and residential properties. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {ESTIMATE_TYPE} estimates, we make {SERVICE} straightforward. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["uniacke","springfield-lake","upper-sackville","upper-hammonds-plains","east-hants"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg", alt: "{SERVICE_CATEGORY} in Mount Uniacke, Nova Scotia — Mount Uniacke, Central Nova Scotia — an inland community about 34.5 km from Halifax on the corridor toward the province's agricultural centre" },
   },
   {
     slug: "stewiacke",
@@ -2803,6 +2946,40 @@ Every project starts with a {ESTIMATE_TYPE} estimate — transparent pricing in 
     ],
     nearestCommunities: ["stewiacke","sipekne-katik-first-nation","milford","lantz","brookfield"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg", alt: "{SERVICE_CATEGORY} in Shubenacadie, Nova Scotia — Shubenacadie, Central Nova Scotia, Nova Scotia — East Hants community set among the region's Fundy tidal rivers" },
+  },
+  {
+    slug: "milford-station",
+    name: "Milford Station",
+    region: "central-nova-scotia",
+    city: "Milford Station",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 45.0408, lng: -63.43636 },
+    tier: 3,
+    shortDescription: `For {SERVICE} in Milford Station, {COMPANY_NAME} covers this small farm-country community of about 1,100 people, 44.9 km from Halifax and just 6.2 km from Shubenacadie. We match our {SERVICE_CATEGORY} work to rural properties and Maritime weather, all with {ESTIMATE_TYPE} estimates. Call {PHONE}.`,
+    fullDescription: `Milford Station is a small community of about 1,100 people in the farm country of Central Nova Scotia — a GeoNames estimate that puts it among the more modest places in the region. It sits about 44.9 kilometres from Halifax, wrapped by dairy-belt neighbours, and that rural, agricultural setting shapes the {SERVICE} that fits here. {COMPANY_NAME} brings {SERVICE_CATEGORY} work to this corner of the region, backed by {YEARS_IN_BUSINESS} years of experience and a {RATING} rating.
+
+Milford Station sits close to several communities. Milford is its nearest built neighbour at just 4.3 kilometres, Shubenacadie is about 6.2 kilometres north, and Elmsdale lies roughly 11.6 kilometres off, with the Sipekne'katik First Nation about 8.3 kilometres away. This is one of the more tightly clustered pockets of Central Nova Scotia, which helps {COMPANY_NAME} keep {RESPONSE_TIME} response practical — a single run can serve Milford Station and its neighbours without a long detour.
+
+## Working land, working properties
+
+The land around here does real work. Agriculture and dairy farming anchor Central Nova Scotia's economy, and Milford Station's farm-country setting means many properties are working ones — barns, outbuildings, and rural homes that need {SERVICE} tough enough for the job. {COMPANY_NAME} matches our approach to that reality, whether the property is a farmstead or a village home, and every job begins with a {ESTIMATE_TYPE} estimate so the scope and price are clear before we start.
+
+Maritime weather is the other constant. Nova Scotia's climate works on properties year-round, and owners in this region take upkeep seriously through the wet and cold seasons. {COMPANY_NAME} plans {SERVICE} around those conditions, drawing on {YEARS_IN_BUSINESS} years of experience to recommend the right timing and method. {UNIQUE_VALUE_PROP}, so the work lasts. At 44.9 kilometres from Halifax and 280.8 kilometres from Sydney, Milford Station sits firmly on the metro-leaning side of the province, and our crews travel the corridor that ties it to the rest of Central Nova Scotia, reaching farmsteads and homes alike.
+
+Whether your property is in Milford Station itself or out toward Shubenacadie or Elmsdale, {COMPANY_NAME} delivers dependable {SERVICE}. {CTA_PRIMARY}, or call {PHONE} and we'll get started.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Milford Station","{SERVICE} near me Milford Station","{BUSINESS_TYPE} Milford Station Nova Scotia","{SERVICE} near Shubenacadie","{SERVICE} Milford area"],
+    faqs: [
+      { question: `Do you offer {SERVICE} in Milford Station?`, answer: `Yes. {COMPANY_NAME} serves Milford Station and its neighbours, including Milford just 4.3 km away, Shubenacadie about 6.2 km north, and Elmsdale. Because these communities cluster closely in Central Nova Scotia's farm country, we keep {RESPONSE_TIME} response practical across the area.` },
+      { question: `Does Milford Station's farm-country setting affect {SERVICE}?`, answer: `It does. Milford Station sits in the agricultural belt between Shubenacadie and Elmsdale, about 44.9 km from Halifax, so many properties are working farms with barns and outbuildings alongside rural homes. {COMPANY_NAME} tailors {SERVICE} to that mix for durable results.` },
+      { question: `How much does {SERVICE} cost in Milford Station?`, answer: `Cost depends on the property and scope — a farm property near Milford Station is a different job than a village home. {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates, so you know the price before any work begins, with nothing hidden.` },
+      { question: `How quickly can you reach Milford Station?`, answer: `Quickly. Milford Station sits just 4.3 km from Milford and about 44.9 km from Halifax, well within our range, so {COMPANY_NAME} offers {RESPONSE_TIME} response. Let us know where you are and what you need, and we'll schedule the work.` },
+      { question: `Why choose {COMPANY_NAME} for {SERVICE} in Milford Station?`, answer: `Because we know this pocket of Central Nova Scotia — the farm country near Shubenacadie, the Sipekne'katik First Nation nearby, and the Maritime weather that tests every property. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {ESTIMATE_TYPE} estimates, we make {SERVICE} simple. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["milford","shubenacadie","lantz","sipekne-katik-first-nation","elmsdale"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg", alt: "{SERVICE_CATEGORY} in Milford Station, Nova Scotia — Milford Station, Central Nova Scotia — a small farm-country community about 44.9 km from Halifax, near Shubenacadie and the Sipekne'katik First Nation" },
   },
   {
     slug: "sipekne-katik-first-nation",
@@ -2968,7 +3145,7 @@ Every Milford project starts with a {ESTIMATE_TYPE} estimate: transparent pricin
       { question: `How much does {SERVICE} cost in Milford?`, answer: `Most work falls in the {PRICE_RANGE} range, and every job begins with a {ESTIMATE_TYPE} estimate. {COMPANY_NAME} prices Milford exactly like the rest of the corridor — transparent, upfront, no hidden fees, and no small-community premium tacked on.` },
       { question: `How quickly can you respond in Milford?`, answer: `Typically within {RESPONSE_TIME}, because Milford is on our daily route rather than a detour — the community sits 41 kilometres from Halifax with four published neighbours inside 10.3 kilometres. Urgent {SERVICE} situations get same-day priority whenever possible. Call {PHONE}.` }
     ],
-    nearestCommunities: ["lantz","elmsdale","enfield-eh","enfield","sipekne-katik-first-nation"],
+    nearestCommunities: ["lantz","elmsdale","enfield","sipekne-katik-first-nation","milford-station"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg", alt: "{SERVICE_CATEGORY} in Milford, Nova Scotia — Milford, Central Nova Scotia, Nova Scotia — East Hants corridor community between the Lantz–Elmsdale cluster and Shubenacadie's farm country" },
   },
   {
@@ -3147,6 +3324,40 @@ A town this size runs on trust and repeat work — there is nowhere to hide from
     ],
     nearestCommunities: ["cumberland-county","springhill","amherst","debert","parrsboro"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg", alt: "{SERVICE_CATEGORY} in Oxford, Nova Scotia — Oxford, Chignecto Nova Scotia — farm-country town in Cumberland County's inland agriculture and forestry belt" },
+  },
+  {
+    slug: "lower-economy",
+    name: "Lower Economy",
+    region: "chignecto",
+    city: "Lower Economy",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 45.40129, lng: -63.98589 },
+    tier: 3,
+    shortDescription: `For {SERVICE} in Lower Economy, {COMPANY_NAME} works this remote stretch of Bay of Fundy shore, about 24 kilometres from the nearest built-up community at Cambridge and roughly 90 from Halifax. We match every material and schedule to coastal wind and moisture, so rural jobs hold up through full Maritime seasons. Call {PHONE}.`,
+    fullDescription: `Lower Economy is a small Bay of Fundy shore community in the Chignecto region of Nova Scotia, with an estimated population of about 1,111. It sits in rural, farm-and-forest country roughly 90 kilometres from Halifax and more than 300 kilometres from Sydney, which makes it one of the quieter, more remote addresses in the region. {COMPANY_NAME} provides {SERVICE} here and across the surrounding Chignecto communities, reaching properties from the shoreline to the back roads inland.
+
+What sets Lower Economy apart is how far it sits from everything else. The nearest built-up community, Cambridge, is 24 kilometres away, and other neighbours are farther still — Parrsboro at about 27 kilometres and Springhill at roughly 28. For a {BUSINESS_TYPE}, that means travel and scheduling have to be planned around a genuinely rural service area rather than a compact town grid. Distance here is a fact of daily life, not an excuse. {COMPANY_NAME} builds that travel into every job, so a property on the Fundy shore gets the same {RESPONSE_TIME} response and {ESTIMATE_TYPE} estimate as work in a larger centre.
+
+## {SERVICE} built for Fundy-shore weather
+
+The coastal setting shapes the work. Powerful tides and open Maritime weather move off the Bay of Fundy, and wind and moisture reach shore properties around Lower Economy with more force than inland Nova Scotia sees. The region carries a true coastal Maritime climate, and buildings near the water feel it in every season. {COMPANY_NAME} plans each {SERVICE} project around those conditions, choosing materials and timing that hold up through full Maritime seasons instead of needing early repairs. Getting that right is the difference between work that lasts and work that has to be redone in a few years.
+
+The wider Chignecto economy runs on agriculture and forestry, and that shows in the way people live out here. Around Lower Economy you find farm properties and modest family homes rather than dense subdivisions — the kind of building stock that rewards a {BUSINESS_TYPE} who understands older rural construction and open, weather-exposed sites. Those homes need different care than a sheltered in-town build, and knowing that up front keeps a project on budget. Our {SERVICE_LIST} covers each of them, and {UNIQUE_VALUE_PROP}.
+
+Whether your property sits right on the Bay of Fundy shore or back along the rural roads toward Cambridge, {COMPANY_NAME} serves Lower Economy with {YEARS_IN_BUSINESS} years of experience and a {RATING} rating. We treat a remote Fundy-shore address the same way we would a job in the busiest part of the county — with a clear plan, honest pricing, and materials matched to the coast. {CTA_PRIMARY} today for a {ESTIMATE_TYPE} estimate on your {PROJECT_TYPE}.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Lower Economy","{SERVICE} near me Lower Economy","{BUSINESS_TYPE} Lower Economy Nova Scotia","{SERVICE} Bay of Fundy shore Chignecto","{SERVICE} Cambridge NS area"],
+    faqs: [
+      { question: `Does {COMPANY_NAME} provide {SERVICE} in Lower Economy?`, answer: `Yes. {COMPANY_NAME} serves Lower Economy and the surrounding Bay of Fundy shore in the Chignecto region, along with nearby communities like Cambridge, 24 kilometres away, and Parrsboro. Town, farm, or shoreline property, we cover the rural service area around Lower Economy and provide a {ESTIMATE_TYPE} estimate on every job.` },
+      { question: `How does Lower Economy's remote location affect getting {SERVICE}?`, answer: `Lower Economy is one of the more isolated addresses in Chignecto — the nearest built-up community, Cambridge, is 24 kilometres off, and Halifax is nearly 90. {COMPANY_NAME} plans travel into every schedule, so distance never means slower service or a higher {PRICE_RANGE} than comparable in-town work would carry.` },
+      { question: `Does Bay of Fundy weather affect {SERVICE} in Lower Economy?`, answer: `Yes. Wind and moisture off the Bay of Fundy reach shore properties around Lower Economy with more force than inland Nova Scotia sees. We factor that exposure into every {SERVICE} job — material choice and timing both — so the work holds up through full Maritime seasons instead of needing early repairs.` },
+      { question: `What does {SERVICE} cost in Lower Economy?`, answer: `Pricing depends on your property and the scope of work, and our {PRICE_RANGE} reflects the {SERVICE_CATEGORY} you need. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate up front for every Lower Economy project, so you see the full cost before any work begins — no surprises on a rural Fundy-shore job.` },
+      { question: `Why choose {COMPANY_NAME} for {SERVICE} in Lower Economy?`, answer: `With {YEARS_IN_BUSINESS} years in business and a {RATING} rating, {COMPANY_NAME} knows how Fundy-shore weather and rural distance shape work around Lower Economy. We respond within {RESPONSE_TIME} and stand behind every job with {CERTIFICATIONS}. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["cambridge","parrsboro","springhill","cumberland-county","oxford"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg", alt: "{SERVICE_CATEGORY} in Lower Economy, Nova Scotia — Lower Economy, Chignecto Nova Scotia — a small Bay of Fundy shore community roughly 90 km from Halifax and 24 km from its nearest built-up neighbour" },
   },
   {
     slug: "parrsboro",
@@ -3813,6 +4024,40 @@ North End owners expect skilled, respectful work on homes that matter to them, a
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in North End Halifax, Nova Scotia — North End Halifax, Halifax Metro Nova Scotia — a peninsula neighbourhood beside the Hydrostone district north of downtown" },
   },
   {
+    slug: "port-wallace",
+    name: "Port Wallace",
+    region: "halifax-metro",
+    city: "Port Wallace",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 44.69882, lng: -63.54767 },
+    tier: 2,
+    shortDescription: `For {SERVICE} in Port Wallace, {COMPANY_NAME} works the Dartmouth side of Halifax Metro daily, just 2 km from Burnside Industrial Park and 6 km from downtown Halifax. Crews know the community's lake-country streets and Maritime weather, and bring {ESTIMATE_TYPE} estimates with {RESPONSE_TIME} response. Call {PHONE}.`,
+    fullDescription: `Port Wallace sits just 2 km from Burnside Industrial Park, the largest in Atlantic Canada, on the Dartmouth side of Halifax Metro in Nova Scotia. That position shapes daily life here: an estimated population of about 6,963 (GeoNames) lives within easy reach of the region's biggest cluster of warehouses, trades, and offices, yet the community keeps a quiet, lake-country feel. Downtown Halifax is only about 6 km away, while Sydney and Cape Breton lie some 307 km up the province. For {SERVICE}, that mix of industry next door and suburban homes on the doorstep sets the tone for the work {COMPANY_NAME} does here.
+
+Port Wallace lies at the top of Dartmouth's chain of lakes, in the part of Halifax Metro that earned Dartmouth its name as the City of Lakes. Its nearest built-up neighbours ring the community: Mic Mac about 2 km off, North Dartmouth around 2.3 km, and Shannon Park near the harbour at 2.7 km. This is inland ground threaded with lakes and short runs to the Bedford Basin and harbour, so access for crews and equipment is straightforward and travel between jobs stays short.
+
+## Weather and building stock
+The weather is coastal Maritime, even a few kilometres back from open water. Conditions roll in off the Atlantic and Halifax Harbour, bringing damp winters, wind, and fast-changing skies that any {SERVICE} plan has to respect. {COMPANY_NAME} builds that Maritime pattern into every schedule so a {PROJECT_TYPE} holds its timeline. The homes here run to the family-oriented suburban stock typical of the metro's newer residential pockets, which calls for {SERVICE_DESCRIPTION} matched to that housing.
+
+Local knowledge counts on this side of the harbour. Because Port Wallace threads between Burnside's commercial corridor and quiet lake shores, a crew that knows the community can route around industrial traffic and still reach a job on the water side quickly. {COMPANY_NAME} plans each visit around that layout, matching {SERVICE_LIST} to whichever part of Port Wallace a property sits in — homes near the lakes, or lots closer to the park. Access to the Bedford Basin and harbour stays short in every direction, which keeps {SUBSERVICE_1} and larger jobs on schedule.
+
+Halifax Metro anchors Atlantic Canada's largest economy — the port, shipbuilding, the military, universities, healthcare, and the Burnside park right next door — and it is one of the fastest-growing metros in Canada. Steady growth means steady demand for {SERVICE_CATEGORY} work, and property owners here expect it done right. Whether the job is {SUBSERVICE_1} or a full {PROJECT_TYPE}, {COMPANY_NAME} brings {SERVICE_LIST} to Port Wallace.
+
+{COMPANY_NAME} has served {PROPERTY_TYPE} owners for {YEARS_IN_BUSINESS} years, holds a {RATING} rating, and carries {CERTIFICATIONS}. {UNIQUE_VALUE_PROP} With {ESTIMATE_TYPE} estimates, {RESPONSE_TIME} response, and {AVAILABILITY} scheduling, {CTA_PRIMARY} today.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Port Wallace","{SERVICE} near me Port Wallace","{BUSINESS_TYPE} Port Wallace Nova Scotia","{SERVICE} near Burnside Dartmouth","{SERVICE} Dartmouth lakes"],
+    faqs: [
+      { question: `Do you provide {SERVICE} throughout Port Wallace?`, answer: `Yes. {COMPANY_NAME} covers all of Port Wallace, from the streets nearest Burnside Industrial Park to the homes along the Dartmouth lakes. Only about 6 km from downtown Halifax, the community sits well within our core service area, and {RESPONSE_TIME} response applies right across it.` },
+      { question: `Does the Burnside and Dartmouth-lakes setting affect {SERVICE} in Port Wallace?`, answer: `It does. Port Wallace sits 2 km from Burnside, the largest industrial park in Atlantic Canada, and at the head of Dartmouth's lakes, so jobs mix busy-corridor access with near-water lots. {COMPANY_NAME} plans each {SERVICE} job around both, from traffic timing to lakeside moisture.` },
+      { question: `How quickly can you reach Port Wallace?`, answer: `Fast. From the Dartmouth side of Halifax Metro, {COMPANY_NAME} reaches Port Wallace within {RESPONSE_TIME}, helped by its spot just 6 km from downtown Halifax and beside the Burnside road network. Neighbouring Mic Mac, North Dartmouth, and Shannon Park all sit within about 3 km.` },
+      { question: `How much does {SERVICE} cost in Port Wallace?`, answer: `Pricing depends on your property and scope, so {COMPANY_NAME} gives {ESTIMATE_TYPE} estimates before any work starts. Port Wallace runs from suburban homes to near-industrial lots by Burnside, and quotes reflect that range. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, we price it straight. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["burnside","mic-mac","north-dartmouth","shannon-park"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Port Wallace, Nova Scotia — Port Wallace, Halifax Metro Nova Scotia — a Dartmouth-side community at the top of the lakes, 2 km from Burnside and 6 km from downtown Halifax" },
+  },
+  {
     slug: "middle-sackville",
     name: "Middle Sackville",
     region: "halifax-metro",
@@ -3881,7 +4126,7 @@ Beaver Bank's housing leans toward family-oriented residential suburbs, the kind
       { question: `How quickly can you reach Beaver Bank?`, answer: `{COMPANY_NAME} responds within {RESPONSE_TIME} across Beaver Bank. The community sits just 2.6 kilometres from Middle Sackville and 17.4 kilometres from downtown Halifax, so our crews reach the Sackville corridor quickly, and emergency {SERVICE} calls get same-day priority whenever possible.` },
       { question: `Why choose {COMPANY_NAME} for {SERVICE} in Beaver Bank?`, answer: `Beaver Bank homeowners choose {COMPANY_NAME} for {YEARS_IN_BUSINESS} years of Maritime experience, a {RATING} rating, and {SERVICE} tuned to this growing community's coastal climate and family homes. {UNIQUE_VALUE_PROP} We treat your property like our own. Call {PHONE}.` }
     ],
-    nearestCommunities: ["middle-sackville","lower-sackville","upper-sackville","lucasville","bedford"],
+    nearestCommunities: ["middle-sackville","lower-sackville","upper-sackville","lucasville","bedford","windsor-junction"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Beaver Bank, Nova Scotia — Beaver Bank, Halifax Metro Nova Scotia — a growing inland suburb along the Sackville corridor, 17.4 km northwest of downtown Halifax" },
   },
   {
@@ -4700,6 +4945,40 @@ For {SERVICE} in Beechville, {COMPANY_NAME} pairs that proximity with real local
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Beechville, Nova Scotia — Beechville, Halifax Metro Nova Scotia — a western-edge community 6 kilometres from downtown Halifax and 1.4 km from Timberlea" },
   },
   {
+    slug: "kearney-lake",
+    name: "Kearney Lake",
+    region: "halifax-metro",
+    city: "Kearney Lake",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 44.68695, lng: -63.68498 },
+    tier: 2,
+    shortDescription: `For {SERVICE} in Kearney Lake, {COMPANY_NAME} works this lakeside community on Halifax's mainland, about 9.7 km from downtown near the Larry Uteck corridor. Crews plan around near-water conditions and coastal weather, and bring {ESTIMATE_TYPE} estimates with {RESPONSE_TIME} response. Call {PHONE}.`,
+    fullDescription: `Kearney Lake takes its name from the lake at its centre, a freshwater setting on the northern edge of Halifax's mainland in Halifax Metro, Nova Scotia. About 9.7 km from downtown Halifax, the community sits where the metro's dense western suburbs give way to lake and woodland. An estimated population of about 3,220 (GeoNames) lives around the water, close to the fast-growing Larry Uteck corridor and the older Bedford Highway communities along the basin. For {SERVICE}, a lakeside setting and mixed housing shape what {COMPANY_NAME} does here.
+
+The lake gives the community its identity and its layout — homes and roads bend around the shoreline rather than a grid. Sherwood Heights is the nearest built-up neighbour at about 1.9 km, with the Larry Uteck growth area roughly 2.5 km off and Clayton Park West around 3.3 km. Princes Lodge, on the Bedford Highway beside the Bedford Basin, lies about 4.4 km away, tying Kearney Lake to the shore road into Halifax and keeping access open in several directions.
+
+## Lakeside weather and property
+Waterfront and near-water property brings its own conditions. Coastal Maritime weather off Halifax Harbour reaches inland to the lakes here — damp winters, wind, and fast-changing skies — and lakeside lots add moisture and shoreline exposure on top. {COMPANY_NAME} plans every {SERVICE} job around that, so a {PROJECT_TYPE} stays on schedule. The building stock runs to newer suburban and lakeside homes, which calls for {SERVICE_DESCRIPTION} matched to modern residential construction.
+
+The setting rewards a crew that plans ahead. Roads here follow the shoreline and the contours around the lake rather than a simple grid, so reaching a property and staging equipment takes local know-how. {COMPANY_NAME} routes around the water and the newer Larry Uteck streets to keep a {PROJECT_TYPE} moving, matching {SERVICE_LIST} to lakeside and suburban lots alike. With the Bedford Highway and the basin shore close by at Princes Lodge, access into Halifax stays open even when the inland roads are busy.
+
+Halifax Metro anchors Atlantic Canada's largest economy — the port, shipbuilding, the military, universities, and healthcare — and ranks among the fastest-growing metros in Canada. The growth is visible right here, where the Larry Uteck area keeps adding homes, and it keeps demand for {SERVICE_CATEGORY} work steady. From {SUBSERVICE_1} to a full {PROJECT_TYPE}, {COMPANY_NAME} brings {SERVICE_LIST} to Kearney Lake.
+
+{COMPANY_NAME} has served {PROPERTY_TYPE} owners for {YEARS_IN_BUSINESS} years, holds a {RATING} rating, and carries {CERTIFICATIONS}. {UNIQUE_VALUE_PROP} With {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response, {CTA_PRIMARY} today.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Kearney Lake","{SERVICE} near me Kearney Lake","{BUSINESS_TYPE} Kearney Lake Nova Scotia","{SERVICE} near Larry Uteck Halifax","{SERVICE} lakeside homes Halifax"],
+    faqs: [
+      { question: `Do you provide {SERVICE} throughout Kearney Lake?`, answer: `Yes. {COMPANY_NAME} covers all of Kearney Lake, from the lakeside lots to the streets toward Sherwood Heights and the Larry Uteck corridor. About 9.7 km from downtown Halifax, the community sits within our core service area, and {RESPONSE_TIME} response applies across it.` },
+      { question: `Does the lakeside setting affect {SERVICE} in Kearney Lake?`, answer: `It does. Homes here wrap around Kearney Lake, so near-water lots carry extra moisture and shoreline exposure on top of the coastal Maritime weather off Halifax Harbour. {COMPANY_NAME} plans each {SERVICE} job around drainage, damp, and lakeside access so the work holds up.` },
+      { question: `How quickly can you reach Kearney Lake?`, answer: `Quickly. From the western side of Halifax Metro, {COMPANY_NAME} reaches Kearney Lake within {RESPONSE_TIME}, about 9.7 km from downtown. Sherwood Heights sits 1.9 km off and the Larry Uteck corridor about 2.5 km away, so crews move between nearby jobs without long travel.` },
+      { question: `How much does {SERVICE} cost in Kearney Lake?`, answer: `Pricing depends on your property and scope, so {COMPANY_NAME} gives {ESTIMATE_TYPE} estimates before any work starts. Kearney Lake mixes newer suburban and lakeside homes, and quotes reflect that. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, we price it straight. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["larry-uteck","clayton-park-west","princes-lodge"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Kearney Lake, Nova Scotia — Kearney Lake, Halifax Metro Nova Scotia — a lakeside community on Halifax's mainland, about 9.7 km from downtown" },
+  },
+  {
     slug: "stillwater-lake",
     name: "Stillwater Lake",
     region: "halifax-metro",
@@ -4736,6 +5015,40 @@ For {SERVICE} in Stillwater Lake, {COMPANY_NAME} pairs knowledge of the Hammonds
     ],
     nearestCommunities: ["hammonds-plains","upper-tantallon","tantallon","hubley","lewis-lake"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Stillwater Lake, Nova Scotia — Stillwater Lake, Halifax Metro Nova Scotia — a suburban community in the corridor between Hammonds Plains and Tantallon, 17 km west of Halifax" },
+  },
+  {
+    slug: "preston",
+    name: "Preston",
+    region: "halifax-metro",
+    city: "Preston",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 44.71569, lng: -63.43423 },
+    tier: 3,
+    shortDescription: `For {SERVICE} in Preston, {COMPANY_NAME} serves this lake-country community east of Dartmouth, about 13.4 km from downtown Halifax near Lake Loon and East Preston. Crews plan around rural distances and Maritime weather, bringing {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response. Call {PHONE}.`,
+    fullDescription: `Preston anchors a cluster of lake-country communities east of Dartmouth in Halifax Metro, Nova Scotia. About 13.4 km from downtown Halifax, it sits inland among lakes and woods, ringed by East Preston, North Preston, and Cherry Brook. An estimated population of about 3,223 (GeoNames) lives across this rural-edge community, where the metro thins into forest and freshwater. For {SERVICE}, that inland, spread-out setting shapes how {COMPANY_NAME} plans and reaches the work.
+
+Water defines the area. Lake Loon sits just 0.7 km away — the nearest built-up point — with East Preston about 1.3 km off, North Preston around 2.1 km, and Cherry Brook near 2.8 km. Lake Echo lies farther out at about 4.6 km. These are neighbouring communities strung along lake shores and connecting roads east of the city, so travel here runs on rural distances rather than tight suburban blocks, and {COMPANY_NAME} schedules with that in mind.
+
+## Inland Maritime weather
+The weather is still coastal Maritime, carried inland off Halifax Harbour and the Atlantic — wet winters, wind, and quick shifts — but the lakes add their own moisture and the tree cover adds debris and shade. Any {SERVICE} plan has to account for both, and {COMPANY_NAME} builds that into every {PROJECT_TYPE}. The property here runs to larger rural and semi-rural lots rather than dense subdivisions, which calls for {SERVICE_DESCRIPTION} suited to that kind of ground.
+
+Distance is the defining factor for the work here. With homes spread along lake roads rather than packed into blocks, reaching a property, staging equipment, and clearing tree cover all take longer than in the inner suburbs. {COMPANY_NAME} plans routes across the Preston-area communities so a job in Preston, near Lake Loon, or over toward Cherry Brook can be grouped and handled efficiently. Matching {SERVICE_LIST} to large rural lots — with their long driveways, wells, and wooded edges — is a different task than servicing a tight subdivision, and the crew comes prepared for it. That preparation is what keeps a rural Preston job running as smoothly as one in the inner metro.
+
+Halifax Metro anchors Atlantic Canada's largest economy — the port, shipbuilding, the military, universities, and healthcare — and is one of the fastest-growing metros in Canada. Even out at the eastern edge, that growth keeps demand for {SERVICE_CATEGORY} work steady. From {SUBSERVICE_1} to a full {PROJECT_TYPE}, {COMPANY_NAME} brings {SERVICE_LIST} to Preston.
+
+{COMPANY_NAME} has served {PROPERTY_TYPE} owners for {YEARS_IN_BUSINESS} years, holds a {RATING} rating, and carries {CERTIFICATIONS}. {UNIQUE_VALUE_PROP} With {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response, {CTA_PRIMARY} today.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Preston","{SERVICE} near me Preston","{BUSINESS_TYPE} Preston Nova Scotia","{SERVICE} near East Preston","{SERVICE} Lake Loon area"],
+    faqs: [
+      { question: `Do you provide {SERVICE} throughout Preston?`, answer: `Yes. {COMPANY_NAME} covers all of Preston, from the lots near Lake Loon to the roads toward East Preston and Cherry Brook. About 13.4 km east of downtown Halifax, the community is within our service area, and we schedule {RESPONSE_TIME} response with the rural distances in mind.` },
+      { question: `Does the rural lake-country setting affect {SERVICE} in Preston?`, answer: `It does. Preston sits inland among lakes and woods east of Dartmouth, on larger, spread-out lots, so tree cover, shade, and lakeside moisture all come into play. {COMPANY_NAME} plans each {SERVICE} job around that ground and the longer runs between properties here.` },
+      { question: `How quickly can you reach Preston?`, answer: `{COMPANY_NAME} reaches Preston within {RESPONSE_TIME}, planning routes around its position about 13.4 km east of downtown Halifax. Neighbouring Lake Loon sits 0.7 km off, East Preston 1.3 km, and North Preston about 2.1 km, so nearby jobs are grouped to keep travel efficient.` },
+      { question: `How much does {SERVICE} cost in Preston?`, answer: `Pricing depends on your property and scope, so {COMPANY_NAME} gives {ESTIMATE_TYPE} estimates before work begins. Preston's larger rural lots differ from dense suburbs, and quotes reflect that. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, we price it straight. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["lake-loon","east-preston","north-preston","cherry-brook","lake-echo"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Preston, Nova Scotia — Preston, Halifax Metro Nova Scotia — inland lake country east of Dartmouth, ringed by East and North Preston and Lake Loon" },
   },
   {
     slug: "lucasville",
@@ -4808,7 +5121,7 @@ Its neighbours run in both directions — Enfield (EH) and Elmsdale into Central
       { question: `How quickly can {COMPANY_NAME} reach Enfield?`, answer: `Because Enfield sits about 32 kilometres from Halifax, {COMPANY_NAME} schedules it with travel time in mind while still targeting {RESPONSE_TIME} response. Its position near Lantz, Oakfield, and Elmsdale lets us combine visits, and we prioritize same-day service for emergencies whenever possible.` },
       { question: `Why do Enfield homeowners choose {COMPANY_NAME}?`, answer: `Enfield residents choose {COMPANY_NAME} because we reach the metro's northern edge as reliably as its core, backed by {YEARS_IN_BUSINESS} years of experience and a {RATING} rating. We pair boundary-community knowledge with {UNIQUE_VALUE_PROP} guaranteed workmanship on every project, big or small. Call {PHONE}.` }
     ],
-    nearestCommunities: ["enfield-eh","elmsdale","lantz","oakfield","milford"],
+    nearestCommunities: ["elmsdale","lantz","oakfield","milford"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Enfield, Nova Scotia — Enfield, Halifax Metro Nova Scotia — a crossroads community on the region's northern boundary with Central Nova Scotia, 32 km from Halifax" },
   },
   {
@@ -5317,7 +5630,7 @@ If you own property in Larry Uteck, you are 8.8 km from downtown Halifax and one
       { question: `What does {SERVICE} cost in Larry Uteck?`, answer: `Cost depends on your property and scope, so {COMPANY_NAME} starts with a {ESTIMATE_TYPE} estimate — no obligation, no hidden fees. Quotes fall within a clear {PRICE_RANGE}, and we put pricing in writing before work begins so a Larry Uteck project never drifts beyond what you approved.` },
       { question: `How fast can you get a crew to Larry Uteck?`, answer: `Within {RESPONSE_TIME} for most requests. Because {COMPANY_NAME} already runs jobs through Clayton Park West and Bedford, a Larry Uteck address is minutes off an existing route rather than a special trip. Urgent {SERVICE} problems get priority scheduling whenever the day allows. Call {PHONE}.` }
     ],
-    nearestCommunities: ["princes-lodge","admirals-cove","millview","clayton-park-west","bedford"],
+    nearestCommunities: ["princes-lodge","admirals-cove","millview","clayton-park-west","bedford","kearney-lake"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Larry Uteck, Nova Scotia — Larry Uteck, Halifax Metro Nova Scotia — northwest Halifax neighbourhood in the corridor between the urban core and Bedford" },
   },
   {
@@ -5422,6 +5735,40 @@ Brookside ranks 72nd by population among the 130 Halifax Metro communities in th
     ],
     nearestCommunities: ["goodwood","timberlea","hatchet-lake","lakeside","leiblin-park"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Brookside, Nova Scotia — Brookside, Halifax Metro Nova Scotia — southwest lake-country community just 8 km from downtown Halifax" },
+  },
+  {
+    slug: "upper-hammonds-plains",
+    name: "Upper Hammonds Plains",
+    region: "halifax-metro",
+    city: "Upper Hammonds Plains",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 44.75448, lng: -63.84165 },
+    tier: 3,
+    shortDescription: `For {SERVICE} in Upper Hammonds Plains, {COMPANY_NAME} reaches this rural community about 24.1 km from downtown Halifax, out toward St. Margarets Bay. Crews plan around real travel time, wooded lots, and Maritime weather, bringing {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response. Call {PHONE}.`,
+    fullDescription: `Upper Hammonds Plains is the most rural community in this group, about 24.1 km from downtown Halifax in the wooded country of Halifax Metro, Nova Scotia. Its nearest built-up neighbour, Hammonds Plains, lies 7.8 km away — the widest gap to a neighbour anywhere in this batch — so the community sits well back in forest and lake land toward St. Margarets Bay. An estimated population of about 1,840 (GeoNames) lives across these spread-out rural lots. For {SERVICE}, that distance and rural setting shape everything {COMPANY_NAME} plans here.
+
+The surrounding places sit far apart by metro standards. Beyond Hammonds Plains at 7.8 km, Stillwater Lake is about 9.2 km off, Upper Tantallon around 9.5 km, and Springfield Lake near 10.1 km. Tantallon, toward the head of St. Margarets Bay, lies about 10.8 km away. These distances mean {COMPANY_NAME} schedules with real travel time in mind, grouping work and planning routes so a {PROJECT_TYPE} in Upper Hammonds Plains still gets full attention.
+
+## Rural weather and property
+Weather reaches inland off the Atlantic and St. Margarets Bay — wet winters, wind, and fast changes — and heavy tree cover adds debris, shade, and moisture on rural lots. Any {SERVICE} plan has to account for both, and {COMPANY_NAME} builds that into every {PROJECT_TYPE}. The property here runs to large rural and wooded lots rather than tight subdivisions, which calls for {SERVICE_DESCRIPTION} suited to that kind of ground and access.
+
+Out here, preparation is everything. Rural lots mean long driveways, private wells and septic systems, and heavy tree cover, so a crew has to arrive equipped for conditions that inner-suburb jobs never see. {COMPANY_NAME} plans each visit to Upper Hammonds Plains around that access and the real drive time, grouping work with jobs in Hammonds Plains or out toward Tantallon so the trip stays efficient. Matching {SERVICE_LIST} to large wooded properties is a distinct task, and the crew comes ready for it.
+
+Halifax Metro anchors Atlantic Canada's largest economy — the port, shipbuilding, the military, universities, and healthcare — and is one of the fastest-growing metros in Canada, with growth pushing out into rural communities like this one. That keeps demand for {SERVICE_CATEGORY} work steady even at the edge. From {SUBSERVICE_1} to a full {PROJECT_TYPE}, {COMPANY_NAME} brings {SERVICE_LIST} to Upper Hammonds Plains.
+
+{COMPANY_NAME} has served {PROPERTY_TYPE} owners for {YEARS_IN_BUSINESS} years, holds a {RATING} rating, and carries {CERTIFICATIONS}. {UNIQUE_VALUE_PROP} With {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response, {CTA_PRIMARY} today.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Upper Hammonds Plains","{SERVICE} near me Upper Hammonds Plains","{BUSINESS_TYPE} Upper Hammonds Plains Nova Scotia","{SERVICE} near Hammonds Plains","{SERVICE} St. Margarets Bay area"],
+    faqs: [
+      { question: `Do you provide {SERVICE} throughout Upper Hammonds Plains?`, answer: `Yes. {COMPANY_NAME} covers all of Upper Hammonds Plains, from lots near Hammonds Plains out toward St. Margarets Bay. It is the most rural community in this group, about 24.1 km from downtown Halifax, so we plan {RESPONSE_TIME} response with its travel distances in mind.` },
+      { question: `Does the rural, wooded setting affect {SERVICE} in Upper Hammonds Plains?`, answer: `It does. The community sits on large, wooded lots well back from the metro core, its nearest neighbour 7.8 km off, so tree cover, debris, and long driveways all matter. {COMPANY_NAME} plans each {SERVICE} job around that ground and the access rural properties here demand.` },
+      { question: `How quickly can you reach Upper Hammonds Plains?`, answer: `{COMPANY_NAME} reaches Upper Hammonds Plains within a scheduled window that accounts for its distance — about 24.1 km from downtown Halifax and 7.8 km from Hammonds Plains. We group rural jobs and plan routes so the community still gets prompt, {RESPONSE_TIME}-focused service despite the drive.` },
+      { question: `How much does {SERVICE} cost in Upper Hammonds Plains?`, answer: `Pricing depends on your property and scope, so {COMPANY_NAME} gives {ESTIMATE_TYPE} estimates before any work starts. Large rural lots and travel distance can factor in, and quotes reflect that. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, we price it straight. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["hammonds-plains","stillwater-lake","upper-tantallon","springfield-lake","tantallon"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Upper Hammonds Plains, Nova Scotia — Upper Hammonds Plains, Halifax Metro Nova Scotia — rural woods and lakes 24 km from downtown Halifax toward St. Margarets Bay" },
   },
   {
     slug: "hydrostone",
@@ -5916,6 +6263,42 @@ With the city core 4 km east and five communities of neighbours around you, find
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Cowie Hill, Nova Scotia — Cowie Hill, Halifax Metro Nova Scotia — mainland Halifax neighbourhood at the centre of a five-community pocket, 4 km from downtown" },
   },
   {
+    slug: "springfield-lake",
+    name: "Springfield Lake",
+    region: "halifax-metro",
+    city: "Springfield Lake",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 44.81349, lng: -63.74456 },
+    tier: 3,
+    shortDescription: `For {SERVICE} in Springfield Lake, {COMPANY_NAME} serves this lakeside community north of Lower Sackville, about 23 kilometres from downtown Halifax. Our crews know the area's family homes and inland Maritime weather, and we cover the wider Sackville area with {RESPONSE_TIME} response and {ESTIMATE_TYPE} estimates. Call {PHONE}.`,
+    fullDescription: `Springfield Lake takes its name from the lake at its centre, a residential community in Halifax Metro, Nova Scotia, about 23 kilometres north of downtown Halifax. It sits in the wooded lake country above Lower Sackville, with an estimated population of about 1,500 people. That setting — quiet, inland, and built around water and forest — shapes what {SERVICE} looks like here.
+
+The community is part of the wider Sackville area. Upper Sackville is the nearest built-up neighbour, only about 2.5 kilometres away, with Middle Sackville around 5 kilometres off and Beaver Bank and Lower Sackville a short drive beyond. Lucasville sits close by as well. This cluster of communities north of the Bedford Basin grew as family-oriented suburbs, and Springfield Lake shares that character: mostly detached homes on larger, tree-lined lots rather than dense urban blocks. {COMPANY_NAME} matches its {SERVICE_CATEGORY} approach to this kind of low-density residential property.
+
+## Weather and Access
+
+Halifax Metro sits on Nova Scotia's Atlantic coast, and weather rolls in off the ocean. Springfield Lake lies inland, well north of the harbour, so it is a little more sheltered than the shore communities — but Maritime conditions still reach it: wet coastal storms, freeze-and-thaw winters, and humid summers. {COMPANY_NAME} builds that weather into every {SERVICE} schedule so your project timeline holds. Being about 23 kilometres from downtown Halifax, the community relies on the road network through Sackville for its links to the city, where most of the region's jobs and services sit.
+
+The economy underneath the area is Atlantic Canada's largest. The Halifax region is anchored by the port, Irving Shipbuilding, the military at CFB Halifax, universities including Dalhousie and Saint Mary's, and healthcare at the QEII Health Sciences Centre, with the Burnside Industrial Park nearby in Dartmouth. Many Springfield Lake residents commute into that economy, which keeps steady demand for {SERVICE_CATEGORY} work on local homes.
+
+Distance is part of daily life here. Springfield Lake is farther from downtown than the other communities in this group, so residents value a {BUSINESS_TYPE} who plans routes and scheduling around the drive rather than treating every job as a quick city call. Its closest links run to Upper Sackville and Middle Sackville, the everyday shopping and service points for the north-Sackville lake communities, and {COMPANY_NAME} works the surrounding roads regularly.
+
+For property owners, the practical picture is simple. Springfield Lake is a small, established lake community — one of many the region holds — where homes need the same care as any Maritime property: protection against coastal damp, seasonal swings, and hard winters. {COMPANY_NAME} has served {PROPERTY_TYPE} owners for {YEARS_IN_BUSINESS} years, holds a {RATING} rating, and offers {ESTIMATE_TYPE} estimates. {UNIQUE_VALUE_PROP} Whether your home sits near the lake itself or out toward Upper Sackville, {CTA_PRIMARY} today.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Springfield Lake","{SERVICE} near me Springfield Lake","{BUSINESS_TYPE} Springfield Lake Nova Scotia","{SERVICE} Sackville area","{SERVICE} Upper Sackville"],
+    faqs: [
+      { question: `Do you provide {SERVICE} in Springfield Lake?`, answer: `Yes. {COMPANY_NAME} covers Springfield Lake and the wider Sackville area, including Upper Sackville, Middle Sackville, Beaver Bank, and Lower Sackville. Whether your home is near the lake or along the roads toward Lucasville, {RESPONSE_TIME} response applies across this part of Halifax Metro.` },
+      { question: `Does Springfield Lake's inland lake setting affect {SERVICE}?`, answer: `It can. Springfield Lake sits in wooded lake country about 23 kilometres north of the harbour, so it is more sheltered than shore communities but still meets damp Maritime air, heavy snow, and spring freeze-thaw. {COMPANY_NAME} plans each {SERVICE} job around those inland conditions and the community's tree-lined, larger lots.` },
+      { question: `How much does {SERVICE} cost in Springfield Lake?`, answer: `Pricing depends on your property and the scope of work, so {COMPANY_NAME} gives {ESTIMATE_TYPE} estimates before anything starts. Springfield Lake's mostly detached, larger-lot homes vary widely, and your quote reflects your specific property. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, we price it straight.` },
+      { question: `How quickly can you reach Springfield Lake?`, answer: `{COMPANY_NAME} responds within {RESPONSE_TIME} to Springfield Lake. The community sits about 2.5 kilometres from Upper Sackville and roughly 23 kilometres from downtown Halifax, so our crews route through the Sackville road network to reach it and the neighbouring lake communities without delay.` },
+      { question: `Why choose {COMPANY_NAME} for {SERVICE} in Springfield Lake?`, answer: `{COMPANY_NAME} knows the Sackville area's family homes and inland Maritime weather, and treats Springfield Lake's larger-lot properties with care built for local conditions. With {YEARS_IN_BUSINESS} years in business, a {RATING} rating, and {ESTIMATE_TYPE} estimates, we make {SERVICE} straightforward here. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["upper-sackville","middle-sackville","beaver-bank","lower-sackville","lucasville"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Springfield Lake, Nova Scotia — Springfield Lake, Halifax Metro Nova Scotia — an inland lake community in the wooded country north of Lower Sackville" },
+  },
+  {
     slug: "fletchers-lake",
     name: "Fletchers Lake",
     region: "halifax-metro",
@@ -5948,6 +6331,42 @@ Every job carries the same standards: {ESTIMATE_TYPE} estimates, transparent pri
     ],
     nearestCommunities: ["goffs","fall-river","wellington","waverley","grand-lake"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Fletchers Lake, Nova Scotia — Fletchers Lake, Halifax Metro Nova Scotia — an inland lake community north of Halifax near Fall River and Waverley" },
+  },
+  {
+    slug: "windsor-junction",
+    name: "Windsor Junction",
+    region: "halifax-metro",
+    city: "Windsor Junction",
+    province: "Nova Scotia",
+    country: "Canada",
+    coordinates: { lat: 44.78938, lng: -63.64228 },
+    tier: 3,
+    shortDescription: `For {SERVICE} in Windsor Junction, {COMPANY_NAME} serves this lake-country community between Lower Sackville and Fall River, about 16.5 kilometres north of downtown Halifax. Our crews know the area's family homes and inland Maritime weather, with {RESPONSE_TIME} response and {ESTIMATE_TYPE} estimates. Call {PHONE}.`,
+    fullDescription: `A railway junction gave Windsor Junction its name, and the community sits in the lake country north of Lower Sackville, about 16.5 kilometres from downtown Halifax, in Nova Scotia's Halifax Metro region. With an estimated population of about 1,199, it lies inland among lakes and woods, between the Sackville communities to the south and Fall River to the northeast. That setting shapes what {SERVICE} looks like here.
+
+The community has close, well-established neighbours. Beaver Bank is nearest, only about 2.2 kilometres away, with Lower Sackville and Middle Sackville each under five kilometres, and Fall River and Kinsac a little farther on. Fall River is known lake country, and Windsor Junction shares that landscape of water and forest. Homes here are mostly detached, family-oriented houses on larger, wooded lots rather than dense urban blocks, and {COMPANY_NAME} matches its {SERVICE_CATEGORY} approach to that low-density residential character.
+
+## Inland Weather and Access
+
+Halifax Metro sits on Nova Scotia's Atlantic coast, but Windsor Junction lies well inland, north of the harbour among the lakes. That gives it a little more shelter than the shore communities, though Maritime conditions still reach it — heavy snow, wet storms, and spring freeze-thaw. {COMPANY_NAME} builds that weather into every {SERVICE} schedule so your project stays on track. At about 16.5 kilometres from downtown, the community links to the city through the Sackville and Fall River road network, keeping it within a reasonable commute of the urban core.
+
+The economy behind the area is Atlantic Canada's largest. The Halifax region runs on the port, Irving Shipbuilding, the military at CFB Halifax, universities such as Dalhousie and Saint Mary's, and healthcare at the QEII Health Sciences Centre. Many Windsor Junction residents commute into that economy, and steady growth across the metro keeps demand for {SERVICE_CATEGORY} work strong on homes here.
+
+Getting around the area follows the lakes. Windsor Junction connects south to the Sackville communities and northeast to Fall River, and most local trips run along those corridors rather than straight lines. For a {BUSINESS_TYPE}, that means grouping work across Beaver Bank, Kinsac, and the Fall River lakes on the same run, and {COMPANY_NAME} plans its schedule around how these lake-country roads actually connect.
+
+For property owners, the picture is straightforward. Windsor Junction is an established lake community where homes need care suited to wooded, larger-lot properties and inland Maritime weather. {COMPANY_NAME} has served {PROPERTY_TYPE} owners for {YEARS_IN_BUSINESS} years, holds a {RATING} rating, and offers {ESTIMATE_TYPE} estimates. {UNIQUE_VALUE_PROP} Whether your home sits toward Beaver Bank or out toward Fall River, {CTA_PRIMARY} today.`,
+    streets: [],
+    landmarks: [],
+    primaryKeywords: ["{SERVICE} Windsor Junction","{SERVICE} near me Windsor Junction","{BUSINESS_TYPE} Windsor Junction Nova Scotia","{SERVICE} Fall River area","{SERVICE} Beaver Bank"],
+    faqs: [
+      { question: `Do you provide {SERVICE} in Windsor Junction?`, answer: `Yes. {COMPANY_NAME} covers Windsor Junction and the surrounding lake country, including Beaver Bank, Lower Sackville, Middle Sackville, and Fall River. Wherever your home sits between Sackville and the Fall River lakes, {RESPONSE_TIME} response applies across this part of Halifax Metro.` },
+      { question: `Does Windsor Junction's inland lake setting affect {SERVICE}?`, answer: `It can. Windsor Junction sits inland among lakes and woods, about 16.5 kilometres from the harbour, so it gets heavy snow, wet storms, and spring freeze-thaw rather than direct salt spray. {COMPANY_NAME} plans each {SERVICE} job around those inland conditions and the community's wooded, larger-lot homes.` },
+      { question: `How much does {SERVICE} cost in Windsor Junction?`, answer: `Pricing depends on your property and scope, so {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates before work begins. Windsor Junction's detached, larger-lot homes vary in size and condition, and your quote reflects your specific property. With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, we price it straight.` },
+      { question: `How quickly can you reach Windsor Junction?`, answer: `{COMPANY_NAME} responds within {RESPONSE_TIME} to Windsor Junction. The community sits about 2.2 kilometres from Beaver Bank and roughly 16.5 kilometres from downtown Halifax, so our crews route through the Sackville and Fall River roads to reach it and its neighbours promptly.` },
+      { question: `Why choose {COMPANY_NAME} for {SERVICE} in Windsor Junction?`, answer: `{COMPANY_NAME} knows the lake country between Sackville and Fall River, and treats Windsor Junction's wooded, larger-lot homes with care built for inland Maritime weather. With {YEARS_IN_BUSINESS} years in business, a {RATING} rating, and {ESTIMATE_TYPE} estimates, {SERVICE} is straightforward here. Call {PHONE}.` }
+    ],
+    nearestCommunities: ["beaver-bank","lower-sackville","middle-sackville","fall-river","kinsac"],
+    heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Windsor Junction, Nova Scotia — Windsor Junction, Halifax Metro Nova Scotia — a railway-named community in the inland lake country between Sackville and Fall River" },
   },
   {
     slug: "point-pleasant",
@@ -6467,7 +6886,7 @@ Burnside ranks 79th by population among the 130 Halifax Metro communities we pub
       { question: `How fast can you respond to a Burnside call?`, answer: `Typically within {RESPONSE_TIME}. Burnside is 4.6 km from downtown Halifax and 0.6 km from North Dartmouth, and {COMPANY_NAME} crews already work this corridor daily, so travel time is minimal. Urgent {SERVICE} situations — especially ones that stop a business from operating — get priority same-day attention whenever possible.` },
       { question: `Why do Burnside property owners choose {COMPANY_NAME}?`, answer: `Because this district runs on schedules, and {COMPANY_NAME} keeps them. {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, {CERTIFICATIONS}, and pricing that is itemized before work begins. {UNIQUE_VALUE_PROP} Book your {ESTIMATE_TYPE} estimate for any Burnside property. Call {PHONE}.` }
     ],
-    nearestCommunities: ["north-dartmouth","shannon-park","mic-mac","albro-lake","dartmouth"],
+    nearestCommunities: ["north-dartmouth","shannon-park","mic-mac","albro-lake","dartmouth","port-wallace"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Burnside, Nova Scotia — Burnside, Halifax Metro Nova Scotia — neighbourhood sharing its name with Atlantic Canada's largest industrial park, 4.6 km from downtown Halifax" },
   },
   {
@@ -6773,7 +7192,7 @@ Whether your property is in Lake Loon, a few minutes over in East Preston or Che
       { question: `How quickly do you respond to Lake Loon calls?`, answer: `Within {RESPONSE_TIME} as standard. Because {COMPANY_NAME} serves the whole eastern cluster — East Preston, North Preston, Cherry Brook — crews are already nearby on most working days, making same-day attention realistic for urgent {SERVICE} situations. Planned projects book flexibly with {AVAILABILITY} scheduling.` },
       { question: `Why is {COMPANY_NAME} the right {BUSINESS_TYPE} for Lake Loon?`, answer: `Because small eastern communities deserve first-tier service, and we deliver it: {YEARS_IN_BUSINESS} years of experience, {CERTIFICATIONS}, a {RATING} rating, and workmanship guaranteed on every property type. {UNIQUE_VALUE_PROP} Book your {ESTIMATE_TYPE} estimate today. Call {PHONE}.` }
     ],
-    nearestCommunities: ["east-preston","north-preston","cherry-brook","lake-echo","montague-gold-mines"],
+    nearestCommunities: ["east-preston","north-preston","cherry-brook","lake-echo","montague-gold-mines","preston"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Lake Loon, Nova Scotia — Lake Loon, Halifax Metro Nova Scotia — eastern community 0.8 km from East Preston, 13.3 km from downtown Halifax" },
   },
   {
@@ -7161,7 +7580,7 @@ Regional building stock ranges from Halifax's 275-year-old maritime core to newe
       { question: `How is {SERVICE} priced in Lantz?`, answer: `By scope, not postal code. {COMPANY_NAME} provides a {ESTIMATE_TYPE} estimate for every Lantz project, with transparent, upfront pricing and no hidden fees. Because the northern corridor is on our regular routes, the 37.1 km from downtown Halifax adds nothing extra to your quote.` },
       { question: `Why pick {COMPANY_NAME} for {SERVICE} in Lantz?`, answer: `Because we treat boundary communities as regulars, not exceptions. {COMPANY_NAME} brings {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, {CERTIFICATIONS}, and {UNIQUE_VALUE_PROP} — with routing that already covers Enfield and the Milford-Elmsdale side, response in Lantz stays fast. Call {PHONE}.` }
     ],
-    nearestCommunities: ["milford","enfield","elmsdale","enfield-eh","oakfield"],
+    nearestCommunities: ["milford","enfield","elmsdale","oakfield"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Lantz, Nova Scotia — Lantz, Halifax Metro Nova Scotia — northern-corridor community where the region meets Central Nova Scotia near Enfield" },
   },
   {
@@ -7504,7 +7923,7 @@ For Oakfield, {COMPANY_NAME} brings the standards you would expect in the city w
       { question: `How quickly can you reach Oakfield?`, answer: `{COMPANY_NAME} typically responds within {RESPONSE_TIME}. Oakfield sits about 25 kilometres north of Halifax on the highway side of the region, so crews reach it without a long coastal drive, and nearby Grand Lake and the Enfield area fall on the same route. For urgent {SERVICE} needs, we prioritize same-day service whenever possible.` },
       { question: `Why do Oakfield homeowners choose {COMPANY_NAME}?`, answer: `Oakfield property owners choose {COMPANY_NAME} because we combine professional-grade {SERVICE} with real knowledge of the region's inland lake country near Grand Lake. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and guaranteed workmanship, we give a 500-person community the same care as the city. Call {PHONE}.` }
     ],
-    nearestCommunities: ["grand-lake","wellington","enfield","enfield-eh","goffs"],
+    nearestCommunities: ["grand-lake","wellington","enfield","goffs"],
     heroImage: { url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg", alt: "{SERVICE_CATEGORY} in Oakfield, Nova Scotia — Oakfield, Halifax Metro Nova Scotia — an inland lake community on Grand Lake near the Central Nova Scotia boundary" },
   },
   {

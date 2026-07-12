@@ -165,13 +165,6 @@
     "anchor": "Elmsdale, 9.7 km south within the same district"
    },
    {
-    "slug": "enfield-eh",
-    "name": "Enfield (EH)",
-    "km": 11.2,
-    "url": "/areas/enfield-eh",
-    "anchor": "Enfield, 11.2 km down the highway corridor"
-   },
-   {
     "slug": "enfield",
     "name": "Enfield",
     "km": 13,
@@ -1881,13 +1874,6 @@
   },
   "nearby_areas": [
    {
-    "slug": "enfield-eh",
-    "name": "Enfield (EH)",
-    "km": 2.4,
-    "url": "/areas/enfield-eh",
-    "anchor": "Enfield, the nearest community 2.4 km down the corridor"
-   },
-   {
     "slug": "enfield",
     "name": "Enfield",
     "km": 4.1,
@@ -2351,6 +2337,13 @@
     "km": 16,
     "url": "/areas/elmsdale",
     "anchor": "Elmsdale, about 16 km east in Central Nova Scotia's farm country"
+   },
+   {
+    "slug": "mount-uniacke",
+    "name": "Mount Uniacke",
+    "km": 8.9,
+    "url": "/areas/mount-uniacke",
+    "anchor": "Mount Uniacke, 8.9 km away"
    }
   ],
   "parent_region_link": {
@@ -2599,6 +2592,449 @@
        "@type": "GeoCoordinates",
        "latitude": 44.91,
        "longitude": -63.72
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NSX-mount-uniacke",
+  "slug": "mount-uniacke",
+  "url": "/areas/mount-uniacke",
+  "name": "Mount Uniacke",
+  "type": "Community",
+  "region": "Central Nova Scotia",
+  "region_slug": "central-nova-scotia",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 44.90015,
+   "lng": -63.83202
+  },
+  "fsa": null,
+  "population_2021": 3501,
+  "unified_score": 56.5,
+  "km_halifax": 34.5,
+  "km_sydney": 315.7,
+  "verification": "GeoNames_Pop",
+  "data_sources": "GeoNames (CC-BY); StatCan admin geography",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Central Nova Scotia",
+   "Mount Uniacke"
+  ],
+  "hero": {
+   "overline": "Mount Uniacke · Central Nova Scotia · Nova Scotia",
+   "h1": "{SERVICE} in Mount Uniacke, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Mount Uniacke, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Mount Uniacke, NS — serving this inland community 34.5 km from Halifax with {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Mount Uniacke",
+   "secondary_keywords": [
+    "{SERVICE} near me Mount Uniacke",
+    "{BUSINESS_TYPE} Mount Uniacke Nova Scotia",
+    "{SERVICE} Uniacke area",
+    "{SERVICE} near Springfield Lake"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} for rural properties Mount Uniacke",
+    "{SERVICE} Mount Uniacke near Halifax",
+    "{SERVICE} inland Central Nova Scotia Mount Uniacke",
+    "{SERVICE} Mount Uniacke close to Uniacke"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Mount Uniacke",
+    "do you offer {SERVICE} in Mount Uniacke",
+    "how fast can you reach Mount Uniacke"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Mount Uniacke",
+    "who does {SERVICE} in Mount Uniacke Nova Scotia",
+    "best {BUSINESS_TYPE} near Mount Uniacke",
+    "{SERVICE} in Mount Uniacke close to Uniacke",
+    "{SERVICE} for a rural property near Springfield Lake"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Mount Uniacke, {COMPANY_NAME} serves this inland Central Nova Scotia community of about 3,501 people, just 34.5 km from Halifax and 8.9 km from Uniacke. We bring {SERVICE_CATEGORY} work built for Maritime conditions, backed by {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+  "entity_description": "Mount Uniacke is a community in the Central Nova Scotia region of Nova Scotia, Canada, with an estimated population of about 3,501 (a GeoNames estimate, not a census count). It sits inland roughly 34.5 kilometres from Halifax and 315.7 kilometres from Sydney. Its nearest built community is Uniacke, 8.9 kilometres away, with Springfield Lake and Upper Sackville also close by. The area shares Central Nova Scotia's Maritime climate and rural, small-community character.",
+  "about_md": "Mount Uniacke sits about 34.5 kilometres from Halifax, close enough for the daily commute yet firmly part of the rural landscape of Central Nova Scotia. That inland position — on the corridor linking the province's largest city to its agricultural centre — is the first thing to understand about the community, and it shapes the {SERVICE} that makes sense here. {COMPANY_NAME} brings {SERVICE_CATEGORY} work to this stretch of the region, backed by {YEARS_IN_BUSINESS} years of experience and a {RATING} rating.\n\nWith an estimated population of about 3,501 — a GeoNames figure rather than a StatCan census count — Mount Uniacke is a substantial community by rural Central Nova Scotia standards. It anchors a cluster of nearby places: Uniacke sits just 8.9 kilometres away, Springfield Lake about 11.8 kilometres off, and Upper Sackville roughly 14.2 kilometres toward the Halifax metro edge. For a {BUSINESS_TYPE}, that means one trip can cover several communities, which is part of how we keep {RESPONSE_TIME} response realistic across this end of the region.\n\n## Weather that shapes the work\n\nWeather drives a lot of what we do. Mount Uniacke shares Nova Scotia's Maritime climate, where property owners understand that steady upkeep matters through wet, windy, and freeze-thaw conditions. {COMPANY_NAME} plans {SERVICE} around those Maritime realities — timing the job for the season and choosing an approach that holds up over the long run. {UNIQUE_VALUE_PROP}, and every job starts with a {ESTIMATE_TYPE} estimate so you know the price before we begin. Because the community is inland rather than coastal, we plan around the region's general weather without the extra exposure a shoreline property would see.\n\nThe properties here reflect the region's mix. Central Nova Scotia's economy runs on agriculture and dairy farming, and its building stock ranges from working farm properties across the countryside to homes and small businesses in its communities. Mount Uniacke's rural setting means we see both — and we match our {SERVICE_CATEGORY} work to the property in front of us, whether that is a rural homestead or a house near the community core. Being 34.5 kilometres from Halifax and 315.7 kilometres from Sydney, Mount Uniacke leans toward the metro side of the province, and our crews travel the same routes that connect it to the wider region.\n\nWhether your property is in the heart of Mount Uniacke or out toward Uniacke or Springfield Lake, {COMPANY_NAME} delivers {SERVICE} you can rely on. {CTA_PRIMARY}, or call {PHONE} and we'll take it from there.",
+  "local_facts": [
+   "Estimated population of about 3,501 (GeoNames estimate; not a StatCan census figure)",
+   "About 34.5 km from Halifax and 315.7 km from Sydney",
+   "Nearest built community: Uniacke, 8.9 km away",
+   "A community in the Central Nova Scotia region of Nova Scotia",
+   "Neighbouring communities include Springfield Lake (11.8 km) and Upper Sackville (14.2 km)",
+   "Inland location rather than coastal, within Central Nova Scotia"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Mount Uniacke's nearest built community is Uniacke, 8.9 km away, and Halifax lies 34.5 km off — roughly nine times closer than Sydney at 315.7 km, placing the community firmly on the metro-leaning side of Central Nova Scotia."
+  },
+  "services_grid": {
+   "heading": "Services in Mount Uniacke",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mount-uniacke/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mount-uniacke/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mount-uniacke/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mount-uniacke/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mount-uniacke/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/mount-uniacke/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Mount Uniacke"
+  },
+  "faqs": [
+   {
+    "question": "Do you offer {SERVICE} in Mount Uniacke?",
+    "answer": "Yes. {COMPANY_NAME} serves Mount Uniacke and the communities around it, including Uniacke 8.9 km away, Springfield Lake, and Upper Sackville. Because Mount Uniacke sits about 34.5 km from Halifax on a well-connected corridor, we keep {RESPONSE_TIME} response realistic across this part of Central Nova Scotia."
+   },
+   {
+    "question": "Does Mount Uniacke's inland location affect {SERVICE}?",
+    "answer": "It does. Mount Uniacke is an inland community about 34.5 km from Halifax, so it sees the region's Maritime weather without a coastal exposure, and its rural properties spread across a wide area. {COMPANY_NAME} plans {SERVICE} around that inland, small-community setting for results that last."
+   },
+   {
+    "question": "How much does {SERVICE} cost in Mount Uniacke?",
+    "answer": "Cost depends on your property and the scope of work — a rural property outside Mount Uniacke is a different job than a home in the community's core. {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates, so you know the price before any work begins, with no surprises."
+   },
+   {
+    "question": "How fast can you reach Mount Uniacke?",
+    "answer": "Quickly. Mount Uniacke's position about 34.5 km from Halifax and just 8.9 km from Uniacke keeps it well within our service range, so we offer {RESPONSE_TIME} response. Tell us where you are and what you need, and {COMPANY_NAME} will schedule the work promptly."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Mount Uniacke?",
+    "answer": "Because we know this part of Central Nova Scotia — the inland communities near Uniacke and Springfield Lake, the Maritime conditions, and the mix of rural and residential properties. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {ESTIMATE_TYPE} estimates, we make {SERVICE} straightforward. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Mount Uniacke, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "uniacke",
+    "name": "Uniacke",
+    "km": 8.9,
+    "url": "/areas/uniacke",
+    "anchor": "Uniacke, the nearest built community, 8.9 km up the road"
+   },
+   {
+    "slug": "springfield-lake",
+    "name": "Springfield Lake",
+    "km": 11.8,
+    "url": "/areas/springfield-lake",
+    "anchor": "Springfield Lake, a lakeside community about 11.8 km away"
+   },
+   {
+    "slug": "upper-sackville",
+    "name": "Upper Sackville",
+    "km": 14.2,
+    "url": "/areas/upper-sackville",
+    "anchor": "Upper Sackville, 14.2 km toward the Halifax metro edge"
+   },
+   {
+    "slug": "upper-hammonds-plains",
+    "name": "Upper Hammonds Plains",
+    "km": 16.2,
+    "url": "/areas/upper-hammonds-plains",
+    "anchor": "Upper Hammonds Plains, roughly 16.2 km to the south"
+   },
+   {
+    "slug": "east-hants",
+    "name": "East Hants",
+    "km": 16.9,
+    "url": "/areas/east-hants",
+    "anchor": "East Hants, 16.9 km away"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/central-nova-scotia",
+   "name": "Central Nova Scotia",
+   "anchor": "Central Nova Scotia service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-central-nova-scotia",
+    "title": "What {SERVICE} Costs in Central Nova Scotia: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-central-nova-scotia",
+    "title": "Central Nova Scotia Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-central-nova-scotia",
+    "title": "How to Choose a {BUSINESS_TYPE} in Central Nova Scotia"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-central-nova-scotia",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Central Nova Scotia, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Mount Uniacke",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Mount Uniacke quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "mount-uniacke"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg",
+   "filename": "mount-uniacke-central-nova-scotia-ns.webp",
+   "alt_layer1_geo": "Mount Uniacke, Central Nova Scotia — an inland community about 34.5 km from Halifax on the corridor toward the province's agricultural centre",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Mount Uniacke, Nova Scotia — Mount Uniacke, Central Nova Scotia — an inland community about 34.5 km from Halifax on the corridor toward the province's agricultural centre",
+   "title": "Mount Uniacke, Central Nova Scotia — an inland community about 34.5 km from Halifax on the corridor toward the province's agricultural centre",
+   "caption": "Mount Uniacke, Central Nova Scotia — an inland community about 34.5 km from Halifax on the corridor toward the province's agricultural centre",
+   "exif_geo": {
+    "lat": 44.90015,
+    "lng": -63.83202,
+    "name": "Mount Uniacke, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Purpletramp — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "Halifax proximity (34.5 km commuter access)",
+   "Estimated population about 3,501 (GeoNames)",
+   "Nearby community cluster (Uniacke 8.9 km, Springfield Lake 11.8 km, Upper Sackville 14.2 km)",
+   "Maritime climate tied to service (region bundle)",
+   "Rural agricultural economy and building stock (region bundle)"
+  ],
+  "signals_count": 5,
+  "opener_words": "Mount Uniacke sits about 34.5 kilometres from Halifax",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/mount-uniacke#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Mount Uniacke",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Mount Uniacke, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Uniacke, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Springfield Lake, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Upper Sackville, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 44.90015,
+        "longitude": -63.83202
+       },
+       "geoRadius": "6675"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Mount Uniacke",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/mount-uniacke#page",
+     "url": "{BRAND_URL}/areas/mount-uniacke",
+     "name": "{SERVICE} in Mount Uniacke, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/mount-uniacke#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/mount-uniacke#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Central Nova Scotia",
+       "item": "{BRAND_URL}/areas/region/central-nova-scotia"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Mount Uniacke",
+       "item": "{BRAND_URL}/areas/mount-uniacke"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/mount-uniacke#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you offer {SERVICE} in Mount Uniacke?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} serves Mount Uniacke and the communities around it, including Uniacke 8.9 km away, Springfield Lake, and Upper Sackville. Because Mount Uniacke sits about 34.5 km from Halifax on a well-connected corridor, we keep {RESPONSE_TIME} response realistic across this part of Central Nova Scotia."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does Mount Uniacke's inland location affect {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It does. Mount Uniacke is an inland community about 34.5 km from Halifax, so it sees the region's Maritime weather without a coastal exposure, and its rural properties spread across a wide area. {COMPANY_NAME} plans {SERVICE} around that inland, small-community setting for results that last."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How much does {SERVICE} cost in Mount Uniacke?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on your property and the scope of work — a rural property outside Mount Uniacke is a different job than a home in the community's core. {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates, so you know the price before any work begins, with no surprises."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How fast can you reach Mount Uniacke?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quickly. Mount Uniacke's position about 34.5 km from Halifax and just 8.9 km from Uniacke keeps it well within our service range, so we offer {RESPONSE_TIME} response. Tell us where you are and what you need, and {COMPANY_NAME} will schedule the work promptly."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Mount Uniacke?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because we know this part of Central Nova Scotia — the inland communities near Uniacke and Springfield Lake, the Maritime conditions, and the mix of rural and residential properties. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {ESTIMATE_TYPE} estimates, we make {SERVICE} straightforward. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/mount-uniacke#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg",
+     "name": "Mount Uniacke, Central Nova Scotia — an inland community about 34.5 km from Halifax on the corridor toward the province's agricultural centre",
+     "caption": "Mount Uniacke, Central Nova Scotia — an inland community about 34.5 km from Halifax on the corridor toward the province's agricultural centre",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Purpletramp"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Mount Uniacke, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 44.90015,
+       "longitude": -63.83202
       }
      }
     }
@@ -3482,6 +3918,449 @@
        "@type": "GeoCoordinates",
        "latitude": 45.09,
        "longitude": -63.4
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "NSX-milford-station",
+  "slug": "milford-station",
+  "url": "/areas/milford-station",
+  "name": "Milford Station",
+  "type": "Community",
+  "region": "Central Nova Scotia",
+  "region_slug": "central-nova-scotia",
+  "province": "Nova Scotia",
+  "coordinates": {
+   "lat": 45.0408,
+   "lng": -63.43636
+  },
+  "fsa": null,
+  "population_2021": 1100,
+  "unified_score": 53.8,
+  "km_halifax": 44.9,
+  "km_sydney": 280.8,
+  "verification": "GeoNames_Pop",
+  "data_sources": "GeoNames (CC-BY); StatCan admin geography",
+  "status": "Verified",
+  "flags": [],
+  "dateModified": "2026-07-11",
+  "updated_visible": "Updated July 2026",
+  "breadcrumb": [
+   "Home",
+   "Areas We Serve",
+   "Central Nova Scotia",
+   "Milford Station"
+  ],
+  "hero": {
+   "overline": "Milford Station · Central Nova Scotia · Nova Scotia",
+   "h1": "{SERVICE} in Milford Station, Nova Scotia — {COMPANY_NAME}",
+   "subhead": "{UNIQUE_VALUE_PROP}",
+   "trust_badges": [
+    "{YEARS_IN_BUSINESS} years in business",
+    "{RATING} rating",
+    "{CERTIFICATIONS}"
+   ],
+   "cta_primary": "{CTA_PRIMARY} — Call {PHONE}"
+  },
+  "meta": {
+   "seo_title": "{SERVICE} in Milford Station, NS | {COMPANY_NAME}",
+   "meta_description": "{SERVICE} in Milford Station, NS — serving this farm-country community near Shubenacadie with {ESTIMATE_TYPE} estimates and {RESPONSE_TIME} response. Call {PHONE}.",
+   "primary_keyword": "{SERVICE} Milford Station",
+   "secondary_keywords": [
+    "{SERVICE} near me Milford Station",
+    "{BUSINESS_TYPE} Milford Station Nova Scotia",
+    "{SERVICE} near Shubenacadie",
+    "{SERVICE} Milford area"
+   ],
+   "long_tail_keywords": [
+    "{SERVICE} for farm properties Milford Station",
+    "{SERVICE} Milford Station near Shubenacadie",
+    "{SERVICE} rural Central Nova Scotia Milford Station",
+    "{SERVICE} Milford Station near Elmsdale"
+   ],
+   "question_keywords": [
+    "how much does {SERVICE} cost in Milford Station",
+    "do you offer {SERVICE} in Milford Station",
+    "how quickly can you reach Milford Station"
+   ],
+   "conversational_queries": [
+    "{SERVICE} near me in Milford Station",
+    "who does {SERVICE} in Milford Station Nova Scotia",
+    "best {BUSINESS_TYPE} near Milford Station",
+    "{SERVICE} in Milford Station close to Shubenacadie",
+    "{SERVICE} for a farm near Elmsdale"
+   ]
+  },
+  "ai_answer_snippet": "For {SERVICE} in Milford Station, {COMPANY_NAME} covers this small farm-country community of about 1,100 people, 44.9 km from Halifax and just 6.2 km from Shubenacadie. We match our {SERVICE_CATEGORY} work to rural properties and Maritime weather, all with {ESTIMATE_TYPE} estimates. Call {PHONE}.",
+  "entity_description": "Milford Station is a community in the Central Nova Scotia region of Nova Scotia, Canada, with an estimated population of about 1,100 (a GeoNames estimate, not a census count). It lies in the region's farm country about 44.9 kilometres from Halifax and 280.8 kilometres from Sydney. Its nearest built community is Milford, 4.3 kilometres away, and it neighbours Shubenacadie, Elmsdale, and the Sipekne'katik First Nation. The surrounding landscape is part of Central Nova Scotia's agricultural belt.",
+  "about_md": "Milford Station is a small community of about 1,100 people in the farm country of Central Nova Scotia — a GeoNames estimate that puts it among the more modest places in the region. It sits about 44.9 kilometres from Halifax, wrapped by dairy-belt neighbours, and that rural, agricultural setting shapes the {SERVICE} that fits here. {COMPANY_NAME} brings {SERVICE_CATEGORY} work to this corner of the region, backed by {YEARS_IN_BUSINESS} years of experience and a {RATING} rating.\n\nMilford Station sits close to several communities. Milford is its nearest built neighbour at just 4.3 kilometres, Shubenacadie is about 6.2 kilometres north, and Elmsdale lies roughly 11.6 kilometres off, with the Sipekne'katik First Nation about 8.3 kilometres away. This is one of the more tightly clustered pockets of Central Nova Scotia, which helps {COMPANY_NAME} keep {RESPONSE_TIME} response practical — a single run can serve Milford Station and its neighbours without a long detour.\n\n## Working land, working properties\n\nThe land around here does real work. Agriculture and dairy farming anchor Central Nova Scotia's economy, and Milford Station's farm-country setting means many properties are working ones — barns, outbuildings, and rural homes that need {SERVICE} tough enough for the job. {COMPANY_NAME} matches our approach to that reality, whether the property is a farmstead or a village home, and every job begins with a {ESTIMATE_TYPE} estimate so the scope and price are clear before we start.\n\nMaritime weather is the other constant. Nova Scotia's climate works on properties year-round, and owners in this region take upkeep seriously through the wet and cold seasons. {COMPANY_NAME} plans {SERVICE} around those conditions, drawing on {YEARS_IN_BUSINESS} years of experience to recommend the right timing and method. {UNIQUE_VALUE_PROP}, so the work lasts. At 44.9 kilometres from Halifax and 280.8 kilometres from Sydney, Milford Station sits firmly on the metro-leaning side of the province, and our crews travel the corridor that ties it to the rest of Central Nova Scotia, reaching farmsteads and homes alike.\n\nWhether your property is in Milford Station itself or out toward Shubenacadie or Elmsdale, {COMPANY_NAME} delivers dependable {SERVICE}. {CTA_PRIMARY}, or call {PHONE} and we'll get started.",
+  "local_facts": [
+   "Estimated population of about 1,100 (GeoNames estimate; not a StatCan census figure)",
+   "About 44.9 km from Halifax and 280.8 km from Sydney",
+   "Nearest built community: Milford, 4.3 km away",
+   "A community in the Central Nova Scotia region of Nova Scotia",
+   "Neighbouring communities include Shubenacadie (6.2 km) and Elmsdale (11.6 km)",
+   "Close to the Sipekne'katik First Nation, about 8.3 km away"
+  ],
+  "info_gain": {
+   "type": "computed-stat",
+   "text": "Milford Station's nearest built community is Milford, just 4.3 km away, with Shubenacadie 6.2 km and the Sipekne'katik First Nation 8.3 km off — one of the tightest neighbour clusters in this set, while Halifax sits 44.9 km southwest, about 6.3 times closer than Sydney."
+  },
+  "services_grid": {
+   "heading": "Services in Milford Station",
+   "note": "generic remix layer — every service name stays a token",
+   "cards": [
+    {
+     "name": "{SUBSERVICE_1}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/milford-station/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_2}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/milford-station/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_3}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/milford-station/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_4}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/milford-station/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_5}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/milford-station/{SERVICE_SLUG}"
+    },
+    {
+     "name": "{SUBSERVICE_6}",
+     "description": "{SERVICE_DESCRIPTION}",
+     "link": "/areas/milford-station/{SERVICE_SLUG}"
+    }
+   ]
+  },
+  "street_proof": {
+   "type": "local-testimonial-slot",
+   "text": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Milford Station"
+  },
+  "faqs": [
+   {
+    "question": "Do you offer {SERVICE} in Milford Station?",
+    "answer": "Yes. {COMPANY_NAME} serves Milford Station and its neighbours, including Milford just 4.3 km away, Shubenacadie about 6.2 km north, and Elmsdale. Because these communities cluster closely in Central Nova Scotia's farm country, we keep {RESPONSE_TIME} response practical across the area."
+   },
+   {
+    "question": "Does Milford Station's farm-country setting affect {SERVICE}?",
+    "answer": "It does. Milford Station sits in the agricultural belt between Shubenacadie and Elmsdale, about 44.9 km from Halifax, so many properties are working farms with barns and outbuildings alongside rural homes. {COMPANY_NAME} tailors {SERVICE} to that mix for durable results."
+   },
+   {
+    "question": "How much does {SERVICE} cost in Milford Station?",
+    "answer": "Cost depends on the property and scope — a farm property near Milford Station is a different job than a village home. {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates, so you know the price before any work begins, with nothing hidden."
+   },
+   {
+    "question": "How quickly can you reach Milford Station?",
+    "answer": "Quickly. Milford Station sits just 4.3 km from Milford and about 44.9 km from Halifax, well within our range, so {COMPANY_NAME} offers {RESPONSE_TIME} response. Let us know where you are and what you need, and we'll schedule the work."
+   },
+   {
+    "question": "Why choose {COMPANY_NAME} for {SERVICE} in Milford Station?",
+    "answer": "Because we know this pocket of Central Nova Scotia — the farm country near Shubenacadie, the Sipekne'katik First Nation nearby, and the Maritime weather that tests every property. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {ESTIMATE_TYPE} estimates, we make {SERVICE} simple. Call {PHONE}."
+   }
+  ],
+  "map": {
+   "pattern": "facade",
+   "alt": "Map showing our {SERVICE_CATEGORY} service area across Milford Station, Nova Scotia",
+   "iframe_src": "https://www.google.com/maps/embed/v1/place?key={GOOGLE_MAPS_API_KEY}&q=place_id:{PLACE_ID}",
+   "aspect_ratio": "4/3",
+   "inject_on": "click"
+  },
+  "nearby_areas": [
+   {
+    "slug": "milford",
+    "name": "Milford",
+    "km": 4.3,
+    "url": "/areas/milford",
+    "anchor": "Milford, its closest neighbour just 4.3 km along the corridor"
+   },
+   {
+    "slug": "shubenacadie",
+    "name": "Shubenacadie",
+    "km": 6.2,
+    "url": "/areas/shubenacadie",
+    "anchor": "Shubenacadie, about 6.2 km north in the region's farm country"
+   },
+   {
+    "slug": "lantz",
+    "name": "Lantz",
+    "km": 7.9,
+    "url": "/areas/lantz",
+    "anchor": "Lantz, 7.9 km off on the Halifax Metro fringe"
+   },
+   {
+    "slug": "sipekne-katik-first-nation",
+    "name": "Sipekne'katik First Nation",
+    "km": 8.3,
+    "url": "/areas/sipekne-katik-first-nation",
+    "anchor": "the Sipekne'katik First Nation, roughly 8.3 km away"
+   },
+   {
+    "slug": "elmsdale",
+    "name": "Elmsdale",
+    "km": 11.6,
+    "url": "/areas/elmsdale",
+    "anchor": "Elmsdale, a farm-country community 11.6 km off"
+   }
+  ],
+  "parent_region_link": {
+   "url": "/areas/region/central-nova-scotia",
+   "name": "Central Nova Scotia",
+   "anchor": "Central Nova Scotia service area"
+  },
+  "blog_links": [
+   {
+    "url": "/blog/{SERVICE_SLUG}-cost-guide-central-nova-scotia",
+    "title": "What {SERVICE} Costs in Central Nova Scotia: 2026 Guide"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-seasonal-guide-central-nova-scotia",
+    "title": "Central Nova Scotia Seasons and {SERVICE}: When to Book"
+   },
+   {
+    "url": "/blog/choosing-a-{SERVICE_SLUG}-pro-central-nova-scotia",
+    "title": "How to Choose a {BUSINESS_TYPE} in Central Nova Scotia"
+   },
+   {
+    "url": "/blog/{SERVICE_SLUG}-permits-central-nova-scotia",
+    "title": "Permits and Rules for {PROJECT_TYPE} in Central Nova Scotia, Nova Scotia"
+   }
+  ],
+  "reviews_slot": {
+   "rating": "{RATING}",
+   "testimonial": "“{TESTIMONIAL_TEXT}” — {TESTIMONIAL_NAME}, Milford Station",
+   "note": "rendered as Review; no self-serving aggregateRating in page schema"
+  },
+  "cta_footer": {
+   "text": "Get my free Milford Station quote",
+   "phone": "{PHONE}",
+   "hidden_location_field": "milford-station"
+  },
+  "image": {
+   "tier": "region",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg",
+   "filename": "milford-station-central-nova-scotia-ns.webp",
+   "alt_layer1_geo": "Milford Station, Central Nova Scotia — a small farm-country community about 44.9 km from Halifax, near Shubenacadie and the Sipekne'katik First Nation",
+   "alt_layer2_rendered": "{SERVICE_CATEGORY} in Milford Station, Nova Scotia — Milford Station, Central Nova Scotia — a small farm-country community about 44.9 km from Halifax, near Shubenacadie and the Sipekne'katik First Nation",
+   "title": "Milford Station, Central Nova Scotia — a small farm-country community about 44.9 km from Halifax, near Shubenacadie and the Sipekne'katik First Nation",
+   "caption": "Milford Station, Central Nova Scotia — a small farm-country community about 44.9 km from Halifax, near Shubenacadie and the Sipekne'katik First Nation",
+   "exif_geo": {
+    "lat": 45.0408,
+    "lng": -63.43636,
+    "name": "Milford Station, Nova Scotia"
+   },
+   "license": "CC BY-SA 3.0",
+   "attribution": "Purpletramp — CC BY-SA 3.0",
+   "loading": "lazy",
+   "format": "webp"
+  },
+  "signals": [
+   "Estimated population about 1,100 (small farm-country community, GeoNames)",
+   "Tight neighbour cluster (Milford 4.3 km, Shubenacadie 6.2 km, Sipekne'katik First Nation 8.3 km, Elmsdale 11.6 km)",
+   "Halifax distance 44.9 km / metro-leaning position",
+   "Agricultural and dairy economy (region bundle)",
+   "Maritime climate tied to service (region bundle)"
+  ],
+  "signals_count": 5,
+  "opener_words": "Milford Station is a small community of about",
+  "schema_jsonld": {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Service",
+     "@id": "{BRAND_URL}/areas/milford-station#service",
+     "serviceType": "{SERVICE_CATEGORY}",
+     "name": "{SERVICE_CATEGORY} in Milford Station",
+     "provider": {
+      "@id": "{BRAND_URL}#business"
+     },
+     "areaServed": [
+      {
+       "@type": "AdministrativeArea",
+       "name": "Milford Station, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Milford, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Shubenacadie, Nova Scotia"
+      },
+      {
+       "@type": "AdministrativeArea",
+       "name": "Lantz, Nova Scotia"
+      },
+      {
+       "@type": "GeoCircle",
+       "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.0408,
+        "longitude": -63.43636
+       },
+       "geoRadius": "3225"
+      }
+     ],
+     "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "{SERVICE_CATEGORY} services in Milford Station",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_1}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_2}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_3}"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "{SUBSERVICE_4}"
+        }
+       }
+      ]
+     }
+    },
+    {
+     "@type": "WebPage",
+     "@id": "{BRAND_URL}/areas/milford-station#page",
+     "url": "{BRAND_URL}/areas/milford-station",
+     "name": "{SERVICE} in Milford Station, NS | {COMPANY_NAME}",
+     "isPartOf": {
+      "@id": "{BRAND_URL}#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "{BRAND_URL}/areas/milford-station#image"
+     },
+     "dateModified": "2026-07-11",
+     "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [
+       ".answer-first"
+      ]
+     }
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "{BRAND_URL}/areas/milford-station#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "{BRAND_URL}/"
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Areas We Serve",
+       "item": "{BRAND_URL}/areas"
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Central Nova Scotia",
+       "item": "{BRAND_URL}/areas/region/central-nova-scotia"
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Milford Station",
+       "item": "{BRAND_URL}/areas/milford-station"
+      }
+     ]
+    },
+    {
+     "@type": "FAQPage",
+     "@id": "{BRAND_URL}/areas/milford-station#faq",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Do you offer {SERVICE} in Milford Station?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. {COMPANY_NAME} serves Milford Station and its neighbours, including Milford just 4.3 km away, Shubenacadie about 6.2 km north, and Elmsdale. Because these communities cluster closely in Central Nova Scotia's farm country, we keep {RESPONSE_TIME} response practical across the area."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does Milford Station's farm-country setting affect {SERVICE}?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It does. Milford Station sits in the agricultural belt between Shubenacadie and Elmsdale, about 44.9 km from Halifax, so many properties are working farms with barns and outbuildings alongside rural homes. {COMPANY_NAME} tailors {SERVICE} to that mix for durable results."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How much does {SERVICE} cost in Milford Station?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the property and scope — a farm property near Milford Station is a different job than a village home. {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates, so you know the price before any work begins, with nothing hidden."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How quickly can you reach Milford Station?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quickly. Milford Station sits just 4.3 km from Milford and about 44.9 km from Halifax, well within our range, so {COMPANY_NAME} offers {RESPONSE_TIME} response. Let us know where you are and what you need, and we'll schedule the work."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Why choose {COMPANY_NAME} for {SERVICE} in Milford Station?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because we know this pocket of Central Nova Scotia — the farm country near Shubenacadie, the Sipekne'katik First Nation nearby, and the Maritime weather that tests every property. With {YEARS_IN_BUSINESS} years of experience, a {RATING} rating, and {ESTIMATE_TYPE} estimates, we make {SERVICE} simple. Call {PHONE}."
+       }
+      }
+     ]
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "{BRAND_URL}/areas/milford-station#image",
+     "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg",
+     "name": "Milford Station, Central Nova Scotia — a small farm-country community about 44.9 km from Halifax, near Shubenacadie and the Sipekne'katik First Nation",
+     "caption": "Milford Station, Central Nova Scotia — a small farm-country community about 44.9 km from Halifax, near Shubenacadie and the Sipekne'katik First Nation",
+     "license": "https://creativecommons.org/licenses/",
+     "creator": {
+      "@type": "Person",
+      "name": "Purpletramp"
+     },
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Milford Station, Nova Scotia",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 45.0408,
+       "longitude": -63.43636
       }
      }
     }
@@ -5407,13 +6286,6 @@
     "anchor": "Elmsdale, 7.3 km toward Halifax"
    },
    {
-    "slug": "enfield-eh",
-    "name": "Enfield (EH)",
-    "km": 8.7,
-    "url": "/areas/enfield-eh",
-    "anchor": "Enfield's East Hants side, 8.7 km away"
-   },
-   {
     "slug": "enfield",
     "name": "Enfield",
     "km": 9.2,
@@ -5426,6 +6298,13 @@
     "km": 10.3,
     "url": "/areas/sipekne-katik-first-nation",
     "anchor": "Sipekne'katik First Nation, 10.3 km to the north"
+   },
+   {
+    "slug": "milford-station",
+    "name": "Milford Station",
+    "km": 4.3,
+    "url": "/areas/milford-station",
+    "anchor": "Milford Station, 4.3 km away"
    }
   ],
   "parent_region_link": {

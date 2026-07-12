@@ -3966,5 +3966,197 @@
    "name": "Birch Grove, Nova Scotia"
   },
   "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/port-wallace",
+  "filename": "port-wallace-halifax-metro-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg",
+  "alt_layer1_geo": "Port Wallace, Halifax Metro Nova Scotia — a Dartmouth-side community at the top of the lakes, 2 km from Burnside and 6 km from downtown Halifax",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Port Wallace, Nova Scotia — Port Wallace, Halifax Metro Nova Scotia — a Dartmouth-side community at the top of the lakes, 2 km from Burnside and 6 km from downtown Halifax",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Gordon Leggett — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 44.69882,
+   "lng": -63.54767,
+   "name": "Port Wallace, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/kearney-lake",
+  "filename": "kearney-lake-halifax-metro-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg",
+  "alt_layer1_geo": "Kearney Lake, Halifax Metro Nova Scotia — a lakeside community on Halifax's mainland, about 9.7 km from downtown",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Kearney Lake, Nova Scotia — Kearney Lake, Halifax Metro Nova Scotia — a lakeside community on Halifax's mainland, about 9.7 km from downtown",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Gordon Leggett — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 44.68695,
+   "lng": -63.68498,
+   "name": "Kearney Lake, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/preston",
+  "filename": "preston-halifax-metro-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg",
+  "alt_layer1_geo": "Preston, Halifax Metro Nova Scotia — inland lake country east of Dartmouth, ringed by East and North Preston and Lake Loon",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Preston, Nova Scotia — Preston, Halifax Metro Nova Scotia — inland lake country east of Dartmouth, ringed by East and North Preston and Lake Loon",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Gordon Leggett — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 44.71569,
+   "lng": -63.43423,
+   "name": "Preston, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/upper-hammonds-plains",
+  "filename": "upper-hammonds-plains-halifax-metro-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg",
+  "alt_layer1_geo": "Upper Hammonds Plains, Halifax Metro Nova Scotia — rural woods and lakes 24 km from downtown Halifax toward St. Margarets Bay",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Upper Hammonds Plains, Nova Scotia — Upper Hammonds Plains, Halifax Metro Nova Scotia — rural woods and lakes 24 km from downtown Halifax toward St. Margarets Bay",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Gordon Leggett — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 44.75448,
+   "lng": -63.84165,
+   "name": "Upper Hammonds Plains, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/springfield-lake",
+  "filename": "springfield-lake-halifax-metro-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg",
+  "alt_layer1_geo": "Springfield Lake, Halifax Metro Nova Scotia — an inland lake community in the wooded country north of Lower Sackville",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Springfield Lake, Nova Scotia — Springfield Lake, Halifax Metro Nova Scotia — an inland lake community in the wooded country north of Lower Sackville",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Gordon Leggett — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 44.81349,
+   "lng": -63.74456,
+   "name": "Springfield Lake, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/windsor-junction",
+  "filename": "windsor-junction-halifax-metro-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/2022-08-15_01_Wide_angle_view_of_Halifax_skyline%2C_Nova_Scotia%2C_Canada.jpg",
+  "alt_layer1_geo": "Windsor Junction, Halifax Metro Nova Scotia — a railway-named community in the inland lake country between Sackville and Fall River",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Windsor Junction, Nova Scotia — Windsor Junction, Halifax Metro Nova Scotia — a railway-named community in the inland lake country between Sackville and Fall River",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Gordon Leggett — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 44.78938,
+   "lng": -63.64228,
+   "name": "Windsor Junction, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/whitney-pier",
+  "filename": "whitney-pier-cape-breton-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg",
+  "alt_layer1_geo": "Whitney Pier, Cape Breton Nova Scotia — Sydney's historic coal-and-steel neighbourhood on Sydney Harbour",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Whitney Pier, Nova Scotia — Whitney Pier, Cape Breton Nova Scotia — Sydney's historic coal-and-steel neighbourhood on Sydney Harbour",
+  "license": "CC BY-SA 4.0",
+  "attribution": "ArcaneCraeda — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 46.15931,
+   "lng": -60.18662,
+   "name": "Whitney Pier, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/st-peter-s",
+  "filename": "st-peter-s-cape-breton-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cape_Breton_Highlands_National_Park_from_the_Cabot_Trail.jpg",
+  "alt_layer1_geo": "St. Peter's, Cape Breton Nova Scotia — a Richmond County community at the island's southern gateway near the Bras d'Or Lake",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in St. Peter's, Nova Scotia — St. Peter's, Cape Breton Nova Scotia — a Richmond County community at the island's southern gateway near the Bras d'Or Lake",
+  "license": "CC BY-SA 4.0",
+  "attribution": "ArcaneCraeda — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 45.65659,
+   "lng": -60.87421,
+   "name": "St. Peter's, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/mount-uniacke",
+  "filename": "mount-uniacke-central-nova-scotia-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg",
+  "alt_layer1_geo": "Mount Uniacke, Central Nova Scotia — an inland community about 34.5 km from Halifax on the corridor toward the province's agricultural centre",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Mount Uniacke, Nova Scotia — Mount Uniacke, Central Nova Scotia — an inland community about 34.5 km from Halifax on the corridor toward the province's agricultural centre",
+  "license": "CC BY-SA 3.0",
+  "attribution": "Purpletramp — CC BY-SA 3.0",
+  "exif_geo": {
+   "lat": 44.90015,
+   "lng": -63.83202,
+   "name": "Mount Uniacke, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/milford-station",
+  "filename": "milford-station-central-nova-scotia-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bay_of_Minas_at_Truro.jpg",
+  "alt_layer1_geo": "Milford Station, Central Nova Scotia — a small farm-country community about 44.9 km from Halifax, near Shubenacadie and the Sipekne'katik First Nation",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Milford Station, Nova Scotia — Milford Station, Central Nova Scotia — a small farm-country community about 44.9 km from Halifax, near Shubenacadie and the Sipekne'katik First Nation",
+  "license": "CC BY-SA 3.0",
+  "attribution": "Purpletramp — CC BY-SA 3.0",
+  "exif_geo": {
+   "lat": 45.0408,
+   "lng": -63.43636,
+   "name": "Milford Station, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/lower-economy",
+  "filename": "lower-economy-chignecto-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joggins_Fossil_Cliffs.jpg",
+  "alt_layer1_geo": "Lower Economy, Chignecto Nova Scotia — a small Bay of Fundy shore community roughly 90 km from Halifax and 24 km from its nearest built-up neighbour",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Lower Economy, Nova Scotia — Lower Economy, Chignecto Nova Scotia — a small Bay of Fundy shore community roughly 90 km from Halifax and 24 km from its nearest built-up neighbour",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Staka — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 45.40129,
+   "lng": -63.98589,
+   "name": "Lower Economy, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
+ },
+ {
+  "page": "/areas/cambridge",
+  "filename": "cambridge-annapolis-valley-ns.webp",
+  "tier": "region",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/View_from_the_South_Mountain_%28Gaspereau%29_looking_at_Cape_Blomidon_and_the_North_Mountain_across_the_Valley.jpg",
+  "alt_layer1_geo": "Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport",
+  "alt_layer2_rendered": "{SERVICE_CATEGORY} in Cambridge, Nova Scotia — Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Eric.stewart — CC BY-SA 4.0",
+  "exif_geo": {
+   "lat": 45.20235,
+   "lng": -64.11336,
+   "name": "Cambridge, Nova Scotia"
+  },
+  "target": "WebP <=120kb via CDN, explicit width/height, lazy (hero eager)"
  }
 ]

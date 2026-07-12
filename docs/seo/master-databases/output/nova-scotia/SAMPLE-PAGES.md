@@ -92,82 +92,84 @@ _Updated visible: Updated July 2026 · dateModified 2026-07-11_
 
 ---
 
-# SAMPLE PAGE — Edwardsville, Nova Scotia  (score 50, Cape Breton)
+# SAMPLE PAGE — Cambridge, Nova Scotia  (score 50, Annapolis Valley)
 
-**URL:** /areas/edwardsville  ·  **Slug:** edwardsville  ·  **Type:** Community  ·  **Status:** Verified
-**Breadcrumb:** Home → Areas We Serve → Cape Breton → Edwardsville
-**Image tier:** region — ArcaneCraeda — CC BY-SA 4.0
+**URL:** /areas/cambridge  ·  **Slug:** cambridge  ·  **Type:** Community  ·  **Status:** Verified
+**Breadcrumb:** Home → Areas We Serve → Annapolis Valley → Cambridge
+**Image tier:** region — Eric.stewart — CC BY-SA 4.0
 
 ## Hero
-- H1: {SERVICE} in Edwardsville, Nova Scotia — {COMPANY_NAME}
-- Overline: Edwardsville · Cape Breton · Nova Scotia
+- H1: {SERVICE} in Cambridge, Nova Scotia — {COMPANY_NAME}
+- Overline: Cambridge · Annapolis Valley · Nova Scotia
 - CTA: {CTA_PRIMARY} — Call {PHONE}
 
 ## AI Answer Snippet (.answer-first / speakable)
-For {SERVICE} in Edwardsville, {COMPANY_NAME} serves this Cape Breton community of 281 near Coxheath and just 12.7 kilometres from Sydney. We build for the island's salt air, ocean winds, and Maritime winters, with {RESPONSE_TIME} response and {ESTIMATE_TYPE} estimates on every job. Call {PHONE}.
+For {SERVICE} in Cambridge, {COMPANY_NAME} works across this quiet stretch of the Annapolis Valley floor, from farm and orchard properties to in-town homes, about 15.4 km from Hantsport and 74.7 km from Halifax. We plan around the valley's Bay of Fundy weather. Call {PHONE}.
 
 ## Entity Description
-Edwardsville is a community in the Cape Breton region of Nova Scotia, Canada, with a population of 281 at the 2021 census. Part of the Cape Breton Regional Municipality, it lies in the B1Y postal zone about 2.3 kilometres from Coxheath and roughly 12.7 kilometres from Sydney, the island's urban heart. Tourism and fishing anchor the local economy, and the community shares the coastal Maritime climate that shapes property upkeep across Cape Breton.
+Cambridge is a small farming community in the Annapolis Valley region of Nova Scotia, Canada, with an estimated population of about 703. It sits on the broad valley floor roughly 74.7 km from Halifax, in a stretch of orchard and farm country framed by the Blomidon cliffs and the Bay of Fundy tides. The nearest built-up community is Hantsport, about 15.4 km away, which leaves Cambridge set among the farmland and food-processing operations that define the valley's apple and vineyard economy.
 
 ## About
-With 281 residents at the 2021 census, Edwardsville is one of the smaller communities in the ring of places around Sydney on Cape Breton Island in Nova Scotia. It belongs to the Cape Breton Regional Municipality and sits about 2.3 kilometres from Coxheath, its nearest neighbour, with Sydney — the island's largest centre — roughly 12.7 kilometres away. Communities like Northside East Bay and Balls Creek fill in the map around it, making Edwardsville a quiet community with a city and its services within easy reach for {PROPERTY_TYPE} owners.
+Cambridge sits farther from any town than almost any community its size in the Annapolis Valley, with about 15.4 kilometres of orchard and farmland separating it from Hantsport, its nearest built-up neighbour. This small Nova Scotia community of an estimated 703 people lies on the broad valley floor, roughly 74.7 kilometres from Halifax, deep in the apple and vineyard country that gives the region its name. {COMPANY_NAME} brings {SERVICE} to Cambridge and the farms and homes scattered around it.
 
-Weather drives {SERVICE} decisions in Edwardsville. Cape Breton is a Maritime island, and its winters are serious business — salt air, ocean winds, and months of freeze-and-thaw put steady pressure on every {PROPERTY_TYPE}. Left unchecked, that climate finds the weak points in any building. {COMPANY_NAME} plans {SERVICE_CATEGORY} work around the island's seasons, so owners are ready before the cold sets in rather than scrambling after it. And when a problem can't wait, {RESPONSE_TIME} response keeps a small issue from becoming a costly one.
+That rural setting shapes the {PROPERTY_TYPE} work we do here. Agriculture leads the valley's economy — apple orchards, vineyards, and farming — backed by food processing and agri-tourism, with the military at CFB Greenwood and agricultural research in Kentville anchoring the wider region. Around Cambridge that means many jobs involve working farm properties, rural acreage, and older farmhouses rather than dense subdivisions. Heritage farmhouses and outbuildings are common, and they call for a {BUSINESS_TYPE} who understands older rural construction. {COMPANY_NAME} scales {SERVICE} for that mix, handling large rural lots as readily as smaller in-town homes, and backs every project with {ESTIMATE_TYPE} estimates so there are no surprises.
 
-Tourism and fishing lead the local economy, part of the wider Cape Breton mix of education, healthcare, energy, and cultural industries centred on nearby Sydney. That steady footing is why property here is worth protecting — every home and building in Edwardsville is an investment. A community this size does not have a contractor on every corner, so owners want one team they can call and trust for the long term. {COMPANY_NAME} treats it that way, with transparent pricing, professional execution, and {SERVICE} built to hold its value through the seasons. We explain the work before it starts, keep the site tidy, and back what we do with guaranteed workmanship, whether it is a small repair or a major project. {UNIQUE_VALUE_PROP}
+## Weather and the valley calendar
+Nova Scotia's maritime climate sets the rhythm for {SERVICE} in Cambridge. The Bay of Fundy and its tides lie just beyond the valley's rim, and the same seasonal conditions that sustain the region's orchards and vineyards also decide the best windows for property work. {COMPANY_NAME} plans {PROJECT_TYPE} around that calendar rather than against it, timing work to suit the valley's weather so your {PROPERTY_TYPE} stays protected through every season.
 
-## Serving Edwardsville and the Sydney area
-Edwardsville ranks 54th of the 55 Cape Breton communities we publish, but every community gets the same standard of {SERVICE}. Coxheath is just 2.3 kilometres away, Northside East Bay about 3.2, and Grand Lake Road, Georges River, and Balls Creek all sit within six kilometres. Sydney is a 12.7-kilometre run for anything the surrounding communities cannot supply, and Halifax is about 299 kilometres up the province. Because Edwardsville's neighbours are so close together, {COMPANY_NAME} can reach {PROPERTY_TYPE} owners fast and keep travel off your bill. We have spent {YEARS_IN_BUSINESS} years earning a {RATING} rating across communities exactly like this one, treating a 281-person community with the same care as any city street. Get {ESTIMATE_TYPE} estimates on {SERVICE_LIST}, and {CTA_PRIMARY} when you're ready.
+Cambridge's position deep in the farmland is part of its appeal, but it can also mean slow service from companies based outside the region. Because {COMPANY_NAME} works throughout the Annapolis Valley, our typical response time is {RESPONSE_TIME} even for communities well off the main routes. Cambridge lies about 23.4 kilometres from Wolfville and its Acadia University campus, roughly 23.8 kilometres from Falmouth in the valley's wine-tour country, and around 24.4 kilometres from Windsor, so we fold it into the schedule that serves the valley's larger towns. That regional coverage keeps Cambridge from being an afterthought on the calendar.
+
+With {YEARS_IN_BUSINESS} years of experience and a {RATING} rating, {COMPANY_NAME} treats every {PROPERTY_TYPE} in Cambridge with care, whether it is a working farm on the valley floor or a family home in the community. {UNIQUE_VALUE_PROP} — that is what sets our {BUSINESS_TYPE} apart. {CTA_PRIMARY} or call {PHONE} to talk through your project today.
 
 ## Local Facts
-- 2021 census population: 281 residents
-- Postal FSA prefix: B1Y
-- 2.3 km from Coxheath, its nearest built community
-- About 12.7 km from Sydney and 299.1 km from Halifax
-- Part of the Cape Breton Regional Municipality
-- Local economy driven by tourism and fishing
+- Cambridge has an estimated population of about 703 (GeoNames-sourced, not census-verified).
+- It lies about 74.7 km from Halifax and 322.5 km from Sydney.
+- The nearest built-up community is Hantsport, about 15.4 km away.
+- Wolfville and Acadia University are about 23.4 km away; Windsor is about 24.4 km.
+- Cambridge is a farming community on the Annapolis Valley floor in Nova Scotia.
+- The surrounding regional economy centres on apple orchards, vineyards, and food processing.
 
 ## Information Gain
-- (computed-stat) Edwardsville ranks 54th of the 55 published Cape Breton communities by 2021 population (281), with its nearest built neighbour, Coxheath, just 2.3 kilometres away.
+- (computed-stat) Cambridge's nearest built-up community, Hantsport, sits 15.4 km away — the largest nearest-neighbour gap among this batch's two communities, marking Cambridge as the more isolated, deep-valley-floor settlement of the pair.
 
 ## Services grid (generic remix layer)
-- {SUBSERVICE_1} → /areas/edwardsville/{SERVICE_SLUG}
-- {SUBSERVICE_2} → /areas/edwardsville/{SERVICE_SLUG}
-- {SUBSERVICE_3} → /areas/edwardsville/{SERVICE_SLUG}
-- {SUBSERVICE_4} → /areas/edwardsville/{SERVICE_SLUG}
-- {SUBSERVICE_5} → /areas/edwardsville/{SERVICE_SLUG}
-- {SUBSERVICE_6} → /areas/edwardsville/{SERVICE_SLUG}
+- {SUBSERVICE_1} → /areas/cambridge/{SERVICE_SLUG}
+- {SUBSERVICE_2} → /areas/cambridge/{SERVICE_SLUG}
+- {SUBSERVICE_3} → /areas/cambridge/{SERVICE_SLUG}
+- {SUBSERVICE_4} → /areas/cambridge/{SERVICE_SLUG}
+- {SUBSERVICE_5} → /areas/cambridge/{SERVICE_SLUG}
+- {SUBSERVICE_6} → /areas/cambridge/{SERVICE_SLUG}
 
 ## FAQs
-**Q: Do you serve Edwardsville for {SERVICE}?**
-Yes. {COMPANY_NAME} is fully licensed and insured to provide {SERVICE} across the Cape Breton Regional Municipality, including Edwardsville and nearby communities like Coxheath and Northside East Bay. We carry comprehensive liability insurance and hold every provincial certification required for {BUSINESS_TYPE} work, so your project is covered from start to finish.
+**Q: Do you provide {SERVICE} in Cambridge?**
+Yes. {COMPANY_NAME} provides {SERVICE} throughout Cambridge and the surrounding Annapolis Valley farmland. Whether your property is a working farm on the valley floor or an in-town home, we schedule {SERVICE} across the region without extra travel charges. Cambridge sits about 74.7 km from Halifax, well within our Annapolis Valley service area.
 
-**Q: How does Edwardsville's Maritime climate affect {SERVICE}?**
-Edwardsville shares Cape Breton's coastal Maritime climate, where salt air and ocean winds accelerate wear on exposed {PROPERTY_TYPE}. {COMPANY_NAME} chooses materials and methods suited to a Maritime island, so your {SERVICE} stands up to Cape Breton's freeze-and-thaw winters year after year.
+**Q: Does Cambridge's distance from town affect {SERVICE}?**
+Cambridge is one of the more isolated valley communities, about 15.4 km from Hantsport, its nearest built-up neighbour. That distance rarely changes the {SERVICE} itself, but it does mean choosing a {BUSINESS_TYPE} who already works this stretch of farmland. {COMPANY_NAME} covers the full valley, so reaching Cambridge is routine for our crews.
 
-**Q: How much does {SERVICE} cost in Edwardsville?**
-Pricing varies with the scope of the job and the {PROPERTY_TYPE}. {COMPANY_NAME} offers {ESTIMATE_TYPE} estimates with transparent, upfront pricing and no hidden fees. Because Coxheath and Sydney are both close by, travel stays minimal and your quote stays focused on the work itself.
+**Q: How much does {SERVICE} cost in Cambridge?**
+{SERVICE} in Cambridge is priced by the scope of your project, not by how far out you live. Rural acreage and larger farm properties can take more time than compact in-town lots, so {COMPANY_NAME} provides {ESTIMATE_TYPE} estimates up front. That way you see the full cost before any work on your {PROPERTY_TYPE} begins.
 
-**Q: How quickly can you reach Edwardsville?**
-Fast. Edwardsville is only 2.3 kilometres from Coxheath and about 12.7 from Sydney, so our team typically responds within {RESPONSE_TIME}. Being in the Sydney commuter belt means we are rarely far away, which keeps scheduling flexible. For emergency {SERVICE} situations, we prioritize same-day service whenever possible.
+**Q: How quickly can you reach Cambridge?**
+Our typical response time in Cambridge is {RESPONSE_TIME}. Because {COMPANY_NAME} dispatches from within the Annapolis Valley rather than from Halifax, the community's rural setting does not slow us down. We fold Cambridge into the same schedule that serves Wolfville, Windsor, and Hantsport, so your project keeps moving.
 
-**Q: Why choose {COMPANY_NAME} for {SERVICE} in Edwardsville?**
-{COMPANY_NAME} brings {YEARS_IN_BUSINESS} years of experience and a {RATING} rating to every Edwardsville job. {UNIQUE_VALUE_PROP} We protect your property as the investment it is, in a community of 281 close to Sydney, and we stand behind every project with guaranteed workmanship and honest pricing. Call {PHONE}.
+**Q: Why choose {COMPANY_NAME} for {SERVICE} in Cambridge?**
+{COMPANY_NAME} pairs {YEARS_IN_BUSINESS} years of experience with a {RATING} rating and real knowledge of the Annapolis Valley's farm and orchard properties. We plan {SERVICE} around the valley's Bay of Fundy weather and treat every {PROPERTY_TYPE} in Cambridge with care. {UNIQUE_VALUE_PROP}. To book, Call {PHONE}.
 
 ## Linking (§7)
-- UP: Cape Breton service area → /areas/region/cape-breton
-- SIDEWAYS: [Coxheath, the nearest community just 2.3 km away](/areas/coxheath) · [Northside East Bay, about 3.2 km off](/areas/northside-east-bay) · [Grand Lake Road, roughly 5.5 km toward Sydney](/areas/grand-lake-road) · [Georges River, some 5.8 km along the shore](/areas/georges-river) · [Balls Creek, about 5.9 km inland](/areas/balls-creek)
-- BLOG: [What {SERVICE} Costs in Cape Breton: 2026 Guide](/blog/{SERVICE_SLUG}-cost-guide-cape-breton) · [Cape Breton Seasons and {SERVICE}: When to Book](/blog/{SERVICE_SLUG}-seasonal-guide-cape-breton) · [How to Choose a {BUSINESS_TYPE} in Cape Breton](/blog/choosing-a-{SERVICE_SLUG}-pro-cape-breton) · [Permits and Rules for {PROJECT_TYPE} in Cape Breton, Nova Scotia](/blog/{SERVICE_SLUG}-permits-cape-breton)
+- UP: Annapolis Valley service area → /areas/region/annapolis-valley
+- SIDEWAYS: [Hantsport, the nearest town, about 15.4 km along the valley floor](/areas/hantsport) · [Wolfville, roughly 23.4 km off, home to Acadia University and the Blomidon lookoff](/areas/wolfville) · [Falmouth, about 23.8 km away in the valley's wine-tour country](/areas/falmouth) · [Lower Economy, 24.3 km away](/areas/lower-economy) · [Windsor and its surrounding farmland, some 24.4 km from Cambridge](/areas/windsor)
+- BLOG: [What {SERVICE} Costs in Annapolis Valley: 2026 Guide](/blog/{SERVICE_SLUG}-cost-guide-annapolis-valley) · [Annapolis Valley Seasons and {SERVICE}: When to Book](/blog/{SERVICE_SLUG}-seasonal-guide-annapolis-valley) · [How to Choose a {BUSINESS_TYPE} in Annapolis Valley](/blog/choosing-a-{SERVICE_SLUG}-pro-annapolis-valley) · [Permits and Rules for {PROJECT_TYPE} in Annapolis Valley, Nova Scotia](/blog/{SERVICE_SLUG}-permits-annapolis-valley)
 
 ## Meta
-- SEO title: {SERVICE} in Edwardsville, NS | {COMPANY_NAME}
-- Meta description: {SERVICE} in Edwardsville, NS — {COMPANY_NAME} serves this Cape Breton community near Coxheath and Sydney with {ESTIMATE_TYPE} estimates and lasting results. Call {PHONE}.
-- Primary keyword: {SERVICE} Edwardsville
-- Conversational: {SERVICE} near me in Edwardsville | best {BUSINESS_TYPE} in Edwardsville | {SERVICE} near Coxheath Cape Breton | who does {SERVICE} between Edwardsville and Sydney | affordable {SERVICE} in Edwardsville Nova Scotia
+- SEO title: {SERVICE} in Cambridge, NS | {COMPANY_NAME}
+- Meta description: {SERVICE} in Cambridge, NS — {COMPANY_NAME} serves farms and homes across this quiet Annapolis Valley community with {ESTIMATE_TYPE} estimates. Call {PHONE}.
+- Primary keyword: {SERVICE} Cambridge
+- Conversational: {SERVICE} near me in Cambridge | best {BUSINESS_TYPE} in Cambridge Nova Scotia | {SERVICE} for a farm property near Cambridge | who does {SERVICE} between Cambridge and Hantsport | {SERVICE} in the Annapolis Valley near Wolfville
 
 ## Image
-- file: edwardsville-cape-breton-ns.webp
-- alt (rendered): {SERVICE_CATEGORY} in Edwardsville, Nova Scotia — Edwardsville, Cape Breton Nova Scotia — a small community near Coxheath, about 12.7 km from Sydney
+- file: cambridge-annapolis-valley-ns.webp
+- alt (rendered): {SERVICE_CATEGORY} in Cambridge, Nova Scotia — Cambridge, Annapolis Valley Nova Scotia — a small farming settlement on the valley floor, unusually far from any town at about 15.4 km from Hantsport
 - license: CC BY-SA 4.0
 
 ## JSON-LD @graph types
