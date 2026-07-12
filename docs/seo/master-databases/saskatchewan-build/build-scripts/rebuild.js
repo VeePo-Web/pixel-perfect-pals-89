@@ -31,7 +31,8 @@ const rows = XLSX.utils.sheet_to_json(wb.Sheets['MASTER_LOCATIONS'], {header:1, 
 const H=rows[1]; const data=rows.slice(2).filter(r=>r[0]);
 const col=n=>H.indexOf(n);
 const typeToCgn={'City':['CITY'],'Town':['TOWN'],'Northern Town':['TOWN','VILG','HAM'],'Village':['VILG','HAM'],'Resort Village':['VILG','HAM','UNP'],'Northern Village':['VILG','HAM','UNP'],'Rural Municipality':['MUN2'],'Organized Hamlet':['HAM','UNP','VILG'],'Locality':['UNP','HAM','VILG'],'Northern Hamlet':['HAM','UNP','VILG']};
-const typeToStatus={'City':'City','Town':'Town','Village':'Village','Resort Village':'Resort Village','Northern Village':'Northern Village','Northern Town':'Northern Town','Northern Hamlet':'Northern Hamlet','Rural Municipality':'Rural Municipality'};
+// StatCan sk_municipalities_clean.csv uses lowercase second words — match its exact casing
+const typeToStatus={'City':'City','Town':'Town','Village':'Village','Resort Village':'Resort village','Northern Village':'Northern village','Northern Town':'Northern town','Northern Hamlet':'Northern hamlet','Rural Municipality':'Rural Municipality'};
 
 const rmBase={};
 for(const k of Object.keys(cgn)){
@@ -64,7 +65,8 @@ for(const r of data){
     stat=Object.values(munByKey).find(x=>x.status==='Rural Municipality'&&x.name.toLowerCase().replace(/ no\. \d+$/,'')===name.toLowerCase());
   }
   let pop=Number(r[col('Population_2021_Census')])||null;
-  if(stat&&stat.pop21){ if(pop&&Math.abs(pop-stat.pop21)>2) popConflict++; pop=stat.pop21; }
+  let popSource='sheet';
+  if(stat&&stat.pop21){ if(pop&&Math.abs(pop-stat.pop21)>2) popConflict++; pop=stat.pop21; popSource='statcan'; }
   const lat=m?m.lat:null, lng=m?m.lng:null;
   if(!m) cgnMiss++;
   let dS=null,dR=null,region=null;
@@ -80,11 +82,14 @@ for(const r of data){
     const prox=Math.max((1-Math.min(dS,dR)/500)*15,0);
     const econ=/City|Regional/i.test(type)?8:/Town|Rural Municipality|Municipality|District|County/i.test(type)?5:/Village|Community|Resort/i.test(type)?3:1;
     u=Math.round((p30+sv+comp+prox+econ)*10)/10; }
-  out.push({id:r[col('Location_ID')],name,type,region0,region,vstat,pop,pop16:stat?stat.pop16:null,parentRM:stat?stat.parent_rm:null,rmOfficial:(type==='Rural Municipality'&&stat)?stat.name:null,lat,lng,dS,dR,u,slug:r[col('URL_Slug')],cgnName:m?m.nm:null});
+  out.push({id:r[col('Location_ID')],name,type,region0,region,vstat,pop,popSource,pop16:stat?stat.pop16:null,parentRM:stat?stat.parent_rm:null,rmOfficial:(type==='Rural Municipality'&&stat)?stat.name:null,lat,lng,dS,dR,u,slug:r[col('URL_Slug')],cgnName:m?m.nm:null});
 }
 console.log('CGN unmatched rows:', cgnMiss, ' popConflicts(StatCan wins):', popConflict);
 const incNames=new Set(out.filter(s=>/City|Town|Village/.test(s.type)).map(s=>s.name.toLowerCase()));
-const built=out.filter(s=>s.u>=50 && s.pop>0 && s.lat && s.vstat==='Verified' && !(s.type==='Locality'&&incNames.has(s.name.toLowerCase())));
+// EXPANDED GATE (full-coverage build): every place with a real StatCan population + CGN-verified
+// coordinates + source Verification_Status = Verified. Score threshold and RM floor dropped — the hard
+// grounding gate (real pop + real coords + Verified) is what keeps thin/ungroundable pages out.
+const built=out.filter(s=>s.popSource==='statcan' && s.lat && !(s.type==='Locality'&&incNames.has(s.name.toLowerCase())));
 built.sort((a,b)=>b.u-a.u);
 console.log('BUILT after re-ground:', built.length);
 const byR={}; for(const b of built)(byR[b.region]=byR[b.region]||[]).push(b.name+'('+b.type[0]+',p'+b.pop+',u'+b.u+',dS'+b.dS+',dR'+b.dR+')');
@@ -105,7 +110,10 @@ for(const b of built){
 fs.writeFileSync('sk_built_final.json', JSON.stringify(built,null,1));
 const builtIds=new Set(built.map(b=>b.id));
 const deferred=out.filter(s=>!builtIds.has(s.id)).map(s=>({id:s.id,name:s.name,type:s.type,region:s.region||s.region0,pop:s.pop,u:s.u,
-  reason: !s.lat?'no CGN-verifiable coordinates':!(s.pop>0)?'no real census population':(s.u<50)?('unified score '+s.u+' below 50'):s.vstat!=='Verified'?('source Verification_Status '+s.vstat):(s.type==='Locality'&&incNames.has(s.name.toLowerCase()))?'duplicate place (locality twin of incorporated municipality)':'other'}));
+  reason: (s.type==='Locality'&&incNames.has(s.name.toLowerCase()))?'duplicate place (locality twin of an incorporated municipality)'
+    : s.popSource!=='statcan'?('no published StatCan census population ('+s.type+' — unincorporated locality / reserve / neighborhood; population would have to be invented)')
+    : !s.lat?'no CGN-verifiable coordinates'
+    : 'other'}));
 fs.writeFileSync('sk_deferred_final.json', JSON.stringify(deferred));
 const dr={}; for(const d of deferred){const k=d.reason.replace(/ [\d.]+ below 50/,' below 50');dr[k]=(dr[k]||0)+1;}
 console.log('\nDEFERRED total', deferred.length, JSON.stringify(dr,null,1));

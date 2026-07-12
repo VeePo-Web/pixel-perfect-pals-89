@@ -44,6 +44,11 @@ const REGION={
    soil:'black chernozem parkland grading to grey wooded soils and boreal forest',
    econ:'agriculture, heavy oil at Lloydminster and forestry toward Meadow Lake',
    blogs:['northwest-saskatchewan-cost-guide-2026','how-to-choose-a-{BUSINESS_TYPE}-northwest-saskatchewan','northwest-saskatchewan-seasonal-{SERVICE}-guide']},
+ 'Northern Saskatchewan':{slug:'northern-saskatchewan',hub:'the north (via Prince Albert)',
+   climate:'the boreal north’s long, severe subarctic winters, deep frost, heavy snow and short building seasons',
+   soil:'boreal forest over grey-wooded soils and Canadian Shield rock, laced with lakes and muskeg',
+   econ:'uranium mining (Cameco and Orano at McArthur River, Cigar Lake, Key Lake and Rabbit Lake), forestry, commercial fishing and outfitting tourism',
+   blogs:['northern-saskatchewan-cost-guide-2026','how-to-choose-a-{BUSINESS_TYPE}-northern-saskatchewan','northern-saskatchewan-seasonal-{SERVICE}-guide']},
 };
 
 const GEO_RADIUS=(t,pop)=>t==='Rural Municipality'?25000:pop>=25000?12000:t==='City'?8000:/Village/.test(t)?2500:4000;
@@ -81,8 +86,8 @@ function opener(b,c,rg,used){
   // fast growth commuter
   if(growth!=null&&growth>=0.06&&cor.commuter) cand.push({type:'growth',text:`${b.name} is one of ${b.region}’s fastest-growing communities, up ${Math.round(growth*100)}% to ${fmt(b.pop)} residents in the 2021 census as ${cor.hub}’s commuter belt pushes ${cor.near} km out.`});
   else if(growth!=null&&growth>=0.06) cand.push({type:'growth',text:`${b.name} grew ${Math.round(growth*100)}% between the 2016 and 2021 censuses to ${fmt(b.pop)} residents — fast for a ${b.region} ${A}.`});
-  // RM
-  if(b.type==='Rural Municipality') cand.push({type:'rm',text:`The Rural Municipality of ${b.name}${b.rmOfficial&&/No\./.test(b.rmOfficial)?' ('+b.rmOfficial+')':''} is a ${fmt(b.pop)}-resident farming municipality in ${b.region}, ${cor.near} km from ${cor.hub}.`});
+  // RM — always use the distinctive RM opener (never fall through to a shared "anchors" template)
+  if(b.type==='Rural Municipality'){ used.add('rm'); return {type:'rm',text:`The Rural Municipality of ${b.name}${b.rmOfficial&&/No\./.test(b.rmOfficial)?' ('+b.rmOfficial+')':''} is a ${fmt(b.pop)}-resident farming municipality in ${b.region}, ${cor.near} km from ${cor.hub}.`}; }
   // water
   if(water&&b.type!=='Rural Municipality') cand.push({type:'water',text:`${b.name} sits beside ${water} in ${b.region}, a Saskatchewan ${A} of ${fmt(b.pop)} ${cor.near} km from ${cor.hub}.`});
   // commuter satellite
@@ -151,7 +156,7 @@ function about(b,c,used){
   P.push(p3);
   // P3b seasonal — grounded to prairie seasons, tied to {SERVICE}
   const hail = b.region.includes('Southeast')||b.region.includes('Southern')?' and a real summer hail risk':'';
-  const winter = b.region.includes('Northwest')||b.region.includes('Central')?'deep, snow-loaded parkland cold and heavy snow loads':'open-plain cold in the −30 °C range';
+  const winter = b.region.includes('Northern')?'long, severe boreal winters with deep frost and heavy snow':b.region.includes('Northwest')||b.region.includes('Central')?'deep, snow-loaded parkland cold and heavy snow loads':'open-plain cold in the −30 °C range';
   let p3b=`The seasons set the calendar for {SERVICE} in ${b.name}. Winters bring ${winter}, so anything installed here has to handle deep frost and repeated freeze–thaw without failing. `;
   p3b+=`Spring thaw and shifting ground test drainage and fasteners${hail}, while the long, bright summers are the working window when {COMPANY_NAME} schedules most {SERVICE} in and around ${b.name}. `;
   p3b+=`Planning the work to the ${b.region} season — not just booking whenever — is part of getting a {SERVICE} job to last out here.`;

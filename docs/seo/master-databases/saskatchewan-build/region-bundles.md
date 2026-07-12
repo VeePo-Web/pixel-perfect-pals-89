@@ -175,16 +175,29 @@ Provincial hubs for distance grounding: Saskatoon (52.1397, −106.6862) and Reg
 - **Blogs:** `northwest-saskatchewan-cost-guide-2026` · `how-to-choose-a-{BUSINESS_TYPE}-northwest-saskatchewan`
   · `northwest-saskatchewan-seasonal-{SERVICE}-guide` · `northwest-saskatchewan-permit-and-bylaw-guide`
 
-## Northern Saskatchewan — slug `northern-saskatchewan` (navigation only, `noindex` in tier 1)
-No tier-1 location cleared the gate (northern rows fail on coordinates verification, population sourcing
-or score). The region page ships for hub navigation and future La Ronge/Air Ronge/Creighton/Île-à-la-
-Crosse pages once their rows are re-grounded; it stays out of the sitemap.
+## Northern Saskatchewan — slug `northern-saskatchewan`
+- **Climate:** boreal subarctic (Köppen Dfc) — long, severe winters, deep frost, heavy snow and a short
+  building season; freeze–thaw is less the issue than sustained deep cold and remote logistics.
+- **Geology/soil:** boreal forest over grey-wooded soils and Canadian Shield rock in the northeast, laced
+  with lakes, rivers and muskeg; the transition to true north sits along the 54.4° line used to bucket it.
+- **Economy:** uranium mining dominates — Cameco and Orano operate McArthur River, Cigar Lake, Key Lake
+  and Rabbit Lake, among the richest uranium deposits on Earth — alongside forestry, commercial fishing,
+  and outfitting/fly-in tourism; many communities are northern villages, hamlets and reserves.
+- **Building stock:** northern housing built for extreme cold, band and municipal housing, remote and
+  fly-in construction, and lakeside cabins; access and freight cost shape every project.
+- **Landmarks:** Lac La Ronge and Lac La Ronge Provincial Park; the Churchill River system; Lake Athabasca
+  and the Athabasca Sand Dunes (the largest active dunes in Canada north of 58°); Highways 2, 102 and 155.
+- **Region page:** {COMPANY_NAME} across the incorporated north — La Ronge, Air Ronge, Creighton,
+  Île-à-la-Crosse, Pinehouse, Beauval, Buffalo Narrows, Green Lake, Stony Rapids and the northern
+  villages and hamlets — with the far-north settlements named as service-area coverage.
+- **Blogs:** `northern-saskatchewan-cost-guide-2026` · `how-to-choose-a-{BUSINESS_TYPE}-northern-saskatchewan`
+  · `northern-saskatchewan-seasonal-{SERVICE}-guide` · `northern-saskatchewan-permit-and-bylaw-guide`
 
 ---
 
 ## Hub page — `/areas`
-Answer-first: {COMPANY_NAME} provides {SERVICE_CATEGORY} across Saskatchewan — Saskatoon, Regina and 130
-communities from Lloydminster to Moosomin — organized into the 8 regions above, each linked with a
+Answer-first: {COMPANY_NAME} provides {SERVICE_CATEGORY} across Saskatchewan — Saskatoon, Regina and 761
+other incorporated communities from Stony Rapids to Estevan — organized into the 9 regions above, each linked with a
 descriptive geo-anchor. Trust badges ({YEARS_IN_BUSINESS}, {RATING}, {CERTIFICATIONS}); `{CTA_PRIMARY}`
 ending `{PHONE}`; BreadcrumbList (Home → Areas We Serve); links DOWN to all region pages and the two
 hub-city pages; no location content duplicated here (stay-in-your-lane).

@@ -29,11 +29,11 @@ national anchor Toronto 2,794,356). Populations were cross-checked against StatC
 `sk_municipalities_clean.csv` (0 conflicts; StatCan wins on tie). Rows without a CGN match keep no
 coordinates and are deferred — coordinates are never guessed.
 
-**Region taxonomy (9 → 8 active):** Saskatoon Region · Regina Region · Central Saskatchewan · Southeast
+**Region taxonomy (9 active):** Saskatoon Region · Regina Region · Central Saskatchewan · Southeast
 Saskatchewan · Southern Saskatchewan · Southwest Saskatchewan · West Central Saskatchewan · Northwest
-Saskatchewan. (Northern Saskatchewan has no tier-1 pass; its rows are deferred, the region page ships
-with the hub for navigation only, `noindex` until it has children.) Source labels "Northwest"/"Southeast"
-normalized to full names.
+Saskatchewan · Northern Saskatchewan (23 incorporated northern municipalities — La Ronge, Air Ronge,
+Creighton, Île-à-la-Crosse, Pinehouse, Beauval, Stony Rapids and the northern villages/hamlets). Source
+labels "Northwest"/"Southeast" normalized to full names.
 
 ## 2 · Publish-gate math (state the math)
 
@@ -143,9 +143,9 @@ Word-count gates enforced per row: Entity 50–100 · AI snippet 40–60 (ends `
 | File | What |
 |---|---|
 | `README.md` | This spec — mode, corrections, gate math, encoded-once patterns |
-| `region-bundles.md` | 8 region fact bundles (computed once) + region page content + hub page + blog slugs |
+| `region-bundles.md` | 9 region fact bundles (computed once) + region page content + hub page + blog slugs |
 | `locations/<region>.json` | Per-location upgraded rows (BUILT tier), one array per region |
-| `deferred-ledger.csv` | All 1,796 deferred rows: id, name, type, region, pop, score, reason |
+| `deferred-ledger.csv` | All 1,163 deferred rows: id, name, type, region, pop, score, reason |
 | `audit-report.md` | Final audit: reconciliation, defect sweeps, distribution, sample pages |
 
 Robots/sitemap contract (site-level): every BUILT URL in a segmented sitemap with honest
