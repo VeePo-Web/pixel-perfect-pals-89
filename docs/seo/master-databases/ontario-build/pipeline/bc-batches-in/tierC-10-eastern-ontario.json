@@ -1,0 +1,187 @@
+{
+ "tier": "C",
+ "region": "Eastern Ontario",
+ "count": 4,
+ "rows": [
+  {
+   "id": "ON-0588",
+   "name": "Hastings Highlands",
+   "type": "Municipality",
+   "parentMuni": "Hastings",
+   "region": "Eastern Ontario",
+   "slug": "hastings-highlands",
+   "lat": 45.227,
+   "lng": -77.935,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 205,
+   "distOttawaKm": 149,
+   "pop2021": 4385,
+   "pop2025": 4604,
+   "unifiedScore": 55.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Prince Edward",
+     "slug": "prince-edward",
+     "km": 16
+    },
+    {
+     "name": "Stone Mills",
+     "slug": "stone-mills",
+     "km": 18
+    },
+    {
+     "name": "Leeds and the Thousand Islands",
+     "slug": "leeds-and-the-thousand-islands",
+     "km": 29
+    },
+    {
+     "name": "Central Frontenac",
+     "slug": "central-frontenac",
+     "km": 32
+    }
+   ]
+  },
+  {
+   "id": "ON-0486",
+   "name": "Tyendinaga",
+   "type": "Township",
+   "parentMuni": "Hastings",
+   "region": "Eastern Ontario",
+   "slug": "tyendinaga",
+   "lat": 44.245,
+   "lng": -77.1,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 205,
+   "distOttawaKm": 175,
+   "pop2021": 4538,
+   "pop2025": 4764,
+   "unifiedScore": 54.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Stirling-Rawdon",
+     "slug": "stirling-rawdon",
+     "km": 17
+    },
+    {
+     "name": "Tyendinaga Mohawk Territory",
+     "slug": "tyendinaga-mohawk-territory",
+     "km": 20
+    },
+    {
+     "name": "Loyalist",
+     "slug": "loyalist",
+     "km": 23
+    },
+    {
+     "name": "Leeds and the Thousand Islands",
+     "slug": "leeds-and-the-thousand-islands",
+     "km": 31
+    }
+   ]
+  },
+  {
+   "id": "ON-0595",
+   "name": "Tyendinaga Mohawk Territory",
+   "type": "First Nations Reserve",
+   "parentMuni": null,
+   "region": "Eastern Ontario",
+   "slug": "tyendinaga-mohawk-territory",
+   "lat": 44.18,
+   "lng": -77.13,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 190,
+   "distOttawaKm": 178,
+   "pop2021": 8060,
+   "pop2025": 8463,
+   "unifiedScore": 54.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Stirling-Rawdon",
+     "slug": "stirling-rawdon",
+     "km": 14
+    },
+    {
+     "name": "Belleville",
+     "slug": "belleville",
+     "km": 20
+    },
+    {
+     "name": "Tyendinaga",
+     "slug": "tyendinaga",
+     "km": 20
+    },
+    {
+     "name": "Leeds and the Thousand Islands",
+     "slug": "leeds-and-the-thousand-islands",
+     "km": 33
+    }
+   ]
+  },
+  {
+   "id": "ON-0365",
+   "name": "Bancroft",
+   "type": "Town",
+   "parentMuni": "Hastings",
+   "region": "Eastern Ontario",
+   "slug": "bancroft",
+   "lat": 45.056,
+   "lng": -77.856,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 246,
+   "distOttawaKm": 172,
+   "pop2021": 4065,
+   "pop2025": 4268,
+   "unifiedScore": 54.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Kingston",
+     "slug": "kingston",
+     "km": 34
+    },
+    {
+     "name": "Elizabethtown-Kitley",
+     "slug": "elizabethtown-kitley",
+     "km": 41
+    },
+    {
+     "name": "Marmora and Lake",
+     "slug": "marmora-and-lake",
+     "km": 42
+    },
+    {
+     "name": "Loyalist",
+     "slug": "loyalist",
+     "km": 44
+    }
+   ]
+  }
+ ]
+}

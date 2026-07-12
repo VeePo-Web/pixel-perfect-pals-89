@@ -1,0 +1,187 @@
+{
+ "tier": "B",
+ "region": "Eastern Ontario",
+ "count": 4,
+ "rows": [
+  {
+   "id": "ON-0032",
+   "name": "Brockville",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Eastern Ontario",
+   "slug": "brockville",
+   "lat": 44.59,
+   "lng": -75.685,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 313,
+   "distOttawaKm": 93,
+   "pop2021": 22116,
+   "pop2025": 23221,
+   "unifiedScore": 67.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Greater Napanee",
+     "slug": "greater-napanee",
+     "km": 17
+    },
+    {
+     "name": "Prescott",
+     "slug": "prescott",
+     "km": 19
+    },
+    {
+     "name": "Tay Valley",
+     "slug": "tay-valley",
+     "km": 23
+    },
+    {
+     "name": "Smiths Falls",
+     "slug": "smiths-falls",
+     "km": 44
+    }
+   ]
+  },
+  {
+   "id": "ON-0035",
+   "name": "Quinte West",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Eastern Ontario",
+   "slug": "quinte-west",
+   "lat": 44.101,
+   "lng": -77.577,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 157,
+   "distOttawaKm": 201,
+   "pop2021": 46560,
+   "pop2025": 48888,
+   "unifiedScore": 67,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Belleville",
+     "slug": "belleville",
+     "km": 15
+    },
+    {
+     "name": "Tyendinaga Mohawk Territory",
+     "slug": "tyendinaga-mohawk-territory",
+     "km": 35
+    },
+    {
+     "name": "Stirling-Rawdon",
+     "slug": "stirling-rawdon",
+     "km": 47
+    },
+    {
+     "name": "Hastings Highlands",
+     "slug": "hastings-highlands",
+     "km": 52
+    }
+   ]
+  },
+  {
+   "id": "ON-0034",
+   "name": "Prince Edward",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Eastern Ontario",
+   "slug": "prince-edward",
+   "lat": 44.008,
+   "lng": -77.144,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 221,
+   "distOttawaKm": 133,
+   "pop2021": 25704,
+   "pop2025": 26989,
+   "unifiedScore": 66.5,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "Central Frontenac",
+     "slug": "central-frontenac",
+     "km": 15
+    },
+    {
+     "name": "Stone Mills",
+     "slug": "stone-mills",
+     "km": 16
+    },
+    {
+     "name": "Hastings Highlands",
+     "slug": "hastings-highlands",
+     "km": 16
+    },
+    {
+     "name": "Leeds and the Thousand Islands",
+     "slug": "leeds-and-the-thousand-islands",
+     "km": 30
+    }
+   ]
+  },
+  {
+   "id": "ON-0119",
+   "name": "South Frontenac",
+   "type": "Township",
+   "parentMuni": "Frontenac",
+   "region": "Eastern Ontario",
+   "slug": "south-frontenac",
+   "lat": 44.4,
+   "lng": -76.581,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 249,
+   "distOttawaKm": 120,
+   "pop2021": 20188,
+   "pop2025": 21197,
+   "unifiedScore": 63.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "government services, tourism, education, and military",
+    "features": "Thousand Islands, Rideau Canal, limestone heritage architecture, and Bay of Quinte"
+   },
+   "neighbors": [
+    {
+     "name": "North Grenville",
+     "slug": "north-grenville",
+     "km": 12
+    },
+    {
+     "name": "Tweed",
+     "slug": "tweed",
+     "km": 13
+    },
+    {
+     "name": "Leeds and the Thousand Islands",
+     "slug": "leeds-and-the-thousand-islands",
+     "km": 29
+    },
+    {
+     "name": "Kingston",
+     "slug": "kingston",
+     "km": 30
+    }
+   ]
+  }
+ ]
+}

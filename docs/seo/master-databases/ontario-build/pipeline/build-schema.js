@@ -2,8 +2,11 @@
 // a segmented sitemap, and robots.txt.
 const fs = require('fs');
 const OUT = __dirname + '\\..\\deliver';
-const rows = fs.readFileSync(__dirname + '\\batches-out\\batch-flagships.jsonl', 'utf8')
-  .split(/\r?\n/).filter(l => l.trim()).map(l => JSON.parse(l));
+const rows = [];
+for (const f of fs.readdirSync(__dirname + '\\batches-out').filter(f => f.endsWith('.jsonl')))
+  for (const l of fs.readFileSync(__dirname + '\\batches-out\\' + f, 'utf8').split(/\r?\n/).filter(x => x.trim()))
+    rows.push(JSON.parse(l));
+rows.sort((a, b) => a.id < b.id ? -1 : 1);
 const inputs = {};
 for (const f of fs.readdirSync(__dirname + '\\batches-in').filter(f => f.endsWith('.json')))
   for (const r of JSON.parse(fs.readFileSync(__dirname + '\\batches-in\\' + f, 'utf8')).rows) inputs[r.id] = r;
@@ -101,7 +104,8 @@ fs.writeFileSync(OUT + '\\sample-page-toronto.html', html);
 
 // 3) sitemap (segmented — one urlset for the built location pages)
 const sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'];
-for (const r of rows) sm.push(`  <url><loc>{BRAND_URL}/areas/${r.slug}</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>`);
+let smCount = 0;
+for (const r of rows) { if (r.verification === 'Needs_Review') continue; smCount++; sm.push(`  <url><loc>{BRAND_URL}/areas/${r.slug}</loc><lastmod>2026-07-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>`); }
 sm.push('</urlset>');
 fs.writeFileSync(OUT + '\\sitemap-areas-ontario.xml', sm.join('\n'));
 
@@ -128,4 +132,4 @@ Allow: /
 
 Sitemap: {BRAND_URL}/sitemap-areas-ontario.xml
 `);
-console.log('schema graphs:', schemaLines.length, '| sample HTML + sitemap + robots written');
+console.log('schema graphs:', schemaLines.length, '| sitemap URLs (Verified only):', smCount, '| sample HTML + robots written');

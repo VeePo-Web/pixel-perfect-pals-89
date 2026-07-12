@@ -1,0 +1,52 @@
+{
+ "tier": "C",
+ "region": "Southwestern Ontario",
+ "count": 1,
+ "rows": [
+  {
+   "id": "ON-0589",
+   "name": "Howick",
+   "type": "Township",
+   "parentMuni": "Huron",
+   "region": "Southwestern Ontario",
+   "slug": "howick",
+   "lat": 43.863,
+   "lng": -81.129,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 205,
+   "distOttawaKm": 539,
+   "pop2021": 4045,
+   "pop2025": 4247,
+   "unifiedScore": 53.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Haldimand",
+     "slug": "haldimand",
+     "km": 25
+    },
+    {
+     "name": "Bluewater",
+     "slug": "bluewater",
+     "km": 25
+    },
+    {
+     "name": "North Middlesex",
+     "slug": "north-middlesex",
+     "km": 30
+    },
+    {
+     "name": "South Huron",
+     "slug": "south-huron",
+     "km": 37
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "tier": "B",
+ "region": "Ottawa-Eastern",
+ "count": 1,
+ "rows": [
+  {
+   "id": "ON-0024",
+   "name": "Clarence-Rockland",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Ottawa-Eastern",
+   "slug": "clarence-rockland",
+   "lat": 45.551,
+   "lng": -75.291,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 389,
+   "distOttawaKm": 39,
+   "pop2021": 26505,
+   "pop2025": 27830,
+   "unifiedScore": 69.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "federal government, technology, bilingual services, and tourism",
+    "features": "Parliament Hill, Rideau Canal, bilingual communities, and Ottawa Valley"
+   },
+   "neighbors": [
+    {
+     "name": "McNab/Braeside",
+     "slug": "mcnab-braeside",
+     "km": 12
+    },
+    {
+     "name": "Russell",
+     "slug": "russell",
+     "km": 28
+    },
+    {
+     "name": "Ottawa",
+     "slug": "ottawa",
+     "km": 39
+    },
+    {
+     "name": "North Glengarry",
+     "slug": "north-glengarry",
+     "km": 40
+    }
+   ]
+  }
+ ]
+}

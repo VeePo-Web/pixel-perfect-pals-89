@@ -1,0 +1,277 @@
+{
+ "tier": "B",
+ "region": "Hamilton-Niagara",
+ "count": 6,
+ "rows": [
+  {
+   "id": "ON-0023",
+   "name": "Welland",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Hamilton-Niagara",
+   "slug": "welland",
+   "lat": 42.992,
+   "lng": -79.248,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 75,
+   "distOttawaKm": 392,
+   "pop2021": 55750,
+   "pop2025": 58537,
+   "unifiedScore": 69.8,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 9
+    },
+    {
+     "name": "Port Colborne",
+     "slug": "port-colborne",
+     "km": 11
+    },
+    {
+     "name": "Thorold",
+     "slug": "thorold",
+     "km": 15
+    },
+    {
+     "name": "Niagara Falls",
+     "slug": "niagara-falls",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0026",
+   "name": "Thorold",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Hamilton-Niagara",
+   "slug": "thorold",
+   "lat": 43.123,
+   "lng": -79.201,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 61,
+   "distOttawaKm": 379,
+   "pop2021": 23816,
+   "pop2025": 25006,
+   "unifiedScore": 68.5,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 6
+    },
+    {
+     "name": "Niagara Falls",
+     "slug": "niagara-falls",
+     "km": 10
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 14
+    },
+    {
+     "name": "Welland",
+     "slug": "welland",
+     "km": 15
+    }
+   ]
+  },
+  {
+   "id": "ON-0033",
+   "name": "Port Colborne",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Hamilton-Niagara",
+   "slug": "port-colborne",
+   "lat": 42.886,
+   "lng": -79.251,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 86,
+   "distOttawaKm": 400,
+   "pop2021": 20033,
+   "pop2025": 21034,
+   "unifiedScore": 67.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Welland",
+     "slug": "welland",
+     "km": 11
+    },
+    {
+     "name": "Fort Erie",
+     "slug": "fort-erie",
+     "km": 17
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 18
+    },
+    {
+     "name": "West Lincoln",
+     "slug": "west-lincoln",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0059",
+   "name": "Grimsby",
+   "type": "Town",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "grimsby",
+   "lat": 43.2,
+   "lng": -79.56,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 53,
+   "distOttawaKm": 394,
+   "pop2021": 28883,
+   "pop2025": 30327,
+   "unifiedScore": 66.2,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Lincoln",
+     "slug": "lincoln",
+     "km": 11
+    },
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 25
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 25
+    },
+    {
+     "name": "Hamilton",
+     "slug": "hamilton",
+     "km": 26
+    }
+   ]
+  },
+  {
+   "id": "ON-0063",
+   "name": "Lincoln",
+   "type": "Town",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "lincoln",
+   "lat": 43.166,
+   "lng": -79.457,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 55,
+   "distOttawaKm": 389,
+   "pop2021": 25719,
+   "pop2025": 27004,
+   "unifiedScore": 65.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Grimsby",
+     "slug": "grimsby",
+     "km": 11
+    },
+    {
+     "name": "St. Catharines",
+     "slug": "st-catharines",
+     "km": 15
+    },
+    {
+     "name": "Pelham",
+     "slug": "pelham",
+     "km": 16
+    },
+    {
+     "name": "Thorold",
+     "slug": "thorold",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0062",
+   "name": "Fort Erie",
+   "type": "Town",
+   "parentMuni": "Niagara",
+   "region": "Hamilton-Niagara",
+   "slug": "fort-erie",
+   "lat": 42.909,
+   "lng": -78.93,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 88,
+   "distOttawaKm": 387,
+   "pop2021": 32901,
+   "pop2025": 34546,
+   "unifiedScore": 65.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "manufacturing, steel production, wine tourism, and healthcare",
+    "features": "Niagara Escarpment, 100+ waterfalls, Welland Canal, and Niagara wine region"
+   },
+   "neighbors": [
+    {
+     "name": "Port Colborne",
+     "slug": "port-colborne",
+     "km": 17
+    },
+    {
+     "name": "West Lincoln",
+     "slug": "west-lincoln",
+     "km": 17
+    },
+    {
+     "name": "Welland",
+     "slug": "welland",
+     "km": 19
+    },
+    {
+     "name": "Niagara Falls",
+     "slug": "niagara-falls",
+     "km": 21
+    }
+   ]
+  }
+ ]
+}

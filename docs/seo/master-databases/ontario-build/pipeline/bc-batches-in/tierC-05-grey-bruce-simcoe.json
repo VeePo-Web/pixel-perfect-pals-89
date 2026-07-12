@@ -1,0 +1,547 @@
+{
+ "tier": "C",
+ "region": "Grey-Bruce-Simcoe",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0109",
+   "name": "Clearview",
+   "type": "Township",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "clearview",
+   "lat": 44.418,
+   "lng": -80.089,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 99,
+   "distOttawaKm": 364,
+   "pop2021": 14814,
+   "pop2025": 15554,
+   "unifiedScore": 62.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Wasaga Beach",
+     "slug": "wasaga-beach",
+     "km": 16
+    },
+    {
+     "name": "Collingwood",
+     "slug": "collingwood",
+     "km": 17
+    },
+    {
+     "name": "The Blue Mountains",
+     "slug": "the-blue-mountains",
+     "km": 22
+    },
+    {
+     "name": "Springwater",
+     "slug": "springwater",
+     "km": 25
+    }
+   ]
+  },
+  {
+   "id": "ON-0092",
+   "name": "Mono",
+   "type": "Town",
+   "parentMuni": "Dufferin",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "mono",
+   "lat": 44.003,
+   "lng": -80.07,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 69,
+   "distOttawaKm": 378,
+   "pop2021": 9421,
+   "pop2025": 9892,
+   "unifiedScore": 62.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Shelburne",
+     "slug": "shelburne",
+     "km": 12
+    },
+    {
+     "name": "Orangeville",
+     "slug": "orangeville",
+     "km": 13
+    },
+    {
+     "name": "New Tecumseth",
+     "slug": "new-tecumseth",
+     "km": 25
+    },
+    {
+     "name": "Essa",
+     "slug": "essa",
+     "km": 31
+    }
+   ]
+  },
+  {
+   "id": "ON-0097",
+   "name": "Shelburne",
+   "type": "Town",
+   "parentMuni": "Dufferin",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "shelburne",
+   "lat": 44.079,
+   "lng": -80.203,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 81,
+   "distOttawaKm": 386,
+   "pop2021": 8994,
+   "pop2025": 9443,
+   "unifiedScore": 62,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Mono",
+     "slug": "mono",
+     "km": 12
+    },
+    {
+     "name": "Orangeville",
+     "slug": "orangeville",
+     "km": 20
+    },
+    {
+     "name": "Southgate",
+     "slug": "southgate",
+     "km": 31
+    },
+    {
+     "name": "New Tecumseth",
+     "slug": "new-tecumseth",
+     "km": 35
+    }
+   ]
+  },
+  {
+   "id": "ON-0081",
+   "name": "Midland",
+   "type": "Town",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "midland",
+   "lat": 44.75,
+   "lng": -79.884,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 128,
+   "distOttawaKm": 337,
+   "pop2021": 17817,
+   "pop2025": 18707,
+   "unifiedScore": 61.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Tiny",
+     "slug": "tiny",
+     "km": 5
+    },
+    {
+     "name": "Penetanguishene",
+     "slug": "penetanguishene",
+     "km": 5
+    },
+    {
+     "name": "Tay",
+     "slug": "tay",
+     "km": 10
+    },
+    {
+     "name": "Arran–Elderslie",
+     "slug": "arran-elderslie",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0118",
+   "name": "Severn",
+   "type": "Township",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "severn",
+   "lat": 44.7,
+   "lng": -79.65,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 122,
+   "distOttawaKm": 309,
+   "pop2021": 14576,
+   "pop2025": 15304,
+   "unifiedScore": 61.7,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Orillia",
+     "slug": "orillia",
+     "km": 18
+    },
+    {
+     "name": "Tay",
+     "slug": "tay",
+     "km": 20
+    },
+    {
+     "name": "Oro-Medonte",
+     "slug": "oro-medonte",
+     "km": 26
+    },
+    {
+     "name": "Ramara",
+     "slug": "ramara",
+     "km": 27
+    }
+   ]
+  },
+  {
+   "id": "ON-0143",
+   "name": "Ramara",
+   "type": "Township",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "ramara",
+   "lat": 44.55,
+   "lng": -79.17,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 110,
+   "distOttawaKm": 290,
+   "pop2021": 10377,
+   "pop2025": 10895,
+   "unifiedScore": 61.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Orillia",
+     "slug": "orillia",
+     "km": 16
+    },
+    {
+     "name": "Severn",
+     "slug": "severn",
+     "km": 27
+    },
+    {
+     "name": "Oro-Medonte",
+     "slug": "oro-medonte",
+     "km": 32
+    },
+    {
+     "name": "Tay",
+     "slug": "tay",
+     "km": 44
+    }
+   ]
+  },
+  {
+   "id": "ON-0180",
+   "name": "West Grey",
+   "type": "Municipality",
+   "parentMuni": "Grey",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "west-grey",
+   "lat": 44.191,
+   "lng": -80.81,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 129,
+   "distOttawaKm": 427,
+   "pop2021": 13131,
+   "pop2025": 13787,
+   "unifiedScore": 61.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Hanover",
+     "slug": "hanover",
+     "km": 17
+    },
+    {
+     "name": "Southgate",
+     "slug": "southgate",
+     "km": 20
+    },
+    {
+     "name": "South Bruce",
+     "slug": "south-bruce",
+     "km": 24
+    },
+    {
+     "name": "Chatsworth",
+     "slug": "chatsworth",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0146",
+   "name": "Tay",
+   "type": "Township",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "tay",
+   "lat": 44.73,
+   "lng": -79.755,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 122,
+   "distOttawaKm": 329,
+   "pop2021": 11091,
+   "pop2025": 11645,
+   "unifiedScore": 61.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Midland",
+     "slug": "midland",
+     "km": 10
+    },
+    {
+     "name": "Tiny",
+     "slug": "tiny",
+     "km": 15
+    },
+    {
+     "name": "Penetanguishene",
+     "slug": "penetanguishene",
+     "km": 15
+    },
+    {
+     "name": "Northern Bruce Peninsula",
+     "slug": "northern-bruce-peninsula",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0262",
+   "name": "Grey Highlands",
+   "type": "Municipality",
+   "parentMuni": "Grey",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "grey-highlands",
+   "lat": 44.318,
+   "lng": -80.647,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 117,
+   "distOttawaKm": 397,
+   "pop2021": 10424,
+   "pop2025": 10945,
+   "unifiedScore": 61.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Southgate",
+     "slug": "southgate",
+     "km": 19
+    },
+    {
+     "name": "The Blue Mountains",
+     "slug": "the-blue-mountains",
+     "km": 24
+    },
+    {
+     "name": "Collingwood",
+     "slug": "collingwood",
+     "km": 29
+    },
+    {
+     "name": "Chatsworth",
+     "slug": "chatsworth",
+     "km": 29
+    }
+   ]
+  },
+  {
+   "id": "ON-0147",
+   "name": "Tiny",
+   "type": "Township",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "tiny",
+   "lat": 44.663,
+   "lng": -79.93,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 133,
+   "distOttawaKm": 340,
+   "pop2021": 12966,
+   "pop2025": 13614,
+   "unifiedScore": 61.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Penetanguishene",
+     "slug": "penetanguishene",
+     "km": 2
+    },
+    {
+     "name": "Midland",
+     "slug": "midland",
+     "km": 5
+    },
+    {
+     "name": "Tay",
+     "slug": "tay",
+     "km": 15
+    },
+    {
+     "name": "Arran–Elderslie",
+     "slug": "arran-elderslie",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0178",
+   "name": "Southgate",
+   "type": "Township",
+   "parentMuni": "Grey",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "southgate",
+   "lat": 44.168,
+   "lng": -80.39,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 111,
+   "distOttawaKm": 409,
+   "pop2021": 8716,
+   "pop2025": 9151,
+   "unifiedScore": 61,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Grey Highlands",
+     "slug": "grey-highlands",
+     "km": 19
+    },
+    {
+     "name": "West Grey",
+     "slug": "west-grey",
+     "km": 20
+    },
+    {
+     "name": "Shelburne",
+     "slug": "shelburne",
+     "km": 31
+    },
+    {
+     "name": "Chatsworth",
+     "slug": "chatsworth",
+     "km": 36
+    }
+   ]
+  },
+  {
+   "id": "ON-0251",
+   "name": "The Blue Mountains",
+   "type": "Town",
+   "parentMuni": "Grey",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "the-blue-mountains",
+   "lat": 44.564,
+   "lng": -80.452,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": "name defect fixed (\"Blue MountainsThe Blue Mountains\"); slug re-frozen the-blue-mountains",
+   "distTorontoKm": 208,
+   "distOttawaKm": 413,
+   "pop2021": 9390,
+   "pop2025": 9859,
+   "unifiedScore": 60.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Collingwood",
+     "slug": "collingwood",
+     "km": 8
+    },
+    {
+     "name": "Clearview",
+     "slug": "clearview",
+     "km": 22
+    },
+    {
+     "name": "Wasaga Beach",
+     "slug": "wasaga-beach",
+     "km": 24
+    },
+    {
+     "name": "Grey Highlands",
+     "slug": "grey-highlands",
+     "km": 24
+    }
+   ]
+  }
+ ]
+}

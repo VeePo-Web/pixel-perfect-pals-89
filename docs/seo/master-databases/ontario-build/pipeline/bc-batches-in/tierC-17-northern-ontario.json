@@ -1,0 +1,457 @@
+{
+ "tier": "C",
+ "region": "Northern Ontario",
+ "count": 10,
+ "rows": [
+  {
+   "id": "ON-0272",
+   "name": "Parry Sound",
+   "type": "Town",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "parry-sound",
+   "lat": 45.347,
+   "lng": -80.033,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 195,
+   "distOttawaKm": 339,
+   "pop2021": 6879,
+   "pop2025": 7222,
+   "unifiedScore": 58,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "North Bay",
+     "slug": "north-bay",
+     "km": 116
+    },
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 148
+    },
+    {
+     "name": "Espanola",
+     "slug": "espanola",
+     "km": 168
+    },
+    {
+     "name": "Kirkland Lake",
+     "slug": "kirkland-lake",
+     "km": 184
+    }
+   ]
+  },
+  {
+   "id": "ON-0101",
+   "name": "Temiskaming Shores",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "temiskaming-shores",
+   "lat": 47.51,
+   "lng": -79.673,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 430,
+   "distOttawaKm": 384,
+   "pop2021": 9634,
+   "pop2025": 10115,
+   "unifiedScore": 56,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 62
+    },
+    {
+     "name": "Kirkland Lake",
+     "slug": "kirkland-lake",
+     "km": 68
+    },
+    {
+     "name": "North Bay",
+     "slug": "north-bay",
+     "km": 135
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 136
+    }
+   ]
+  },
+  {
+   "id": "ON-0078",
+   "name": "Elliot Lake",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "elliot-lake",
+   "lat": 46.383,
+   "lng": -82.65,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 398,
+   "distOttawaKm": 548,
+   "pop2021": 11372,
+   "pop2025": 11940,
+   "unifiedScore": 55.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Espanola",
+     "slug": "espanola",
+     "km": 69
+    },
+    {
+     "name": "Seguin",
+     "slug": "seguin",
+     "km": 81
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 122
+    },
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 128
+    }
+   ]
+  },
+  {
+   "id": "ON-1064",
+   "name": "West Nipissing",
+   "type": "Municipality",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "west-nipissing",
+   "lat": 46.366,
+   "lng": -79.921,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 393,
+   "distOttawaKm": 460,
+   "pop2021": 14583,
+   "pop2025": 15312,
+   "unifiedScore": 53.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 53
+    },
+    {
+     "name": "Seguin",
+     "slug": "seguin",
+     "km": 53
+    },
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 81
+    },
+    {
+     "name": "Espanola",
+     "slug": "espanola",
+     "km": 85
+    }
+   ]
+  },
+  {
+   "id": "ON-0131",
+   "name": "Kenora",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "kenora",
+   "lat": 49.767,
+   "lng": -94.489,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 1334,
+   "distOttawaKm": 1485,
+   "pop2021": 14967,
+   "pop2025": 15715,
+   "unifiedScore": 53.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Dryden",
+     "slug": "dryden",
+     "km": 119
+    },
+    {
+     "name": "Thunder Bay",
+     "slug": "thunder-bay",
+     "km": 412
+    },
+    {
+     "name": "Sault Ste. Marie",
+     "slug": "sault-ste-marie",
+     "km": 833
+    },
+    {
+     "name": "Elliot Lake",
+     "slug": "elliot-lake",
+     "km": 955
+    }
+   ]
+  },
+  {
+   "id": "ON-0808",
+   "name": "Espanola",
+   "type": "Town",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "espanola",
+   "lat": 46.259,
+   "lng": -81.767,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 345,
+   "distOttawaKm": 479,
+   "pop2021": 5185,
+   "pop2025": 5444,
+   "unifiedScore": 52.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 65
+    },
+    {
+     "name": "Elliot Lake",
+     "slug": "elliot-lake",
+     "km": 69
+    },
+    {
+     "name": "Seguin",
+     "slug": "seguin",
+     "km": 77
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 85
+    }
+   ]
+  },
+  {
+   "id": "ON-0926",
+   "name": "Kirkland Lake",
+   "type": "Town",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "kirkland-lake",
+   "lat": 48.147,
+   "lng": -80.038,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 376,
+   "distOttawaKm": 385,
+   "pop2021": 7750,
+   "pop2025": 8137,
+   "unifiedScore": 52.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 12
+    },
+    {
+     "name": "Temiskaming Shores",
+     "slug": "temiskaming-shores",
+     "km": 68
+    },
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 85
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 85
+    }
+   ]
+  },
+  {
+   "id": "ON-0258",
+   "name": "Dryden",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "dryden",
+   "lat": 49.78,
+   "lng": -92.837,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 1228,
+   "distOttawaKm": 1369,
+   "pop2021": 7388,
+   "pop2025": 7757,
+   "unifiedScore": 52,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Kenora",
+     "slug": "kenora",
+     "km": 119
+    },
+    {
+     "name": "Thunder Bay",
+     "slug": "thunder-bay",
+     "km": 304
+    },
+    {
+     "name": "Sault Ste. Marie",
+     "slug": "sault-ste-marie",
+     "km": 725
+    },
+    {
+     "name": "Elliot Lake",
+     "slug": "elliot-lake",
+     "km": 845
+    }
+   ]
+  },
+  {
+   "id": "ON-1428",
+   "name": "Oliver Paipoonge",
+   "type": "Municipality",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "oliver-paipoonge",
+   "lat": 48.418,
+   "lng": -89.532,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 388,
+   "distOttawaKm": 394,
+   "pop2021": 6035,
+   "pop2025": 6336,
+   "unifiedScore": 52,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Kirkland Lake",
+     "slug": "kirkland-lake",
+     "km": 12
+    },
+    {
+     "name": "Temiskaming Shores",
+     "slug": "temiskaming-shores",
+     "km": 62
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 81
+    },
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 89
+    }
+   ]
+  },
+  {
+   "id": "ON-1328",
+   "name": "Seguin",
+   "type": "Township",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "seguin",
+   "lat": 45.283,
+   "lng": -79.94,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 417,
+   "distOttawaKm": 511,
+   "pop2021": 5280,
+   "pop2025": 5544,
+   "unifiedScore": 50.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 53
+    },
+    {
+     "name": "Espanola",
+     "slug": "espanola",
+     "km": 77
+    },
+    {
+     "name": "Elliot Lake",
+     "slug": "elliot-lake",
+     "km": 81
+    },
+    {
+     "name": "Greater Sudbury",
+     "slug": "greater-sudbury",
+     "km": 89
+    }
+   ]
+  }
+ ]
+}

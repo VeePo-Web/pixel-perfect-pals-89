@@ -1,0 +1,367 @@
+{
+ "tier": "B",
+ "region": "Windsor-Essex",
+ "count": 8,
+ "rows": [
+  {
+   "id": "ON-0127",
+   "name": "Chatham-Kent",
+   "type": "Municipality",
+   "parentMuni": null,
+   "region": "Windsor-Essex",
+   "slug": "chatham-kent",
+   "lat": 42.404,
+   "lng": -82.191,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 267,
+   "distOttawaKm": 619,
+   "pop2021": 103988,
+   "pop2025": 109187,
+   "unifiedScore": 63.3,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Lakeshore",
+     "slug": "lakeshore",
+     "km": 42
+    },
+    {
+     "name": "Leamington",
+     "slug": "leamington",
+     "km": 51
+    },
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 61
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 62
+    }
+   ]
+  },
+  {
+   "id": "ON-0172",
+   "name": "Lakeshore",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "lakeshore",
+   "lat": 42.29,
+   "lng": -82.703,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 309,
+   "distOttawaKm": 660,
+   "pop2021": 40410,
+   "pop2025": 42430,
+   "unifiedScore": 59.2,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Leamington",
+     "slug": "leamington",
+     "km": 21
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 24
+    },
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 24
+    },
+    {
+     "name": "Windsor",
+     "slug": "windsor",
+     "km": 33
+    }
+   ]
+  },
+  {
+   "id": "ON-0590",
+   "name": "Leamington",
+   "type": "Municipality",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "leamington",
+   "lat": 42.053,
+   "lng": -82.599,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 316,
+   "distOttawaKm": 668,
+   "pop2021": 29680,
+   "pop2025": 31164,
+   "unifiedScore": 58.3,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 12
+    },
+    {
+     "name": "Lakeshore",
+     "slug": "lakeshore",
+     "km": 21
+    },
+    {
+     "name": "Essex",
+     "slug": "essex",
+     "km": 33
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 39
+    }
+   ]
+  },
+  {
+   "id": "ON-0377",
+   "name": "LaSalle",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "lasalle",
+   "lat": 42.22,
+   "lng": -83.056,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 339,
+   "distOttawaKm": 690,
+   "pop2021": 32721,
+   "pop2025": 34357,
+   "unifiedScore": 57.8,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Windsor",
+     "slug": "windsor",
+     "km": 11
+    },
+    {
+     "name": "Amherstburg",
+     "slug": "amherstburg",
+     "km": 14
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 15
+    },
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 33
+    }
+   ]
+  },
+  {
+   "id": "ON-0389",
+   "name": "Tecumseh",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "tecumseh",
+   "lat": 42.311,
+   "lng": -82.889,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 325,
+   "distOttawaKm": 675,
+   "pop2021": 23300,
+   "pop2025": 24465,
+   "unifiedScore": 57.6,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Windsor",
+     "slug": "windsor",
+     "km": 9
+    },
+    {
+     "name": "LaSalle",
+     "slug": "lasalle",
+     "km": 15
+    },
+    {
+     "name": "Lakeshore",
+     "slug": "lakeshore",
+     "km": 24
+    },
+    {
+     "name": "Amherstburg",
+     "slug": "amherstburg",
+     "km": 27
+    }
+   ]
+  },
+  {
+   "id": "ON-0375",
+   "name": "Kingsville",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "kingsville",
+   "lat": 42.04,
+   "lng": -82.739,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 327,
+   "distOttawaKm": 679,
+   "pop2021": 22119,
+   "pop2025": 23224,
+   "unifiedScore": 57.4,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Leamington",
+     "slug": "leamington",
+     "km": 12
+    },
+    {
+     "name": "Essex",
+     "slug": "essex",
+     "km": 23
+    },
+    {
+     "name": "Lakeshore",
+     "slug": "lakeshore",
+     "km": 24
+    },
+    {
+     "name": "Amherstburg",
+     "slug": "amherstburg",
+     "km": 31
+    }
+   ]
+  },
+  {
+   "id": "ON-0466",
+   "name": "Amherstburg",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "amherstburg",
+   "lat": 42.101,
+   "lng": -83.111,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 349,
+   "distOttawaKm": 700,
+   "pop2021": 23524,
+   "pop2025": 24700,
+   "unifiedScore": 56.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "LaSalle",
+     "slug": "lasalle",
+     "km": 14
+    },
+    {
+     "name": "Windsor",
+     "slug": "windsor",
+     "km": 24
+    },
+    {
+     "name": "Tecumseh",
+     "slug": "tecumseh",
+     "km": 27
+    },
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 31
+    }
+   ]
+  },
+  {
+   "id": "ON-0475",
+   "name": "Essex",
+   "type": "Town",
+   "parentMuni": "Essex",
+   "region": "Windsor-Essex",
+   "slug": "essex",
+   "lat": 42.174,
+   "lng": -82.822,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 348,
+   "distOttawaKm": 701,
+   "pop2021": 21216,
+   "pop2025": 22276,
+   "unifiedScore": 56.7,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "automotive manufacturing, cross-border trade, agriculture, and greenhouse operations",
+    "features": "international border crossing, Lake Erie wineries, and Point Pelee National Park"
+   },
+   "neighbors": [
+    {
+     "name": "Kingsville",
+     "slug": "kingsville",
+     "km": 23
+    },
+    {
+     "name": "Leamington",
+     "slug": "leamington",
+     "km": 33
+    },
+    {
+     "name": "Amherstburg",
+     "slug": "amherstburg",
+     "km": 33
+    },
+    {
+     "name": "LaSalle",
+     "slug": "lasalle",
+     "km": 43
+    }
+   ]
+  }
+ ]
+}

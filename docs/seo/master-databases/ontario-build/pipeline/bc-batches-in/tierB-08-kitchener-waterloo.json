@@ -1,0 +1,187 @@
+{
+ "tier": "B",
+ "region": "Kitchener-Waterloo",
+ "count": 4,
+ "rows": [
+  {
+   "id": "ON-0018",
+   "name": "Waterloo",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Kitchener-Waterloo",
+   "slug": "waterloo",
+   "lat": 43.467,
+   "lng": -80.521,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 94,
+   "distOttawaKm": 440,
+   "pop2021": 121436,
+   "pop2025": 127507,
+   "unifiedScore": 71.8,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Kitchener",
+     "slug": "kitchener",
+     "km": 3
+    },
+    {
+     "name": "Woolwich",
+     "slug": "woolwich",
+     "km": 13
+    },
+    {
+     "name": "Wilmot",
+     "slug": "wilmot",
+     "km": 13
+    },
+    {
+     "name": "North Dumfries",
+     "slug": "north-dumfries",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0077",
+   "name": "Centre Wellington",
+   "type": "Township",
+   "parentMuni": "Wellington",
+   "region": "Kitchener-Waterloo",
+   "slug": "centre-wellington",
+   "lat": 43.704,
+   "lng": -80.377,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 80,
+   "distOttawaKm": 415,
+   "pop2021": 31093,
+   "pop2025": 32647,
+   "unifiedScore": 65.5,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Woolwich",
+     "slug": "woolwich",
+     "km": 21
+    },
+    {
+     "name": "Guelph/Eramosa",
+     "slug": "guelph-eramosa",
+     "km": 22
+    },
+    {
+     "name": "Guelph",
+     "slug": "guelph",
+     "km": 23
+    },
+    {
+     "name": "Erin",
+     "slug": "erin",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0086",
+   "name": "Woolwich",
+   "type": "Township",
+   "parentMuni": "Waterloo",
+   "region": "Kitchener-Waterloo",
+   "slug": "woolwich",
+   "lat": 43.599,
+   "lng": -80.552,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 92,
+   "distOttawaKm": 433,
+   "pop2021": 26999,
+   "pop2025": 28348,
+   "unifiedScore": 64.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Waterloo",
+     "slug": "waterloo",
+     "km": 13
+    },
+    {
+     "name": "Kitchener",
+     "slug": "kitchener",
+     "km": 15
+    },
+    {
+     "name": "Wellesley",
+     "slug": "wellesley",
+     "km": 18
+    },
+    {
+     "name": "Centre Wellington",
+     "slug": "centre-wellington",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0104",
+   "name": "Wilmot",
+   "type": "Township",
+   "parentMuni": "Waterloo",
+   "region": "Kitchener-Waterloo",
+   "slug": "wilmot",
+   "lat": 43.379,
+   "lng": -80.701,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 106,
+   "distOttawaKm": 453,
+   "pop2021": 21429,
+   "pop2025": 22500,
+   "unifiedScore": 64,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, insurance, advanced manufacturing, and education",
+    "features": "tech innovation corridor, Oktoberfest festival, Grand River, and ION LRT"
+   },
+   "neighbors": [
+    {
+     "name": "Waterloo",
+     "slug": "waterloo",
+     "km": 13
+    },
+    {
+     "name": "Kitchener",
+     "slug": "kitchener",
+     "km": 14
+    },
+    {
+     "name": "Wellesley",
+     "slug": "wellesley",
+     "km": 18
+    },
+    {
+     "name": "Woolwich",
+     "slug": "woolwich",
+     "km": 23
+    }
+   ]
+  }
+ ]
+}

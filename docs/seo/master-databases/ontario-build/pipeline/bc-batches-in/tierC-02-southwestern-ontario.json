@@ -1,0 +1,547 @@
+{
+ "tier": "C",
+ "region": "Southwestern Ontario",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0253",
+   "name": "Central Elgin",
+   "type": "Municipality",
+   "parentMuni": "Elgin",
+   "region": "Southwestern Ontario",
+   "slug": "central-elgin",
+   "lat": 42.732,
+   "lng": -81.176,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 165,
+   "distOttawaKm": 511,
+   "pop2021": 13746,
+   "pop2025": 14433,
+   "unifiedScore": 60.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Aylmer",
+     "slug": "aylmer",
+     "km": 12
+    },
+    {
+     "name": "South Huron",
+     "slug": "south-huron",
+     "km": 18
+    },
+    {
+     "name": "West Perth",
+     "slug": "west-perth",
+     "km": 25
+    },
+    {
+     "name": "London",
+     "slug": "london",
+     "km": 27
+    }
+   ]
+  },
+  {
+   "id": "ON-0393",
+   "name": "West Elgin",
+   "type": "Municipality",
+   "parentMuni": "Elgin",
+   "region": "Southwestern Ontario",
+   "slug": "west-elgin",
+   "lat": 42.596,
+   "lng": -81.596,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 97,
+   "distOttawaKm": 449,
+   "pop2021": 5060,
+   "pop2025": 5313,
+   "unifiedScore": 60.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Southwest Middlesex",
+     "slug": "southwest-middlesex",
+     "km": 14
+    },
+    {
+     "name": "Brantford",
+     "slug": "brantford",
+     "km": 17
+    },
+    {
+     "name": "Zorra",
+     "slug": "zorra",
+     "km": 23
+    },
+    {
+     "name": "Petrolia",
+     "slug": "petrolia",
+     "km": 24
+    }
+   ]
+  },
+  {
+   "id": "ON-0268",
+   "name": "Malahide",
+   "type": "Township",
+   "parentMuni": "Elgin",
+   "region": "Southwestern Ontario",
+   "slug": "malahide",
+   "lat": 42.789,
+   "lng": -80.955,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 156,
+   "distOttawaKm": 503,
+   "pop2021": 9308,
+   "pop2025": 9773,
+   "unifiedScore": 59.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "South-West Oxford",
+     "slug": "south-west-oxford",
+     "km": 19
+    },
+    {
+     "name": "Norfolk",
+     "slug": "norfolk",
+     "km": 26
+    },
+    {
+     "name": "Blandford-Blenheim",
+     "slug": "blandford-blenheim",
+     "km": 34
+    },
+    {
+     "name": "Tillsonburg",
+     "slug": "tillsonburg",
+     "km": 39
+    }
+   ]
+  },
+  {
+   "id": "ON-0366",
+   "name": "Blandford-Blenheim",
+   "type": "Township",
+   "parentMuni": "Oxford",
+   "region": "Southwestern Ontario",
+   "slug": "blandford-blenheim",
+   "lat": 43.271,
+   "lng": -80.545,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 153,
+   "distOttawaKm": 505,
+   "pop2021": 7565,
+   "pop2025": 7943,
+   "unifiedScore": 59.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Tillsonburg",
+     "slug": "tillsonburg",
+     "km": 14
+    },
+    {
+     "name": "St. Thomas",
+     "slug": "st-thomas",
+     "km": 29
+    },
+    {
+     "name": "Ingersoll",
+     "slug": "ingersoll",
+     "km": 31
+    },
+    {
+     "name": "Malahide",
+     "slug": "malahide",
+     "km": 34
+    }
+   ]
+  },
+  {
+   "id": "ON-0380",
+   "name": "Middlesex Centre",
+   "type": "Municipality",
+   "parentMuni": "Middlesex",
+   "region": "Southwestern Ontario",
+   "slug": "middlesex-centre",
+   "lat": 43.055,
+   "lng": -81.42,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 217,
+   "distOttawaKm": 563,
+   "pop2021": 18928,
+   "pop2025": 19874,
+   "unifiedScore": 59.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "North Middlesex",
+     "slug": "north-middlesex",
+     "km": 20
+    },
+    {
+     "name": "Thames Centre",
+     "slug": "thames-centre",
+     "km": 29
+    },
+    {
+     "name": "Sarnia",
+     "slug": "sarnia",
+     "km": 39
+    },
+    {
+     "name": "Goderich",
+     "slug": "goderich",
+     "km": 40
+    }
+   ]
+  },
+  {
+   "id": "ON-0385",
+   "name": "South Huron",
+   "type": "Municipality",
+   "parentMuni": "Huron",
+   "region": "Southwestern Ontario",
+   "slug": "south-huron",
+   "lat": 43.35,
+   "lng": -81.485,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 174,
+   "distOttawaKm": 516,
+   "pop2021": 10063,
+   "pop2025": 10566,
+   "unifiedScore": 59.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Aylmer",
+     "slug": "aylmer",
+     "km": 7
+    },
+    {
+     "name": "Bluewater",
+     "slug": "bluewater",
+     "km": 17
+    },
+    {
+     "name": "Central Elgin",
+     "slug": "central-elgin",
+     "km": 18
+    },
+    {
+     "name": "North Middlesex",
+     "slug": "north-middlesex",
+     "km": 37
+    }
+   ]
+  },
+  {
+   "id": "ON-0390",
+   "name": "Thames Centre",
+   "type": "Municipality",
+   "parentMuni": "Middlesex",
+   "region": "Southwestern Ontario",
+   "slug": "thames-centre",
+   "lat": 42.988,
+   "lng": -81.086,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 198,
+   "distOttawaKm": 547,
+   "pop2021": 13980,
+   "pop2025": 14679,
+   "unifiedScore": 59.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Norwich",
+     "slug": "norwich",
+     "km": 14
+    },
+    {
+     "name": "Ashfield–Colborne–Wawanosh",
+     "slug": "ashfield-colborne-wawanosh",
+     "km": 22
+    },
+    {
+     "name": "Oneida Nation of the Thames",
+     "slug": "oneida-nation-of-the-thames",
+     "km": 22
+    },
+    {
+     "name": "Middlesex Centre",
+     "slug": "middlesex-centre",
+     "km": 29
+    }
+   ]
+  },
+  {
+   "id": "ON-0487",
+   "name": "West Perth",
+   "type": "Municipality",
+   "parentMuni": "Perth",
+   "region": "Southwestern Ontario",
+   "slug": "west-perth",
+   "lat": 43.47,
+   "lng": -81.2,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 169,
+   "distOttawaKm": 519,
+   "pop2021": 9038,
+   "pop2025": 9489,
+   "unifiedScore": 59.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "London",
+     "slug": "london",
+     "km": 3
+    },
+    {
+     "name": "Norwich",
+     "slug": "norwich",
+     "km": 19
+    },
+    {
+     "name": "Central Elgin",
+     "slug": "central-elgin",
+     "km": 25
+    },
+    {
+     "name": "Oneida Nation of the Thames",
+     "slug": "oneida-nation-of-the-thames",
+     "km": 25
+    }
+   ]
+  },
+  {
+   "id": "ON-0271",
+   "name": "Norwich",
+   "type": "Township",
+   "parentMuni": "Oxford",
+   "region": "Southwestern Ontario",
+   "slug": "norwich",
+   "lat": 42.984,
+   "lng": -80.598,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 188,
+   "distOttawaKm": 538,
+   "pop2021": 11151,
+   "pop2025": 11708,
+   "unifiedScore": 59.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Oneida Nation of the Thames",
+     "slug": "oneida-nation-of-the-thames",
+     "km": 11
+    },
+    {
+     "name": "Ashfield–Colborne–Wawanosh",
+     "slug": "ashfield-colborne-wawanosh",
+     "km": 13
+    },
+    {
+     "name": "Thames Centre",
+     "slug": "thames-centre",
+     "km": 14
+    },
+    {
+     "name": "West Perth",
+     "slug": "west-perth",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0387",
+   "name": "South-West Oxford",
+   "type": "Township",
+   "parentMuni": "Oxford",
+   "region": "Southwestern Ontario",
+   "slug": "south-west-oxford",
+   "lat": 42.906,
+   "lng": -80.809,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 165,
+   "distOttawaKm": 509,
+   "pop2021": 7583,
+   "pop2025": 7962,
+   "unifiedScore": 59.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Norfolk",
+     "slug": "norfolk",
+     "km": 19
+    },
+    {
+     "name": "Malahide",
+     "slug": "malahide",
+     "km": 19
+    },
+    {
+     "name": "Brant",
+     "slug": "brant",
+     "km": 37
+    },
+    {
+     "name": "Blandford-Blenheim",
+     "slug": "blandford-blenheim",
+     "km": 52
+    }
+   ]
+  },
+  {
+   "id": "ON-0584",
+   "name": "Central Huron",
+   "type": "Municipality",
+   "parentMuni": "Huron",
+   "region": "Southwestern Ontario",
+   "slug": "central-huron",
+   "lat": 43.638,
+   "lng": -81.538,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 170,
+   "distOttawaKm": 498,
+   "pop2021": 7799,
+   "pop2025": 8188,
+   "unifiedScore": 59,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "Bluewater",
+     "slug": "bluewater",
+     "km": 27
+    },
+    {
+     "name": "North Huron",
+     "slug": "north-huron",
+     "km": 27
+    },
+    {
+     "name": "Haldimand",
+     "slug": "haldimand",
+     "km": 31
+    },
+    {
+     "name": "Huron East",
+     "slug": "huron-east",
+     "km": 34
+    }
+   ]
+  },
+  {
+   "id": "ON-0165",
+   "name": "Aylmer",
+   "type": "Town",
+   "parentMuni": "Elgin",
+   "region": "Southwestern Ontario",
+   "slug": "aylmer",
+   "lat": 42.768,
+   "lng": -80.983,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 173,
+   "distOttawaKm": 517,
+   "pop2021": 7699,
+   "pop2025": 8083,
+   "unifiedScore": 58.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "agriculture, manufacturing, automotive, and food processing",
+    "features": "agricultural heritage, Lake Erie shoreline, and thriving small-town downtowns"
+   },
+   "neighbors": [
+    {
+     "name": "South Huron",
+     "slug": "south-huron",
+     "km": 7
+    },
+    {
+     "name": "Central Elgin",
+     "slug": "central-elgin",
+     "km": 12
+    },
+    {
+     "name": "Bluewater",
+     "slug": "bluewater",
+     "km": 24
+    },
+    {
+     "name": "West Perth",
+     "slug": "west-perth",
+     "km": 34
+    }
+   ]
+  }
+ ]
+}

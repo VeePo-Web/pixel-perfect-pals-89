@@ -16,7 +16,7 @@ for (const f of fs.readdirSync(__dirname + '\\batches-in').filter(f => f.endsWit
 }
 const geoRadius = pop => pop >= 100000 ? 20000 : pop >= 20000 ? 12000 : pop >= 5000 ? 8000 : 6000;
 const esc = v => { const s = v === null || v === undefined ? '' : String(v); return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; };
-const DATE = '2026-07-10';
+const DATE = '2026-07-12';
 const header = ['Location_ID','Location_Name','Location_Type','Parent_Municipality','Parent_Region','Province','Latitude','Longitude','URL_Slug','Distance_From_Toronto_KM','Distance_From_Ottawa_KM','Population_2021_Census','Unified_SEO_Score','Tier','Status','Verification_Status','Signal_Count','Signals','Info_Gain','SEO_Title_Template','Meta_Description_Template','H1_Template','Primary_Keyword_Template','Secondary_Keywords_Template','Long_Tail_Keywords_Template','Question_Keywords','Conversational_Query_Examples','Entity_Type','Entity_Description','AI_Answer_Snippet','Short_Description','Long_Description','Local_Facts','FAQ_1_Question','FAQ_1_Answer','FAQ_2_Question','FAQ_2_Answer','FAQ_3_Question','FAQ_3_Answer','FAQ_4_Question','FAQ_4_Answer','Image_Alt_Geo','Image_Filename','Image_Source_Tier','GeoRadius_Metres','Nearby_Slugs','Data_Sources','Coord_Note','Fix_Note','Last_Updated'];
 const lines = [header.join(',')];
 const manifest = ['Location_ID,Image_Filename,Image_Alt_Geo,Image_Source_Tier,License_Requirement,Rendered_Alt_Formula'];

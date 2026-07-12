@@ -1,0 +1,547 @@
+{
+ "tier": "C",
+ "region": "Grey-Bruce-Simcoe",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0115",
+   "name": "Penetanguishene",
+   "type": "Town",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "penetanguishene",
+   "lat": 44.767,
+   "lng": -79.929,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 132,
+   "distOttawaKm": 341,
+   "pop2021": 10077,
+   "pop2025": 10580,
+   "unifiedScore": 60.7,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Tiny",
+     "slug": "tiny",
+     "km": 2
+    },
+    {
+     "name": "Midland",
+     "slug": "midland",
+     "km": 5
+    },
+    {
+     "name": "Tay",
+     "slug": "tay",
+     "km": 15
+    },
+    {
+     "name": "Arran–Elderslie",
+     "slug": "arran-elderslie",
+     "km": 17
+    }
+   ]
+  },
+  {
+   "id": "ON-0269",
+   "name": "Meaford",
+   "type": "Municipality",
+   "parentMuni": "Grey",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "meaford",
+   "lat": 44.607,
+   "lng": -80.589,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 144,
+   "distOttawaKm": 395,
+   "pop2021": 11485,
+   "pop2025": 12059,
+   "unifiedScore": 60.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Georgian Bluffs",
+     "slug": "georgian-bluffs",
+     "km": 20
+    },
+    {
+     "name": "The Blue Mountains",
+     "slug": "the-blue-mountains",
+     "km": 25
+    },
+    {
+     "name": "Chatsworth",
+     "slug": "chatsworth",
+     "km": 27
+    },
+    {
+     "name": "Owen Sound",
+     "slug": "owen-sound",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0364",
+   "name": "Arran–Elderslie",
+   "type": "Municipality",
+   "parentMuni": "Bruce",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "arran-elderslie",
+   "lat": 44.284,
+   "lng": -81.093,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 120,
+   "distOttawaKm": 352,
+   "pop2021": 6913,
+   "pop2025": 7258,
+   "unifiedScore": 60.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Northern Bruce Peninsula",
+     "slug": "northern-bruce-peninsula",
+     "km": 8
+    },
+    {
+     "name": "Wasaga Beach",
+     "slug": "wasaga-beach",
+     "km": 12
+    },
+    {
+     "name": "Penetanguishene",
+     "slug": "penetanguishene",
+     "km": 17
+    },
+    {
+     "name": "Midland",
+     "slug": "midland",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0117",
+   "name": "Saugeen Shores",
+   "type": "Town",
+   "parentMuni": "Bruce",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "saugeen-shores",
+   "lat": 44.434,
+   "lng": -81.398,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 181,
+   "distOttawaKm": 461,
+   "pop2021": 15908,
+   "pop2025": 16703,
+   "unifiedScore": 60.1,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Brockton",
+     "slug": "brockton",
+     "km": 32
+    },
+    {
+     "name": "Huron-Kinloss",
+     "slug": "huron-kinloss",
+     "km": 34
+    },
+    {
+     "name": "Kincardine",
+     "slug": "kincardine",
+     "km": 35
+    },
+    {
+     "name": "Owen Sound",
+     "slug": "owen-sound",
+     "km": 38
+    }
+   ]
+  },
+  {
+   "id": "ON-0169",
+   "name": "Georgian Bluffs",
+   "type": "Township",
+   "parentMuni": "Grey",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "georgian-bluffs",
+   "lat": 44.6,
+   "lng": -81.05,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 161,
+   "distOttawaKm": 412,
+   "pop2021": 11100,
+   "pop2025": 11655,
+   "unifiedScore": 60,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Owen Sound",
+     "slug": "owen-sound",
+     "km": 14
+    },
+    {
+     "name": "Meaford",
+     "slug": "meaford",
+     "km": 20
+    },
+    {
+     "name": "South Bruce Peninsula",
+     "slug": "south-bruce-peninsula",
+     "km": 25
+    },
+    {
+     "name": "Chatsworth",
+     "slug": "chatsworth",
+     "km": 26
+    }
+   ]
+  },
+  {
+   "id": "ON-0171",
+   "name": "Hanover",
+   "type": "Town",
+   "parentMuni": "Grey",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "hanover",
+   "lat": 44.152,
+   "lng": -81.028,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 143,
+   "distOttawaKm": 444,
+   "pop2021": 7967,
+   "pop2025": 8365,
+   "unifiedScore": 59.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "South Bruce",
+     "slug": "south-bruce",
+     "km": 8
+    },
+    {
+     "name": "Brockton",
+     "slug": "brockton",
+     "km": 15
+    },
+    {
+     "name": "West Grey",
+     "slug": "west-grey",
+     "km": 17
+    },
+    {
+     "name": "Chatsworth",
+     "slug": "chatsworth",
+     "km": 35
+    }
+   ]
+  },
+  {
+   "id": "ON-0469",
+   "name": "Brockton",
+   "type": "Municipality",
+   "parentMuni": "Bruce",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "brockton",
+   "lat": 44.127,
+   "lng": -81.149,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 158,
+   "distOttawaKm": 457,
+   "pop2021": 9784,
+   "pop2025": 10273,
+   "unifiedScore": 59.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "South Bruce",
+     "slug": "south-bruce",
+     "km": 12
+    },
+    {
+     "name": "Hanover",
+     "slug": "hanover",
+     "km": 15
+    },
+    {
+     "name": "Huron-Kinloss",
+     "slug": "huron-kinloss",
+     "km": 23
+    },
+    {
+     "name": "West Grey",
+     "slug": "west-grey",
+     "km": 32
+    }
+   ]
+  },
+  {
+   "id": "ON-0368",
+   "name": "Chatsworth",
+   "type": "Township",
+   "parentMuni": "Grey",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "chatsworth",
+   "lat": 44.454,
+   "lng": -80.898,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 145,
+   "distOttawaKm": 419,
+   "pop2021": 7080,
+   "pop2025": 7434,
+   "unifiedScore": 59.6,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Owen Sound",
+     "slug": "owen-sound",
+     "km": 17
+    },
+    {
+     "name": "Georgian Bluffs",
+     "slug": "georgian-bluffs",
+     "km": 26
+    },
+    {
+     "name": "Meaford",
+     "slug": "meaford",
+     "km": 27
+    },
+    {
+     "name": "West Grey",
+     "slug": "west-grey",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0374",
+   "name": "Kincardine",
+   "type": "Municipality",
+   "parentMuni": "Bruce",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "kincardine",
+   "lat": 44.18,
+   "lng": -81.633,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 190,
+   "distOttawaKm": 489,
+   "pop2021": 12268,
+   "pop2025": 12881,
+   "unifiedScore": 59.3,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Huron-Kinloss",
+     "slug": "huron-kinloss",
+     "km": 12
+    },
+    {
+     "name": "Brockton",
+     "slug": "brockton",
+     "km": 34
+    },
+    {
+     "name": "Saugeen Shores",
+     "slug": "saugeen-shores",
+     "km": 35
+    },
+    {
+     "name": "South Bruce",
+     "slug": "south-bruce",
+     "km": 44
+    }
+   ]
+  },
+  {
+   "id": "ON-0594",
+   "name": "South Bruce",
+   "type": "Municipality",
+   "parentMuni": "Bruce",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "south-bruce",
+   "lat": 44.005,
+   "lng": -81.2,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 146,
+   "distOttawaKm": 451,
+   "pop2021": 5880,
+   "pop2025": 6174,
+   "unifiedScore": 59.2,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Hanover",
+     "slug": "hanover",
+     "km": 8
+    },
+    {
+     "name": "Brockton",
+     "slug": "brockton",
+     "km": 12
+    },
+    {
+     "name": "West Grey",
+     "slug": "west-grey",
+     "km": 24
+    },
+    {
+     "name": "Huron-Kinloss",
+     "slug": "huron-kinloss",
+     "km": 32
+    }
+   ]
+  },
+  {
+   "id": "ON-0274",
+   "name": "South Bruce Peninsula",
+   "type": "Town",
+   "parentMuni": "Bruce",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "south-bruce-peninsula",
+   "lat": 44.74,
+   "lng": -81.14,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 186,
+   "distOttawaKm": 430,
+   "pop2021": 9137,
+   "pop2025": 9593,
+   "unifiedScore": 58.9,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Adjala-Tosorontio",
+     "slug": "adjala-tosorontio",
+     "km": 13
+    },
+    {
+     "name": "Georgian Bluffs",
+     "slug": "georgian-bluffs",
+     "km": 25
+    },
+    {
+     "name": "Owen Sound",
+     "slug": "owen-sound",
+     "km": 27
+    },
+    {
+     "name": "Chatsworth",
+     "slug": "chatsworth",
+     "km": 44
+    }
+   ]
+  },
+  {
+   "id": "ON-0248",
+   "name": "Adjala-Tosorontio",
+   "type": "Township",
+   "parentMuni": "Simcoe",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "adjala-tosorontio",
+   "lat": 44.167,
+   "lng": -79.937,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 199,
+   "distOttawaKm": 435,
+   "pop2021": 10989,
+   "pop2025": 11538,
+   "unifiedScore": 58.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "South Bruce Peninsula",
+     "slug": "south-bruce-peninsula",
+     "km": 13
+    },
+    {
+     "name": "Georgian Bluffs",
+     "slug": "georgian-bluffs",
+     "km": 37
+    },
+    {
+     "name": "Owen Sound",
+     "slug": "owen-sound",
+     "km": 40
+    },
+    {
+     "name": "Saugeen Shores",
+     "slug": "saugeen-shores",
+     "km": 53
+    }
+   ]
+  }
+ ]
+}

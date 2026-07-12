@@ -1,0 +1,547 @@
+{
+ "tier": "B",
+ "region": "Greater Toronto Area",
+ "count": 12,
+ "rows": [
+  {
+   "id": "ON-0007",
+   "name": "Richmond Hill",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "richmond-hill",
+   "lat": 43.883,
+   "lng": -79.44,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 26,
+   "distOttawaKm": 342,
+   "pop2021": 202022,
+   "pop2025": 212123,
+   "unifiedScore": 74.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Vaughan",
+     "slug": "vaughan",
+     "km": 7
+    },
+    {
+     "name": "Markham",
+     "slug": "markham",
+     "km": 9
+    },
+    {
+     "name": "Aurora",
+     "slug": "aurora",
+     "km": 14
+    },
+    {
+     "name": "Whitchurch-Stouffville",
+     "slug": "whitchurch-stouffville",
+     "km": 18
+    }
+   ]
+  },
+  {
+   "id": "ON-0008",
+   "name": "Burlington",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "burlington",
+   "lat": 43.325,
+   "lng": -79.799,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 50,
+   "distOttawaKm": 401,
+   "pop2021": 186948,
+   "pop2025": 196295,
+   "unifiedScore": 74,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Oakville",
+     "slug": "oakville",
+     "km": 18
+    },
+    {
+     "name": "Milton",
+     "slug": "milton",
+     "km": 21
+    },
+    {
+     "name": "Mississauga",
+     "slug": "mississauga",
+     "km": 32
+    },
+    {
+     "name": "Halton Hills",
+     "slug": "halton-hills",
+     "km": 36
+    }
+   ]
+  },
+  {
+   "id": "ON-0009",
+   "name": "Oshawa",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "oshawa",
+   "lat": 43.897,
+   "lng": -78.849,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 50,
+   "distOttawaKm": 303,
+   "pop2021": 175383,
+   "pop2025": 184152,
+   "unifiedScore": 73.9,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Whitby",
+     "slug": "whitby",
+     "km": 6
+    },
+    {
+     "name": "Ajax",
+     "slug": "ajax",
+     "km": 13
+    },
+    {
+     "name": "Pickering",
+     "slug": "pickering",
+     "km": 19
+    },
+    {
+     "name": "Clarington",
+     "slug": "clarington",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0017",
+   "name": "Pickering",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Greater Toronto Area",
+   "slug": "pickering",
+   "lat": 43.839,
+   "lng": -79.089,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 31,
+   "distOttawaKm": 321,
+   "pop2021": 99186,
+   "pop2025": 104145,
+   "unifiedScore": 72.3,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Ajax",
+     "slug": "ajax",
+     "km": 6
+    },
+    {
+     "name": "Whitby",
+     "slug": "whitby",
+     "km": 13
+    },
+    {
+     "name": "Oshawa",
+     "slug": "oshawa",
+     "km": 19
+    },
+    {
+     "name": "Whitchurch-Stouffville",
+     "slug": "whitchurch-stouffville",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0042",
+   "name": "Oakville",
+   "type": "Town",
+   "parentMuni": "Halton",
+   "region": "Greater Toronto Area",
+   "slug": "oakville",
+   "lat": 43.467,
+   "lng": -79.687,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 32,
+   "distOttawaKm": 384,
+   "pop2021": 213759,
+   "pop2025": 224446,
+   "unifiedScore": 71.8,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Mississauga",
+     "slug": "mississauga",
+     "km": 14
+    },
+    {
+     "name": "Milton",
+     "slug": "milton",
+     "km": 16
+    },
+    {
+     "name": "Burlington",
+     "slug": "burlington",
+     "km": 18
+    },
+    {
+     "name": "Halton Hills",
+     "slug": "halton-hills",
+     "km": 28
+    }
+   ]
+  },
+  {
+   "id": "ON-0045",
+   "name": "Ajax",
+   "type": "Town",
+   "parentMuni": "Durham",
+   "region": "Greater Toronto Area",
+   "slug": "ajax",
+   "lat": 43.851,
+   "lng": -79.021,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 37,
+   "distOttawaKm": 316,
+   "pop2021": 126666,
+   "pop2025": 132999,
+   "unifiedScore": 70.7,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Pickering",
+     "slug": "pickering",
+     "km": 6
+    },
+    {
+     "name": "Whitby",
+     "slug": "whitby",
+     "km": 8
+    },
+    {
+     "name": "Oshawa",
+     "slug": "oshawa",
+     "km": 13
+    },
+    {
+     "name": "Whitchurch-Stouffville",
+     "slug": "whitchurch-stouffville",
+     "km": 22
+    }
+   ]
+  },
+  {
+   "id": "ON-0047",
+   "name": "Whitby",
+   "type": "Town",
+   "parentMuni": "Durham",
+   "region": "Greater Toronto Area",
+   "slug": "whitby",
+   "lat": 43.898,
+   "lng": -78.943,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 45,
+   "distOttawaKm": 308,
+   "pop2021": 138501,
+   "pop2025": 145426,
+   "unifiedScore": 70.6,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Oshawa",
+     "slug": "oshawa",
+     "km": 6
+    },
+    {
+     "name": "Ajax",
+     "slug": "ajax",
+     "km": 8
+    },
+    {
+     "name": "Pickering",
+     "slug": "pickering",
+     "km": 13
+    },
+    {
+     "name": "Scugog",
+     "slug": "scugog",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0046",
+   "name": "Milton",
+   "type": "Town",
+   "parentMuni": "Halton",
+   "region": "Greater Toronto Area",
+   "slug": "milton",
+   "lat": 43.508,
+   "lng": -79.883,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 43,
+   "distOttawaKm": 394,
+   "pop2021": 132979,
+   "pop2025": 139627,
+   "unifiedScore": 70.5,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Halton Hills",
+     "slug": "halton-hills",
+     "km": 15
+    },
+    {
+     "name": "Oakville",
+     "slug": "oakville",
+     "km": 16
+    },
+    {
+     "name": "Mississauga",
+     "slug": "mississauga",
+     "km": 21
+    },
+    {
+     "name": "Burlington",
+     "slug": "burlington",
+     "km": 21
+    }
+   ]
+  },
+  {
+   "id": "ON-0056",
+   "name": "Clarington",
+   "type": "Municipality",
+   "parentMuni": "Durham",
+   "region": "Greater Toronto Area",
+   "slug": "clarington",
+   "lat": 43.912,
+   "lng": -78.688,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 70,
+   "distOttawaKm": 283,
+   "pop2021": 101427,
+   "pop2025": 106498,
+   "unifiedScore": 69.2,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Oshawa",
+     "slug": "oshawa",
+     "km": 21
+    },
+    {
+     "name": "Whitby",
+     "slug": "whitby",
+     "km": 27
+    },
+    {
+     "name": "Scugog",
+     "slug": "scugog",
+     "km": 30
+    },
+    {
+     "name": "Ajax",
+     "slug": "ajax",
+     "km": 34
+    }
+   ]
+  },
+  {
+   "id": "ON-0052",
+   "name": "Newmarket",
+   "type": "Town",
+   "parentMuni": "York",
+   "region": "Greater Toronto Area",
+   "slug": "newmarket",
+   "lat": 44.05,
+   "lng": -79.464,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 46,
+   "distOttawaKm": 334,
+   "pop2021": 87942,
+   "pop2025": 92339,
+   "unifiedScore": 68.6,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Aurora",
+     "slug": "aurora",
+     "km": 6
+    },
+    {
+     "name": "East Gwillimbury",
+     "slug": "east-gwillimbury",
+     "km": 10
+    },
+    {
+     "name": "King",
+     "slug": "king",
+     "km": 11
+    },
+    {
+     "name": "Richmond Hill",
+     "slug": "richmond-hill",
+     "km": 20
+    }
+   ]
+  },
+  {
+   "id": "ON-0050",
+   "name": "Caledon",
+   "type": "Town",
+   "parentMuni": "Peel",
+   "region": "Greater Toronto Area",
+   "slug": "caledon",
+   "lat": 43.868,
+   "lng": -79.867,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 46,
+   "distOttawaKm": 373,
+   "pop2021": 76581,
+   "pop2025": 80410,
+   "unifiedScore": 68.3,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Brampton",
+     "slug": "brampton",
+     "km": 17
+    },
+    {
+     "name": "Halton Hills",
+     "slug": "halton-hills",
+     "km": 27
+    },
+    {
+     "name": "King",
+     "slug": "king",
+     "km": 29
+    },
+    {
+     "name": "Vaughan",
+     "slug": "vaughan",
+     "km": 30
+    }
+   ]
+  },
+  {
+   "id": "ON-0049",
+   "name": "Aurora",
+   "type": "Town",
+   "parentMuni": "York",
+   "region": "Greater Toronto Area",
+   "slug": "aurora",
+   "lat": 44,
+   "lng": -79.467,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 40,
+   "distOttawaKm": 336,
+   "pop2021": 62057,
+   "pop2025": 65159,
+   "unifiedScore": 68.1,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "technology, financial services, real estate, and professional services",
+    "features": "diverse urban neighborhoods, extensive transit network, world-class cultural institutions, and Lake Ontario waterfront"
+   },
+   "neighbors": [
+    {
+     "name": "Newmarket",
+     "slug": "newmarket",
+     "km": 6
+    },
+    {
+     "name": "King",
+     "slug": "king",
+     "km": 13
+    },
+    {
+     "name": "Richmond Hill",
+     "slug": "richmond-hill",
+     "km": 14
+    },
+    {
+     "name": "East Gwillimbury",
+     "slug": "east-gwillimbury",
+     "km": 15
+    }
+   ]
+  }
+ ]
+}

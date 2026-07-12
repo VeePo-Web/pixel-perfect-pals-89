@@ -1,0 +1,52 @@
+{
+ "tier": "B",
+ "region": "Northern Ontario",
+ "count": 1,
+ "rows": [
+  {
+   "id": "ON-0103",
+   "name": "Timmins",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Northern Ontario",
+   "slug": "timmins",
+   "lat": 48.478,
+   "lng": -81.33,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 557,
+   "distOttawaKm": 546,
+   "pop2021": 41145,
+   "pop2025": 43202,
+   "unifiedScore": 56.5,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "mining, forestry, natural resources, tourism, and healthcare",
+    "features": "Canadian Shield, vast lake systems, boreal forest, and mining heritage"
+   },
+   "neighbors": [
+    {
+     "name": "Temiskaming Shores",
+     "slug": "temiskaming-shores",
+     "km": 162
+    },
+    {
+     "name": "West Nipissing",
+     "slug": "west-nipissing",
+     "km": 172
+    },
+    {
+     "name": "Oliver Paipoonge",
+     "slug": "oliver-paipoonge",
+     "km": 175
+    },
+    {
+     "name": "Seguin",
+     "slug": "seguin",
+     "km": 178
+    }
+   ]
+  }
+ ]
+}

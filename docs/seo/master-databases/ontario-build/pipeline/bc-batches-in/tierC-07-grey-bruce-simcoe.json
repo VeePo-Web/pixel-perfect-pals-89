@@ -1,0 +1,142 @@
+{
+ "tier": "C",
+ "region": "Grey-Bruce-Simcoe",
+ "count": 3,
+ "rows": [
+  {
+   "id": "ON-0373",
+   "name": "Huron-Kinloss",
+   "type": "Township",
+   "parentMuni": "Bruce",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "huron-kinloss",
+   "lat": 44,
+   "lng": -81.55,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 178,
+   "distOttawaKm": 480,
+   "pop2021": 7723,
+   "pop2025": 8109,
+   "unifiedScore": 58.8,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Kincardine",
+     "slug": "kincardine",
+     "km": 12
+    },
+    {
+     "name": "Brockton",
+     "slug": "brockton",
+     "km": 23
+    },
+    {
+     "name": "South Bruce",
+     "slug": "south-bruce",
+     "km": 32
+    },
+    {
+     "name": "Saugeen Shores",
+     "slug": "saugeen-shores",
+     "km": 34
+    }
+   ]
+  },
+  {
+   "id": "ON-0481",
+   "name": "Northern Bruce Peninsula",
+   "type": "Municipality",
+   "parentMuni": "Bruce",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "northern-bruce-peninsula",
+   "lat": 44.987,
+   "lng": -81.253,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 114,
+   "distOttawaKm": 346,
+   "pop2021": 4404,
+   "pop2025": 4624,
+   "unifiedScore": 56.5,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "Arran–Elderslie",
+     "slug": "arran-elderslie",
+     "km": 8
+    },
+    {
+     "name": "Wasaga Beach",
+     "slug": "wasaga-beach",
+     "km": 10
+    },
+    {
+     "name": "Midland",
+     "slug": "midland",
+     "km": 18
+    },
+    {
+     "name": "Tay",
+     "slug": "tay",
+     "km": 19
+    }
+   ]
+  },
+  {
+   "id": "ON-0363",
+   "name": "Amaranth",
+   "type": "Township",
+   "parentMuni": "Dufferin",
+   "region": "Grey-Bruce-Simcoe",
+   "slug": "amaranth",
+   "lat": 43.93,
+   "lng": -80.196,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 118,
+   "distOttawaKm": 443,
+   "pop2021": 4327,
+   "pop2025": 4543,
+   "unifiedScore": 56.4,
+   "tier": "C",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, agriculture, recreation, and cottage country services",
+    "features": "Georgian Bay coastline, Blue Mountains ski country, and Bruce Peninsula"
+   },
+   "neighbors": [
+    {
+     "name": "South Bruce",
+     "slug": "south-bruce",
+     "km": 37
+    },
+    {
+     "name": "West Grey",
+     "slug": "west-grey",
+     "km": 39
+    },
+    {
+     "name": "Hanover",
+     "slug": "hanover",
+     "km": 39
+    },
+    {
+     "name": "Southgate",
+     "slug": "southgate",
+     "km": 43
+    }
+   ]
+  }
+ ]
+}

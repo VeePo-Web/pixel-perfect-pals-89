@@ -12,11 +12,11 @@ find-and-replace; only real place facts are literal. Ground everything, gate har
 ontario-build/
 ├─ AUDIT-REPORT.md              Build & audit evidence (INTENDED = BUILT + DEFERRED, defect sweep)
 ├─ data/
-│  ├─ ontario_master_upgraded.csv   25 built flagship rows, full 51-column upgraded schema
-│  ├─ content-flagships.jsonl       Source content for the 25 built pages (one JSON object per page)
-│  ├─ coverage-ledger.csv           ALL 2,515 places bucketed with a one-line reason (nothing dropped)
+│  ├─ ontario_master_upgraded.csv   242 built rows, full 51-column upgraded schema
+│  ├─ content-all.jsonl             Source content for all 242 built pages (one JSON object per page)
+│  ├─ coverage-ledger.csv           ALL 2,515 places bucketed (BUILT_VERIFIED/BUILT_NEEDS_REVIEW/DEFERRED_*)
 │  ├─ image-manifest.csv            Per-image tier + license rule + two-layer alt formula
-│  └─ flagged-rows.csv              Rows flagged during generation (currently 0)
+│  └─ flagged-rows.csv              Rows flagged out during assembly (currently 0)
 ├─ schema/
 │  ├─ jsonld-graphs.jsonl           Per-page JSON-LD @graph (static, token-preserving) — 25 validated
 │  ├─ sample-page-toronto.html      Static-render proof: H1 + body + <a href> + ld+json, no JS
@@ -31,13 +31,17 @@ ontario-build/
    └─ *.js                          profile → prep2 → neighbors-clean → author-* → audit → assemble → build-schema
 ```
 
-## Status (honest snapshot)
+## Status
 
-- **Enumerated & gated:** 2,515 places → **242 publishable** (Tier A 25 · B 64 · C 153) + **2,273 deferred** (`noindex`).
-- **Built to the world-class bar this pass:** **25 flagship pages** (every major Ontario city), **0 audit defects**.
-- **Remaining 217 publishable rows:** prepared and **resumable** from `pipeline/batches-in/`. Their generation
-  was interrupted by an **account monthly-spend limit** (the subagent batches were terminated by the API before
-  writing). They re-run with no rework — see below.
+- **Completeness audit passed:** all **414** Ontario census municipalities are in the spreadsheet (0 missing).
+  Full enumeration = **2,515 places** (414 municipalities + 82 reserves + 218 hamlets + 1,197 localities +
+  604 neighbourhoods + 1 repaired split).
+- **Enumerated & gated:** 2,515 → **242 publishable** (Tier A 25 · B 64 · C 153) + **2,273 deferred** (`noindex`).
+- **Built to the world-class bar:** **all 242 publishable pages, 0 audit defects** — **223 Verified** (published,
+  in sitemap) + **19 Needs_Review** (built, held out; mostly coordinate-driven, now corrected — see the report).
+- **Coordinate corruption fixed:** the source sheet/pickle carried wrong lat/lng for many smaller
+  municipalities; all 242 built rows were **re-geocoded and validated**, and Nearby-Areas links recomputed
+  (0 orphans, 0 dangling). See `AUDIT-REPORT.md` §4b and `pipeline/geocoded-all.json`.
 
 ## The build pipeline (Node.js, uses `xlsx`)
 
@@ -53,16 +57,17 @@ assemble.js        Merge content → ontario_master_upgraded.csv + image-manifes
 build-schema.js    Emit per-page JSON-LD @graph, sample static HTML, sitemap, robots.txt
 ```
 
-## To generate the remaining publishable rows
+## Regenerate / extend
 
-1. For each `pipeline/batches-in/batch-0NN-*.json`, write one JSON object per row to
-   `pipeline/batches-out/batch-0NN.jsonl`, following **`pipeline/content-spec.md`** exactly and using only the
-   matching region section of **`pipeline/region-bundles.md`** for regional facts. Tier A `author-*.js` files
-   are the worked example of the bar. Tier C rows that cannot reach ≥4 certain local signals → `FLAG_THIN`
-   (skip, do not pad with invention).
-2. `node audit.js` — fix until **0 defects**.
-3. `node assemble.js && node build-schema.js` — regenerates the CSV, manifest, schema, sitemap and robots
-   across every built row.
+All 242 publishable rows are built (`pipeline/batches-out/`). To rebuild the deliverables from source content:
+
+1. `node audit.js` — spec-compliance sweep (must be **0 defects**).
+2. `node apply-geocode.js` — apply corrected coordinates (`geocoded-all.json`) and recompute Nearby-Areas links.
+3. `node assemble.js && node build-schema.js` — regenerate CSV, image manifest, JSON-LD, sitemap, robots.
+
+To promote a `Needs_Review` row: confirm its facts, set `verification:"Verified"` in its `batches-out` row,
+re-run steps 1–3 (it then enters the sitemap). To ever build a deferred locality/neighbourhood, **re-geocode it
+first** — the source coordinates for those are unreliable (see `AUDIT-REPORT.md` §4b).
 
 ## Core laws (never violated)
 

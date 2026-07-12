@@ -1,0 +1,142 @@
+{
+ "tier": "B",
+ "region": "Central Ontario",
+ "count": 3,
+ "rows": [
+  {
+   "id": "ON-0020",
+   "name": "Kawartha Lakes",
+   "type": "City",
+   "parentMuni": null,
+   "region": "Central Ontario",
+   "slug": "kawartha-lakes",
+   "lat": 44.355,
+   "lng": -78.742,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 93,
+   "distOttawaKm": 268,
+   "pop2021": 79247,
+   "pop2025": 83209,
+   "unifiedScore": 70,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, cottage country, agriculture, and natural resources",
+    "features": "Kawartha Lakes, Trent-Severn Waterway, Muskoka cottage country, and Algonquin Park"
+   },
+   "neighbors": [
+    {
+     "name": "Havelock-Belmont-Methuen",
+     "slug": "havelock-belmont-methuen",
+     "km": 21
+    },
+    {
+     "name": "Douro-Dummer",
+     "slug": "douro-dummer",
+     "km": 30
+    },
+    {
+     "name": "Cavan Monaghan",
+     "slug": "cavan-monaghan",
+     "km": 34
+    },
+    {
+     "name": "Peterborough",
+     "slug": "peterborough",
+     "km": 35
+    }
+   ]
+  },
+  {
+   "id": "ON-0067",
+   "name": "Cobourg",
+   "type": "Town",
+   "parentMuni": "Northumberland",
+   "region": "Central Ontario",
+   "slug": "cobourg",
+   "lat": 43.959,
+   "lng": -78.17,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 103,
+   "distOttawaKm": 254,
+   "pop2021": 20519,
+   "pop2025": 21544,
+   "unifiedScore": 64,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, cottage country, agriculture, and natural resources",
+    "features": "Kawartha Lakes, Trent-Severn Waterway, Muskoka cottage country, and Algonquin Park"
+   },
+   "neighbors": [
+    {
+     "name": "Cramahe",
+     "slug": "cramahe",
+     "km": 7
+    },
+    {
+     "name": "Port Hope",
+     "slug": "port-hope",
+     "km": 10
+    },
+    {
+     "name": "Hamilton Township",
+     "slug": "hamilton-township",
+     "km": 11
+    },
+    {
+     "name": "Trent Lakes",
+     "slug": "trent-lakes",
+     "km": 17
+    }
+   ]
+  },
+  {
+   "id": "ON-0111",
+   "name": "Huntsville",
+   "type": "Town",
+   "parentMuni": "Muskoka",
+   "region": "Central Ontario",
+   "slug": "huntsville",
+   "lat": 45.327,
+   "lng": -79.216,
+   "coordNote": "coords corrected via geocode (source lat/lng unreliable)",
+   "fixNote": null,
+   "distTorontoKm": 187,
+   "distOttawaKm": 275,
+   "pop2021": 21147,
+   "pop2025": 22204,
+   "unifiedScore": 61.5,
+   "tier": "B",
+   "curatedFacts": null,
+   "regionBoilerplate": {
+    "economy": "tourism, cottage country, agriculture, and natural resources",
+    "features": "Kawartha Lakes, Trent-Severn Waterway, Muskoka cottage country, and Algonquin Park"
+   },
+   "neighbors": [
+    {
+     "name": "Bracebridge",
+     "slug": "bracebridge",
+     "km": 33
+    },
+    {
+     "name": "Muskoka Lakes",
+     "slug": "muskoka-lakes",
+     "km": 43
+    },
+    {
+     "name": "Gravenhurst",
+     "slug": "gravenhurst",
+     "km": 47
+    },
+    {
+     "name": "Brighton",
+     "slug": "brighton",
+     "km": 54
+    }
+   ]
+  }
+ ]
+}
