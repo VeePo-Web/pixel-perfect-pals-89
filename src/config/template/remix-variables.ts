@@ -328,7 +328,7 @@ export const MASTER_REMIX: RemixVariables = {
   // ── Contact + Canonical defaults ────────────────────────────────────────
   PARENT_BRAND_URL: "",
   GOOGLE_REVIEW_URL: "",
-  BRAND_URL: "",
+  BRAND_URL: "https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app",
   PHONE: "",
   OG_IMAGE: "",
 

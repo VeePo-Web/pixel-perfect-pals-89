@@ -5,9 +5,9 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route, Navigate, useLocation } from "react-router-dom";
 import { HelmetProvider } from "react-helmet-async";
 import { lazy, Suspense } from "react";
-import SmoothScrollProvider from "./components/drywall/SmoothScrollProvider";
-import PageTransition from "./components/drywall/PageTransition";
-import BackToTop from "./components/drywall/BackToTop";
+import SmoothScrollProvider from "./components/motion/SmoothScrollProvider";
+import PageTransition from "./components/motion/PageTransition";
+import BackToTop from "./components/motion/BackToTop";
 import ScrollToTop from "./components/ScrollToTop";
 import { MetaTags } from "./components/template/MetaTags";
 

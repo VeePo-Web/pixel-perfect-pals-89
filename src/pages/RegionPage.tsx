@@ -67,6 +67,9 @@ const RegionPage = ({ onBookClick }: RegionPageProps) => {
         `${regionLocale ? `, ${regionLocale}` : ""}. ${sc} — ` +
         communities.slice(0, 4).map((c) => c.name).join(", ") + " and more.",
       path: `/areas-we-serve/${regionSlug}`,
+      // Suppress indexing for region hubs with no community spokes yet —
+      // avoids thin doorway pages while the roadmap region is still empty.
+      noindex: communities.length === 0,
     });
 
     const path = `/areas-we-serve/${regionSlug}`;
