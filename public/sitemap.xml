@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- TODO: set MASTER_REMIX.BRAND_URL so <loc> values are absolute -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>/</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/areas-we-serve</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>/blog</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/halifax-metro</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/halifax-metro</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -26,7 +25,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/cape-breton</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/cape-breton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -35,7 +34,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/south-shore</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/south-shore</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -44,7 +43,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/annapolis-valley</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/annapolis-valley</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -53,25 +52,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/northumberland-shore</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://upload.wikimedia.org/wikipedia/commons/4/4a/Pictou%2C_Nova_Scotia%2C_Canada.jpg</image:loc>
-      <image:caption>Historic waterfront of Pictou on the Northumberland Shore</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>/areas-we-serve/fundy-shore</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://upload.wikimedia.org/wikipedia/commons/6/68/Cape_split01.jpg</image:loc>
-      <image:caption>Cape Split headland over the Bay of Fundy, Nova Scotia</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>/areas-we-serve/central-nova-scotia</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-nova-scotia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -80,7 +61,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/chignecto</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/chignecto</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -89,16 +70,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/eastern-shore</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://upload.wikimedia.org/wikipedia/commons/3/35/SherbrookeNovaScotiaPO.jpg</image:loc>
-      <image:caption>Historic Sherbrooke Village on Nova Scotia's Eastern Shore</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>/areas-we-serve/calgary-region</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -107,7 +79,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -116,7 +88,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -125,7 +97,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -134,7 +106,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/southeast-alberta</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southeast-alberta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -143,7 +115,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/canadian-rockies</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/canadian-rockies</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -152,7 +124,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/northern-alberta</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/northern-alberta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -161,7 +133,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/lakeland-region</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/lakeland-region</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -170,7 +142,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/peace-region</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/peace-region</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -179,16 +151,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/west-country</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://upload.wikimedia.org/wikipedia/commons/3/33/Rocky_Mountain_House_downtown_2014.jpg</image:loc>
-      <image:caption>Downtown Rocky Mountain House, Alberta</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>/areas-we-serve/wood-buffalo-region</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/wood-buffalo-region</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -197,16 +160,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/rural-alberta</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://upload.wikimedia.org/wikipedia/commons/c/c8/Badlands-Drumheller.jpg</image:loc>
-      <image:caption>Badlands near Drumheller, Alberta</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>/areas-we-serve/queens-county</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -215,7 +169,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -224,7 +178,7 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -233,652 +187,652 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/halifax-metro/halifax</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/halifax-metro/halifax</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/cape-breton/cape-breton</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/cape-breton/cape-breton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/cape-breton/sydney</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/cape-breton/sydney</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/halifax-metro/dartmouth</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/halifax-metro/dartmouth</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/annapolis-valley/west-hants</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/annapolis-valley/west-hants</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-nova-scotia/east-hants</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-nova-scotia/east-hants</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/annapolis-valley/kings-county</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/annapolis-valley/kings-county</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-nova-scotia/colchester-county</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-nova-scotia/colchester-county</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/halifax-metro/bedford</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/halifax-metro/bedford</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/south-shore/lunenburg-district</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/south-shore/lunenburg-district</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/halifax-metro/lower-sackville</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/halifax-metro/lower-sackville</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/halifax-metro/cole-harbour</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/halifax-metro/cole-harbour</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/cape-breton/glace-bay</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/cape-breton/glace-bay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/south-shore/queens</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/south-shore/queens</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/chignecto/cumberland-county</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/chignecto/cumberland-county</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/cape-breton/sydney-mines</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/cape-breton/sydney-mines</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/cape-breton/north-sydney</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/cape-breton/north-sydney</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/halifax-metro/downtown-halifax</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/halifax-metro/downtown-halifax</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/cape-breton/new-waterford</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/cape-breton/new-waterford</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/cape-breton/inverness-county</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/cape-breton/inverness-county</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/calgary</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/calgary</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/edmonton</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/edmonton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/st-albert</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/st-albert</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/airdrie</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/airdrie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/spruce-grove</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/spruce-grove</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/red-deer</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/red-deer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/leduc</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/leduc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/chestermere</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/chestermere</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/fort-saskatchewan</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/fort-saskatchewan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/beaumont</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/beaumont</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/lethbridge</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/lethbridge</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/sherwood-park</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/sherwood-park</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/cochrane</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/cochrane</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/okotoks</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/okotoks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/camrose</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/camrose</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/wetaskiwin</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/wetaskiwin</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/stony-plain</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/stony-plain</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/lacombe</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/lacombe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southeast-alberta/medicine-hat</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southeast-alberta/medicine-hat</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/high-river</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/high-river</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/morinville</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/morinville</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/strathmore</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/strathmore</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southeast-alberta/brooks</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southeast-alberta/brooks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/devon</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/devon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/canadian-rockies/canmore</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/canadian-rockies/canmore</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/olds</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/olds</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/lakeland-region/lloydminster</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/lakeland-region/lloydminster</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/sylvan-lake</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/sylvan-lake</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/didsbury</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/didsbury</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/lakeland-region/cold-lake</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/lakeland-region/cold-lake</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/canadian-rockies/banff</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/canadian-rockies/banff</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/northern-alberta/westlock</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/northern-alberta/westlock</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/ponoka</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/ponoka</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/drumheller</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/drumheller</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/blackfalds</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/blackfalds</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/innisfail</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/innisfail</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/drayton-valley</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/drayton-valley</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/peace-region/grande-prairie</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/peace-region/grande-prairie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/vegreville</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/vegreville</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/langdon</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/langdon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/canadian-rockies/whitecourt</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/canadian-rockies/whitecourt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/stettler</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/stettler</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/rocky-mountain-house</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/rocky-mountain-house</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/coaldale</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/coaldale</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/canadian-rockies/edson</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/canadian-rockies/edson</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/taber</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/taber</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/gibbons</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/gibbons</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/carstairs</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/carstairs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/crossfield</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/crossfield</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/lakeland-region/bonnyville</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/lakeland-region/bonnyville</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/wainwright</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/wainwright</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/northern-alberta/slave-lake</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/northern-alberta/slave-lake</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/calmar</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/calmar</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/northern-alberta/barrhead</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/northern-alberta/barrhead</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/millet</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/millet</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/bon-accord</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/bon-accord</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/tofield</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/tofield</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/three-hills</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/three-hills</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/balzac</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/balzac</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/canadian-rockies/hinton</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/canadian-rockies/hinton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/lamont</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/lamont</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/wood-buffalo-region/fort-mcmurray</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/wood-buffalo-region/fort-mcmurray</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/irricana</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/irricana</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/nanton</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/nanton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/sundre</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/sundre</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/edmonton-region/bruderheim</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/edmonton-region/bruderheim</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/claresholm</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/claresholm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southeast-alberta/redcliff</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southeast-alberta/redcliff</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/penhold</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/penhold</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/vulcan</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/vulcan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/northern-alberta/athabasca</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/northern-alberta/athabasca</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/fort-macleod</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/fort-macleod</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/lakeland-region/vermilion</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/lakeland-region/vermilion</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/pincher-creek</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/pincher-creek</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southeast-alberta/bassano</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southeast-alberta/bassano</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/coalhurst</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/coalhurst</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/hanna</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/hanna</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/trochu</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/trochu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/raymond</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/raymond</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/bentley</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/bentley</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/viking</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/viking</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/picture-butte</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/picture-butte</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/cardston</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/cardston</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/magrath</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/magrath</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/northern-alberta/peace-river</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/northern-alberta/peace-river</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/lakeland-region/lac-la-biche</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/lakeland-region/lac-la-biche</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southern-alberta/vauxhall</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southern-alberta/vauxhall</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/southeast-alberta/bow-island</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/southeast-alberta/bow-island</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/bashaw</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/bashaw</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/beiseker</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/beiseker</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/bragg-creek</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/bragg-creek</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/killam</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/killam</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/central-alberta/provost</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/central-alberta/provost</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/calgary-region/de-winton</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/calgary-region/de-winton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/northern-alberta/high-prairie</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/northern-alberta/high-prairie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/charlottetown</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/charlottetown</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/stratford</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/stratford</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/cornwall</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/cornwall</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/new-glasgow</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/new-glasgow</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/north-shore</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/north-shore</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/west-river</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/west-river</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/vernon-river</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/vernon-river</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/belfast</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/belfast</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/new-london</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/new-london</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/miltonvale-park</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/miltonvale-park</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/brackley</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/brackley</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/clyde-river</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/clyde-river</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/hunter-river</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/hunter-river</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/north-rustico</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/north-rustico</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/cavendish</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/cavendish</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -887,62 +841,62 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/crapaud</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/crapaud</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/victoria</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/victoria</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/downtown-charlottetown</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/downtown-charlottetown</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/sherwood</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/sherwood</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/west-royalty</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/west-royalty</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/east-royalty</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/east-royalty</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/spring-park</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/spring-park</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/brighton</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/brighton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/parkdale</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/parkdale</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/summerside</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/summerside</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/kensington</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/kensington</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/borden-carleton</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/borden-carleton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -951,451 +905,451 @@
     </image:image>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/kinkora</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/kinkora</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/miscouche</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/miscouche</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/wellington</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/wellington</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/abram-village</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/abram-village</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/linkletter</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/linkletter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/malpeque-bay</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/malpeque-bay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/tyne-valley</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/tyne-valley</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/alberton</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/alberton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/oleary</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/oleary</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/tignish</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/tignish</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/miminegash</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/miminegash</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/three-rivers</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/three-rivers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/montague</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/montague</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/georgetown</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/georgetown</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/souris</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/souris</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/morell</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/morell</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/st-peters-bay</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/st-peters-bay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/murray-harbour</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/murray-harbour</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/murray-river</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/murray-river</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/cardigan</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/cardigan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/central-kings</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/central-kings</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/eastern-kings</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/eastern-kings</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/souris-west</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/souris-west</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/kings-county/annandale-little-pond-howe-bay</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/kings-county/annandale-little-pond-howe-bay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/mount-stewart</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/mount-stewart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/kingston</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/kingston</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/hampshire</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/hampshire</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/north-wiltshire</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/north-wiltshire</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/breadalbane</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/breadalbane</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/warren-grove</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/warren-grove</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/york</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/york</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/union-road</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/union-road</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/alexandra</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/alexandra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/queens-county/hazelbrook</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/queens-county/hazelbrook</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/bedeque</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/bedeque</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/sherbrooke</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/sherbrooke</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/st-nicholas</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/st-nicholas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/greenmount-montrose</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/greenmount-montrose</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/st-felix</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/st-felix</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/areas-we-serve/prince-county/northport</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/areas-we-serve/prince-county/northport</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/halifax-home-maintenance-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/halifax-home-maintenance-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/cape-breton-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/cape-breton-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/sydney-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/sydney-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/dartmouth-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/dartmouth-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/west-hants-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/west-hants-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/east-hants-property-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/east-hants-property-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/kings-county-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/kings-county-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/colchester-county-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/colchester-county-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/bedford-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/bedford-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/lunenburg-district-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/lunenburg-district-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/lower-sackville-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/lower-sackville-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/cole-harbour-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/cole-harbour-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/glace-bay-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/glace-bay-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/queens-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/queens-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/cumberland-county-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/cumberland-county-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/sydney-mines-coastal-home-maintenance</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/sydney-mines-coastal-home-maintenance</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/north-sydney-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/north-sydney-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/downtown-halifax-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/downtown-halifax-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/new-waterford-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/new-waterford-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/nova-scotia-guides/inverness-county-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/nova-scotia-guides/inverness-county-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/calgary-home-maintenance-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/calgary-home-maintenance-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/edmonton-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/edmonton-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/st-albert-home-renovation-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/st-albert-home-renovation-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/airdrie-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/airdrie-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/hiring-a-contractor-in-spruce-grove</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/hiring-a-contractor-in-spruce-grove</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/red-deer-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/red-deer-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/leduc-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/leduc-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/chestermere-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/chestermere-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/fort-saskatchewan-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/fort-saskatchewan-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/beaumont-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/beaumont-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/lethbridge-home-maintenance-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/lethbridge-home-maintenance-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/sherwood-park-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/sherwood-park-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/cochrane-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/cochrane-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/okotoks-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/okotoks-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/camrose-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/camrose-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/wetaskiwin-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/wetaskiwin-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/stony-plain-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/stony-plain-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/lacombe-local-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/lacombe-local-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/medicine-hat-home-climate-guide</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/medicine-hat-home-climate-guide</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>/blog/alberta-guides/high-river-flood-history-home-projects</loc>
+    <loc>https://id-preview--d741518b-8b2d-4651-9e91-aaef4653f8d9.lovable.app/blog/alberta-guides/high-river-flood-history-home-projects</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
