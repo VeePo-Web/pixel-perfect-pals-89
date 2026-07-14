@@ -16,6 +16,15 @@ import { MASTER_REMIX } from "../src/config/template/remix-variables";
 
 const BASE_URL = MASTER_REMIX.BRAND_URL?.replace(/\/$/, "") || "";
 
+// Regions with zero community spokes are hidden from the sitemap — they
+// render as thin hub pages and are noindex'd at runtime (RegionPage.tsx).
+const regionCommunityCount = COMMUNITIES.reduce<Record<string, number>>((acc, c) => {
+  acc[c.region] = (acc[c.region] ?? 0) + 1;
+  return acc;
+}, {});
+const indexableRegions = REGIONS.filter((r) => (regionCommunityCount[r.slug] ?? 0) > 0);
+const skippedRegions = REGIONS.length - indexableRegions.length;
+
 interface SitemapEntry {
   path: string;
   lastmod?: string;
@@ -28,7 +37,7 @@ const entries: SitemapEntry[] = [
   { path: "/", changefreq: "weekly", priority: "1.0" },
   { path: "/areas-we-serve", changefreq: "weekly", priority: "0.9" },
   { path: "/blog", changefreq: "weekly", priority: "0.8" },
-  ...REGIONS.map<SitemapEntry>((r) => ({
+  ...indexableRegions.map<SitemapEntry>((r) => ({
     path: `/areas-we-serve/${r.slug}`,
     changefreq: "monthly",
     priority: "0.8",
@@ -89,4 +98,8 @@ function build(entries: SitemapEntry[]): string {
 }
 
 writeFileSync(resolve("public/sitemap.xml"), build(entries));
-console.log(`sitemap.xml written (${entries.length} entries${BASE_URL ? "" : ", relative URLs"})`);
+console.log(
+  `sitemap.xml written (${entries.length} entries${BASE_URL ? "" : ", relative URLs"}` +
+    (skippedRegions > 0 ? `, ${skippedRegions} empty regions skipped` : "") +
+    ")",
+);

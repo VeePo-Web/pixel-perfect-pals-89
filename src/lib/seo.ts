@@ -11,9 +11,10 @@ interface PageMeta {
   description: string;
   path: string;
   ogImage?: string;
+  noindex?: boolean;
 }
 
-export function setPageMeta({ title, description, path, ogImage }: PageMeta) {
+export function setPageMeta({ title, description, path, ogImage, noindex }: PageMeta) {
   const baseUrl = MASTER_REMIX.BRAND_URL;
   const image = ogImage ?? MASTER_REMIX.OG_IMAGE;
 
@@ -27,6 +28,7 @@ export function setPageMeta({ title, description, path, ogImage }: PageMeta) {
   setMetaTag("name", "twitter:title", title);
   setMetaTag("name", "twitter:description", description);
   setMetaTag("name", "twitter:image", image);
+  setMetaTag("name", "robots", noindex ? "noindex, follow" : "index, follow");
 }
 
 function setMetaTag(attr: "name" | "property", key: string, content: string) {
